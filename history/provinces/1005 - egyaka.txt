@@ -2,5 +2,6 @@ title = c_egyaka
 max_settlements = 4
 culture = wood_elf
 religion = tree
-terrain = forest
+terrain = woods 
 b_egoninga = castle
+b_sopewan = city

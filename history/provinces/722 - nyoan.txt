@@ -1,6 +1,8 @@
 title = c_nyoan
-max_settlements = 3
+max_settlements = 6
 culture = wood_elf
 religion = tree
 terrain = forest
 b_elith = castle
+b_walavka = city
+b_kiloo = temple
