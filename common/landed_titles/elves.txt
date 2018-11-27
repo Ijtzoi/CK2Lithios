@@ -12572,6 +12572,7 @@ e_deeproots = { #Elves
 		title_female = king
 	}
 	k_underbranch = {
+	#prov history done ~red
 		color = { 82 206 123 }
 		color2 = { 82 206 123 }
 		capital = 945
@@ -13550,6 +13551,7 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_donith = {
+		#prov history done ~red
 			color = { 141 188 73 }
 			color2 = { 141 188 73 }
 			capital = 1265
@@ -13678,10 +13680,12 @@ e_deeproots = { #Elves
 			title_female = duke
 		}
 		d_lafand = {
+		#prov history done ~red
 			color = { 196 117 7 }
 			color2 = { 196 117 7 }
 			capital = 918
 			c_rith = {
+			#918
 				b_riconse = {
 					title = baron
 					title_female = baron
@@ -13721,6 +13725,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_larvin = {
+			#851
 				b_karith = {
 					title = baron
 					title_female = baron
@@ -13760,6 +13765,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_remonse = {
+			#852
 				b_kusdan = {
 					title = baron
 					title_female = baron
@@ -13799,6 +13805,7 @@ e_deeproots = { #Elves
 				title_female = count
 			}
 			c_rafard = {
+			#286
 				b_nuonse = {
 					title = baron
 					title_female = baron
