@@ -3,4 +3,4 @@ max_settlements = 3
 culture = imperial
 religion = seven
 terrain = farmlands
-b_nenimia = castle
+b_nenimia = tribal

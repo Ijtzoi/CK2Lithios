@@ -3,4 +3,4 @@ max_settlements = 4
 culture = imperial
 religion = seven
 terrain = farmlands
-b_wabaut = castle
+b_wabaut = tribal
