@@ -1,6 +1,7 @@
 title = c_dakavya
-max_settlements = 3
+max_settlements = 5
 culture = high_elf
 religion = tree
 terrain = forest
 b_sakepa = castle
+b_titaqiq = city
