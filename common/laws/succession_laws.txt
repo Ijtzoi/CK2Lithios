@@ -2,81 +2,6 @@
 
 succession_laws = {
 
-#	succ_my_test_law = {
-#		child_opinion = 15
-#		dynasty_opinion = 5
-#	
-#		potential = {
-#			holder_scope = {
-#				is_nomadic = no
-#				OR = {
-#					independent = yes
-#					NOT = {
-#						any_liege = {
-#							holy_order = yes
-#						}
-#					}
-#				}
-#				NOT = { religion_group = muslim }
-#				is_merchant_republic = no
-#				is_patrician = no
-#				OR = {
-#					independent = yes
-#					NOT = {
-#						any_demesne_title = {
-#							is_vice_royalty = yes
-#						}
-#					}
-#				}
-#			}
-#			OR = {
-#				is_landless_type_title = no
-#				is_tribal_type_title = yes
-#				temporary = yes
-#			}
-#			
-#			rebel = no
-#			
-#			OR = {
-#				holder_scope = { is_feudal = yes }
-#				holder_scope = { is_tribal = yes }
-#			}
-#			is_primary_type_title = no
-#			NOT = { holder_scope = { government = confucian_bureaucracy } }
-#			NOT = { holder_scope = { government = chinese_imperial_government } }
-#		}
-#		allow = {
-#			conditional_tooltip = {
-#				trigger = {
-#					has_dlc = "Conclave"
-#				}
-#				custom_tooltip = {
-#					text = forced_elective_tt
-#					hidden_tooltip = {
-#						NAND = { 
-#							has_law = succession_voting_power_1
-#							has_law = succ_feudal_elective
-#						}
-#					}
-#				}
-#			}
-#			holder_scope = {
-#				show_scope_change = no
-#				in_revolt = no
-#			}
-#		}
-#		effect = {
-#			succession = {
-#				base_type = feudal_elective 
-#				voting_rules = my_test_law #Definded in common/00_succession_voting
-#			}
-#			elective_voting_rules = my_test_law
-#		}
-#		revoke_allowed = {
-#			always = no
-#		}			
-#	}
-
 	succ_gavelkind = {
 		oldest_child_opinion = -5
 		child_opinion = 15
@@ -91,6 +16,7 @@ succession_laws = {
 					title = e_roman_empire
 				}
 			}
+			NOT = { title = e_seven }
 			holder_scope = {
 				OR = {
 					independent = yes
@@ -100,7 +26,6 @@ succession_laws = {
 						}
 					}
 				}
-				NOT = { religion_group = muslim }
 				is_merchant_republic = no
 				is_patrician = no
 				OR = {
@@ -236,6 +161,7 @@ succession_laws = {
 				is_tribal_type_title = yes
 				temporary = yes
 			}
+			NOT = { title = e_seven }
 			
 			rebel = no
 			
@@ -353,6 +279,7 @@ succession_laws = {
 					}
 				}
 			}
+			NOT = { title = e_seven }
 			OR = {
 				is_landless_type_title = no
 				is_tribal_type_title = yes
@@ -491,6 +418,7 @@ succession_laws = {
 				holder_scope = { is_patrician = yes }
 			}
 			
+			NOT = { title = e_seven }
 			is_primary_type_title = no
 			
 			OR = {
@@ -649,6 +577,7 @@ succession_laws = {
 				has_title_flag = alternate_byz
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
+			NOT = { title = e_seven }
 		}
 		allow = {
 			conditional_tooltip = {
@@ -839,6 +768,7 @@ succession_laws = {
 				title = e_hre 
 				has_title_flag = alternate_hre
 			}
+			NOT = { title = e_seven }
 		}
 		allow = {
 			custom_tooltip = {
@@ -998,6 +928,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { title = e_seven }
 
 		}
 		allow = {
@@ -1140,6 +1071,7 @@ succession_laws = {
 				}
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
+			NOT = { title = e_seven }
 		}
 		allow = {
 			conditional_tooltip = {
@@ -1290,6 +1222,7 @@ succession_laws = {
 				}
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
+			NOT = { title = e_seven }
 		}
 		effect = {
 			succession = turkish_succession
@@ -1324,6 +1257,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { title = e_seven }
 		}
 		effect = {
 			succession = appointment
@@ -1397,6 +1331,7 @@ succession_laws = {
 			}
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { title = e_seven }
 		}
 		
 		effect = {
@@ -1436,6 +1371,7 @@ succession_laws = {
 			is_primary_type_title = no
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
+			NOT = { title = e_seven }
 		}
 		effect = {
 			succession = catholic_bishopric
@@ -1459,6 +1395,7 @@ succession_laws = {
 			holder_scope = {
 				is_merchant_republic = yes
 			}
+			NOT = { title = e_seven }
 			NOT = { holder_scope = { government = confucian_bureaucracy } }
 			NOT = { holder_scope = { government = chinese_imperial_government } }
 		}
@@ -1475,6 +1412,7 @@ succession_laws = {
 			holder_scope = {
 				is_nomadic = yes
 			}
+			NOT = { title = e_seven }
 		}
 		effect = {
 			succession = nomad_succession
@@ -1486,6 +1424,7 @@ succession_laws = {
 	
 	succ_offmap_succession = {
 		potential = {
+			NOT = { title = e_seven }
 			holder_scope = {
 				top_liege = { is_offmap_governor = yes }
 				government = confucian_bureaucracy # To use this with future offmap powers, use an OR clause here with the new government types

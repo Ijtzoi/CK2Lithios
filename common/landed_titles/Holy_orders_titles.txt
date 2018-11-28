@@ -1,20 +1,20 @@
 
 # HOLY ORDERS THE SEVEN
-e_seven = {
-	color={ 255 255 255 }
-
-	graphical_culture = holygfx
-	capital = 1569 # ClearLake
-	
-	# Always exists
-	landless = yes
-	
-	culture = imperial
-	religion = seven
-	
-	monthly_income = 6 # (Must be an integer between 1 and 512)
-	controls_religion = seven
-}
+#e_seven = {
+#	color={ 255 255 255 }
+#
+#	graphical_culture = holygfx
+#	capital = 1569 # ClearLake
+#	
+#	# Always exists
+#	landless = yes
+#	
+#	culture = imperial
+#	religion = seven
+#	
+#	monthly_income = 6 # (Must be an integer between 1 and 512)
+#	controls_religion = seven
+#}
 d_paladins_gekagi= {
 
 	color={ 255 130 0 }

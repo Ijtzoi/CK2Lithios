@@ -4592,16 +4592,8 @@ hre_feudal_elective = {
 		days = -5
 		additive_modifier = { #Then the Councilors.
 			value = 10
-			vassal_of = FROMFROM 
-			OR = {
-				is_in_society = seven_order_gekagi
-				is_in_society = seven_order_wakfu
-				is_in_society = seven_order_anjos
-				is_in_society = seven_order_aurora
-				is_in_society = seven_order_xienta
-				is_in_society = seven_order_izana
-				is_in_society = seven_order_barados
-			}
+			#vassal_of = FROMFROM 
+			is_seven_church_member_trigger = yes
 			is_society_grandmaster = yes
 		}
 	}
@@ -7428,15 +7420,7 @@ hre_feudal_elective = {
 	#ROOT = Current Title holder, FROM = Candidate, FROMFROM = Title, FROMFROMFROM = Null
 	candidate_trigger = { #Close relatives, claimants, marshals. No mutilations (if byzantine)
 		NOT = { character = FROM } #Not the current ruler.
-		OR = {
-			is_in_society = seven_order_gekagi
-			is_in_society = seven_order_wakfu
-			is_in_society = seven_order_anjos
-			is_in_society = seven_order_aurora
-			is_in_society = seven_order_xienta
-			is_in_society = seven_order_izana
-			is_in_society = seven_order_barados
-		}
+		is_seven_church_member_trigger = yes
 		is_society_grandmaster = yes
 	}
 }
