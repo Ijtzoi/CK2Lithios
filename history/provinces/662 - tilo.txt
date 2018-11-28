@@ -1,6 +1,7 @@
 title = c_tilo
-max_settlements = 3
+max_settlements = 4
 culture = catfolk
 religion = cat_pagan
 terrain = jungle
 b_tedotei = tribal
+b_koviek = temple

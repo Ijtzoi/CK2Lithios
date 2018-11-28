@@ -1,6 +1,7 @@
 title = c_emalaide
-max_settlements = 3
+max_settlements = 5
 culture = catfolk
 religion = cat_pagan
 terrain = jungle
 b_derarn = tribal
+b_eealli = temple
