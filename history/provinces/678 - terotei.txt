@@ -1,6 +1,7 @@
 title = c_terotei
-max_settlements = 3
+max_settlements = 5
 culture = catfolk
 religion = cat_pagan
 terrain = jungle
 b_lamarak = tribal
+b_redomeus = temple
