@@ -1,6 +1,9 @@
 title = c_ajareke
-max_settlements = 3
+max_settlements = 5
 culture = imperial
 religion = seven
 terrain = farmlands
-b_dimila = tribal
+b_dimila = castle
+b_ranola = city
+b_kuwacob = temple
+b_enand = castle

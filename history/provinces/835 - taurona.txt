@@ -1,6 +1,10 @@
 title = c_taurona
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_rabaide = tribal
+b_rabaide = castle
+b_lauraide = city
+b_wuael = temple
+b_binona = city
+b_ecisikne = castle

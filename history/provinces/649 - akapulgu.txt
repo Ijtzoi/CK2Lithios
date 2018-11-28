@@ -1,6 +1,11 @@
 title = c_akapulgu
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_alp = tribal
+b_alp = castle
+b_amalp = city
+b_rinalp = temple
+b_toraaq = castle
+b_binutt = castle
+b_rorutt = castle

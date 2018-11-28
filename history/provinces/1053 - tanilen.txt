@@ -1,6 +1,11 @@
 title = c_tanilen
-max_settlements = 3
+max_settlements = 7
 culture = imperial
 religion = seven
 terrain = farmlands
-b_sedirca = tribal
+b_sedirca = castle
+b_wedatko = city
+b_qaromo = temple
+b_bibudna = castle
+b_laurudna = castle
+b_walael = city

@@ -1,6 +1,10 @@
 title = c_eracule
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_raferta = tribal
+b_raferta = castle
+b_tafoa = city
+b_tiverta = temple
+b_qacini = city
+b_wahule = castle

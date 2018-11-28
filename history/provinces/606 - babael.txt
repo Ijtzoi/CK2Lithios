@@ -1,6 +1,11 @@
 title = c_babael
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_asiwael = tribal
+b_asiwael = castle
+b_wibaut = city
+b_abunudna = temple
+b_narael = castle
+b_nanecco = castle
+b_risael = castle

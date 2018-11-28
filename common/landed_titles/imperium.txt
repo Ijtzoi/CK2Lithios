@@ -1,7 +1,7 @@
 e_man = { #Empire
 	color = { 179 0 179 }
 	color2 = { 102 255 255 }
-	capital = 206
+	capital = 1123
 	k_qahuithe = {
 		color = { 125 53 173 }
 		color2 = { 225 3 173 }
@@ -389,7 +389,7 @@ e_man = { #Empire
 	k_tanathe = {
 		color = { 15 186 77 }
 		color2 = { 15 186 77 }
-		capital = 832
+		capital = 1053
 		d_ereke = {
 			color = { 0 62 244 }
 			color2 = { 0 62 244 }
@@ -557,8 +557,9 @@ e_man = { #Empire
 		d_woatan = {
 			color = { 160 136 33 }
 			color2 = { 160 136 33 }
-			capital = 1113
+			capital = 893
 			c_welirca = {
+			#893
 				b_wabaut = {
 					title = baron
 					title_female = baron
@@ -1049,7 +1050,7 @@ e_man = { #Empire
 		d_kanikne = {
 			color = { 70 22 112 }
 			color2 = { 70 22 112 }
-			capital = 909
+			capital = 1053
 			c_talirca = {
 				b_sinaut = {
 					title = baron
@@ -1168,6 +1169,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_tanilen = {
+			#1053
+			#Canna
+			#red
 				b_sedirca = {
 					title = baron
 					title_female = baron
@@ -2309,6 +2313,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_tabalso = {
+			#640
+			#Southedge
+			#red
 				b_nera = {
 					title = baron
 					title_female = baron
@@ -2348,6 +2355,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_racepi = {
+			#69
+			#Mantown
+			#red
 				b_eracibar = {
 					title = baron
 					title_female = baron
@@ -2474,6 +2484,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_eracule = {
+			#695
+			#Hi-los
+			#red
 				b_raferta = {
 					title = baron
 					title_female = baron
@@ -2529,6 +2542,9 @@ e_man = { #Empire
 			color2 = { 225 61 91 }
 			capital = 302
 			c_toalib = {
+			#247
+			#Faurbosz
+			#red
 				b_seke = {
 					title = baron
 					title_female = baron
@@ -2568,6 +2584,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_leirini = {
+			#302
+			#Emperor's Glory
+			#red
 				b_sivatun = {
 					title = baron
 					title_female = baron
@@ -2703,6 +2722,9 @@ e_man = { #Empire
 			color2 = { 229 44 232 }
 			capital = 771
 			c_aradir = {
+			#112
+			#Merrel
+			#red
 				b_lyareke = {
 					title = baron
 					title_female = baron
@@ -2742,6 +2764,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_ajareke = {
+			#587
+			#Yalgen
+			#red
 				b_dimila = {
 					title = baron
 					title_female = baron
@@ -2820,6 +2845,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_syarila = {
+			#246
+			#Pastedge
+			#red
 				b_worad = {
 					title = baron
 					title_female = baron
@@ -2997,7 +3025,7 @@ e_man = { #Empire
 		d_bososye = {
 			color = { 153 33 39 }
 			color2 = { 153 33 39 }
-			capital = 242
+			capital = 626
 			c_bolyag = {
 				b_akriga = {
 					title = baron
@@ -3038,6 +3066,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_ratepi = {
+			#626
+			#Ouatubekou
+			#red
 				b_ebibar = {
 					title = baron
 					title_female = baron
@@ -3833,7 +3864,7 @@ e_man = { #Empire
 		d_rarorad = {
 			color = { 190 221 160 }
 			color2 = { 190 221 160 }
-			capital = 1114
+			capital = 835
 			c_sedatko = {
 				b_sunael = {
 					title = baron
@@ -3952,6 +3983,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_taurona = {
+			#835
+			#Greatmarsh
+			#red
 				b_rabaide = {
 					title = baron
 					title_female = baron
@@ -4116,6 +4150,9 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_reradir = {
+			#111
+			#Northedge
+			#red
 				b_kyareke = {
 					title = baron
 					title_female = baron
@@ -5704,7 +5741,7 @@ e_man = { #Empire
 	k_lurana = {
 		color = { 6 237 70 }
 		color2 = { 6 237 70 }
-		capital = 1125
+		capital = 1123
 		d_sauraut = {
 			color = { 242 230 202 }
 			color2 = { 242 230 202 }
@@ -5870,10 +5907,14 @@ e_man = { #Empire
 			title_female = duke
 		}
 		d_abatko = {
+		#Cap IMP DUCHY
+		#Terra
+		#red
 			color = { 138 94 39 }
 			color2 = { 138 94 39 }
-			capital = 1117
+			capital = 1123
 			c_bedatko = {
+			#908
 				b_walikne = {
 					title = baron
 					title_female = baron
@@ -5913,6 +5954,7 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_salilen = {
+			#1054
 				b_etomirca = {
 					title = baron
 					title_female = baron
@@ -5952,6 +5994,7 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_larudna = {
+			#1117
 				b_lomikne = {
 					title = baron
 					title_female = baron
@@ -5991,6 +6034,8 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_kaurilen = {
+			#1123
+			#cap imp
 				holy_site = seven
 				holy_site = hope
 				b_rabecco = {
@@ -8296,10 +8341,13 @@ e_man = { #Empire
 			title_female = duke
 		}
 		d_tanona = {
+		#Elfwatch
+		#red
 			color = { 49 123 244 }
 			color2 = { 49 123 244 }
 			capital = 657
 			c_tapaaq = {
+			#602
 				b_tamutt = {
 					title = baron
 					title_female = baron
@@ -8339,6 +8387,7 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_ridulgu = {
+			#657
 				b_qulgu = {
 					title = baron
 					title_female = baron
@@ -8379,6 +8428,7 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_keyautt = {
+			#658
 				b_danavid = {
 					title = baron
 					title_female = baron
@@ -8419,6 +8469,7 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_babael = {
+			#606
 				b_asiwael = {
 					title = baron
 					title_female = baron
@@ -8458,6 +8509,7 @@ e_man = { #Empire
 				title_female = count
 			}
 			c_akapulgu = {
+			#649
 				b_alp = {
 					title = baron
 					title_female = baron

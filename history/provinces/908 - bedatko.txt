@@ -1,6 +1,12 @@
 title = c_bedatko
-max_settlements = 3
+max_settlements = 7
 culture = imperial
 religion = seven
 terrain = farmlands
-b_walikne = tribal
+b_walikne = castle
+b_kalikne = city
+b_ribomo = temple
+b_karilen = castle
+b_wunomo = city
+b_arolk = city
+b_sabaut = city

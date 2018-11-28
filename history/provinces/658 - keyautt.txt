@@ -1,6 +1,11 @@
 title = c_keyautt
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_danavid = tribal
+b_danavid = castle
+b_samalp = city
+b_sidutt = temple
+b_ryahutt = castle
+b_keyaulgu = castle
+b_akapulgu = castle

@@ -1,6 +1,11 @@
 title = c_ridulgu
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_qulgu = tribal
+b_qulgu = castle
+b_kamise = city
+b_kulgu = temple
+b_lapaaq = castle
+b_ridulgu = castle
+b_dualph = castle

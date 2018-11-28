@@ -1,6 +1,10 @@
 title = c_leirini
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_sivatun = tribal
+b_sivatun = castle
+b_tafera = city
+b_deiriga = temple
+b_akafoa = castle
+b_leiriga = castle

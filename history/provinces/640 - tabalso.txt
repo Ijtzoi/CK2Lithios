@@ -1,6 +1,10 @@
 title = c_tabalso
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_nera = tribal
+b_nera = castle
+b_rabalso = city
+b_sacerta = temple
+b_toloa = city
+b_recatun = castle

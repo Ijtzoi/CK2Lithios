@@ -1,6 +1,14 @@
 title = c_kaurilen
-max_settlements = 3
+max_settlements = 7
 culture = imperial
 religion = seven
 terrain = farmlands
-b_rabecco = tribal
+b_rabecco = castle
+b_qelecco = city
+b_linecco = temple
+b_abona = city
+b_kisaide = castle
+b_siwael = castle
+b_dedirca = castle
+
+

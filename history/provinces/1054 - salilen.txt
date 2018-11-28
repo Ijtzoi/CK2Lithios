@@ -1,6 +1,12 @@
 title = c_salilen
-max_settlements = 3
+max_settlements = 7
 culture = imperial
 religion = seven
 terrain = farmlands
-b_etomirca = tribal
+b_etomirca = castle
+b_kedikne = city
+b_balomo = temple
+b_liwirca = castle
+b_nanael = city
+b_nomilen = city
+b_kalomo = city

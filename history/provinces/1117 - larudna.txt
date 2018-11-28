@@ -1,6 +1,12 @@
 title = c_larudna
-max_settlements = 3
+max_settlements = 7
 culture = imperial
 religion = seven
 terrain = farmlands
-b_lomikne = tribal
+b_lomikne = castle
+b_risaut = city
+b_rabudna = temple
+b_delilen = castle
+b_duan = city
+b_bedilen = city
+b_kalaide = city

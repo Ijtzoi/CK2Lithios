@@ -1,6 +1,9 @@
 title = c_racepi
-max_settlements = 3
+max_settlements = 5
 culture = imperial
 religion = seven
 terrain = farmlands
-b_eracibar = tribal
+b_eracibar = castle
+b_kivibar = city
+b_qafepi = temple
+b_nerta = castle

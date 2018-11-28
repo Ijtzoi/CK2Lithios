@@ -1,6 +1,10 @@
 title = c_reradir
-max_settlements = 3
+max_settlements = 6
 culture = imperial
 religion = seven
 terrain = farmlands
-b_kyareke = tribal
+b_kyareke = castle
+b_tiborad = city
+b_ryaratan = temple
+b_wanueri = city
+b_taradir = castle
