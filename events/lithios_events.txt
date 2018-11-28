@@ -1,0 +1,18 @@
+character_event = {
+	id = lith.1
+	hide_window = yes
+	
+	trigger = { NOT = { has_global_flag = lithios_startup } }
+
+	is_triggered_only = yes
+
+	immediate = {
+		set_global_flag = lithios_startup
+		1123 = { holder = { gain_title = e_man } }
+		e_man = {
+			any_de_jure_vassal_title = {
+				set_defacto_liege = e_man
+			}
+		}
+	}
+}
