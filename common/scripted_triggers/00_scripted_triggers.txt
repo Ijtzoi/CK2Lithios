@@ -2686,10 +2686,23 @@ is_dharmic_monastic_member_trigger = {
 	}
 }
 
+is_seven_church_member_trigger = {
+	OR = {
+		society_member_of = seven_order_gekagi
+		society_member_of = seven_order_wakfu
+		society_member_of = seven_order_anjos
+		society_member_of = seven_order_aurora
+		society_member_of = seven_order_xienta
+		society_member_of = seven_order_izana
+		society_member_of = seven_order_barados
+	}
+}
+
 is_monastic_member_trigger = {
 	OR = {
 		is_dharmic_monastic_member_trigger = yes
 		is_christian_monastic_member_trigger = yes
+		is_seven_church_member_trigger = yes
 	}
 }
 

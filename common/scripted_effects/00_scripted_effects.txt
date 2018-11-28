@@ -5299,20 +5299,12 @@ monastic_order_purity_effect = {
 				trait = proud
 				trait = deceitful
 				trait = cruel
-				AND = {
-					trait = lustful
-					NOT = { religion = hindu }
-				}
 				trait = ambitious
 				NOT = { trait = humble }
 				NOT = { trait = charitable }
 				NOT = { trait = kind }
 				NOT = { trait = temperate }
 				NOT = { trait = honest }
-				NAND = {
-					trait = chaste
-					NOT = { religion = hindu }
-				}
 				NOT = { trait = patient }
 				NOT = { trait = diligent }
 				NOT = { trait = content }
@@ -5366,6 +5358,34 @@ join_prev_monastic_order_society = {
 	if = {
 		limit = { PREV = { society_member_of = monastic_order_stoics } }
 		join_society = monastic_order_stoics
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_gekagi } }
+		join_society = seven_order_gekagi
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_wakfu } }
+		join_society = seven_order_wakfu
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_anjos } }
+		join_society = seven_order_anjos
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_aurora } }
+		join_society = seven_order_aurora
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_xienta } }
+		join_society = seven_order_xienta
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_izana } }
+		join_society = seven_order_izana
+	}
+	if = {
+		limit = { PREV = { society_member_of = seven_order_barados } }
+		join_society = seven_order_barados
 	}
 }
 
