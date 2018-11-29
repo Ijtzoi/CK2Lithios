@@ -1,6 +1,7 @@
 title = c_qabdalev
-max_settlements = 3
+max_settlements = 4
 culture = sedinan
 religion = seven
-terrain = farmlands
-b_kalev = castle
+terrain = plains 
+b_kalev = city
+b_nush = castle

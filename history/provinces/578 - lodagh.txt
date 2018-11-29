@@ -1,6 +1,9 @@
 title = c_lodagh
-max_settlements = 3
+max_settlements = 6
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains 
 b_qomich = castle
+b_amegich = city
+b_kaurijse = temple
+b_edich = castle

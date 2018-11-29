@@ -2,5 +2,5 @@ title = c_rayars
 max_settlements = 3
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains
 b_dacush = castle

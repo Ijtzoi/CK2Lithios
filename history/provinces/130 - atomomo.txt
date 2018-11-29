@@ -1,6 +1,7 @@
 title = c_atomomo
-max_settlements = 3
+max_settlements = 4
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains
 b_diwaut = castle
+b_labilen = city

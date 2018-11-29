@@ -1,6 +1,9 @@
 title = c_tomatko
-max_settlements = 3
+max_settlements = 6
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains
 b_libikne = castle
+b_tomaide = city
+b_winatko = temple
+b_kisolk = castle
