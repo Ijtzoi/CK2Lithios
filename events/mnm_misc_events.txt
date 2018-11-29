@@ -898,6 +898,10 @@ character_event = {
 							factor = 2
 							seven_order_gekagi = { num_of_society_members < 10 }
 						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
+						}
 						join_society = seven_order_gekagi
 						random_list = { # Artificially increase society influence for balance purposes
 							75 = {
@@ -942,6 +946,10 @@ character_event = {
 						modifier = {
 							factor = 2
 							seven_order_wakfu = { num_of_society_members < 10 }
+						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
 						}
 						join_society = seven_order_wakfu
 						random_list = { # Artificially increase society influence for balance purposes
@@ -988,6 +996,10 @@ character_event = {
 							factor = 2
 							seven_order_anjos = { num_of_society_members < 10 }
 						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
+						}
 						join_society = seven_order_anjos
 						random_list = { # Artificially increase society influence for balance purposes
 							75 = {
@@ -1032,6 +1044,10 @@ character_event = {
 						modifier = {
 							factor = 2
 							seven_order_aurora = { num_of_society_members < 10 }
+						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
 						}
 						join_society = seven_order_aurora
 						random_list = { # Artificially increase society influence for balance purposes
@@ -1078,6 +1094,10 @@ character_event = {
 							factor = 2
 							seven_order_xienta = { num_of_society_members < 10 }
 						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
+						}
 						join_society = seven_order_xienta
 						random_list = { # Artificially increase society influence for balance purposes
 							75 = {
@@ -1123,6 +1143,10 @@ character_event = {
 							factor = 2
 							seven_order_izana = { num_of_society_members < 10 }
 						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
+						}
 						join_society = seven_order_izana
 						random_list = { # Artificially increase society influence for balance purposes
 							75 = {
@@ -1167,6 +1191,10 @@ character_event = {
 						modifier = {
 							factor = 2
 							seven_order_barados = { num_of_society_members < 10 }
+						}
+						modifier = {
+							factor = 15
+							has_education_learning_trigger = yes
 						}
 						join_society = seven_order_barados
 						random_list = { # Artificially increase society influence for balance purposes

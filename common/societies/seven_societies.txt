@@ -4,7 +4,7 @@ seven_order_gekagi = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -49,16 +49,16 @@ seven_order_gekagi = {
 
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -67,8 +67,8 @@ seven_order_gekagi = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -77,8 +77,8 @@ seven_order_gekagi = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -87,8 +87,8 @@ seven_order_gekagi = {
 	}
 	society_rank = {
 		level = 5
-		limit = 3
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -97,8 +97,8 @@ seven_order_gekagi = {
 	}
 	society_rank = {
 		level = 6
-		limit = 2
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -156,8 +156,9 @@ seven_order_gekagi = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}
@@ -169,7 +170,7 @@ seven_order_wakfu = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -214,16 +215,16 @@ seven_order_wakfu = {
 
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -232,8 +233,8 @@ seven_order_wakfu = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -242,8 +243,8 @@ seven_order_wakfu = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -252,8 +253,8 @@ seven_order_wakfu = {
 	}
 	society_rank = {
 		level = 5
-		limit = 2
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -262,8 +263,8 @@ seven_order_wakfu = {
 	}
 	society_rank = {
 		level = 6
-		limit = 1
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -321,8 +322,9 @@ seven_order_wakfu = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}
@@ -334,7 +336,7 @@ seven_order_anjos = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -379,16 +381,16 @@ seven_order_anjos = {
 
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -397,8 +399,8 @@ seven_order_anjos = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -407,8 +409,8 @@ seven_order_anjos = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -417,8 +419,8 @@ seven_order_anjos = {
 	}
 	society_rank = {
 		level = 5
-		limit = 2
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -427,8 +429,8 @@ seven_order_anjos = {
 	}
 	society_rank = {
 		level = 6
-		limit = 1
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -486,8 +488,9 @@ seven_order_anjos = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}
@@ -499,7 +502,7 @@ seven_order_aurora = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -544,16 +547,16 @@ seven_order_aurora = {
 
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -562,8 +565,8 @@ seven_order_aurora = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -572,8 +575,8 @@ seven_order_aurora = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -582,8 +585,8 @@ seven_order_aurora = {
 	}
 	society_rank = {
 		level = 5
-		limit = 2
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -592,8 +595,8 @@ seven_order_aurora = {
 	}
 	society_rank = {
 		level = 6
-		limit = 1
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -651,8 +654,9 @@ seven_order_aurora = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}
@@ -664,7 +668,7 @@ seven_order_xienta = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -709,16 +713,16 @@ seven_order_xienta = {
 
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -727,8 +731,8 @@ seven_order_xienta = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -737,8 +741,8 @@ seven_order_xienta = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -747,8 +751,8 @@ seven_order_xienta = {
 	}
 	society_rank = {
 		level = 5
-		limit = 2
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -757,8 +761,8 @@ seven_order_xienta = {
 	}
 	society_rank = {
 		level = 6
-		limit = 1
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -816,8 +820,9 @@ seven_order_xienta = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}
@@ -829,7 +834,7 @@ seven_order_izana = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -871,19 +876,19 @@ seven_order_izana = {
 	}
 
 	potential = { religion_group = pantheonic }
-
+	
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -892,8 +897,8 @@ seven_order_izana = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -902,8 +907,8 @@ seven_order_izana = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -912,8 +917,8 @@ seven_order_izana = {
 	}
 	society_rank = {
 		level = 5
-		limit = 2
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -922,8 +927,8 @@ seven_order_izana = {
 	}
 	society_rank = {
 		level = 6
-		limit = 1
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -981,8 +986,9 @@ seven_order_izana = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}
@@ -994,7 +1000,7 @@ seven_order_barados = {
 	opinion_to_other_members = +10
 	opinion_per_rank_above = +5
 	sound = monastic_orders_interface
-	society_ranks_gfx = monk_ranks
+	society_ranks_gfx = seven_ranks
 	society_influence = no
 	non_interference = {
 		always = yes
@@ -1039,16 +1045,16 @@ seven_order_barados = {
 
 	society_rank = {
 		level = 1
-		limit = 100 
-		startup_limit = 10
+		limit = 497 
+		startup_limit = 50
 		modifier = {
 			monthly_character_piety = 0.05
 		}
 	}
 	society_rank = {
 		level = 2
-		limit = 50
-		startup_limit = 6
+		limit = 350
+		startup_limit = 30
 		modifier = { 
 			monthly_character_piety = 0.1
 		}
@@ -1057,8 +1063,8 @@ seven_order_barados = {
 	}
 	society_rank = {
 		level = 3
-		limit = 25 
-		startup_limit = 3
+		limit = 250
+		startup_limit = 20
 		modifier = {
 			monthly_character_piety = 0.2
 		}
@@ -1067,8 +1073,8 @@ seven_order_barados = {
 	}
 	society_rank = {
 		level = 4
-		limit = 5 
-		startup_limit = 1
+		limit = 100
+		startup_limit = 10
 		modifier = { 
 			monthly_character_piety = 0.5
 		}
@@ -1077,8 +1083,8 @@ seven_order_barados = {
 	}
 	society_rank = {
 		level = 5
-		limit = 2
-		startup_limit = 1
+		limit = 49
+		startup_limit = 5
 		modifier = { 
 			monthly_character_piety = 0.75
 		}
@@ -1087,8 +1093,8 @@ seven_order_barados = {
 	}
 	society_rank = {
 		level = 6
-		limit = 1
-		startup_limit = 1
+		limit = 7
+		startup_limit = 3
 		modifier = { 
 			monthly_character_piety = 1.0
 		}
@@ -1146,8 +1152,9 @@ seven_order_barados = {
 			NOT = { trait = slow }
 			OR = {
 				trait = theologian
-				learning = 12
+				learning = 5
 				is_priest = yes
+				has_education_learning_trigger = yes
 			}
 		}
 	}

@@ -1,0 +1,287 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_seven_ranks"
+		texturefile = "gfx\\interface\\societies\\rank_icons_seven.dds"
+		noOfFrames = 7
+	}
+	
+	spriteType = {
+		name = "GFX_seven_ranks_highlight"
+		texturefile = "gfx\\interface\\societies\\rank_icons_seven_highlight.dds"
+		noOfFrames = 7
+	}
+	
+	spriteType = {
+		name = "GFX_seven_ranks_locked"
+		texturefile = "gfx\\interface\\societies\\rank_icons_seven_locked.dds"
+		noOfFrames = 7
+	}
+	
+	##### Gekagi #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_gekagi"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+	##### wakfu #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_wakfu"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+	##### anjos #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_anjos"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+	##### aurora #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_aurora"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+	##### xienta #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_xienta"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+	##### izana #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_izana"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+	##### barados #####
+	
+	spriteType = {
+		name = "GFX_society_main_background_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\society_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_expansion_background_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\society_exp_bg_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_icon_small_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\symbol_small_seven_order.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_society_influence_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\society_influence_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_portrait_ring_small_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\portrait_ring_small_seven_order.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_society_currency_seven_order_barados"
+		texturefile = "gfx\\interface\\societies\\society_currency_seven_order.dds"
+	}
+	
+}
