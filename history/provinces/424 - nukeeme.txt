@@ -1,6 +1,9 @@
 title = c_nukeeme
-max_settlements = 3
+max_settlements = 6
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains 
 b_kekiho = castle
+b_tanirve = city
+b_raniho = temple
+b_budeeme = castle

@@ -1,6 +1,7 @@
 title = c_sush
-max_settlements = 3
+max_settlements = 4
 culture = sedinan
 religion = seven
-terrain = farmlands
-b_tyagahou = castle
+terrain = plains 
+b_tyagahou = city
+b_wyagana = castle
