@@ -534,7 +534,7 @@ pagan_group = {
 			GOD_THE_ANCESTORS
 		}
 		evil_god_names = {
-			ERLIK KOMUR_HAN
+			GOD_LOSTH GOD_ZYLA
 		}
 		
 	
@@ -660,7 +660,10 @@ pagan_group = {
 		heresy_icon = 8
 		
 		color = { 0.6 0.4 0.3 }
-		crusade_name = GOD_MAID_SHADE
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		
+		high_god_name = GOD_MAID_SHADE
 		
 		god_names = {
 			GOD_CHAINEATER GOD_SIR_PRIZE GOD_SWIFTPAW
