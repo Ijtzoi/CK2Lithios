@@ -74,7 +74,7 @@ pantheonic = {
 		scripture_name = THE_BIBLE
 		priest_title = PRIEST
 		
-		high_god_name = GOD_Kiris
+		high_god_name = GOD_KIRIS
 		
 		god_names = {
 			GOD_Aurora GOD_Xienta GOD_Gekagi GOD_Wakfu GOD_Anjos GOD_Izana GOD_Barados 
@@ -193,14 +193,13 @@ natural = {
 		
 		color = { 0 0.6 0 }
 		
-		crusade_name = JIHAD
-		scripture_name = THE_KORAN
-		priest_title = IMAM_PRIEST
+		crusade_name = GREAT_RANGING
+		scripture_name = THE_LEGENDS
 		
 		high_god_name = GOD_ELDER_TREE
 		
 		god_names = {
-			GOD_ELDER_TREE
+			GOD_ELDER_TREE GOD_LEAF_LADY GOD_GREAT_GREEN
 		}
 		
 		evil_god_names = {
@@ -209,6 +208,7 @@ natural = {
 		# decadence maybe desice later
 		
 		can_call_crusade = no
+		female_temple_holders = yes
 		priests_can_marry = yes
 		bs_marriage = yes
 		pc_marriage = yes
@@ -226,15 +226,13 @@ natural = {
 	}
 	elder_forest = {
 		graphical_culture = muslimgfx
-
-		icon = 3
-		heresy_icon = 4
 		
-		color = { 0 50.6 0 }
+		parent = tree
 		
-		crusade_name = JIHAD
-		scripture_name = THE_KORAN
-		priest_title = IMAM_PRIEST
+		color = { 0 0.3 0 }
+		
+		crusade_name = GREAT_RANGING
+		scripture_name = THE_LEGENDS
 		
 		high_god_name = GOD_ELDER_FOREST
 		
@@ -248,6 +246,7 @@ natural = {
 		# decadence maybe desice later
 		
 		can_call_crusade = no
+		female_temple_holders = yes
 		priests_can_marry = yes
 		max_consorts = 3
 		women_can_take_consorts = yes
@@ -286,7 +285,7 @@ natural = {
 		
 		crusade_name = JIHAD
 		scripture_name = FIRST_RUNES
-		priest_title = MULLAH
+		priest_title = KEEPER
 		
 		high_god_name = GOD_FIRST_STONE
 		
@@ -480,10 +479,10 @@ pagan_group = {
 		
 		color = { 0.1 0.3 0.85 }
 		
-		high_god_name = GOD_HALFLING
+		high_god_name = GOD_VICTORY
 		
 		god_names = {
-			GOD_HALFLING
+			GOD_THE_ANCESTORS
 		}
 		evil_god_names = {
 			ERLIK KOMUR_HAN
@@ -529,10 +528,10 @@ pagan_group = {
 		
 		color = { 0.0 0.2 0.8 }
 		
-		high_god_name = GOD_TENGRI
+		high_god_name = GOD_VICTORY
 		
 		god_names = {
-			GOD_TENGRI GOD_ERLIK_KHAN GOD_TUNG-AK
+			GOD_THE_ANCESTORS
 		}
 		evil_god_names = {
 			ERLIK KOMUR_HAN
@@ -604,15 +603,14 @@ pagan_group = {
 		color = { 0.75 0.5 0.35 }
 		crusade_name = GREAT_HOLY_WAR
 		scripture_name = THE_LEGENDS
-		priest_title = VOLHV
 		
-		high_god_name = GOD_DIEVAS
+		high_god_name = GOD_MAID_SHADE
 		
 		god_names = {
-			GOD_DIEVAS GOD_GABIJA GOD_PERKUNAS GOD_LAIMA 
+			GOD_CHAINEATER GOD_SIR_PRIZE GOD_SWIFTPAW
 		}
 		evil_god_names = {
-			VELNIAS
+			GOD_BRIGHT_MASTER
 		}
 		
 	#	unit_modifier = {		 		#Special features are added via reformation. If HF is not installed, default features are applied on reformed religion by event.
@@ -662,17 +660,13 @@ pagan_group = {
 		heresy_icon = 8
 		
 		color = { 0.6 0.4 0.3 }
-		crusade_name = GREAT_HOLY_WAR
-		scripture_name = THE_LEGENDS
-		priest_title = VOLHV
-		
-		high_god_name = GOD_DIEVAS
+		crusade_name = GOD_MAID_SHADE
 		
 		god_names = {
-			GOD_DIEVAS GOD_GABIJA GOD_PERKUNAS GOD_LAIMA
+			GOD_CHAINEATER GOD_SIR_PRIZE GOD_SWIFTPAW
 		}
 		evil_god_names = {
-			VELNIAS
+			GOD_BRIGHT_MASTER
 		}
 		
 		unit_modifier = {		
