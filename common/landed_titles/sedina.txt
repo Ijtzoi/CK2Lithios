@@ -4,14 +4,17 @@ e_sedina = { #Sedina
 	capital = 423
 	
 	k_detodha = {
+	#prov history done ~red
 		color = { 134 254 172 }
 		color2 = { 134 254 172 }
-		capital = 6
+		capital = 9
 		d_budaham = {
+		#prov history done ~red
 			color = { 101 21 219 }
 			color2 = { 101 21 219 }
 			capital = 6
 			c_kuda = {
+			#7
 				b_aserijah = {
 					title = baron
 					title_female = baron
@@ -51,6 +54,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_naguda = {
+			#6
 				b_rerijah = {
 					title = baron
 					title_female = baron
@@ -90,6 +94,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_dagemid = {
+			#5
 				b_detirah = {
 					title = baron
 					title_female = baron
@@ -129,6 +134,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_tyaseph = {
+			#10
 				b_detavat = {
 					title = baron
 					title_female = baron
@@ -172,10 +178,12 @@ e_sedina = { #Sedina
 			title_female = duke
 		}
 		d_tugodha = {
+		#prov history done ~red
 			color = { 14 111 159 }
 			color2 = { 14 111 159 }
-			capital = 4
+			capital = 3
 			c_telodha = {
+			#2
 				b_kagijah = {
 					title = baron
 					title_female = baron
@@ -215,6 +223,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_ebafsah = {
+			#4
 				b_lereph = {
 					title = baron
 					title_female = baron
@@ -254,6 +263,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_bayasavi = {
+			#1
 				b_ebagaham = {
 					title = baron
 					title_female = baron
@@ -293,6 +303,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_kyasemid = {
+			#3
 				b_tuda = {
 					title = baron
 					title_female = baron
@@ -336,10 +347,12 @@ e_sedina = { #Sedina
 			title_female = duke
 		}
 		d_tijah = {
+		#prov history done ~red
 			color = { 63 215 188 }
 			color2 = { 63 215 188 }
-			capital = 10
+			capital = 9
 			c_wamiek = {
+			#9
 				b_bamasu = {
 					title = baron
 					title_female = baron
@@ -379,6 +392,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_dudemid = {
+			#8
 				b_kogemia = {
 					title = baron
 					title_female = baron

@@ -1,6 +1,7 @@
 title = c_tyaseph
-max_settlements = 3
+max_settlements = 4
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = hills
 b_detavat = castle
+b_kelavat = city

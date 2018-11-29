@@ -1,6 +1,7 @@
 title = c_ebafsah
-max_settlements = 3
+max_settlements = 4
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = hills
 b_lereph = castle
+b_setedu = city

@@ -1,6 +1,8 @@
 title = c_wamiek
-max_settlements = 3
+max_settlements = 6
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains 
 b_bamasu = castle
+b_barohri = city
+b_kabilo = temple
