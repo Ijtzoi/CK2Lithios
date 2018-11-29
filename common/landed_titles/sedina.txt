@@ -1054,14 +1054,17 @@ e_sedina = { #Sedina
 		title_female = king
 	}
 	k_qarana = {
+	#prov history done ~red
 		color = { 164 138 219 }
 		color2 = { 164 138 219 }
-		capital = 194
+		capital = 1199
 		d_ryugahou = {
+		#prov history done ~red
 			color = { 248 25 87 }
 			color2 = { 248 25 87 }
-			capital = 1164
+			capital = 200
 			c_tonalev = {
+			#200
 				b_kanilja = {
 					title = baron
 					title_female = baron
@@ -1101,6 +1104,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_korilja = {
+			#1174
 				b_wosalev = {
 					title = baron
 					title_female = baron
@@ -1140,6 +1144,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_lit = {
+			#1164
 				b_qualev = {
 					title = baron
 					title_female = baron
@@ -1179,6 +1184,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_tonutt = {
+			#199
 				b_wekulev = {
 					title = baron
 					title_female = baron
@@ -1222,10 +1228,12 @@ e_sedina = { #Sedina
 			title_female = duke
 		}
 		d_kuda = {
+		#prov history done ~red
 			color = { 197 214 68 }
 			color2 = { 197 214 68 }
-			capital = 198
+			capital = 1199
 			c_tudakub = {
+			#1172
 				b_kuutt = {
 					title = baron
 					title_female = baron
@@ -1266,6 +1274,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_sukalev = {
+			#1202
 				b_ralakub = {
 					title = baron
 					title_female = baron
@@ -1305,6 +1314,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_qorutt = {
+			#198
 				b_ratzak = {
 					title = baron
 					title_female = baron
@@ -1344,6 +1354,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_nigalev = {
+			#1199
 				b_tabdakub = {
 					title = baron
 					title_female = baron
@@ -1391,10 +1402,12 @@ e_sedina = { #Sedina
 			title_female = duke
 		}
 		d_nabdahou = {
+		#prov history done ~red
 			color = { 61 19 211 }
 			color2 = { 61 19 211 }
-			capital = 195
+			capital = 1133
 			c_tanalev = {
+			#195
 				b_suit = {
 					title = baron
 					title_female = baron
@@ -1434,6 +1447,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_wabdiho = {
+			#196
 				b_borutt = {
 					title = baron
 					title_female = baron
@@ -1473,6 +1487,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_kiglas = {
+			#1133
 				b_nanalev = {
 					title = baron
 					title_female = baron
@@ -1512,6 +1527,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_ragit = {
+			#197
 				b_ragakan = {
 					title = baron
 					title_female = baron
@@ -1555,10 +1571,12 @@ e_sedina = { #Sedina
 			title_female = duke
 		}
 		d_taar = {
+		#prov history done ~red
 			color = { 2 232 152 }
 			color2 = { 2 232 152 }
 			capital = 1168
 			c_nudeeme = {
+			#194
 				b_etigiho = {
 					title = baron
 					title_female = baron
@@ -1598,6 +1616,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_kigeeme = {
+			#1168
 				b_eranush = {
 					title = baron
 					title_female = baron
@@ -1637,6 +1656,7 @@ e_sedina = { #Sedina
 				title_female = count
 			}
 			c_bidush = {
+			#1210
 				b_rapana = {
 					title = baron
 					title_female = baron

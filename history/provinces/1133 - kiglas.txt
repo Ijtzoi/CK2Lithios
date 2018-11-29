@@ -1,6 +1,8 @@
 title = c_kiglas
-max_settlements = 3
+max_settlements = 5
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains 
 b_nanalev = castle
+b_korit = city
+b_dalulev = temple
