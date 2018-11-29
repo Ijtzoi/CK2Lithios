@@ -1,6 +1,7 @@
 title = c_aljirve
-max_settlements = 3
+max_settlements = 4
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains
 b_kush = castle
+b_etorit = city

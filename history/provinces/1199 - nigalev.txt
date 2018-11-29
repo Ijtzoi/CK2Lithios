@@ -1,6 +1,9 @@
 title = c_nigalev
-max_settlements = 3
+max_settlements = 6
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains 
 b_tabdakub = castle
+b_woneeme = city
+b_kiglas = temple
+b_daliho = castle
