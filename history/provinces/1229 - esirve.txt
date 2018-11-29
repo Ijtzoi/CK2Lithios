@@ -2,5 +2,6 @@ title = c_esirve
 max_settlements = 3
 culture = sedinan
 religion = seven
-terrain = farmlands
+terrain = plains 
 b_atorakub = castle
+b_rush = city
