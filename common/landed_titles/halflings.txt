@@ -7,10 +7,12 @@ e_nonka = { #Halflings
 		color2 = { 208 90 72 }
 		capital = 383
 		d_rotosi = {
+		#prov history done ~red
 			color = { 224 29 159 }
 			color2 = { 224 29 159 }
 			capital = 381
 			c_tolosi = {
+			#381
 				b_wageodo = {
 					title = baron
 					title_female = baron
@@ -50,6 +52,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_botosi = {
+			#382
 				b_radofia = {
 					title = baron
 					title_female = baron
@@ -89,6 +92,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_kanord = {
+			#95
 				b_kirord = {
 					title = baron
 					title_female = baron
@@ -128,6 +132,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_kanicius = {
+			#489
 				b_rasdas = {
 					title = baron
 					title_female = baron
@@ -167,6 +172,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_dataud = {
+			#383
 				b_wotaud = {
 					title = baron
 					title_female = baron

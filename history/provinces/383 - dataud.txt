@@ -4,3 +4,4 @@ culture = lightfoot
 religion = halfling_pagan
 terrain = hills
 b_wotaud = castle
+b_wotosi = city

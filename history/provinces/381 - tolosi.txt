@@ -1,6 +1,10 @@
 title = c_tolosi
-max_settlements = 3
+max_settlements = 6
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = plains
 b_wageodo = castle
+b_rolosi = city
+b_kasdas = temple
+b_dagaud = castle
+

@@ -2,5 +2,7 @@ title = c_kanord
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = mountain 
 b_kirord = castle
+b_edhaniu = city
+
