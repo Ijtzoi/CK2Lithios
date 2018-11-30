@@ -780,45 +780,6 @@ e_hell = { #Demons
 				title = count
 				title_female = count
 			}
-			c_todai = {
-				b_arudah = {
-					title = baron
-					title_female = baron
-				}
-				b_kekat = {
-					title = baron
-					title_female = baron
-				}
-				b_sekat = {
-					title = baron
-					title_female = baron
-				}
-				b_bakomo = {
-					title = baron
-					title_female = baron
-				}
-				b_erashe = {
-					title = baron
-					title_female = baron
-				}
-				b_lorudah = {
-					title = baron
-					title_female = baron
-				}
-				b_bamenku = {
-					title = baron
-					title_female = baron
-				}
-				b_qelekat = {
-					title = baron
-					title_female = baron
-				}
-				color = { 69 182 116 }
-				color2 = { 220 95 220 }
-				#culture = senabel
-				title = count
-				title_female = count
-			}
 			c_renina = {
 				b_tuela = {
 					title = baron
@@ -8268,84 +8229,6 @@ e_hell = { #Demons
 					title_female = baron
 				}
 				color = { 243 194 206 }
-				color2 = { 204 205 229 }
-				#culture = qamemma
-				title = count
-				title_female = count
-			}
-			c_kakudah = {
-				b_lakashe = {
-					title = baron
-					title_female = baron
-				}
-				b_enuhashe = {
-					title = baron
-					title_female = baron
-				}
-				b_amudah = {
-					title = baron
-					title_female = baron
-				}
-				b_delet = {
-					title = baron
-					title_female = baron
-				}
-				b_atudah = {
-					title = baron
-					title_female = baron
-				}
-				b_esakomo = {
-					title = baron
-					title_female = baron
-				}
-				b_tadashe = {
-					title = baron
-					title_female = baron
-				}
-				b_karodai = {
-					title = baron
-					title_female = baron
-				}
-				color = { 221 14 125 }
-				color2 = { 204 205 229 }
-				#culture = qamemma
-				title = count
-				title_female = count
-			}
-			c_damudah = {
-				b_ebuohore = {
-					title = baron
-					title_female = baron
-				}
-				b_ruhomo = {
-					title = baron
-					title_female = baron
-				}
-				b_duohin = {
-					title = baron
-					title_female = baron
-				}
-				b_radashe = {
-					title = baron
-					title_female = baron
-				}
-				b_koraret = {
-					title = baron
-					title_female = baron
-				}
-				b_ramore = {
-					title = baron
-					title_female = baron
-				}
-				b_tamore = {
-					title = baron
-					title_female = baron
-				}
-				b_esakelet = {
-					title = baron
-					title_female = baron
-				}
-				color = { 40 254 105 }
 				color2 = { 204 205 229 }
 				#culture = qamemma
 				title = count
