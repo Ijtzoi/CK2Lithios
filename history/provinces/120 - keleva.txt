@@ -1,6 +1,6 @@
 title = c_keleva
 max_settlements = 3
-culture = korvallan
+culture = clearlakian
 religion = seven
 terrain = farmlands
 b_sutarn = castle

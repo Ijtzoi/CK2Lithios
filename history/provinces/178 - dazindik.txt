@@ -1,6 +1,6 @@
 title = c_dazindik
 max_settlements = 3
-culture = korvallan
+culture = northholder
 religion = seven
 terrain = farmlands
 b_wireke = castle

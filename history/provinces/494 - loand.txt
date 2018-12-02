@@ -1,6 +1,6 @@
 title = c_loand
 max_settlements = 3
-culture = psatese
+culture = northholder
 religion = seven
 terrain = farmlands
 b_renand = castle

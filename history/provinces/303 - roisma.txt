@@ -1,6 +1,6 @@
 title = c_roisma
 max_settlements = 3
-culture = watren
+culture = imperial
 religion = seven
 terrain = farmlands
 b_kerayka = castle

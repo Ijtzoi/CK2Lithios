@@ -1,6 +1,6 @@
 title = c_ribirma
 max_settlements = 3
-culture = watren
+culture = psatese
 religion = seven
 terrain = farmlands
 b_durola = castle

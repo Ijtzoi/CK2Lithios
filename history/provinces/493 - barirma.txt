@@ -1,6 +1,6 @@
 title = c_barirma
 max_settlements = 3
-culture = psatese
+culture = northholder
 religion = seven
 terrain = farmlands
 b_naralib = castle

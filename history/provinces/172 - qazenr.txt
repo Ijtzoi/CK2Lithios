@@ -1,6 +1,6 @@
 title = c_qazenr
 max_settlements = 3
-culture = korvallan
+culture = psatese
 religion = seven
 terrain = farmlands
 b_kinoza = castle

@@ -1,6 +1,6 @@
 title = c_denina
 max_settlements = 3
-culture = watren
+culture = imperial
 religion = seven
 terrain = farmlands
 b_syarina = castle

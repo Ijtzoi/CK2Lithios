@@ -1,6 +1,6 @@
 title = c_karolke
 max_settlements = 3
-culture = watren
+culture = imperial
 religion = seven
 terrain = farmlands
 b_timaul = castle

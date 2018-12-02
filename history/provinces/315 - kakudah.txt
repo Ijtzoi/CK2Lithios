@@ -1,6 +1,6 @@
 title = c_kakudah
 max_settlements = 3
-culture = orc
-religion = orc_pagan
+culture = southporter
+religion = seven
 terrain = hills
-b_lakashe = tribal
+b_lakashe = castle

@@ -1,6 +1,6 @@
 title = c_raroza
 max_settlements = 4
-culture = korvallan
+culture = northholder
 religion = seven
 terrain = farmlands
 b_echate = castle
