@@ -1,8 +1,10 @@
 e_nonka = { #Halflings
+#prov history done ~red
 	color = { 178 86 69 }
 	color2 = { 178 86 69 }
 	capital = 333
 	k_kanigh = {
+	#prov history done ~red
 		color = { 208 90 72 }
 		color2 = { 208 90 72 }
 		capital = 383
@@ -216,10 +218,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_lagofia = {
+		#prov history done ~red
 			color = { 5 206 147 }
 			color2 = { 5 206 147 }
 			capital = 488
 			c_souree = {
+			#169
 				b_qagaud = {
 					title = baron
 					title_female = baron
@@ -259,6 +263,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_deslav = {
+			#488
 				b_borona = {
 					title = baron
 					title_female = baron
@@ -298,6 +303,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_koteodo = {
+			#380
 				b_qolaud = {
 					title = baron
 					title_female = baron
@@ -340,10 +346,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_tolona = {
+		#prov history done ~red
 			color = { 10 241 144 }
 			color2 = { 10 241 144 }
 			capital = 168
 			c_lura = {
+			#168
 				b_naudosi = {
 					title = baron
 					title_female = baron
@@ -383,6 +391,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_saugas = {
+			#762
 				b_tateodo = {
 					title = baron
 					title_female = baron
@@ -429,14 +438,17 @@ e_nonka = { #Halflings
 		title_female = king
 	}
 	k_wierord = {
+	#prov history done ~red
 		color = { 54 125 91 }
 		color2 = { 54 125 91 }
 		capital = 1000
 		d_qeslav = {
+		#prov history done ~red
 			color = { 140 114 46 }
 			color2 = { 140 114 46 }
-			capital = 85
+			capital = 87
 			c_seirocia = {
+			#86
 				b_winita = {
 					title = baron
 					title_female = baron
@@ -476,6 +488,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_lotho = {
+			#87
 				b_tutona = {
 					title = baron
 					title_female = baron
@@ -515,6 +528,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_qorosi = {
+			#85
 				b_kotofia = {
 					title = baron
 					title_female = baron
@@ -558,10 +572,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_katund = {
+		#prov history done ~red
 			color = { 79 53 249 }
 			color2 = { 79 53 249 }
 			capital = 379
 			c_rotare = {
+			#379
 				b_lutofia = {
 					title = baron
 					title_female = baron
@@ -601,6 +617,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_rouree = {
+			#1012
 				b_nayild = {
 					title = baron
 					title_female = baron
@@ -640,6 +657,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_kofia = {
+			#487
 				b_bund = {
 					title = baron
 					title_female = baron
@@ -683,10 +701,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_tacazi = {
+		#prov history done ~red
 			color = { 200 192 197 }
 			color2 = { 200 192 197 }
 			capital = 797
 			c_rucekpa = {
+			#283
 				b_dilemar = {
 					title = baron
 					title_female = baron
@@ -726,6 +746,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_sabada = {
+			#797
 				b_qeironka = {
 					title = baron
 					title_female = baron
@@ -765,6 +786,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_kaballi = {
+			#281
 				b_bemanka = {
 					title = baron
 					title_female = baron
@@ -808,10 +830,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_kotona = {
+		#prov history done ~red
 			color = { 16 228 209 }
 			color2 = { 16 228 209 }
 			capital = 88
 			c_kucemar = {
+			#88
 				b_lanen = {
 					title = baron
 					title_female = baron
@@ -855,6 +879,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_risten = {
+			#94
 				b_qonigh = {
 					title = baron
 					title_female = baron
@@ -894,6 +919,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_lorund = {
+			#1000
 				b_kadund = {
 					title = baron
 					title_female = baron
@@ -941,14 +967,17 @@ e_nonka = { #Halflings
 		title_female = king
 	}
 	k_bigh = {
+	#prov history done ~red
 		color = { 74 72 58 }
 		color2 = { 74 72 58 }
 		capital = 333
 		d_davita = {
+		#prov history done ~red
 			color = { 212 73 96 }
 			color2 = { 212 73 96 }
 			capital = 333
 			c_babanka = {
+			#333
 				b_walan = {
 					title = baron
 					title_female = baron
@@ -988,6 +1017,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_ravoti = {
+			#334
 				b_belocia = {
 					title = baron
 					title_female = baron
@@ -1031,10 +1061,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_lonada = {
+		#prov history done ~red
 			color = { 90 63 174 }
 			color2 = { 90 63 174 }
-			capital = 448
+			capital = 449
 			c_raballi = {
+			#449
 				b_egaboti = {
 					title = baron
 					title_female = baron
@@ -1074,6 +1106,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_tavonda = {
+			#754
 				b_raboti = {
 					title = baron
 					title_female = baron
@@ -1117,10 +1150,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_kesa = {
+		#prov history done ~red
 			color = { 73 107 2 }
 			color2 = { 73 107 2 }
 			capital = 278
 			c_kinesa = {
+			#277
 				b_atemojan = {
 					title = baron
 					title_female = baron
@@ -1160,6 +1195,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_nelocia = {
+			#278
 				b_ralan = {
 					title = baron
 					title_female = baron
@@ -1199,6 +1235,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_lesa = {
+			#355
 				b_dinojan = {
 					title = baron
 					title_female = baron
@@ -1238,6 +1275,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_temalan = {
+			#627
 				b_qyesesa = {
 					title = baron
 					title_female = baron
@@ -1281,10 +1319,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_katekpa = {
+		#prov history done ~red
 			color = { 66 155 240 }
 			color2 = { 66 155 240 }
 			capital = 450
 			c_babojan = {
+			#755
 				b_nabanka = {
 					title = baron
 					title_female = baron
@@ -1324,6 +1364,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_kavojan = {
+			#450
 				b_asita = {
 					title = baron
 					title_female = baron
@@ -1367,10 +1408,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_qeiritya = {
+		#prov history done ~red
 			color = { 183 15 58 }
 			color2 = { 183 15 58 }
-			capital = 279
+			capital = 794
 			c_wabonda = {
+			#792
 				b_esimocia = {
 					title = baron
 					title_female = baron
@@ -1410,6 +1453,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_reiralan = {
+			#279
 				b_savitya = {
 					title = baron
 					title_female = baron
@@ -1449,6 +1493,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_linesa = {
+			#793
 				b_tyesanka = {
 					title = baron
 					title_female = baron
@@ -1488,6 +1533,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_waballi = {
+			#794
 				holy_site = halfling_pagan_reformed
 				holy_site = halfling_pagan
 				b_lojan = {
@@ -1529,6 +1575,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_wideva = {
+			#795
 				b_ninalan = {
 					title = baron
 					title_female = baron
@@ -1568,6 +1615,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_agralli = {
+			#796
 				b_ninoti = {
 					title = baron
 					title_female = baron
@@ -1612,10 +1660,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_agrada = {
+		#prov history done ~red
 			color = { 199 91 57 }
 			color2 = { 199 91 57 }
 			capital = 904
 			c_wonanka = {
+			#904
 				b_teirojan = {
 					title = baron
 					title_female = baron
@@ -1655,6 +1705,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_nonka = {
+			#280
 				b_buedada = {
 					title = baron
 					title_female = baron
@@ -1694,6 +1745,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_naballi = {
+			#892
 				b_alocia = {
 					title = baron
 					title_female = baron
@@ -1741,14 +1793,17 @@ e_nonka = { #Halflings
 		title_female = king
 	}
 	k_qigh = {
+	#prov history done ~red
 		color = { 15 243 222 }
 		color2 = { 15 243 222 }
 		capital = 756
 		d_dimada = {
+		#prov history done ~red
 			color = { 178 58 235 }
 			color2 = { 178 58 235 }
 			capital = 756
 			c_rimada = {
+			#756
 				b_navocia = {
 					title = baron
 					title_female = baron
@@ -1788,6 +1843,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_wadesa = {
+			#54
 				b_relalli = {
 					title = baron
 					title_female = baron
@@ -1827,6 +1883,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_dinonda = {
+			#454
 				b_beironka = {
 					title = baron
 					title_female = baron
@@ -1870,10 +1927,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_ejacyid = {
+		#prov history done ~red
 			color = { 243 229 172 }
 			color2 = { 243 229 172 }
 			capital = 766
 			c_ryesitya = {
+			#451
 				b_wemada = {
 					title = baron
 					title_female = baron
@@ -1913,6 +1972,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_wonalan = {
+			#766
 				b_remocia = {
 					title = baron
 					title_female = baron
@@ -1952,6 +2012,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_donanka = {
+			#452
 				b_roti = {
 					title = baron
 					title_female = baron
@@ -1995,10 +2056,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_telekpa = {
+		#prov history done ~red
 			color = { 125 178 55 }
 			color2 = { 125 178 55 }
 			capital = 337
 			c_kavanka = {
+			#453
 				b_tavita = {
 					title = baron
 					title_female = baron
@@ -2038,6 +2101,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_reiranka = {
+			#337
 				b_bonka = {
 					title = baron
 					title_female = baron
@@ -2081,10 +2145,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_kanalan = {
+		#prov history done ~red
 			color = { 212 67 161 }
 			color2 = { 212 67 161 }
 			capital = 338
 			c_teironda = {
+			#611
 				b_tabonda = {
 					title = baron
 					title_female = baron
@@ -2124,6 +2190,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_agaballi = {
+			#336
 				b_egavonka = {
 					title = baron
 					title_female = baron
@@ -2163,6 +2230,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_asimojan = {
+			#338
 				b_tavada = {
 					title = baron
 					title_female = baron
@@ -2206,10 +2274,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_wahagpa = {
+		#prov history done ~red
 			color = { 226 140 55 }
 			color2 = { 226 140 55 }
 			capital = 1010
 			c_rinojan = {
+			#1010
 				b_wyesanka = {
 					title = baron
 					title_female = baron
@@ -2249,6 +2319,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_nelojan = {
+			#284
 				b_radada = {
 					title = baron
 					title_female = baron
@@ -2288,6 +2359,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_ladada = {
+			#340
 				b_kemoti = {
 					title = baron
 					title_female = baron
@@ -2332,10 +2404,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_batagpa = {
+		#prov history done ~red
 			color = { 68 103 189 }
 			color2 = { 68 103 189 }
 			capital = 1024
 			c_dabojan = {
+			#1024
 				b_nemojan = {
 					title = baron
 					title_female = baron
@@ -2376,6 +2450,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_rideva = {
+			#282
 				b_kavalan = {
 					title = baron
 					title_female = baron
@@ -2415,6 +2490,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_binitya = {
+			#339
 				b_deirita = {
 					title = baron
 					title_female = baron
@@ -2462,14 +2538,17 @@ e_nonka = { #Halflings
 		title_female = king
 	}
 	k_qotali = {
+	#prov history done ~red
 		color = { 210 35 105 }
 		color2 = { 210 35 105 }
 		capital = 571
 		d_saxuda = {
+		#prov history done ~red
 			color = { 12 4 17 }
 			color2 = { 12 4 17 }
 			capital = 571
 			c_kaxodar = {
+			#275
 				holy_site = orc_pagan_reformed
 				holy_site = orc_pagan
 				holy_site = catholic
@@ -2565,6 +2644,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_tigida = {
+			#573
 				holy_site = catholic
 				holy_site = orthodox
 				holy_site = miaphysite
@@ -2658,6 +2738,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_docuda = {
+			#570
 				holy_site = catholic
 				holy_site = orthodox
 				holy_site = miaphysite
@@ -2751,6 +2832,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_rebisey = {
+			#571
 				holy_site = catholic
 				holy_site = orthodox
 				holy_site = miaphysite
@@ -2848,10 +2930,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_konka = {
+		#prov history done ~red
 			color = { 174 206 112 }
 			color2 = { 174 206 112 }
-			capital = 274
+			capital = 620
 			c_rabojan = {
+			#620
 				b_tavonka = {
 					title = baron
 					title_female = baron
@@ -2891,6 +2975,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_tavitya = {
+			#1014
 				b_ravonka = {
 					title = baron
 					title_female = baron
@@ -2930,6 +3015,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_tinada = {
+			#276
 				b_qimesa = {
 					title = baron
 					title_female = baron
@@ -2969,6 +3055,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_qeiralli = {
+			#331
 				b_egabada = {
 					title = baron
 					title_female = baron
@@ -3011,10 +3098,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_davonka = {
+		#prov history done ~red
 			color = { 76 132 185 }
 			color2 = { 76 132 185 }
 			capital = 273
 			c_kerodar = {
+			#274
 				b_bicodar = {
 					title = baron
 					title_female = baron
@@ -3054,6 +3143,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_netuda = {
+			#273
 				b_nocelen = {
 					title = baron
 					title_female = baron
@@ -3093,6 +3183,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_qigapa = {
+			#580
 				b_korupta = {
 					title = baron
 					title_female = baron
@@ -3135,10 +3226,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_rabah = {
+		#prov history done ~red
 			color = { 224 212 193 }
 			color2 = { 224 212 193 }
-			capital = 217
+			capital = 786
 			c_berapa = {
+			#786
 				b_qeszek = {
 					title = baron
 					title_female = baron
@@ -3178,6 +3271,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_bicida = {
+			#572
 				b_wocodar = {
 					title = baron
 					title_female = baron
@@ -3217,6 +3311,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_topluk = {
+			#220
 				b_echopluk = {
 					title = baron
 					title_female = baron
@@ -3259,10 +3354,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_keatte = {
+		#prov history done ~red
 			color = { 114 218 159 }
 			color2 = { 114 218 159 }
 			capital = 219
 			c_kocida = {
+			#218
 				b_tocuslan = {
 					title = baron
 					title_female = baron
@@ -3302,6 +3399,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_saudosi = {
+			#219
 				holy_site = halfling_pagan_reformed
 				holy_site = halfling_pagan
 				b_tatura = {
@@ -3343,6 +3441,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_sabofia = {
+			#420
 				b_qurare = {
 					title = baron
 					title_female = baron
@@ -3389,14 +3488,17 @@ e_nonka = { #Halflings
 		title_female = king
 	}
 	k_temoti = {
+	#prov history done ~red
 		color = { 227 145 52 }
 		color2 = { 227 145 52 }
-		capital = 328
+		capital = 330
 		d_tanka = {
+		#prov history done ~red
 			color = { 164 97 115 }
 			color2 = { 164 97 115 }
 			capital = 330
 			c_qemocia = {
+			#330
 				b_weirojan = {
 					title = baron
 					title_female = baron
@@ -3436,6 +3538,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_econesa = {
+			#446
 				holy_site = halfling_pagan_reformed
 				holy_site = halfling_pagan
 				b_kabonda = {
@@ -3477,6 +3580,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_dadesa = {
+			#332
 				b_davitya = {
 					title = baron
 					title_female = baron
@@ -3519,10 +3623,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_relesa = {
+		#prov history done ~red
 			color = { 11 83 13 }
 			color2 = { 11 83 13 }
-			capital = 278
+			capital = 448
 			c_tonda = {
+			#448
 				b_agaballi = {
 					title = baron
 					title_female = baron
@@ -3562,6 +3668,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_tagawar = {
+			#761
 				b_kine = {
 					title = baron
 					title_female = baron
@@ -3601,6 +3708,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_luedada = {
+			#447
 				b_danka = {
 					title = baron
 					title_female = baron
@@ -3644,10 +3752,12 @@ e_nonka = { #Halflings
 			title_female = duke
 		}
 		d_aconada = {
+		#prov history done ~red
 			color = { 131 98 84 }
 			color2 = { 131 98 84 }
 			capital = 1226
 			c_qeirita = {
+			#1171
 				b_konalli = {
 					title = baron
 					title_female = baron
@@ -3688,6 +3798,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_ladonda = {
+			#1226
 				b_tabada = {
 					title = baron
 					title_female = baron
@@ -3727,6 +3838,7 @@ e_nonka = { #Halflings
 				title_female = count
 			}
 			c_sita = {
+			#753
 				b_kemonka = {
 					title = baron
 					title_female = baron
