@@ -2,5 +2,6 @@ title = c_luedada
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_danka = castle
+b_labojan = city

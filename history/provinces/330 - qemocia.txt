@@ -1,6 +1,9 @@
 title = c_qemocia
-max_settlements = 3
+max_settlements = 6
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_weirojan = castle
+b_qavonda = city
+b_ravita = temple
+b_akinalli = castle
