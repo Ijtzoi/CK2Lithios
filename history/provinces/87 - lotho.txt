@@ -1,6 +1,8 @@
 title = c_lotho
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = woods
 b_tutona = castle
+b_tototho = city
+b_raugas = temple
