@@ -1,5 +1,5 @@
 title = c_tolosi
-max_settlements = 6
+max_settlements = 7
 culture = lightfoot
 religion = halfling_pagan
 terrain = plains

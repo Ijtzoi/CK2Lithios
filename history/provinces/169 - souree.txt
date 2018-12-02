@@ -1,6 +1,7 @@
 title = c_souree
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = plains
 b_qagaud = castle
+b_rataud = city

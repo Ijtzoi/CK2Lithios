@@ -1,6 +1,8 @@
 title = c_deslav
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
 terrain = hills
 b_borona = castle
+b_akapeodo = city
+b_totaud = temple

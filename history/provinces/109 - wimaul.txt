@@ -4,3 +4,5 @@ culture = clearlakian
 religion = seven
 terrain = farmlands
 b_tareva = castle
+b_timina = city
+b_quweva = temple
