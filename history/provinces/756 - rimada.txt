@@ -5,4 +5,4 @@ religion = halfling_pagan
 terrain = woods
 b_navocia = castle
 b_dimonda = city
-b_rinonda =
+b_rinonda = temple
