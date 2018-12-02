@@ -2,5 +2,6 @@ title = c_nelojan
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = mountain 
 b_radada = castle
+b_kadocia = city

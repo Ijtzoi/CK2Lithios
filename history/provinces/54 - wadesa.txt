@@ -1,6 +1,7 @@
 title = c_wadesa
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = plains
 b_relalli = castle
+b_kabitya = city
