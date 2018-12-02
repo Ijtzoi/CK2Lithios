@@ -1,6 +1,8 @@
 title = c_lura
-max_settlements = 3
+max_settlements = 5
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = plains
 b_naudosi = castle
+b_tudyotte = city
+b_tabah = temple
