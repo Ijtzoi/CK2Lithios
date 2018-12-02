@@ -2,5 +2,6 @@ title = c_kocida
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = plains
 b_tocuslan = castle
+b_riebapa = city

@@ -1,6 +1,9 @@
 title = c_rebisey
-max_settlements = 3
+max_settlements = 6
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_lorofan = castle
+b_laxonia = city
+b_debapa = temple
+b_riebada = castle

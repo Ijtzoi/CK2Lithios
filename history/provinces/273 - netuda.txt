@@ -1,6 +1,8 @@
 title = c_netuda
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest
 b_nocelen = castle
+b_leruda = city
+b_ladosye = temple
