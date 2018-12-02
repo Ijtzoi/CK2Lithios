@@ -1,6 +1,8 @@
 title = c_wonanka
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
 terrain = hills
 b_teirojan = castle
+b_wimonda = city
+b_ninocia = temple

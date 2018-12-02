@@ -2,5 +2,6 @@ title = c_lesa
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_dinojan = castle
+b_nelocia = city

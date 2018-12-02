@@ -1,6 +1,9 @@
 title = c_kavojan
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
 terrain = hills
 b_asita = castle
+b_lemalli = city
+b_tesa = temple
+

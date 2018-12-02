@@ -1,6 +1,9 @@
 title = c_babanka
-max_settlements = 3
+max_settlements = 6
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_walan = castle
+b_wabita = city
+b_telocia = temple
+b_tabocia = castle

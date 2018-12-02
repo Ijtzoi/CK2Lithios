@@ -2,5 +2,6 @@ title = c_tavonda
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_raboti = castle
+b_teiralan = city

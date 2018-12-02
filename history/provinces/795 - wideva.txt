@@ -2,5 +2,6 @@ title = c_wideva
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = woods
 b_ninalan = castle
+b_sinalan = city

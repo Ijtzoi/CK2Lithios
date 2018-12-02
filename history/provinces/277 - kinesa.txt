@@ -2,5 +2,6 @@ title = c_kinesa
 max_settlements = 3
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_atemojan = castle
+b_tononda = city

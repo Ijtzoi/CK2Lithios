@@ -1,6 +1,8 @@
 title = c_nelocia
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest 
 b_ralan = castle
+b_etemesa = city
+b_dyesesa = temple

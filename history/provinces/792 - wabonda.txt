@@ -1,6 +1,7 @@
 title = c_wabonda
-max_settlements = 3
+max_settlements = 4
 culture = lightfoot
 religion = halfling_pagan
-terrain = hills
+terrain = forest
 b_esimocia = castle
+b_kyesojan = city

@@ -4,3 +4,4 @@ culture = lightfoot
 religion = halfling_pagan
 terrain = hills
 b_savitya = castle
+b_ahelojan = city
