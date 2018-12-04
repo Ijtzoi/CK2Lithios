@@ -1,6 +1,9 @@
-title = c_tutuma
-max_settlements = 3
+title = c_telquin
+max_settlements = 4
 culture = korvallan
 religion = seven
 terrain = farmlands
 b_rahayor = castle
+b_qarayor = city
+b_ajarenr = temple
+b_esvituma = castle

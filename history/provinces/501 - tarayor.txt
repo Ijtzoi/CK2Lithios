@@ -1,6 +1,9 @@
-title = c_tarayor
-max_settlements = 3
+title = c_richvein
+max_settlements = 4
 culture = korvallan
 religion = seven
 terrain = farmlands
 b_emahayor = castle
+b_darayor = city
+b_darutan = temple
+b_suma = city

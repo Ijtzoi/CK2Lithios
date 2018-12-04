@@ -1,6 +1,9 @@
-title = c_lameorge
+title = c_achralla
 max_settlements = 3
 culture = psatese
 religion = seven
 terrain = farmlands
 b_rameorge = castle
+b_tolarka = city
+b_takina = temple
+b_rorarka = castle

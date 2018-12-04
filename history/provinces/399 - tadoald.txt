@@ -1,6 +1,8 @@
-title = c_tadoald
+title = c_southhold
 max_settlements = 3
 culture = psatese
 religion = seven
 terrain = farmlands
 b_ramard = castle
+b_lakeodo = city
+b_lunta = temple

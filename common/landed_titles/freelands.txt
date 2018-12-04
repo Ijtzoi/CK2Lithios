@@ -1383,7 +1383,7 @@ e_freelands = { #Freelands
 				title = count
 				title_female = count
 			}
-			c_tutuma = {
+			c_telquin = {
 				b_rahayor = {
 					title = baron
 					title_female = baron
@@ -1783,7 +1783,11 @@ e_freelands = { #Freelands
 				title = count
 				title_female = count
 			}
-			c_azuma = {
+			c_myoboku = {
+				holy_site = seven
+				holy_site = hope
+				holy_site = orphans
+				holy_site = adomites
 				b_karigo = {
 					title = baron
 					title_female = baron
@@ -1822,7 +1826,7 @@ e_freelands = { #Freelands
 				title = count
 				title_female = count
 			}
-			c_tarayor = {
+			c_richvein = {
 				b_emahayor = {
 					title = baron
 					title_female = baron
@@ -2164,7 +2168,7 @@ e_freelands = { #Freelands
 			title = duke
 			title_female = duke
 		}
-		d_echao = {
+		d_greenhill = {
 			color = { 24 2 91 }
 			color2 = { 24 2 91 }
 			capital = 171
@@ -2534,7 +2538,7 @@ e_freelands = { #Freelands
 		d_datalso = {
 			color = { 58 59 212 }
 			color2 = { 58 59 212 }
-			c_lameorge = {
+			c_achralla = {
 				b_rameorge = {
 					title = baron
 					title_female = baron
@@ -2573,7 +2577,7 @@ e_freelands = { #Freelands
 				title = count
 				title_female = count
 			}
-			c_tadoald = {
+			c_southhold = {
 				b_ramard = {
 					title = baron
 					title_female = baron
@@ -2856,7 +2860,7 @@ e_freelands = { #Freelands
 			title = duke
 			title_female = duke
 		}
-		d_ekicalia = {
+		d_sanctum_isle = {
 			color = { 231 128 48 }
 			color2 = { 231 128 48 }
 			capital = 1276
@@ -3189,8 +3193,6 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_disma = {
-				holy_site = seven
-				holy_site = hope
 				b_barisma = {
 					title = baron
 					title_female = baron

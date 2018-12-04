@@ -1,6 +1,10 @@
-title = c_azuma
-max_settlements = 3
+title = c_myoboku
+max_settlements = 5
 culture = northholder
 religion = seven
 terrain = farmlands
 b_karigo = castle
+b_karyuk = temple
+b_nitaba = city
+b_tazigo = temple
+b_qareke = temple
