@@ -1,0 +1,4 @@
+7236 = {
+	name = Grant
+	culture = imperial #gurps chr
+}
