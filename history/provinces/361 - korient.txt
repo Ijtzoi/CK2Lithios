@@ -3,4 +3,4 @@ max_settlements = 3
 culture = dvort
 religion = stone
 terrain = hills
-b_apavasi = city
+b_apavasi = tribal
