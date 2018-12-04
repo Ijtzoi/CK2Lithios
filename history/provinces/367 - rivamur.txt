@@ -1,6 +1,12 @@
 title = c_rivamur
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
 terrain = hills
-b_kanate = tribal
+b_kanate = city
+b_daririn = castle
+b_qusan = temple
+b_delirma = city
+b_kusirin = castle
+b_wivirin = city
+b_qaniar = castle

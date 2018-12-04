@@ -1,6 +1,12 @@
 title = c_kuravid
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
 terrain = hills
-b_qabise = tribal
+b_qabise = city
+b_lulatso = castle
+b_roradir = temple
+b_saygach = city
+b_wanentin = castle
+b_koravid = city
+b_anavid = castle

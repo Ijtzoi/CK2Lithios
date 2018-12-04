@@ -1,6 +1,12 @@
 title = c_boysan
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
 terrain = hills
-b_wyabaina = tribal
+b_wyabaina = city
+b_ean = castle
+b_sinuvven = temple
+b_winaga = city
+b_acisma = castle
+b_kasarvin = city
+b_anaraga = castle

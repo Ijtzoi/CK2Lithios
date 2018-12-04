@@ -1,6 +1,12 @@
 title = c_taygasi
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
-terrain = hills
-b_agulein = tribal
+terrain = mountain 
+b_agulein = castle
+b_daviu = city
+b_kavacob = temple
+b_tulolm = castle
+b_kimesse = city
+b_qyabein = castle
+b_dyabavid = city

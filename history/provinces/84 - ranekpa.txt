@@ -1,6 +1,12 @@
 title = c_ranekpa
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
-terrain = hills
-b_babitus = tribal
+terrain = mountain
+b_babitus = city
+b_nucotus = castle
+b_tatalpo = temple
+b_dieren = city
+b_tucalpo = castle
+b_anatili = city
+b_telozan = castle

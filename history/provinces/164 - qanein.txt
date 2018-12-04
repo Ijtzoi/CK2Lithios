@@ -1,6 +1,12 @@
 title = c_qanein
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
 terrain = hills
-b_timesse = tribal
+b_timesse = city
+b_wyeasi = castle
+b_sunesse = temple
+b_rorolm = city
+b_ruresse = castle
+b_buravin = city
+b_sanadir = castle

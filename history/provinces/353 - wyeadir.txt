@@ -1,6 +1,12 @@
 title = c_wyeadir
-max_settlements = 3
+max_settlements = 7
 culture = dvort
 religion = stone
 terrain = hills
-b_turavid = tribal
+b_turavid = city
+b_nurina = castle
+b_nunient = temple
+b_nyeasi = city
+b_ruravin = castle
+b_luravin = city
+b_nyabavin = castle
