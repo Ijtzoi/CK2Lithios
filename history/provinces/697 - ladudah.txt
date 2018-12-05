@@ -1,6 +1,10 @@
 title = c_ladudah
-max_settlements = 3
+max_settlements = 6
 culture = southporter
 religion = seven
 terrain = farmlands
-b_lodai = castle
+b_lodai = city
+b_nelet = castle
+b_qashe = temple
+b_komo = city
+b_kamashe = castle

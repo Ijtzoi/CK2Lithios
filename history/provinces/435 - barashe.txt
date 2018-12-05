@@ -3,4 +3,6 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = farmlands
-b_rorelet = castle
+b_rorelet = city
+b_rengar = castle
+b_roroshua = temple

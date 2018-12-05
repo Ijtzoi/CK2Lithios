@@ -1,6 +1,8 @@
 title = c_damudah
-max_settlements = 3
+max_settlements = 4
 culture = southporter
 religion = seven
 terrain = hills
-b_ebuohore = castle
+b_ebuohore = city
+b_ruhomo = castle
+b_duohin = temple

@@ -1,6 +1,9 @@
 title = c_tang
-max_settlements = 3
+max_settlements = 4
 culture = southporter
 religion = seven
 terrain = farmlands
-b_lengar = castle
+b_lengar = city
+b_bidekat = castle
+b_qakudah = temple
+b_sorodai = castle

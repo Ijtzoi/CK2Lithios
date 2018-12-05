@@ -3,4 +3,6 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = farmlands
-b_wuhelet = castle
+b_wuhelet = city
+b_asakashe = castle
+b_woshua = temple

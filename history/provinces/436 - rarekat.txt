@@ -1,6 +1,9 @@
 title = c_rarekat
-max_settlements = 3
+max_settlements = 5
 culture = southporter
 religion = seven
 terrain = farmlands
-b_tarore = castle
+b_tarore = city
+b_darodai = castle
+b_kadekat = temple
+b_qelenku = castle

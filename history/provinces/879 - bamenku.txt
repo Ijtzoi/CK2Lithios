@@ -1,6 +1,8 @@
 title = c_bamenku
-max_settlements = 3
+max_settlements = 4
 culture = southporter
 religion = seven
 terrain = farmlands
-b_dakaud = castle
+b_dakaud = city
+b_kamelet = castle
+b_bodai = temple

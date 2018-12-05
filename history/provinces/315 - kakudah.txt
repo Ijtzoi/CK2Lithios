@@ -3,4 +3,6 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = hills
-b_lakashe = castle
+b_lakashe = city
+b_enuhashe = castle
+b_amudah = temple

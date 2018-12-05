@@ -3,4 +3,6 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = farmlands
-b_kuhudah = castle
+b_kuhudah = city
+b_norudah = castle
+b_bamang = temple

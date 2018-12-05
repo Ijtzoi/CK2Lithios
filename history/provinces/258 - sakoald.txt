@@ -1,6 +1,8 @@
 title = c_sakoald
-max_settlements = 3
+max_settlements = 4
 culture = southporter
 religion = seven
 terrain = farmlands
-b_lakard = castle
+b_lakard = city
+b_dard = castle
+b_asakarka = temple

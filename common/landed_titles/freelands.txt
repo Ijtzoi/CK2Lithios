@@ -3,18 +3,17 @@ e_freelands = { #Freelands
 	color = { 0 0 102 }
 	color2 = { 230 234 255 }
 	k_southport = { #Southport
+	#prov history done ~red
 		color = { 198 70 111 }
 		color2 = { 158 70 141 }
-		capital = 81
-		d_samodai = {
-			color = { 148 193 15 }
-			color2 = { 148 193 15 }
-		}
+		capital = 697
 		d_rashe = {
+		#prov history done ~red
 			color = { 48 9 46 }
 			color2 = { 48 9 46 }
-			capital = 643
+			capital = 699
 			c_ladashe = {
+			#541
 				b_bidore = {
 					title = baron
 					title_female = baron
@@ -54,6 +53,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_efadashe = {
+			#699
 				b_ruigang = {
 					title = baron
 					title_female = baron
@@ -93,6 +93,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_sakudah = {
+			#698
 				b_aidekat = {
 					title = baron
 					title_female = baron
@@ -132,6 +133,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_qadelet = {
+			#309
 				b_nakang = {
 					title = baron
 					title_female = baron
@@ -172,10 +174,12 @@ e_freelands = { #Freelands
 			}
 		}
 		d_taromo = {
+		#prov history done ~red
 			color = { 192 9 245 }
 			color2 = { 192 9 245 }
 			capital = 697
 			c_ladudah = {
+			#697
 				b_lodai = {
 					title = baron
 					title_female = baron
@@ -215,6 +219,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_bamenku = {
+			#879
 				b_dakaud = {
 					title = baron
 					title_female = baron
@@ -254,6 +259,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_kang = {
+			#1134
 				b_raud = {
 					title = baron
 					title_female = baron
@@ -293,6 +299,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_nudah = {
+			#81
 				b_ruohang = {
 					title = baron
 					title_female = baron
@@ -332,6 +339,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_asakaud = {
+			#643
 				b_buhekat = {
 					title = baron
 					title_female = baron
@@ -372,10 +380,12 @@ e_freelands = { #Freelands
 			}
 		}
 		d_ivalice = {
+		#prov history done ~red
 			color = { 13 167 3 }
 			color2 = { 13 167 3 }
-			capital = 699
+			capital = 1042
 			c_emang = {
+			#1042
 				b_telin = {
 					title = baron
 					title_female = baron
@@ -415,6 +425,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_larenku = {
+			#770
 				b_kuohang = {
 					title = baron
 					title_female = baron
@@ -454,6 +465,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_barashe = {
+			#435
 				b_rorelet = {
 					title = baron
 					title_female = baron
@@ -493,6 +505,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_korang = {
+			#434
 				b_wuhelet = {
 					title = baron
 					title_female = baron
@@ -533,10 +546,12 @@ e_freelands = { #Freelands
 			}
 		}
 		d_cygren = {
+		#prov history done ~red
 			color = { 125 198 19 }
 			color2 = { 125 198 19 }
-			capital = 312
+			capital = 260
 			c_kamore = {
+			#617
 				b_suhudah = {
 					title = baron
 					title_female = baron
@@ -576,6 +591,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_ruhashe = {
+			#260
 				b_kaud = {
 					title = baron
 					title_female = baron
@@ -615,6 +631,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_kakudah = {
+			#315
 				b_lakashe = {
 					title = baron
 					title_female = baron
@@ -654,6 +671,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_damudah = {
+			#890
 				b_ebuohore = {
 					title = baron
 					title_female = baron
@@ -691,10 +709,12 @@ e_freelands = { #Freelands
 			}
 		}
 		d_demancia = {
+		#prov history done ~red
 			color = { 236 2 174 }
 			color2 = { 236 2 174 }
-			capital = 258
+			capital = 436
 			c_lorelet = {
+			#313
 				b_kuhudah = {
 					title = baron
 					title_female = baron
@@ -734,6 +754,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_rarekat = {
+			#436
 				b_tarore = {
 					title = baron
 					title_female = baron
@@ -773,6 +794,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_quigang = {
+			#314
 				b_efadaret = {
 					title = baron
 					title_female = baron
@@ -814,10 +836,12 @@ e_freelands = { #Freelands
 			}
 		}
 		d_wuhin = {
+		#prov history done ~red
 			color = { 249 110 78 }
 			color2 = { 249 110 78 }
 			capital = 310
 			c_duhard = {
+			#310
 				b_kina = {
 					title = baron
 					title_female = baron
@@ -857,6 +881,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_dibay = {
+			#257
 				b_rarka = {
 					title = baron
 					title_female = baron
@@ -896,6 +921,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_sakoald = {
+			#258
 				b_lakard = {
 					title = baron
 					title_female = baron
@@ -935,6 +961,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_namideva = {
+			#308
 				b_dibemma = {
 					title = baron
 					title_female = baron
@@ -975,10 +1002,12 @@ e_freelands = { #Freelands
 			}
 		}
 		d_thygris = {
+		#prov history done ~red
 			color = { 141 36 122 }
 			color2 = { 141 36 122 }
-			capital = 555
+			capital = 259
 			c_rodai = {
+			#311
 				b_luohaud = {
 					title = baron
 					title_female = baron
@@ -1018,6 +1047,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_tang = {
+			#259
 				b_lengar = {
 					title = baron
 					title_female = baron
@@ -1057,6 +1087,7 @@ e_freelands = { #Freelands
 				title_female = count
 			}
 			c_tadomo = {
+			#312
 				b_radang = {
 					title = baron
 					title_female = baron
@@ -1101,6 +1132,10 @@ e_freelands = { #Freelands
 		color = { 41 52 99 }
 		color2 = { 141 52 99 }
 		capital = 176
+		d_samodai = { # emtay
+			color = { 148 193 15 }
+			color2 = { 148 193 15 }
+		}
 		d_taruma = {
 			color = { 44 110 108 }
 			color2 = { 44 110 108 }

@@ -3,4 +3,7 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = farmlands
-b_rarka = castle
+b_rarka = city
+b_edeorge = castle
+b_samideva = temple
+

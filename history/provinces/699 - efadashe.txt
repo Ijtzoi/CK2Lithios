@@ -1,6 +1,9 @@
 title = c_efadashe
-max_settlements = 3
+max_settlements = 5
 culture = southporter
 religion = seven
 terrain = farmlands
-b_ruigang = castle
+b_ruigang = city
+b_ridaret = castle
+b_qang = temple
+b_duhaud = city

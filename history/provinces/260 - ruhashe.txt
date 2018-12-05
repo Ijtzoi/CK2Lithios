@@ -1,6 +1,9 @@
 title = c_ruhashe
-max_settlements = 3
+max_settlements = 4
 culture = southporter
 religion = seven
 terrain = farmlands
-b_kaud = castle
+b_kaud = city
+b_enuhomo = castle
+b_enuhelet = temple
+b_aidang = castle

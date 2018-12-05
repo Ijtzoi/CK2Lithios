@@ -3,4 +3,6 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = farmlands
-b_buhekat = castle
+b_buhekat = city
+b_kuhelet = castle
+b_renku = temple

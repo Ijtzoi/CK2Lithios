@@ -3,4 +3,6 @@ max_settlements = 3
 culture = southporter
 religion = seven
 terrain = farmlands
-b_kuohang = castle
+b_kuohang = city
+b_namudah = castle
+b_kamomo = temple

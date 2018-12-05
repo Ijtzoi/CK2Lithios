@@ -1,6 +1,9 @@
 title = c_duhard
-max_settlements = 3
+max_settlements = 4
 culture = southporter
 religion = seven
 terrain = farmlands
-b_kina = castle
+b_kina = city
+b_tuhay = castle
+b_atemma = temple
+b_wunta = castle
