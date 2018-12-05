@@ -3278,7 +3278,7 @@ e_freelands = { #Freelands
 				title = count
 				title_female = count
 			}
-			c_swiftstream = { #549
+			c_greenbanks = { #549
 				b_ranina = {
 					title = baron
 					title_female = baron

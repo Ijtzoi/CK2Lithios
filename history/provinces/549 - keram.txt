@@ -1,4 +1,4 @@
-title = c_swiftstream
+title = c_greenbanks
 max_settlements = 4
 culture = psatese
 religion = seven
