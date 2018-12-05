@@ -1,6 +1,9 @@
-title = c_ajariya
-max_settlements = 3
+title = c_ablastcha
+max_settlements = 4
 culture = watren
 religion = seven
 terrain = farmlands
 b_ranatta = castle
+b_nyariya = city
+b_kibeva = temple
+b_sibeva = castle

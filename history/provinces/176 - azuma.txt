@@ -1,6 +1,6 @@
 title = c_myoboku
 max_settlements = 5
-culture = northholder
+culture = korvallan
 religion = seven
 terrain = farmlands
 b_karigo = castle

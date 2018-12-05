@@ -1,6 +1,8 @@
-title = c_balaj
+title = c_orslunis
 max_settlements = 3
 culture = clearlakian
 religion = seven
 terrain = farmlands
 b_temma = castle
+b_kaleodo = city
+b_kadina = temple

@@ -1,6 +1,8 @@
-title = c_eroisma
+title = c_escla
 max_settlements = 3
 culture = clearlakian
 religion = seven
 terrain = farmlands
 b_dyariya = castle
+b_benatta = city
+b_tanatta = temple

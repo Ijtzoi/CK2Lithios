@@ -1,6 +1,8 @@
-title = c_darka
+title = c_slorisun
 max_settlements = 4
 culture = clearlakian
 religion = seven
 terrain = farmlands
 b_lakarka = castle
+b_evsunta = city
+b_dorard = temple

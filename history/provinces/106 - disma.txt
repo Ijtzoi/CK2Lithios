@@ -1,6 +1,10 @@
-title = c_disma
-max_settlements = 3
+title = c_schkliv
+max_settlements = 6
 culture = psatese
 religion = seven
 terrain = farmlands
 b_barisma = castle
+b_byarita = city
+b_dula = temple
+b_wenam = city
+b_ruwayka = castle

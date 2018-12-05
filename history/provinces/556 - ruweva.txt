@@ -1,6 +1,8 @@
-title = c_ruweva
+title = c_atheia
 max_settlements = 3
 culture = clearlakian
 religion = seven
 terrain = farmlands
 b_wuwatta = castle
+b_karula = city
+b_taniya = temple

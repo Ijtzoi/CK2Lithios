@@ -1,6 +1,8 @@
-title = c_banatta
-max_settlements = 3
+title = c_plenstruu
+max_settlements = 4
 culture = psatese
 religion = seven
 terrain = farmlands
 b_nyilula = castle
+b_kibaul = city
+b_qarolke = temple

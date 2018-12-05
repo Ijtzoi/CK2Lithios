@@ -1,6 +1,8 @@
-title = c_atiboor
-max_settlements = 3
+title = c_omora
+max_settlements = 4
 culture = watren
 religion = seven
 terrain = farmlands
 b_kadoini = castle
+b_roveh = city
+b_tarid = temple

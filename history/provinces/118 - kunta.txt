@@ -1,6 +1,8 @@
-title = c_kunta
+title = c_orunslis
 max_settlements = 4
 culture = clearlakian
 religion = seven
 terrain = farmlands
 b_tuhard = castle
+b_sarina = castle
+b_tolina = castle

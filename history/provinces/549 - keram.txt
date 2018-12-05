@@ -1,6 +1,9 @@
-title = c_keram
-max_settlements = 3
+title = c_swiftstream
+max_settlements = 4
 culture = psatese
 religion = seven
 terrain = farmlands
 b_ranina = castle
+b_narita = city
+b_karatta = temple
+b_keniya = city

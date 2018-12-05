@@ -1,6 +1,9 @@
-title = c_aruwolke
-max_settlements = 3
+title = c_cloudperch
+max_settlements = 4
 culture = clearlakian
 religion = seven
 terrain = farmlands
 b_doolke = castle
+b_kyileva = city
+b_kariya = temple
+b_senam = castle

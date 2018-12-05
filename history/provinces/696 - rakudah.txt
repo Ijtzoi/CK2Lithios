@@ -1,6 +1,10 @@
-title = c_rakudah
-max_settlements = 3
+title = c_westport
+max_settlements = 6
 culture = watren
 religion = seven
 terrain = farmlands
-b_lamang = castle
+b_lamang = city
+b_eidang = castle
+b_telashe = temple
+b_relet = city
+b_enuhang = castle

@@ -1,6 +1,8 @@
-title = c_ejaret
-max_settlements = 3
+title = c_zion
+max_settlements = 4
 culture = clearlakian
-religion = seven
+religion = orphans
 terrain = farmlands
 b_tore = castle
+b_luhudah = city
+b_tadang = temple

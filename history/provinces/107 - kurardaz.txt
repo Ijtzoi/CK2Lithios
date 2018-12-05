@@ -1,6 +1,7 @@
-title = c_kurardaz
+title = c_psatsedge
 max_settlements = 3
 culture = psatese
 religion = seven
 terrain = farmlands
 b_raratta = castle
+b_turatta = city

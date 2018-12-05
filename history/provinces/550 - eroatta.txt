@@ -1,6 +1,10 @@
-title = c_eroatta
-max_settlements = 3
+title = c_cranlask
+max_settlements = 5
 culture = watren
 religion = seven
 terrain = farmlands
 b_koaul = castle
+b_kibolke = city
+b_doita = temple
+b_suwula = castle
+b_ribita = city

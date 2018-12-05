@@ -1,6 +1,8 @@
-title = c_bimand
+title = c_yalgire
 max_settlements = 3
 culture = watren
 religion = seven
 terrain = farmlands
 b_kaide = castle
+b_nanalib = city
+b_durand = temple

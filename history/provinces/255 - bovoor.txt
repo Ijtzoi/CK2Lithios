@@ -1,6 +1,9 @@
-title = c_bovoor
-max_settlements = 3
+title = c_listrik
+max_settlements = 5
 culture = watren
 religion = seven
 terrain = farmlands
 b_disalme = castle
+b_qaboukh = city
+b_dishy = temple
+b_tisetus = castle
