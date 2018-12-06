@@ -8,6 +8,8 @@ user_dir = "Lithios"
 
 replace_path="dlc_metadata/dlc_characters"
 
+replace_path="events"
+
 replace_path="history/titles"
 
 replace_path="history/characters"
