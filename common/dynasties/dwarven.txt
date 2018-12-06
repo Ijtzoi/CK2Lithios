@@ -1,0 +1,39 @@
+4000 = {
+	name = First-Clan
+	culture = dvort #gurps chr
+}
+
+4001 = {
+	name = Stonehammer
+	culture = dvort #gurps chr
+}
+
+4002 = {
+	name = Sharpaxe
+	culture = dvort #gurps chr
+}
+
+4003 = {
+	name = Ironbones
+	culture = dvort #gurps chr
+}
+
+4004 = {
+	name = Strongshield
+	culture = dvort #gurps chr
+}
+
+4005 = {
+	name = Meadbeard
+	culture = dvort #gurps chr
+}
+
+4006 = {
+	name = Dragonbane
+	culture = dvort #gurps chr
+}
+
+4007 = {
+	name = Magmaheart
+	culture = dvort #gurps chr
+}
