@@ -15,48 +15,48 @@ character_event = {
 			}
 		}
 		
-		166 = { holder = { gain_title = e_wavolm } }
-		
-		390 = { holder = { gain_title = k_kanuid } }
-		84 = { holder = { gain_title = k_katiu } }
-		352 = { holder = { gain_title = k_kugasi } }
-		353 = { holder = { gain_title = k_lunein } }
-		164 = { holder = { gain_title = k_tuuds } }
-		375 = { holder = { gain_title = k_tabise } }
-		167 = { holder = { gain_title = k_qimolm } }
-		367 = { holder = { gain_title = k_tulatso } }
-		k_kanuid = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_kanuid }
-			set_defacto_liege = e_wavolm
-		}
-		k_katiu = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_katiu }
-			set_defacto_liege = e_wavolm
-		}
-		k_kugasi = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_kugasi }
-			set_defacto_liege = e_wavolm
-		}
-		k_lunein = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_lunein }
-			set_defacto_liege = e_wavolm
-		}
-		k_tuuds = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_tuuds }
-			set_defacto_liege = e_wavolm
-		}
-		k_tabise = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_tabise }
-			set_defacto_liege = e_wavolm
-		}
-		k_qimolm = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_qimolm }
-			set_defacto_liege = e_wavolm
-		}
-		k_tulatso = {
-			any_de_jure_vassal_title = { set_defacto_liege = k_tulatso }
-			set_defacto_liege = e_wavolm
-		}
+		#166 = { holder = { gain_title = e_wavolm } }
+		#
+		#390 = { holder = { gain_title = k_kanuid } }
+		#84 = { holder = { gain_title = k_katiu } }
+		#352 = { holder = { gain_title = k_kugasi } }
+		#353 = { holder = { gain_title = k_lunein } }
+		#164 = { holder = { gain_title = k_tuuds } }
+		#375 = { holder = { gain_title = k_tabise } }
+		#167 = { holder = { gain_title = k_qimolm } }
+		#367 = { holder = { gain_title = k_tulatso } }
+		#k_kanuid = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_kanuid }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_katiu = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_katiu }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_kugasi = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_kugasi }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_lunein = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_lunein }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_tuuds = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_tuuds }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_tabise = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_tabise }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_qimolm = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_qimolm }
+		#	set_defacto_liege = e_wavolm
+		#}
+		#k_tulatso = {
+		#	any_de_jure_vassal_title = { set_defacto_liege = k_tulatso }
+		#	set_defacto_liege = e_wavolm
+		#}
 		
 	}
 }

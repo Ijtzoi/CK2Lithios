@@ -1,0 +1,4 @@
+992.1.1 = {
+	holder = 4027
+	liege = e_wavolm
+}

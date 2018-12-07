@@ -1,4 +1,4 @@
-e_wavolm;1000000
+e_wavolm;4027
 	k_kanuid;4000
 		d_binyah;4000
 			c_lotoald;4000
