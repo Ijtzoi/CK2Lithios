@@ -27,7 +27,7 @@
 	learning = 4
 	trait = "charismatic_negotiator"
 	952.1.1 = {birth = yes}
-	999.7.23 = {death = yes}
+	1099.7.23 = {death = yes}
 }
 
 7002 = {
@@ -45,7 +45,7 @@
 	trait = "duelist"
 	trait = "depressed"
 	938.1.1 = {birth = yes}
-	989.8.2 = {death = yes}
+	1089.8.2 = {death = yes}
 }
 
 7003 = {
@@ -263,7 +263,7 @@
 	trait = "underhanded_rogue"
 	trait = "cruel"
 	938.1.1 = {birth = yes}
-	982.11.21 = {death = yes}
+	1082.11.21 = {death = yes}
 }
 
 7016 = {
@@ -555,7 +555,7 @@
 	trait = "tough_soldier"
 	trait = "cynical"
 	942.1.1 = {birth = yes}
-	988.1.4 = {death = yes}
+	1088.1.4 = {death = yes}
 }
 
 7033 = {
@@ -621,7 +621,7 @@
 	learning = 2
 	trait = "intricate_webweaver"
 	949.1.1 = {birth = yes}
-	995.11.17 = {death = yes}
+	1095.11.17 = {death = yes}
 }
 
 7037 = {
@@ -673,7 +673,7 @@
 	trait = "tough_soldier"
 	trait = "temperate"
 	954.1.1 = {birth = yes}
-	996.1.19 = {death = yes}
+	1096.1.19 = {death = yes}
 }
 
 7040 = {
@@ -876,7 +876,7 @@
 	trait = "intricate_webweaver"
 	trait = "stressed"
 	943.1.1 = {birth = yes}
-	975.12.19 = {death = yes}
+	1075.12.19 = {death = yes}
 }
 
 7052 = {
@@ -926,7 +926,7 @@
 	learning = 2
 	trait = "tough_soldier"
 	941.1.1 = {birth = yes}
-	988.4.17 = {death = yes}
+	1088.4.17 = {death = yes}
 }
 
 7055 = {
@@ -1045,7 +1045,7 @@
 	learning = 0
 	trait = "elusive_shadow"
 	943.1.1 = {birth = yes}
-	990.7.30 = {death = yes}
+	1090.7.30 = {death = yes}
 }
 
 7062 = {
@@ -1077,7 +1077,7 @@
 	learning = 5
 	trait = "underhanded_rogue"
 	957.1.1 = {birth = yes}
-	996.11.27 = {death = yes}
+	1096.11.27 = {death = yes}
 }
 
 7064 = {
@@ -1095,7 +1095,7 @@
 	trait = "fortune_builder"
 	trait = "syphilitic"
 	939.1.1 = {birth = yes}
-	983.4.28 = {death = yes}
+	1083.4.28 = {death = yes}
 }
 
 7065 = {
@@ -1147,7 +1147,7 @@
 	trait = "charismatic_negotiator"
 	trait = "wounded"
 	936.1.1 = {birth = yes}
-	986.8.26 = {death = yes}
+	1086.8.26 = {death = yes}
 }
 
 7068 = {
@@ -1266,7 +1266,7 @@
 	learning = 7
 	trait = "brilliant_strategist"
 	936.1.1 = {birth = yes}
-	983.5.2 = {death = yes}
+	1083.5.2 = {death = yes}
 }
 
 7075 = {
@@ -1336,7 +1336,7 @@
 	trait = "midas_touched"
 	trait = "duelist"
 	937.1.1 = {birth = yes}
-	986.10.10 = {death = yes}
+	1086.10.10 = {death = yes}
 }
 
 7079 = {
@@ -1422,7 +1422,7 @@
 	learning = 2
 	trait = "naive_appeaser"
 	958.1.1 = {birth = yes}
-	998.9.15 = {death = yes}
+	1098.9.15 = {death = yes}
 }
 
 7084 = {
@@ -1439,7 +1439,7 @@
 	trait = "tough_soldier"
 	trait = "celibate"
 	946.1.1 = {birth = yes}
-	991.6.2 = {death = yes}
+	1091.6.2 = {death = yes}
 }
 
 7085 = {
@@ -1456,7 +1456,7 @@
 	trait = "tough_soldier"
 	trait = "greedy"
 	943.1.1 = {birth = yes}
-	997.8.5 = {death = yes}
+	1097.8.5 = {death = yes}
 }
 
 7086 = {
@@ -1558,7 +1558,7 @@
 	trait = "fortune_builder"
 	trait = "wounded"
 	937.1.1 = {birth = yes}
-	992.5.25 = {death = yes}
+	1092.5.25 = {death = yes}
 }
 
 7092 = {
@@ -1726,7 +1726,7 @@
 	learning = 8
 	trait = "fortune_builder"
 	946.1.1 = {birth = yes}
-	998.11.5 = {death = yes}
+	1098.11.5 = {death = yes}
 }
 
 7102 = {
@@ -1759,7 +1759,7 @@
 	learning = 2
 	trait = "brilliant_strategist"
 	945.1.1 = {birth = yes}
-	980.12.28 = {death = yes}
+	1080.12.28 = {death = yes}
 }
 
 7104 = {
@@ -1860,7 +1860,7 @@
 	learning = 1
 	trait = "charismatic_negotiator"
 	942.1.1 = {birth = yes}
-	989.2.20 = {death = yes}
+	1089.2.20 = {death = yes}
 }
 
 7110 = {
@@ -1911,7 +1911,7 @@
 	trait = "intricate_webweaver"
 	trait = "zealous"
 	949.1.1 = {birth = yes}
-	996.6.29 = {death = yes}
+	1096.6.29 = {death = yes}
 }
 
 7113 = {
@@ -1929,7 +1929,7 @@
 	trait = "detached_priest"
 	trait = "ill"
 	955.1.1 = {birth = yes}
-	989.4.25 = {death = yes}
+	1089.4.25 = {death = yes}
 }
 
 7114 = {
@@ -2046,7 +2046,7 @@
 	learning = 7
 	trait = "elusive_shadow"
 	948.1.1 = {birth = yes}
-	974.10.4 = {death = yes}
+	1074.10.4 = {death = yes}
 }
 
 7121 = {
@@ -2248,7 +2248,7 @@
 	trait = "tough_soldier"
 	trait = "wounded"
 	937.1.1 = {birth = yes}
-	981.8.4 = {death = yes}
+	1081.8.4 = {death = yes}
 }
 
 7133 = {
@@ -2450,7 +2450,7 @@
 	trait = "poet"
 	trait = "drunkard"
 	952.1.1 = {birth = yes}
-	997.1.6 = {death = yes}
+	1097.1.6 = {death = yes}
 }
 
 7145 = {
@@ -2516,7 +2516,7 @@
 	learning = 6
 	trait = "fortune_builder"
 	952.1.1 = {birth = yes}
-	994.3.27 = {death = yes}
+	1094.3.27 = {death = yes}
 }
 
 7149 = {
@@ -2532,7 +2532,7 @@
 	learning = 1
 	trait = "tough_soldier"
 	943.1.1 = {birth = yes}
-	994.12.3 = {death = yes}
+	1094.12.3 = {death = yes}
 }
 
 7150 = {
@@ -2549,7 +2549,7 @@
 	trait = "intricate_webweaver"
 	trait = "poet"
 	940.1.1 = {birth = yes}
-	994.7.9 = {death = yes}
+	1094.7.9 = {death = yes}
 }
 
 7151 = {
@@ -2722,7 +2722,7 @@
 	trait = "thrifty_clerk"
 	trait = "gregarious"
 	944.1.1 = {birth = yes}
-	998.1.25 = {death = yes}
+	1098.1.25 = {death = yes}
 }
 
 7161 = {
@@ -2855,7 +2855,7 @@
 	learning = 1
 	trait = "flamboyant_schemer"
 	936.1.1 = {birth = yes}
-	990.7.16 = {death = yes}
+	1090.7.16 = {death = yes}
 }
 
 7169 = {
@@ -2904,7 +2904,7 @@
 	learning = 3
 	trait = "detached_priest"
 	947.1.1 = {birth = yes}
-	986.6.20 = {death = yes}
+	1086.6.20 = {death = yes}
 }
 
 7172 = {
@@ -2955,7 +2955,7 @@
 	learning = 6
 	trait = "tough_soldier"
 	936.1.1 = {birth = yes}
-	998.9.23 = {death = yes}
+	1098.9.23 = {death = yes}
 }
 
 7175 = {
@@ -3073,7 +3073,7 @@
 	learning = 4
 	trait = "intricate_webweaver"
 	948.1.1 = {birth = yes}
-	975.11.21 = {death = yes}
+	1075.11.21 = {death = yes}
 }
 
 7182 = {
@@ -3107,7 +3107,7 @@
 	trait = "flamboyant_schemer"
 	trait = "scholar"
 	937.1.1 = {birth = yes}
-	980.5.27 = {death = yes}
+	1080.5.27 = {death = yes}
 }
 
 7184 = {
@@ -3192,7 +3192,7 @@
 	learning = 5
 	trait = "charismatic_negotiator"
 	944.1.1 = {birth = yes}
-	996.5.25 = {death = yes}
+	1096.5.25 = {death = yes}
 }
 
 7189 = {
@@ -3375,7 +3375,7 @@
 	learning = 6
 	trait = "tough_soldier"
 	942.1.1 = {birth = yes}
-	988.8.29 = {death = yes}
+	1088.8.29 = {death = yes}
 }
 
 7200 = {
@@ -3425,7 +3425,7 @@
 	trait = "grey_eminence"
 	trait = "celibate"
 	947.1.1 = {birth = yes}
-	989.6.27 = {death = yes}
+	1089.6.27 = {death = yes}
 }
 
 7203 = {
@@ -3493,7 +3493,7 @@
 	learning = 5
 	trait = "flamboyant_schemer"
 	944.1.1 = {birth = yes}
-	998.8.4 = {death = yes}
+	1098.8.4 = {death = yes}
 }
 
 7207 = {
@@ -3713,7 +3713,7 @@
 	learning = 5
 	trait = "thrifty_clerk"
 	956.1.1 = {birth = yes}
-	996.9.25 = {death = yes}
+	1096.9.25 = {death = yes}
 }
 
 7220 = {
@@ -3851,7 +3851,7 @@
 	learning = 2
 	trait = "fortune_builder"
 	946.1.1 = {birth = yes}
-	990.2.10 = {death = yes}
+	1090.2.10 = {death = yes}
 }
 
 7228 = {
@@ -3919,7 +3919,7 @@
 	learning = 4
 	trait = "flamboyant_schemer"
 	941.1.1 = {birth = yes}
-	997.5.8 = {death = yes}
+	1097.5.8 = {death = yes}
 }
 
 7232 = {
@@ -3952,7 +3952,7 @@
 	learning = 1
 	trait = "thrifty_clerk"
 	945.1.1 = {birth = yes}
-	981.12.12 = {death = yes}
+	1081.12.12 = {death = yes}
 }
 
 7234 = {
@@ -3969,7 +3969,7 @@
 	learning = 4
 	trait = "flamboyant_schemer"
 	956.1.1 = {birth = yes}
-	998.5.14 = {death = yes}
+	1098.5.14 = {death = yes}
 }
 
 7235 = {
@@ -3985,7 +3985,7 @@
 	learning = 2
 	trait = "tough_soldier"
 	943.1.1 = {birth = yes}
-	990.6.25 = {death = yes}
+	1090.6.25 = {death = yes}
 }
 
 7236 = {
@@ -4036,7 +4036,7 @@
 	trait = "fortune_builder"
 	trait = "ill"
 	940.1.1 = {birth = yes}
-	997.8.9 = {death = yes}
+	1097.8.9 = {death = yes}
 }
 
 7239 = {
@@ -4053,7 +4053,7 @@
 	learning = 3
 	trait = "flamboyant_schemer"
 	946.1.1 = {birth = yes}
-	988.7.15 = {death = yes}
+	1088.7.15 = {death = yes}
 }
 
 7240 = {
@@ -4071,7 +4071,7 @@
 	trait = "underhanded_rogue"
 	trait = "depressed"
 	946.1.1 = {birth = yes}
-	997.4.6 = {death = yes}
+	1097.4.6 = {death = yes}
 }
 
 7241 = {
@@ -4104,7 +4104,7 @@
 	learning = 5
 	trait = "brilliant_strategist"
 	949.1.1 = {birth = yes}
-	999.12.18 = {death = yes}
+	1099.12.18 = {death = yes}
 }
 
 7243 = {
@@ -4157,7 +4157,7 @@
 	trait = "detached_priest"
 	trait = "cynical"
 	938.1.1 = {birth = yes}
-	989.12.10 = {death = yes}
+	1089.12.10 = {death = yes}
 }
 
 7246 = {
@@ -4224,7 +4224,7 @@
 	trait = "fortune_builder"
 	trait = "shy"
 	950.1.1 = {birth = yes}
-	981.3.27 = {death = yes}
+	1081.3.27 = {death = yes}
 }
 
 7250 = {
@@ -4242,7 +4242,7 @@
 	trait = "grey_eminence"
 	trait = "brave"
 	945.1.1 = {birth = yes}
-	998.9.19 = {death = yes}
+	1098.9.19 = {death = yes}
 }
 
 7251 = {
@@ -4347,7 +4347,7 @@
 	learning = 4
 	trait = "flamboyant_schemer"
 	944.1.1 = {birth = yes}
-	992.3.30 = {death = yes}
+	1092.3.30 = {death = yes}
 }
 
 7257 = {
@@ -4415,7 +4415,7 @@
 	trait = "indulgent_wastrel"
 	trait = "celibate"
 	945.1.1 = {birth = yes}
-	997.1.13 = {death = yes}
+	1097.1.13 = {death = yes}
 }
 
 7261 = {
@@ -4468,7 +4468,7 @@
 	trait = "thrifty_clerk"
 	trait = "celibate"
 	947.1.1 = {birth = yes}
-	998.2.3 = {death = yes}
+	1098.2.3 = {death = yes}
 }
 
 7264 = {
@@ -4822,7 +4822,7 @@
 	learning = 5
 	trait = "tough_soldier"
 	953.1.1 = {birth = yes}
-	991.11.25 = {death = yes}
+	1091.11.25 = {death = yes}
 }
 
 7285 = {
@@ -4839,7 +4839,7 @@
 	learning = 6
 	trait = "grey_eminence"
 	942.1.1 = {birth = yes}
-	985.12.18 = {death = yes}
+	1085.12.18 = {death = yes}
 }
 
 7286 = {
@@ -4856,7 +4856,7 @@
 	learning = 3
 	trait = "tough_soldier"
 	936.1.1 = {birth = yes}
-	978.12.28 = {death = yes}
+	1078.12.28 = {death = yes}
 }
 
 7287 = {
@@ -4872,7 +4872,7 @@
 	learning = 7
 	trait = "grey_eminence"
 	936.1.1 = {birth = yes}
-	980.3.14 = {death = yes}
+	1080.3.14 = {death = yes}
 }
 
 7288 = {
@@ -4922,7 +4922,7 @@
 	trait = "thrifty_clerk"
 	trait = "honest"
 	940.1.1 = {birth = yes}
-	978.10.5 = {death = yes}
+	1078.10.5 = {death = yes}
 }
 
 7291 = {
@@ -4973,7 +4973,7 @@
 	learning = 5
 	trait = "midas_touched"
 	951.1.1 = {birth = yes}
-	986.5.7 = {death = yes}
+	1086.5.7 = {death = yes}
 }
 
 7294 = {
@@ -5075,5 +5075,5 @@
 	trait = "charismatic_negotiator"
 	trait = "hunter"
 	946.1.1 = {birth = yes}
-	996.6.3 = {death = yes}
+	1096.6.3 = {death = yes}
 }
