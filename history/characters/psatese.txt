@@ -1,0 +1,5079 @@
+7000 = {
+	name = "Amara"
+	dynasty = 7000
+	dna = "eofokbmnhja"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 2
+	learning = 3
+	trait = "flamboyant_schemer"
+	970.1.1 = {birth = yes}
+	1025.11.24 = {death = yes}
+}
+
+7001 = {
+	name = "Lee"
+	dynasty = 7001
+	dna = "jaoiepolllk"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 7
+	stewardship = 3
+	intrigue = 0
+	learning = 4
+	trait = "charismatic_negotiator"
+	952.1.1 = {birth = yes}
+	999.7.23 = {death = yes}
+}
+
+7002 = {
+	name = "Somnang"
+	dynasty = 7002
+	dna = "bemcbbhaikl"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 7
+	stewardship = 3
+	intrigue = 7
+	learning = 2
+	trait = "tough_soldier"
+	trait = "duelist"
+	trait = "depressed"
+	938.1.1 = {birth = yes}
+	989.8.2 = {death = yes}
+}
+
+7003 = {
+	name = "Arun"
+	dynasty = 7003
+	dna = "fblmgdmbcgb"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 7
+	learning = 6
+	trait = "tough_soldier"
+	944.1.1 = {birth = yes}
+	1013.9.21 = {death = yes}
+}
+
+7004 = {
+	name = "Phirun"
+	dynasty = 7004
+	dna = "pjmkkjokedb"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 6
+	stewardship = 7
+	intrigue = 5
+	learning = 5
+	trait = "tough_soldier"
+	977.1.1 = {birth = yes}
+	1011.5.14 = {death = yes}
+}
+
+7005 = {
+	name = "Chantou"
+	female = yes
+	dynasty = 7005
+	dna = "kkndgffhmae"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 2
+	learning = 7
+	trait = "tough_soldier"
+	967.1.1 = {birth = yes}
+	1016.6.6 = {death = yes}
+}
+
+7006 = {
+	name = "Elita"
+	female = yes
+	dynasty = 7006
+	dna = "pmnnjffgajp"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 4
+	learning = 3
+	trait = "flamboyant_schemer"
+	952.1.1 = {birth = yes}
+	1006.12.16 = {death = yes}
+}
+
+7007 = {
+	name = "Phhoung"
+	female = yes
+	dynasty = 7007
+	dna = "efockmmiiph"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 4
+	learning = 4
+	trait = "intricate_webweaver"
+	trait = "hedonist"
+	978.1.1 = {birth = yes}
+	1019.11.17 = {death = yes}
+}
+
+7008 = {
+	name = "Chan"
+	female = yes
+	dynasty = 7008
+	dna = "ngpghkdoiee"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 1
+	intrigue = 8
+	learning = 6
+	trait = "underhanded_rogue"
+	969.1.1 = {birth = yes}
+	1021.3.24 = {death = yes}
+}
+
+7009 = {
+	name = "Sopheak"
+	dynasty = 7009
+	dna = "ngnpjgknkhm"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 4
+	trait = "charismatic_negotiator"
+	trait = "celibate"
+	999.1.1 = {birth = yes}
+	1055.4.13 = {death = yes}
+}
+
+7010 = {
+	name = "Sopheak"
+	dynasty = 7010
+	dna = "ikhmndlbolf"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 4
+	learning = 8
+	trait = "intricate_webweaver"
+	974.1.1 = {birth = yes}
+	1015.5.12 = {death = yes}
+}
+
+7011 = {
+	name = "Sokheng"
+	dynasty = 7011
+	dna = "iobcapfdhha"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 6
+	stewardship = 4
+	intrigue = 0
+	learning = 8
+	trait = "thrifty_clerk"
+	988.1.1 = {birth = yes}
+	1050.10.2 = {death = yes}
+}
+
+7012 = {
+	name = "Champei"
+	female = yes
+	dynasty = 7012
+	dna = "banoonmkjca"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 1
+	learning = 2
+	trait = "charismatic_negotiator"
+	trait = "deceitful"
+	997.1.1 = {birth = yes}
+	1045.9.22 = {death = yes}
+}
+
+7013 = {
+	name = "Saron"
+	dynasty = 7013
+	dna = "miahdojfogg"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 0
+	stewardship = 0
+	intrigue = 2
+	learning = 2
+	trait = "elusive_shadow"
+	992.1.1 = {birth = yes}
+	1033.11.20 = {death = yes}
+}
+
+7014 = {
+	name = "Arun"
+	dynasty = 7014
+	dna = "hgmoopgglgi"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 7
+	learning = 5
+	trait = "skilled_tactician"
+	trait = "depressed"
+	968.1.1 = {birth = yes}
+	1031.6.4 = {death = yes}
+}
+
+7015 = {
+	name = "Lee"
+	dynasty = 7015
+	dna = "hibcoipghjl"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 5
+	learning = 7
+	trait = "underhanded_rogue"
+	trait = "cruel"
+	938.1.1 = {birth = yes}
+	982.11.21 = {death = yes}
+}
+
+7016 = {
+	name = "Darareaksmey"
+	female = yes
+	dynasty = 7016
+	dna = "fceneaklgoo"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 5
+	learning = 3
+	trait = "skilled_tactician"
+	trait = "mystic"
+	999.1.1 = {birth = yes}
+	1066.11.17 = {death = yes}
+}
+
+7017 = {
+	name = "Veata"
+	female = yes
+	dynasty = 7017
+	dna = "jgaoldhjinn"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 5
+	learning = 2
+	trait = "detached_priest"
+	trait = "hedonist"
+	968.1.1 = {birth = yes}
+	1027.4.1 = {death = yes}
+}
+
+7018 = {
+	name = "Raksa"
+	female = yes
+	dynasty = 7018
+	dna = "kacncaakmhe"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 5
+	learning = 4
+	trait = "flamboyant_schemer"
+	trait = "ill"
+	974.1.1 = {birth = yes}
+	1037.5.28 = {death = yes}
+}
+
+7019 = {
+	name = "Thida"
+	female = yes
+	dynasty = 7019
+	dna = "khmjdpgefkm"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 1
+	learning = 7
+	trait = "charismatic_negotiator"
+	986.1.1 = {birth = yes}
+	1036.6.5 = {death = yes}
+}
+
+7020 = {
+	name = "Chan"
+	female = yes
+	dynasty = 7020
+	dna = "cknfpnjgnem"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 8
+	intrigue = 3
+	learning = 7
+	trait = "skilled_tactician"
+	983.1.1 = {birth = yes}
+	1043.9.7 = {death = yes}
+}
+
+7021 = {
+	name = "Elita"
+	female = yes
+	dynasty = 7021
+	dna = "idfgmonffpm"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 8
+	intrigue = 3
+	learning = 3
+	trait = "naive_appeaser"
+	958.1.1 = {birth = yes}
+	1006.4.23 = {death = yes}
+}
+
+7022 = {
+	name = "Sokheng"
+	dynasty = 7022
+	dna = "iocnhpdjokk"
+	culture = psatese
+	religion = seven
+	martial = 0
+	diplomacy = 6
+	stewardship = 7
+	intrigue = 5
+	learning = 7
+	trait = "brilliant_strategist"
+	970.1.1 = {birth = yes}
+	1029.9.1 = {death = yes}
+}
+
+7023 = {
+	name = "Pheakkley"
+	female = yes
+	dynasty = 7023
+	dna = "dkggiphepfi"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 7
+	stewardship = 8
+	intrigue = 5
+	learning = 4
+	trait = "thrifty_clerk"
+	971.1.1 = {birth = yes}
+	1032.5.17 = {death = yes}
+}
+
+7024 = {
+	name = "Veasna"
+	dynasty = 7024
+	dna = "okhgbbjadfh"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 7
+	stewardship = 6
+	intrigue = 6
+	learning = 1
+	trait = "underhanded_rogue"
+	977.1.1 = {birth = yes}
+	1032.11.14 = {death = yes}
+}
+
+7025 = {
+	name = "Nhean"
+	dynasty = 7025
+	dna = "fllpfnbmmhe"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 0
+	stewardship = 8
+	intrigue = 8
+	learning = 6
+	trait = "flamboyant_schemer"
+	trait = "hedonist"
+	953.1.1 = {birth = yes}
+	1021.10.29 = {death = yes}
+}
+
+7026 = {
+	name = "Sokheng"
+	dynasty = 7026
+	dna = "ciolfnflaof"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 6
+	intrigue = 4
+	learning = 2
+	trait = "indulgent_wastrel"
+	trait = "impaler"
+	974.1.1 = {birth = yes}
+	1025.5.21 = {death = yes}
+}
+
+7027 = {
+	name = "Elita"
+	female = yes
+	dynasty = 7027
+	dna = "lkhbpcaoemg"
+	culture = psatese
+	religion = seven
+	martial = 0
+	diplomacy = 4
+	stewardship = 0
+	intrigue = 4
+	learning = 8
+	trait = "underhanded_rogue"
+	980.1.1 = {birth = yes}
+	1050.8.6 = {death = yes}
+}
+
+7028 = {
+	name = "Jorani"
+	female = yes
+	dynasty = 7028
+	dna = "kcemndcbnop"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 2
+	intrigue = 3
+	learning = 5
+	trait = "fortune_builder"
+	946.1.1 = {birth = yes}
+	1009.11.26 = {death = yes}
+}
+
+7029 = {
+	name = "Sokheng"
+	dynasty = 7029
+	dna = "hokpfjblfpk"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 2
+	intrigue = 3
+	learning = 5
+	trait = "naive_appeaser"
+	trait = "wroth"
+	949.1.1 = {birth = yes}
+	1006.12.22 = {death = yes}
+}
+
+7030 = {
+	name = "Mealea"
+	female = yes
+	dynasty = 7030
+	dna = "lgndiimhcln"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 3
+	intrigue = 5
+	learning = 4
+	trait = "midas_touched"
+	trait = "scholar"
+	981.1.1 = {birth = yes}
+	1040.8.9 = {death = yes}
+}
+
+7031 = {
+	name = "Sreyneang"
+	female = yes
+	dynasty = 7031
+	dna = "jhainnpibgc"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 3
+	stewardship = 1
+	intrigue = 5
+	learning = 2
+	trait = "elusive_shadow"
+	980.1.1 = {birth = yes}
+	1033.6.29 = {death = yes}
+}
+
+7032 = {
+	name = "Kalliyan"
+	female = yes
+	dynasty = 7032
+	dna = "bomjamejfcf"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 8
+	learning = 3
+	trait = "tough_soldier"
+	trait = "cynical"
+	942.1.1 = {birth = yes}
+	988.1.4 = {death = yes}
+}
+
+7033 = {
+	name = "Veata"
+	female = yes
+	dynasty = 7033
+	dna = "jechfbhchgb"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 2
+	stewardship = 2
+	intrigue = 3
+	learning = 3
+	trait = "tough_soldier"
+	993.1.1 = {birth = yes}
+	1048.5.27 = {death = yes}
+}
+
+7034 = {
+	name = "Dara"
+	dynasty = 7034
+	dna = "eedmlncghdf"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 2
+	learning = 6
+	trait = "tough_soldier"
+	954.1.1 = {birth = yes}
+	1025.12.31 = {death = yes}
+}
+
+7035 = {
+	name = "Dara"
+	dynasty = 7035
+	dna = "bimcbegebdh"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 2
+	intrigue = 4
+	learning = 2
+	trait = "flamboyant_schemer"
+	trait = "just"
+	982.1.1 = {birth = yes}
+	1060.9.18 = {death = yes}
+}
+
+7036 = {
+	name = "Sakngea"
+	dynasty = 7036
+	dna = "pamminiacfm"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 2
+	intrigue = 3
+	learning = 2
+	trait = "intricate_webweaver"
+	949.1.1 = {birth = yes}
+	995.11.17 = {death = yes}
+}
+
+7037 = {
+	name = "Sreyneang"
+	female = yes
+	dynasty = 7037
+	dna = "jnbaackobbf"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 0
+	intrigue = 5
+	learning = 2
+	trait = "charismatic_negotiator"
+	986.1.1 = {birth = yes}
+	1042.6.23 = {death = yes}
+}
+
+7038 = {
+	name = "Sothorn"
+	dynasty = 7038
+	dna = "abildpakpmk"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 0
+	stewardship = 5
+	intrigue = 1
+	learning = 2
+	trait = "charismatic_negotiator"
+	trait = "duelist"
+	trait = "paranoid"
+	962.1.1 = {birth = yes}
+	1011.1.16 = {death = yes}
+}
+
+7039 = {
+	name = "Sereyuth"
+	dynasty = 7039
+	dna = "hcbjpbappgh"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 6
+	intrigue = 7
+	learning = 3
+	trait = "tough_soldier"
+	trait = "temperate"
+	954.1.1 = {birth = yes}
+	996.1.19 = {death = yes}
+}
+
+7040 = {
+	name = "Sereyuth"
+	dynasty = 7040
+	dna = "blmnolildjn"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 5
+	stewardship = 1
+	intrigue = 0
+	learning = 5
+	trait = "elusive_shadow"
+	trait = "slothful"
+	976.1.1 = {birth = yes}
+	1022.2.2 = {death = yes}
+}
+
+7041 = {
+	name = "Anol"
+	dynasty = 7041
+	dna = "fkhlobpkegg"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 7
+	stewardship = 5
+	intrigue = 5
+	learning = 3
+	trait = "brilliant_strategist"
+	943.1.1 = {birth = yes}
+	1008.6.12 = {death = yes}
+}
+
+7042 = {
+	name = "Kong"
+	dynasty = 7042
+	dna = "algblnlajeb"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 7
+	learning = 6
+	trait = "flamboyant_schemer"
+	trait = "impaler"
+	990.1.1 = {birth = yes}
+	1035.1.13 = {death = yes}
+}
+
+7043 = {
+	name = "Lim"
+	dynasty = 7043
+	dna = "djfncalhbgj"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 7
+	learning = 3
+	trait = "underhanded_rogue"
+	trait = "stressed"
+	957.1.1 = {birth = yes}
+	1013.9.8 = {death = yes}
+}
+
+7044 = {
+	name = "Sereyuth"
+	dynasty = 7044
+	dna = "nmfppmnkcge"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 8
+	stewardship = 6
+	intrigue = 3
+	learning = 3
+	trait = "thrifty_clerk"
+	trait = "depressed"
+	975.1.1 = {birth = yes}
+	1034.6.5 = {death = yes}
+}
+
+7045 = {
+	name = "Chantou"
+	female = yes
+	dynasty = 7045
+	dna = "afciobfhnpd"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 7
+	stewardship = 2
+	intrigue = 3
+	learning = 6
+	trait = "fortune_builder"
+	trait = "hedonist"
+	987.1.1 = {birth = yes}
+	1051.4.19 = {death = yes}
+}
+
+7046 = {
+	name = "Sothorn"
+	dynasty = 7046
+	dna = "ahfhgepngld"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 8
+	stewardship = 6
+	intrigue = 8
+	learning = 6
+	trait = "underhanded_rogue"
+	trait = "greedy"
+	952.1.1 = {birth = yes}
+	1015.6.22 = {death = yes}
+}
+
+7047 = {
+	name = "Sovann"
+	dynasty = 7047
+	dna = "kcbpodalmdk"
+	culture = psatese
+	religion = seven
+	martial = 0
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 3
+	learning = 7
+	trait = "underhanded_rogue"
+	957.1.1 = {birth = yes}
+	1024.7.18 = {death = yes}
+}
+
+7048 = {
+	name = "Darareaksmey"
+	female = yes
+	dynasty = 7048
+	dna = "kadigbfobom"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 2
+	learning = 3
+	trait = "charismatic_negotiator"
+	960.1.1 = {birth = yes}
+	1032.8.16 = {death = yes}
+}
+
+7049 = {
+	name = "Boupha"
+	female = yes
+	dynasty = 7049
+	dna = "mgmkaegiidp"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 4
+	learning = 5
+	trait = "flamboyant_schemer"
+	987.1.1 = {birth = yes}
+	1037.7.3 = {death = yes}
+}
+
+7050 = {
+	name = "Phirun"
+	dynasty = 7050
+	dna = "kpdkommnafj"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 5
+	learning = 5
+	trait = "skilled_tactician"
+	965.1.1 = {birth = yes}
+	1026.5.2 = {death = yes}
+}
+
+7051 = {
+	name = "Champei"
+	female = yes
+	dynasty = 7051
+	dna = "nhlnajgfpgm"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 1
+	learning = 7
+	trait = "intricate_webweaver"
+	trait = "stressed"
+	943.1.1 = {birth = yes}
+	975.12.19 = {death = yes}
+}
+
+7052 = {
+	name = "Chantou"
+	female = yes
+	dynasty = 7052
+	dna = "pdphiflfnab"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 6
+	learning = 6
+	trait = "tough_soldier"
+	984.1.1 = {birth = yes}
+	1041.1.1 = {death = yes}
+}
+
+7053 = {
+	name = "Kolab"
+	female = yes
+	dynasty = 7053
+	dna = "lgadopcclji"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 2
+	stewardship = 5
+	intrigue = 4
+	learning = 3
+	trait = "intricate_webweaver"
+	948.1.1 = {birth = yes}
+	1015.10.10 = {death = yes}
+}
+
+7054 = {
+	name = "Kou"
+	dynasty = 7054
+	dna = "ojjdmikichc"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 8
+	intrigue = 5
+	learning = 2
+	trait = "tough_soldier"
+	941.1.1 = {birth = yes}
+	988.4.17 = {death = yes}
+}
+
+7055 = {
+	name = "Solyna"
+	female = yes
+	dynasty = 7055
+	dna = "ndandoogpeb"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 0
+	learning = 3
+	trait = "skilled_tactician"
+	951.1.1 = {birth = yes}
+	1017.9.8 = {death = yes}
+}
+
+7056 = {
+	name = "Vatey"
+	female = yes
+	dynasty = 7056
+	dna = "nkhgbppobhl"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 7
+	learning = 5
+	trait = "tough_soldier"
+	986.1.1 = {birth = yes}
+	1044.12.15 = {death = yes}
+}
+
+7057 = {
+	name = "Seab"
+	female = yes
+	dynasty = 7057
+	dna = "pibakedijph"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 6
+	stewardship = 6
+	intrigue = 3
+	learning = 5
+	trait = "fortune_builder"
+	trait = "duelist"
+	963.1.1 = {birth = yes}
+	1027.5.20 = {death = yes}
+}
+
+7058 = {
+	name = "Rithisak"
+	dynasty = 7058
+	dna = "gabkdngnoen"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 5
+	stewardship = 7
+	intrigue = 5
+	learning = 4
+	trait = "flamboyant_schemer"
+	950.1.1 = {birth = yes}
+	1004.1.30 = {death = yes}
+}
+
+7059 = {
+	name = "Champey"
+	female = yes
+	dynasty = 7059
+	dna = "genekllbffj"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 6
+	learning = 8
+	trait = "flamboyant_schemer"
+	990.1.1 = {birth = yes}
+	1051.7.30 = {death = yes}
+}
+
+7060 = {
+	name = "Veasna"
+	dynasty = 7060
+	dna = "bllnkkcpfaj"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 2
+	stewardship = 2
+	intrigue = 1
+	learning = 4
+	trait = "thrifty_clerk"
+	trait = "hedonist"
+	trait = "lustful"
+	975.1.1 = {birth = yes}
+	1051.5.1 = {death = yes}
+}
+
+7061 = {
+	name = "Viphop"
+	dynasty = 7061
+	dna = "bicloamdfne"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 1
+	intrigue = 4
+	learning = 0
+	trait = "elusive_shadow"
+	943.1.1 = {birth = yes}
+	990.7.30 = {death = yes}
+}
+
+7062 = {
+	name = "Bora"
+	dynasty = 7062
+	dna = "phdkppdlmeo"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 5
+	learning = 2
+	trait = "elusive_shadow"
+	972.1.1 = {birth = yes}
+	1011.11.9 = {death = yes}
+}
+
+7063 = {
+	name = "Bora"
+	dynasty = 7063
+	dna = "kdcedialhac"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 8
+	stewardship = 6
+	intrigue = 6
+	learning = 5
+	trait = "underhanded_rogue"
+	957.1.1 = {birth = yes}
+	996.11.27 = {death = yes}
+}
+
+7064 = {
+	name = "Chenda"
+	female = yes
+	dynasty = 7064
+	dna = "egldhkghapm"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 2
+	intrigue = 3
+	learning = 3
+	trait = "fortune_builder"
+	trait = "syphilitic"
+	939.1.1 = {birth = yes}
+	983.4.28 = {death = yes}
+}
+
+7065 = {
+	name = "Sreykeo"
+	female = yes
+	dynasty = 7065
+	dna = "noehhgmjnme"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 1
+	intrigue = 2
+	learning = 5
+	trait = "skilled_tactician"
+	999.1.1 = {birth = yes}
+	1085.5.1 = {death = yes}
+}
+
+7066 = {
+	name = "Thida"
+	female = yes
+	dynasty = 7066
+	dna = "onigclipjkb"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 6
+	stewardship = 3
+	intrigue = 3
+	learning = 6
+	trait = "fortune_builder"
+	976.1.1 = {birth = yes}
+	1028.5.23 = {death = yes}
+}
+
+7067 = {
+	name = "Seab"
+	female = yes
+	dynasty = 7067
+	dna = "defjbdhlabp"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 8
+	stewardship = 4
+	intrigue = 6
+	learning = 0
+	trait = "charismatic_negotiator"
+	trait = "wounded"
+	936.1.1 = {birth = yes}
+	986.8.26 = {death = yes}
+}
+
+7068 = {
+	name = "Vatey"
+	female = yes
+	dynasty = 7068
+	dna = "ecpnkekgnhc"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 2
+	intrigue = 3
+	learning = 3
+	trait = "tough_soldier"
+	trait = "ill"
+	969.1.1 = {birth = yes}
+	1025.4.3 = {death = yes}
+}
+
+7069 = {
+	name = "Pheakdet"
+	dynasty = 7069
+	dna = "plngkljpmbp"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 5
+	learning = 4
+	trait = "fortune_builder"
+	trait = "poet"
+	979.1.1 = {birth = yes}
+	1037.7.15 = {death = yes}
+}
+
+7070 = {
+	name = "Channary"
+	female = yes
+	dynasty = 7070
+	dna = "ifiikcmejek"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 7
+	stewardship = 0
+	intrigue = 2
+	learning = 3
+	trait = "grey_eminence"
+	trait = "hunter"
+	trait = "wounded"
+	989.1.1 = {birth = yes}
+	1050.7.31 = {death = yes}
+}
+
+7071 = {
+	name = "Sokheng"
+	dynasty = 7071
+	dna = "ahjagfkgmjo"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 2
+	stewardship = 0
+	intrigue = 4
+	learning = 7
+	trait = "underhanded_rogue"
+	947.1.1 = {birth = yes}
+	1008.12.11 = {death = yes}
+}
+
+7072 = {
+	name = "Sreykeo"
+	female = yes
+	dynasty = 7072
+	dna = "inoobbkjhca"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 3
+	learning = 1
+	trait = "indulgent_wastrel"
+	979.1.1 = {birth = yes}
+	1029.9.19 = {death = yes}
+}
+
+7073 = {
+	name = "Sopheap"
+	dynasty = 7073
+	dna = "dobbobgiclp"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 6
+	stewardship = 4
+	intrigue = 2
+	learning = 6
+	trait = "detached_priest"
+	951.1.1 = {birth = yes}
+	1011.12.20 = {death = yes}
+}
+
+7074 = {
+	name = "Phirun"
+	dynasty = 7074
+	dna = "iejmchflepe"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 6
+	learning = 7
+	trait = "brilliant_strategist"
+	936.1.1 = {birth = yes}
+	983.5.2 = {death = yes}
+}
+
+7075 = {
+	name = "Elita"
+	female = yes
+	dynasty = 7075
+	dna = "dcabjpbggdk"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 5
+	intrigue = 5
+	learning = 6
+	trait = "underhanded_rogue"
+	991.1.1 = {birth = yes}
+	1069.6.29 = {death = yes}
+}
+
+7076 = {
+	name = "Bourey"
+	dynasty = 7076
+	dna = "cddakdpfhkp"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 5
+	learning = 4
+	trait = "midas_touched"
+	trait = "depressed"
+	982.1.1 = {birth = yes}
+	1037.7.11 = {death = yes}
+}
+
+7077 = {
+	name = "Channary"
+	female = yes
+	dynasty = 7077
+	dna = "ldemmgldlje"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 6
+	intrigue = 3
+	learning = 4
+	trait = "thrifty_clerk"
+	trait = "humble"
+	976.1.1 = {birth = yes}
+	1025.6.4 = {death = yes}
+}
+
+7078 = {
+	name = "Jorani"
+	female = yes
+	dynasty = 7078
+	dna = "gphicjjpjjo"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 5
+	learning = 3
+	trait = "midas_touched"
+	trait = "duelist"
+	937.1.1 = {birth = yes}
+	986.10.10 = {death = yes}
+}
+
+7079 = {
+	name = "Phhoung"
+	female = yes
+	dynasty = 7079
+	dna = "iaohnolpfja"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 0
+	stewardship = 4
+	intrigue = 2
+	learning = 8
+	trait = "indulgent_wastrel"
+	997.1.1 = {birth = yes}
+	1044.7.2 = {death = yes}
+}
+
+7080 = {
+	name = "Raksa"
+	female = yes
+	dynasty = 7080
+	dna = "ocofpceikfh"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 6
+	stewardship = 4
+	intrigue = 3
+	learning = 5
+	trait = "naive_appeaser"
+	trait = "gardener"
+	trait = "zealous"
+	980.1.1 = {birth = yes}
+	1033.12.11 = {death = yes}
+}
+
+7081 = {
+	name = "Sereyuth"
+	dynasty = 7081
+	dna = "pjfonfmbgil"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 6
+	learning = 5
+	trait = "midas_touched"
+	trait = "wounded"
+	996.1.1 = {birth = yes}
+	1049.4.12 = {death = yes}
+}
+
+7082 = {
+	name = "Pheakdet"
+	dynasty = 7082
+	dna = "ngndmgalfjb"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 6
+	learning = 4
+	trait = "midas_touched"
+	985.1.1 = {birth = yes}
+	1046.10.22 = {death = yes}
+}
+
+7083 = {
+	name = "Chantrea"
+	female = yes
+	dynasty = 7083
+	dna = "chiekidname"
+	culture = psatese
+	religion = seven
+	martial = 8
+	diplomacy = 6
+	stewardship = 1
+	intrigue = 8
+	learning = 2
+	trait = "naive_appeaser"
+	958.1.1 = {birth = yes}
+	998.9.15 = {death = yes}
+}
+
+7084 = {
+	name = "Teige"
+	dynasty = 7084
+	dna = "ielhbmockfm"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 3
+	learning = 3
+	trait = "tough_soldier"
+	trait = "celibate"
+	946.1.1 = {birth = yes}
+	991.6.2 = {death = yes}
+}
+
+7085 = {
+	name = "Phirun"
+	dynasty = 7085
+	dna = "phogdffjlpn"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 1
+	intrigue = 4
+	learning = 3
+	trait = "tough_soldier"
+	trait = "greedy"
+	943.1.1 = {birth = yes}
+	997.8.5 = {death = yes}
+}
+
+7086 = {
+	name = "Chenda"
+	female = yes
+	dynasty = 7086
+	dna = "pajjgphdmje"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 6
+	stewardship = 0
+	intrigue = 4
+	learning = 3
+	trait = "elusive_shadow"
+	trait = "possessed"
+	963.1.1 = {birth = yes}
+	1021.4.7 = {death = yes}
+}
+
+7087 = {
+	name = "Sokyana"
+	dynasty = 7087
+	dna = "aacaleiinfb"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 3
+	learning = 5
+	trait = "grey_eminence"
+	970.1.1 = {birth = yes}
+	1029.5.7 = {death = yes}
+}
+
+7088 = {
+	name = "Toto"
+	dynasty = 7088
+	dna = "eaedbhdpbfl"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 3
+	intrigue = 6
+	learning = 4
+	trait = "grey_eminence"
+	trait = "charitable"
+	982.1.1 = {birth = yes}
+	1050.1.23 = {death = yes}
+}
+
+7089 = {
+	name = "Kalliyan"
+	female = yes
+	dynasty = 7089
+	dna = "mdickfpcfai"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 0
+	intrigue = 0
+	learning = 8
+	trait = "naive_appeaser"
+	943.1.1 = {birth = yes}
+	1020.8.2 = {death = yes}
+}
+
+7090 = {
+	name = "Sopheap"
+	dynasty = 7090
+	dna = "lglbpecgcmp"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 5
+	learning = 4
+	trait = "underhanded_rogue"
+	966.1.1 = {birth = yes}
+	1034.9.9 = {death = yes}
+}
+
+7091 = {
+	name = "Elita"
+	female = yes
+	dynasty = 7091
+	dna = "ggfdlmeljfa"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 4
+	learning = 0
+	trait = "fortune_builder"
+	trait = "wounded"
+	937.1.1 = {birth = yes}
+	992.5.25 = {death = yes}
+}
+
+7092 = {
+	name = "Sovann"
+	dynasty = 7092
+	dna = "efaaoemfnbi"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 7
+	intrigue = 6
+	learning = 8
+	trait = "brilliant_strategist"
+	trait = "celibate"
+	981.1.1 = {birth = yes}
+	1030.11.7 = {death = yes}
+}
+
+7093 = {
+	name = "Sreykeo"
+	female = yes
+	dynasty = 7093
+	dna = "boopgnkhjfm"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 4
+	learning = 3
+	trait = "brilliant_strategist"
+	trait = "gardener"
+	947.1.1 = {birth = yes}
+	1003.1.25 = {death = yes}
+}
+
+7094 = {
+	name = "Puthykol"
+	female = yes
+	dynasty = 7094
+	dna = "hoomcifgdih"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 1
+	learning = 5
+	trait = "charismatic_negotiator"
+	936.1.1 = {birth = yes}
+	1005.6.23 = {death = yes}
+}
+
+7095 = {
+	name = "Seab"
+	female = yes
+	dynasty = 7095
+	dna = "kpljffggakh"
+	culture = psatese
+	religion = seven
+	martial = 8
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 7
+	learning = 7
+	trait = "intricate_webweaver"
+	997.1.1 = {birth = yes}
+	1056.2.29 = {death = yes}
+}
+
+7096 = {
+	name = "Boupha"
+	female = yes
+	dynasty = 7096
+	dna = "koapfmcefbe"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 2
+	intrigue = 5
+	learning = 5
+	trait = "skilled_tactician"
+	958.1.1 = {birth = yes}
+	1024.7.12 = {death = yes}
+}
+
+7097 = {
+	name = "Sokyana"
+	dynasty = 7097
+	dna = "omaobnaapoj"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 2
+	learning = 6
+	trait = "charismatic_negotiator"
+	trait = "zealous"
+	995.1.1 = {birth = yes}
+	1044.4.28 = {death = yes}
+}
+
+7098 = {
+	name = "Sakngea"
+	dynasty = 7098
+	dna = "fndbmendgmb"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 2
+	learning = 6
+	trait = "midas_touched"
+	995.1.1 = {birth = yes}
+	1065.12.9 = {death = yes}
+}
+
+7099 = {
+	name = "Kou"
+	dynasty = 7099
+	dna = "lcklnaejmbb"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 7
+	learning = 0
+	trait = "intricate_webweaver"
+	984.1.1 = {birth = yes}
+	1045.7.15 = {death = yes}
+}
+
+7100 = {
+	name = "Amara"
+	dynasty = 7100
+	dna = "cacnpecmgdp"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 2
+	intrigue = 5
+	learning = 7
+	trait = "intricate_webweaver"
+	990.1.1 = {birth = yes}
+	1060.1.9 = {death = yes}
+}
+
+7101 = {
+	name = "Chenda"
+	female = yes
+	dynasty = 7101
+	dna = "nlehmddlbjc"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 4
+	learning = 8
+	trait = "fortune_builder"
+	946.1.1 = {birth = yes}
+	998.11.5 = {death = yes}
+}
+
+7102 = {
+	name = "Dara"
+	dynasty = 7102
+	dna = "ehogoohkkpo"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 1
+	stewardship = 4
+	intrigue = 6
+	learning = 7
+	trait = "charismatic_negotiator"
+	988.1.1 = {birth = yes}
+	1040.6.2 = {death = yes}
+}
+
+7103 = {
+	name = "Puthykol"
+	female = yes
+	dynasty = 7103
+	dna = "glbhbaldigf"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 2
+	intrigue = 6
+	learning = 2
+	trait = "brilliant_strategist"
+	945.1.1 = {birth = yes}
+	980.12.28 = {death = yes}
+}
+
+7104 = {
+	name = "Vatey"
+	female = yes
+	dynasty = 7104
+	dna = "lonoielobpc"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	trait = "elusive_shadow"
+	995.1.1 = {birth = yes}
+	1044.7.2 = {death = yes}
+}
+
+7105 = {
+	name = "Kolab"
+	female = yes
+	dynasty = 7105
+	dna = "fiplnogemhp"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 2
+	stewardship = 0
+	intrigue = 4
+	learning = 3
+	trait = "flamboyant_schemer"
+	998.1.1 = {birth = yes}
+	1044.1.19 = {death = yes}
+}
+
+7106 = {
+	name = "Thida"
+	female = yes
+	dynasty = 7106
+	dna = "leahnlpgodm"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 1
+	learning = 4
+	trait = "tough_soldier"
+	979.1.1 = {birth = yes}
+	1057.5.24 = {death = yes}
+}
+
+7107 = {
+	name = "Darareaksmey"
+	female = yes
+	dynasty = 7107
+	dna = "pnchdcckhbo"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 2
+	intrigue = 7
+	learning = 6
+	trait = "brilliant_strategist"
+	966.1.1 = {birth = yes}
+	1016.3.18 = {death = yes}
+}
+
+7108 = {
+	name = "Kolab"
+	female = yes
+	dynasty = 7108
+	dna = "ccfijdmncia"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 8
+	intrigue = 4
+	learning = 2
+	trait = "flamboyant_schemer"
+	978.1.1 = {birth = yes}
+	1033.9.20 = {death = yes}
+}
+
+7109 = {
+	name = "Sovann"
+	dynasty = 7109
+	dna = "pgcncmbfmng"
+	culture = psatese
+	religion = seven
+	martial = 8
+	diplomacy = 6
+	stewardship = 3
+	intrigue = 7
+	learning = 1
+	trait = "charismatic_negotiator"
+	942.1.1 = {birth = yes}
+	989.2.20 = {death = yes}
+}
+
+7110 = {
+	name = "Anol"
+	dynasty = 7110
+	dna = "acjmogpmjif"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 8
+	stewardship = 7
+	intrigue = 2
+	learning = 5
+	trait = "detached_priest"
+	968.1.1 = {birth = yes}
+	1028.2.8 = {death = yes}
+}
+
+7111 = {
+	name = "Thida"
+	female = yes
+	dynasty = 7111
+	dna = "ojdnfgdplgb"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 5
+	learning = 4
+	trait = "underhanded_rogue"
+	975.1.1 = {birth = yes}
+	1037.12.14 = {death = yes}
+}
+
+7112 = {
+	name = "Champei"
+	female = yes
+	dynasty = 7112
+	dna = "kfeoobnojkh"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 1
+	learning = 0
+	trait = "intricate_webweaver"
+	trait = "zealous"
+	949.1.1 = {birth = yes}
+	996.6.29 = {death = yes}
+}
+
+7113 = {
+	name = "Sreykeo"
+	female = yes
+	dynasty = 7113
+	dna = "bjaicpgbmhm"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 7
+	learning = 1
+	trait = "detached_priest"
+	trait = "ill"
+	955.1.1 = {birth = yes}
+	989.4.25 = {death = yes}
+}
+
+7114 = {
+	name = "Chhean"
+	female = yes
+	dynasty = 7114
+	dna = "mbbjminfjic"
+	culture = psatese
+	religion = seven
+	martial = 0
+	diplomacy = 6
+	stewardship = 7
+	intrigue = 3
+	learning = 6
+	trait = "naive_appeaser"
+	991.1.1 = {birth = yes}
+	1053.8.28 = {death = yes}
+}
+
+7115 = {
+	name = "Chea"
+	dynasty = 7115
+	dna = "hbknpckfdnc"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 2
+	intrigue = 2
+	learning = 3
+	trait = "grey_eminence"
+	952.1.1 = {birth = yes}
+	1013.5.12 = {death = yes}
+}
+
+7116 = {
+	name = "Maly"
+	female = yes
+	dynasty = 7116
+	dna = "ildebbjmceo"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 4
+	intrigue = 7
+	learning = 2
+	trait = "tough_soldier"
+	948.1.1 = {birth = yes}
+	1006.7.30 = {death = yes}
+}
+
+7117 = {
+	name = "Chantou"
+	female = yes
+	dynasty = 7117
+	dna = "mhafjnkbbab"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 2
+	intrigue = 4
+	learning = 3
+	trait = "midas_touched"
+	trait = "scholar"
+	971.1.1 = {birth = yes}
+	1007.6.11 = {death = yes}
+}
+
+7118 = {
+	name = "Puthykol"
+	female = yes
+	dynasty = 7118
+	dna = "ionebnjiacf"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 6
+	stewardship = 3
+	intrigue = 6
+	learning = 5
+	trait = "detached_priest"
+	940.1.1 = {birth = yes}
+	1013.5.24 = {death = yes}
+}
+
+7119 = {
+	name = "Chea"
+	dynasty = 7119
+	dna = "kbhiefiafef"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 3
+	learning = 2
+	trait = "charismatic_negotiator"
+	992.1.1 = {birth = yes}
+	1041.7.30 = {death = yes}
+}
+
+7120 = {
+	name = "Pheakdet"
+	dynasty = 7120
+	dna = "mimjbeefabc"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 4
+	learning = 7
+	trait = "elusive_shadow"
+	948.1.1 = {birth = yes}
+	974.10.4 = {death = yes}
+}
+
+7121 = {
+	name = "Chantrea"
+	female = yes
+	dynasty = 7121
+	dna = "nabadphplap"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 2
+	learning = 4
+	trait = "skilled_tactician"
+	trait = "honest"
+	973.1.1 = {birth = yes}
+	1025.12.19 = {death = yes}
+}
+
+7122 = {
+	name = "Chhean"
+	female = yes
+	dynasty = 7122
+	dna = "cbpnbpplkhm"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 1
+	learning = 4
+	trait = "charismatic_negotiator"
+	976.1.1 = {birth = yes}
+	1029.9.14 = {death = yes}
+}
+
+7123 = {
+	name = "Elita"
+	female = yes
+	dynasty = 7123
+	dna = "kljpalfmoah"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 5
+	stewardship = 3
+	intrigue = 5
+	learning = 3
+	trait = "grey_eminence"
+	963.1.1 = {birth = yes}
+	1018.3.11 = {death = yes}
+}
+
+7124 = {
+	name = "Chan"
+	female = yes
+	dynasty = 7124
+	dna = "bbgploecpjk"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 6
+	stewardship = 8
+	intrigue = 3
+	learning = 3
+	trait = "elusive_shadow"
+	951.1.1 = {birth = yes}
+	1000.11.13 = {death = yes}
+}
+
+7125 = {
+	name = "Sreykeo"
+	female = yes
+	dynasty = 7125
+	dna = "ahfdceojamp"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 6
+	stewardship = 0
+	intrigue = 2
+	learning = 2
+	trait = "naive_appeaser"
+	trait = "drunkard"
+	971.1.1 = {birth = yes}
+	1032.4.20 = {death = yes}
+}
+
+7126 = {
+	name = "Pheakdet"
+	dynasty = 7126
+	dna = "jjjoiglnnhn"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 1
+	learning = 4
+	trait = "underhanded_rogue"
+	999.1.1 = {birth = yes}
+	1057.6.11 = {death = yes}
+}
+
+7127 = {
+	name = "Vibol"
+	dynasty = 7127
+	dna = "hbhamdfcjmc"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 2
+	intrigue = 4
+	learning = 8
+	trait = "brilliant_strategist"
+	978.1.1 = {birth = yes}
+	1038.11.2 = {death = yes}
+}
+
+7128 = {
+	name = "Darareaksmey"
+	female = yes
+	dynasty = 7128
+	dna = "caoinfefckh"
+	culture = psatese
+	religion = seven
+	martial = 0
+	diplomacy = 7
+	stewardship = 4
+	intrigue = 4
+	learning = 0
+	trait = "brilliant_strategist"
+	trait = "gardener"
+	984.1.1 = {birth = yes}
+	1035.5.26 = {death = yes}
+}
+
+7129 = {
+	name = "Pich"
+	dynasty = 7129
+	dna = "lkahgohlidm"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 0
+	stewardship = 6
+	intrigue = 3
+	learning = 2
+	trait = "flamboyant_schemer"
+	981.1.1 = {birth = yes}
+	1028.10.28 = {death = yes}
+}
+
+7130 = {
+	name = "Viphop"
+	dynasty = 7130
+	dna = "fohlbkedddg"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 7
+	stewardship = 5
+	intrigue = 5
+	learning = 4
+	trait = "skilled_tactician"
+	991.1.1 = {birth = yes}
+	1065.5.19 = {death = yes}
+}
+
+7131 = {
+	name = "Samnang"
+	dynasty = 7131
+	dna = "ejhbphgehgh"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 3
+	stewardship = 0
+	intrigue = 2
+	learning = 3
+	trait = "thrifty_clerk"
+	980.1.1 = {birth = yes}
+	1033.11.6 = {death = yes}
+}
+
+7132 = {
+	name = "Bora"
+	dynasty = 7132
+	dna = "imncnjdmkml"
+	culture = psatese
+	religion = seven
+	martial = 8
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 7
+	learning = 6
+	trait = "tough_soldier"
+	trait = "wounded"
+	937.1.1 = {birth = yes}
+	981.8.4 = {death = yes}
+}
+
+7133 = {
+	name = "Mealea"
+	female = yes
+	dynasty = 7133
+	dna = "faifmmikddp"
+	culture = psatese
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 0
+	learning = 5
+	trait = "intricate_webweaver"
+	978.1.1 = {birth = yes}
+	1014.3.15 = {death = yes}
+}
+
+7134 = {
+	name = "Pich"
+	dynasty = 7134
+	dna = "kdhcnnabkeb"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 4
+	learning = 3
+	trait = "skilled_tactician"
+	trait = "stressed"
+	976.1.1 = {birth = yes}
+	1038.7.28 = {death = yes}
+}
+
+7135 = {
+	name = "Pich"
+	dynasty = 7135
+	dna = "gjnncbgcfkg"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 3
+	intrigue = 4
+	learning = 4
+	trait = "detached_priest"
+	trait = "depressed"
+	998.1.1 = {birth = yes}
+	1069.12.3 = {death = yes}
+}
+
+7136 = {
+	name = "Saron"
+	dynasty = 7136
+	dna = "koihenmflgo"
+	culture = psatese
+	religion = seven
+	martial = 6
+	diplomacy = 7
+	stewardship = 3
+	intrigue = 5
+	learning = 5
+	trait = "charismatic_negotiator"
+	960.1.1 = {birth = yes}
+	1023.9.4 = {death = yes}
+}
+
+7137 = {
+	name = "Lim"
+	dynasty = 7137
+	dna = "lphmilmhnbb"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 0
+	stewardship = 4
+	intrigue = 4
+	learning = 4
+	trait = "tough_soldier"
+	951.1.1 = {birth = yes}
+	1004.5.31 = {death = yes}
+}
+
+7138 = {
+	name = "Bora"
+	dynasty = 7138
+	dna = "kncgepnmahj"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 7
+	learning = 7
+	trait = "naive_appeaser"
+	trait = "paranoid"
+	937.1.1 = {birth = yes}
+	1006.3.5 = {death = yes}
+}
+
+7139 = {
+	name = "Sopheap"
+	dynasty = 7139
+	dna = "cighmepjjif"
+	culture = psatese
+	religion = seven
+	martial = 0
+	diplomacy = 3
+	stewardship = 1
+	intrigue = 5
+	learning = 3
+	trait = "tough_soldier"
+	970.1.1 = {birth = yes}
+	1019.1.18 = {death = yes}
+}
+
+7140 = {
+	name = "Samnang"
+	dynasty = 7140
+	dna = "ihdnpdcmcnk"
+	culture = psatese
+	religion = seven
+	martial = 1
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 6
+	learning = 6
+	trait = "midas_touched"
+	958.1.1 = {birth = yes}
+	1017.6.6 = {death = yes}
+}
+
+7141 = {
+	name = "Dara"
+	dynasty = 7141
+	dna = "fabpoeccnod"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 4
+	learning = 6
+	trait = "underhanded_rogue"
+	trait = "lustful"
+	986.1.1 = {birth = yes}
+	1048.1.29 = {death = yes}
+}
+
+7142 = {
+	name = "Sovann"
+	dynasty = 7142
+	dna = "bikejciiodd"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 1
+	learning = 0
+	trait = "thrifty_clerk"
+	trait = "duelist"
+	958.1.1 = {birth = yes}
+	1023.1.1 = {death = yes}
+}
+
+7143 = {
+	name = "Raksa"
+	female = yes
+	dynasty = 7143
+	dna = "klabpenmfff"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 7
+	stewardship = 1
+	intrigue = 6
+	learning = 2
+	trait = "fortune_builder"
+	965.1.1 = {birth = yes}
+	1012.6.7 = {death = yes}
+}
+
+7144 = {
+	name = "Solyna"
+	female = yes
+	dynasty = 7144
+	dna = "agbmlofidjj"
+	culture = psatese
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 6
+	learning = 7
+	trait = "elusive_shadow"
+	trait = "poet"
+	trait = "drunkard"
+	952.1.1 = {birth = yes}
+	997.1.6 = {death = yes}
+}
+
+7145 = {
+	name = "Pich"
+	dynasty = 7145
+	dna = "gegaigbopbd"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 0
+	stewardship = 2
+	intrigue = 3
+	learning = 7
+	trait = "detached_priest"
+	936.1.1 = {birth = yes}
+	1000.9.23 = {death = yes}
+}
+
+7146 = {
+	name = "Munny"
+	dynasty = 7146
+	dna = "kpfmedkfcei"
+	culture = psatese
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 4
+	intrigue = 5
+	learning = 8
+	trait = "thrifty_clerk"
+	977.1.1 = {birth = yes}
+	1045.6.13 = {death = yes}
+}
+
+7147 = {
+	name = "Sopheap"
+	dynasty = 7147
+	dna = "dlnkhcmdkin"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 7
+	stewardship = 5
+	intrigue = 6
+	learning = 6
+	trait = "charismatic_negotiator"
+	trait = "scholar"
+	trait = "ill"
+	963.1.1 = {birth = yes}
+	1020.6.6 = {death = yes}
+}
+
+7148 = {
+	name = "Bona"
+	dynasty = 7148
+	dna = "kjkandgkmep"
+	culture = psatese
+	religion = seven
+	martial = 7
+	diplomacy = 4
+	stewardship = 0
+	intrigue = 4
+	learning = 6
+	trait = "fortune_builder"
+	952.1.1 = {birth = yes}
+	994.3.27 = {death = yes}
+}
+
+7149 = {
+	name = "Sakngea"
+	dynasty = 7149
+	dna = "nbmmkoadope"
+	culture = psatese
+	religion = seven
+	martial = 2
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 5
+	learning = 1
+	trait = "tough_soldier"
+	943.1.1 = {birth = yes}
+	994.12.3 = {death = yes}
+}
+
+7150 = {
+	name = "Meurah"
+	dynasty = 7150
+	dna = "lpplmggplkp"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 3
+	intrigue = 3
+	learning = 6
+	trait = "intricate_webweaver"
+	trait = "poet"
+	940.1.1 = {birth = yes}
+	994.7.9 = {death = yes}
+}
+
+7151 = {
+	name = "Cik"
+	female = yes
+	dynasty = 7151
+	dna = "pjebbelfmpk"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 5
+	learning = 1
+	trait = "elusive_shadow"
+	trait = "depressed"
+	964.1.1 = {birth = yes}
+	1013.9.30 = {death = yes}
+}
+
+7152 = {
+	name = "Agus"
+	dynasty = 7152
+	dna = "pcecnidlgja"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 4
+	intrigue = 5
+	learning = 4
+	trait = "intricate_webweaver"
+	trait = "poet"
+	956.1.1 = {birth = yes}
+	1007.5.8 = {death = yes}
+}
+
+7153 = {
+	name = "Hapsah"
+	female = yes
+	dynasty = 7153
+	dna = "iokfpeobhpo"
+	culture = northholder
+	religion = seven
+	martial = 8
+	diplomacy = 3
+	stewardship = 0
+	intrigue = 6
+	learning = 7
+	trait = "underhanded_rogue"
+	trait = "celibate"
+	trait = "depressed"
+	971.1.1 = {birth = yes}
+	1045.3.27 = {death = yes}
+}
+
+7154 = {
+	name = "Dumadi"
+	dynasty = 7154
+	dna = "aaniglhhbdn"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 3
+	learning = 2
+	trait = "fortune_builder"
+	963.1.1 = {birth = yes}
+	1029.5.20 = {death = yes}
+}
+
+7155 = {
+	name = "Inseuen"
+	female = yes
+	dynasty = 7155
+	dna = "ehiklabngnl"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 7
+	learning = 6
+	trait = "midas_touched"
+	988.1.1 = {birth = yes}
+	1030.3.10 = {death = yes}
+}
+
+7156 = {
+	name = "Basuki"
+	dynasty = 7156
+	dna = "oglicdhemfj"
+	culture = northholder
+	religion = seven
+	martial = 0
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 2
+	learning = 2
+	trait = "underhanded_rogue"
+	994.1.1 = {birth = yes}
+	1056.3.7 = {death = yes}
+}
+
+7157 = {
+	name = "Dara-Phon-Na"
+	female = yes
+	dynasty = 7157
+	dna = "gcchpojgfgk"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 2
+	intrigue = 5
+	learning = 3
+	trait = "skilled_tactician"
+	trait = "hedonist"
+	956.1.1 = {birth = yes}
+	1014.3.24 = {death = yes}
+}
+
+7158 = {
+	name = "Ujang"
+	dynasty = 7158
+	dna = "jnilekhdbbh"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 7
+	stewardship = 3
+	intrigue = 7
+	learning = 3
+	trait = "flamboyant_schemer"
+	979.1.1 = {birth = yes}
+	1044.3.3 = {death = yes}
+}
+
+7159 = {
+	name = "Agus"
+	dynasty = 7159
+	dna = "bphpffihgfe"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 3
+	learning = 4
+	trait = "underhanded_rogue"
+	trait = "scholar"
+	trait = "zealous"
+	979.1.1 = {birth = yes}
+	1030.3.29 = {death = yes}
+}
+
+7160 = {
+	name = "Izzati"
+	female = yes
+	dynasty = 7160
+	dna = "knmklppljce"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 7
+	learning = 5
+	trait = "thrifty_clerk"
+	trait = "gregarious"
+	944.1.1 = {birth = yes}
+	998.1.25 = {death = yes}
+}
+
+7161 = {
+	name = "Bintang"
+	dynasty = 7161
+	dna = "hbeadhhhnkl"
+	culture = northholder
+	religion = seven
+	martial = 7
+	diplomacy = 8
+	stewardship = 7
+	intrigue = 2
+	learning = 2
+	trait = "skilled_tactician"
+	997.1.1 = {birth = yes}
+	1046.3.11 = {death = yes}
+}
+
+7162 = {
+	name = "Agam-Baro-Na"
+	dynasty = 7162
+	dna = "jfgdbomahko"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 3
+	stewardship = 6
+	intrigue = 7
+	learning = 3
+	trait = "midas_touched"
+	trait = "patient"
+	973.1.1 = {birth = yes}
+	1017.7.5 = {death = yes}
+}
+
+7163 = {
+	name = "Dara-Phon-Na"
+	female = yes
+	dynasty = 7163
+	dna = "cnejaegieml"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 3
+	learning = 3
+	trait = "midas_touched"
+	956.1.1 = {birth = yes}
+	1018.9.12 = {death = yes}
+}
+
+7164 = {
+	name = "Kefli"
+	dynasty = 7164
+	dna = "gcbcnpgamdd"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 8
+	intrigue = 0
+	learning = 6
+	trait = "brilliant_strategist"
+	trait = "wounded"
+	976.1.1 = {birth = yes}
+	1044.11.26 = {death = yes}
+}
+
+7165 = {
+	name = "Nilam"
+	female = yes
+	dynasty = 7165
+	dna = "eaaolehfcpf"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 3
+	learning = 6
+	trait = "midas_touched"
+	956.1.1 = {birth = yes}
+	1009.3.31 = {death = yes}
+}
+
+7166 = {
+	name = "Dollah"
+	dynasty = 7166
+	dna = "kmjibldekcn"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 4
+	learning = 5
+	trait = "elusive_shadow"
+	970.1.1 = {birth = yes}
+	1033.9.29 = {death = yes}
+}
+
+7167 = {
+	name = "Budi"
+	dynasty = 7167
+	dna = "njpakmkgben"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 4
+	learning = 6
+	trait = "thrifty_clerk"
+	977.1.1 = {birth = yes}
+	1012.4.17 = {death = yes}
+}
+
+7168 = {
+	name = "Surintan"
+	female = yes
+	dynasty = 7168
+	dna = "lkfpljccpha"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 1
+	learning = 1
+	trait = "flamboyant_schemer"
+	936.1.1 = {birth = yes}
+	990.7.16 = {death = yes}
+}
+
+7169 = {
+	name = "Kechik"
+	dynasty = 7169
+	dna = "cfejgjhehff"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 6
+	stewardship = 2
+	intrigue = 5
+	learning = 1
+	trait = "fortune_builder"
+	958.1.1 = {birth = yes}
+	1018.7.4 = {death = yes}
+}
+
+7170 = {
+	name = "Deris"
+	dynasty = 7170
+	dna = "ldlopakclff"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 1
+	learning = 7
+	trait = "intricate_webweaver"
+	trait = "temperate"
+	965.1.1 = {birth = yes}
+	1032.1.30 = {death = yes}
+}
+
+7171 = {
+	name = "Bongsu"
+	dynasty = 7171
+	dna = "ninofgdpejf"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 5
+	learning = 3
+	trait = "detached_priest"
+	947.1.1 = {birth = yes}
+	986.6.20 = {death = yes}
+}
+
+7172 = {
+	name = "Suriawati"
+	female = yes
+	dynasty = 7172
+	dna = "nfalflloonj"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 2
+	learning = 7
+	trait = "intricate_webweaver"
+	trait = "scholar"
+	962.1.1 = {birth = yes}
+	1013.8.10 = {death = yes}
+}
+
+7173 = {
+	name = "Nirmala"
+	female = yes
+	dynasty = 7173
+	dna = "hcdbfognmbm"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 6
+	stewardship = 6
+	intrigue = 1
+	learning = 4
+	trait = "brilliant_strategist"
+	967.1.1 = {birth = yes}
+	1020.12.9 = {death = yes}
+}
+
+7174 = {
+	name = "Omar"
+	dynasty = 7174
+	dna = "hhbhlccacko"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 2
+	learning = 6
+	trait = "tough_soldier"
+	936.1.1 = {birth = yes}
+	998.9.23 = {death = yes}
+}
+
+7175 = {
+	name = "Mulia"
+	dynasty = 7175
+	dna = "pdnelkmcgdb"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 4
+	learning = 2
+	trait = "naive_appeaser"
+	982.1.1 = {birth = yes}
+	1029.5.28 = {death = yes}
+}
+
+7176 = {
+	name = "Bujang"
+	dynasty = 7176
+	dna = "knpkohfnjjg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 2
+	learning = 2
+	trait = "tough_soldier"
+	941.1.1 = {birth = yes}
+	1023.5.23 = {death = yes}
+}
+
+7177 = {
+	name = "Mariam"
+	female = yes
+	dynasty = 7177
+	dna = "iddmipkppig"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 6
+	stewardship = 1
+	intrigue = 2
+	learning = 4
+	trait = "charismatic_negotiator"
+	trait = "scholar"
+	954.1.1 = {birth = yes}
+	1015.2.1 = {death = yes}
+}
+
+7178 = {
+	name = "Atan"
+	dynasty = 7178
+	dna = "hfdbniglglf"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 6
+	learning = 5
+	trait = "thrifty_clerk"
+	trait = "scholar"
+	trait = "gluttonous"
+	trait = "wounded"
+	961.1.1 = {birth = yes}
+	1001.6.30 = {death = yes}
+}
+
+7179 = {
+	name = "Dien"
+	female = yes
+	dynasty = 7179
+	dna = "fnlinblcfab"
+	culture = northholder
+	religion = seven
+	martial = 0
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 4
+	learning = 3
+	trait = "brilliant_strategist"
+	946.1.1 = {birth = yes}
+	1000.8.7 = {death = yes}
+}
+
+7180 = {
+	name = "Tanggang"
+	dynasty = 7180
+	dna = "cienmjpilhh"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 1
+	intrigue = 2
+	learning = 7
+	trait = "elusive_shadow"
+	976.1.1 = {birth = yes}
+	1032.4.17 = {death = yes}
+}
+
+7181 = {
+	name = "Teh"
+	dynasty = 7181
+	dna = "iddeppighlg"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 6
+	stewardship = 3
+	intrigue = 2
+	learning = 4
+	trait = "intricate_webweaver"
+	948.1.1 = {birth = yes}
+	975.11.21 = {death = yes}
+}
+
+7182 = {
+	name = "Senin"
+	dynasty = 7182
+	dna = "depjepodkln"
+	culture = northholder
+	religion = seven
+	martial = 8
+	diplomacy = 2
+	stewardship = 5
+	intrigue = 4
+	learning = 4
+	trait = "elusive_shadow"
+	trait = "cruel"
+	997.1.1 = {birth = yes}
+	1061.11.11 = {death = yes}
+}
+
+7183 = {
+	name = "Bintang"
+	dynasty = 7183
+	dna = "lljjndfihoa"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 0
+	stewardship = 8
+	intrigue = 7
+	learning = 2
+	trait = "flamboyant_schemer"
+	trait = "scholar"
+	937.1.1 = {birth = yes}
+	980.5.27 = {death = yes}
+}
+
+7184 = {
+	name = "Noh"
+	dynasty = 7184
+	dna = "jjcaajjobng"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 3
+	learning = 8
+	trait = "tough_soldier"
+	962.1.1 = {birth = yes}
+	1015.6.22 = {death = yes}
+}
+
+7185 = {
+	name = "Putroe"
+	female = yes
+	dynasty = 7185
+	dna = "gddlidogaop"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 4
+	learning = 4
+	trait = "intricate_webweaver"
+	trait = "envious"
+	986.1.1 = {birth = yes}
+	1044.6.18 = {death = yes}
+}
+
+7186 = {
+	name = "Inseuen"
+	female = yes
+	dynasty = 7186
+	dna = "ooflcgpjgjh"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 0
+	intrigue = 5
+	learning = 3
+	trait = "intricate_webweaver"
+	955.1.1 = {birth = yes}
+	1015.4.10 = {death = yes}
+}
+
+7187 = {
+	name = "Indah"
+	female = yes
+	dynasty = 7187
+	dna = "hjedindoikn"
+	culture = northholder
+	religion = seven
+	martial = 7
+	diplomacy = 1
+	stewardship = 3
+	intrigue = 7
+	learning = 3
+	trait = "skilled_tactician"
+	955.1.1 = {birth = yes}
+	1032.3.27 = {death = yes}
+}
+
+7188 = {
+	name = "Masayu"
+	female = yes
+	dynasty = 7188
+	dna = "bhfpkcjhpfp"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 7
+	stewardship = 1
+	intrigue = 3
+	learning = 5
+	trait = "charismatic_negotiator"
+	944.1.1 = {birth = yes}
+	996.5.25 = {death = yes}
+}
+
+7189 = {
+	name = "Agam"
+	dynasty = 7189
+	dna = "johdgcgijda"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 2
+	learning = 1
+	trait = "flamboyant_schemer"
+	trait = "impaler"
+	962.1.1 = {birth = yes}
+	1021.9.28 = {death = yes}
+}
+
+7190 = {
+	name = "Embong"
+	dynasty = 7190
+	dna = "pffajombbol"
+	culture = northholder
+	religion = seven
+	martial = 0
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 0
+	learning = 3
+	trait = "elusive_shadow"
+	965.1.1 = {birth = yes}
+	1018.4.21 = {death = yes}
+}
+
+7191 = {
+	name = "Raja"
+	dynasty = 7191
+	dna = "eofjangmnjp"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 5
+	learning = 7
+	trait = "flamboyant_schemer"
+	961.1.1 = {birth = yes}
+	1023.10.26 = {death = yes}
+}
+
+7192 = {
+	name = "Mahura"
+	female = yes
+	dynasty = 7192
+	dna = "kpeadlcmoeg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 4
+	learning = 2
+	trait = "underhanded_rogue"
+	trait = "mystic"
+	993.1.1 = {birth = yes}
+	1054.6.30 = {death = yes}
+}
+
+7193 = {
+	name = "Suriani"
+	female = yes
+	dynasty = 7193
+	dna = "cbcfiknmigf"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 7
+	intrigue = 7
+	learning = 5
+	trait = "flamboyant_schemer"
+	973.1.1 = {birth = yes}
+	1033.8.20 = {death = yes}
+}
+
+7194 = {
+	name = "Bintang"
+	dynasty = 7194
+	dna = "jpbhpanclok"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 1
+	stewardship = 3
+	intrigue = 5
+	learning = 3
+	trait = "thrifty_clerk"
+	994.1.1 = {birth = yes}
+	1035.12.7 = {death = yes}
+}
+
+7195 = {
+	name = "Zulkifli"
+	dynasty = 7195
+	dna = "ekohheahncf"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 6
+	learning = 5
+	trait = "thrifty_clerk"
+	968.1.1 = {birth = yes}
+	1029.10.6 = {death = yes}
+}
+
+7196 = {
+	name = "Manjalara"
+	female = yes
+	dynasty = 7196
+	dna = "paogmihpcdk"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 3
+	learning = 7
+	trait = "underhanded_rogue"
+	981.1.1 = {birth = yes}
+	1032.9.14 = {death = yes}
+}
+
+7197 = {
+	name = "Indera"
+	dynasty = 7197
+	dna = "obimpggbdhk"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 6
+	stewardship = 4
+	intrigue = 8
+	learning = 5
+	trait = "brilliant_strategist"
+	973.1.1 = {birth = yes}
+	1020.7.24 = {death = yes}
+}
+
+7198 = {
+	name = "Aji"
+	female = yes
+	dynasty = 7198
+	dna = "cbhkpghlidh"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 8
+	stewardship = 1
+	intrigue = 3
+	learning = 6
+	trait = "fortune_builder"
+	trait = "drunkard"
+	971.1.1 = {birth = yes}
+	1031.3.25 = {death = yes}
+}
+
+7199 = {
+	name = "Jebat"
+	dynasty = 7199
+	dna = "ckoaembdmjc"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 5
+	learning = 6
+	trait = "tough_soldier"
+	942.1.1 = {birth = yes}
+	988.8.29 = {death = yes}
+}
+
+7200 = {
+	name = "Agam-Na-Rahmat"
+	dynasty = 7200
+	dna = "npdcihacnjd"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 5
+	learning = 1
+	trait = "misguided_warrior"
+	980.1.1 = {birth = yes}
+	1044.7.25 = {death = yes}
+}
+
+7201 = {
+	name = "Baba"
+	dynasty = 7201
+	dna = "npiljkkohha"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 5
+	learning = 4
+	trait = "elusive_shadow"
+	trait = "ambitious"
+	991.1.1 = {birth = yes}
+	1025.7.12 = {death = yes}
+}
+
+7202 = {
+	name = "Yunos"
+	dynasty = 7202
+	dna = "odgiidgbmfe"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 2
+	learning = 1
+	trait = "grey_eminence"
+	trait = "celibate"
+	947.1.1 = {birth = yes}
+	989.6.27 = {death = yes}
+}
+
+7203 = {
+	name = "Adiputri"
+	female = yes
+	dynasty = 7203
+	dna = "mcoeldaalpm"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 8
+	stewardship = 6
+	intrigue = 2
+	learning = 6
+	trait = "thrifty_clerk"
+	999.1.1 = {birth = yes}
+	1034.2.20 = {death = yes}
+}
+
+7204 = {
+	name = "Pertiwi"
+	female = yes
+	dynasty = 7204
+	dna = "aalbidbblhc"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 4
+	learning = 7
+	trait = "flamboyant_schemer"
+	trait = "hedonist"
+	988.1.1 = {birth = yes}
+	1034.11.20 = {death = yes}
+}
+
+7205 = {
+	name = "Keumala"
+	female = yes
+	dynasty = 7205
+	dna = "haghgggcehe"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 6
+	learning = 6
+	trait = "charismatic_negotiator"
+	964.1.1 = {birth = yes}
+	1017.12.28 = {death = yes}
+}
+
+7206 = {
+	name = "Yeop"
+	dynasty = 7206
+	dna = "edbakmnnhpm"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 0
+	stewardship = 3
+	intrigue = 7
+	learning = 5
+	trait = "flamboyant_schemer"
+	944.1.1 = {birth = yes}
+	998.8.4 = {death = yes}
+}
+
+7207 = {
+	name = "Delima"
+	female = yes
+	dynasty = 7207
+	dna = "ohmildaiema"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 2
+	learning = 3
+	trait = "skilled_tactician"
+	trait = "mystic"
+	944.1.1 = {birth = yes}
+	1015.12.30 = {death = yes}
+}
+
+7208 = {
+	name = "Demang"
+	dynasty = 7208
+	dna = "kakainpcfbp"
+	culture = northholder
+	religion = seven
+	martial = 7
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 1
+	learning = 4
+	trait = "flamboyant_schemer"
+	977.1.1 = {birth = yes}
+	1036.12.3 = {death = yes}
+}
+
+7209 = {
+	name = "Kemuning"
+	female = yes
+	dynasty = 7209
+	dna = "ebfjpdgfecb"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 7
+	intrigue = 6
+	learning = 7
+	trait = "intricate_webweaver"
+	977.1.1 = {birth = yes}
+	1009.8.30 = {death = yes}
+}
+
+7210 = {
+	name = "Teguh-Agam-Meutuwah"
+	dynasty = 7210
+	dna = "cohhgmlpemj"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 0
+	learning = 4
+	trait = "skilled_tactician"
+	trait = "mystic"
+	999.1.1 = {birth = yes}
+	1058.10.8 = {death = yes}
+}
+
+7211 = {
+	name = "Latipah"
+	female = yes
+	dynasty = 7211
+	dna = "fbjmpmhpkfg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 5
+	intrigue = 5
+	learning = 6
+	trait = "intricate_webweaver"
+	trait = "poet"
+	996.1.1 = {birth = yes}
+	1043.9.15 = {death = yes}
+}
+
+7212 = {
+	name = "Seutia"
+	female = yes
+	dynasty = 7212
+	dna = "bgaamolpeeg"
+	culture = northholder
+	religion = seven
+	martial = 7
+	diplomacy = 2
+	stewardship = 7
+	intrigue = 5
+	learning = 6
+	trait = "skilled_tactician"
+	956.1.1 = {birth = yes}
+	1019.9.29 = {death = yes}
+}
+
+7213 = {
+	name = "Gapi"
+	dynasty = 7213
+	dna = "nchncnkiajb"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 1
+	intrigue = 7
+	learning = 2
+	trait = "detached_priest"
+	976.1.1 = {birth = yes}
+	1041.12.9 = {death = yes}
+}
+
+7214 = {
+	name = "Embun"
+	female = yes
+	dynasty = 7214
+	dna = "gdhefcifkfk"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 6
+	learning = 5
+	trait = "fortune_builder"
+	trait = "duelist"
+	980.1.1 = {birth = yes}
+	1053.11.3 = {death = yes}
+}
+
+7215 = {
+	name = "Teratai"
+	female = yes
+	dynasty = 7215
+	dna = "ckcgfopeabd"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 1
+	stewardship = 2
+	intrigue = 6
+	learning = 7
+	trait = "skilled_tactician"
+	976.1.1 = {birth = yes}
+	1022.12.11 = {death = yes}
+}
+
+7216 = {
+	name = "Teh"
+	dynasty = 7216
+	dna = "oiillhkdphl"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 2
+	learning = 2
+	trait = "fortune_builder"
+	958.1.1 = {birth = yes}
+	1018.12.5 = {death = yes}
+}
+
+7217 = {
+	name = "Kesuma"
+	dynasty = 7217
+	dna = "gfoemhokcfg"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 3
+	stewardship = 3
+	intrigue = 2
+	learning = 7
+	trait = "tough_soldier"
+	trait = "possessed"
+	974.1.1 = {birth = yes}
+	1029.10.30 = {death = yes}
+}
+
+7218 = {
+	name = "Budiarto"
+	dynasty = 7218
+	dna = "fpjobaeejij"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 7
+	intrigue = 4
+	learning = 4
+	trait = "brilliant_strategist"
+	984.1.1 = {birth = yes}
+	1027.7.26 = {death = yes}
+}
+
+7219 = {
+	name = "Adiputri"
+	female = yes
+	dynasty = 7219
+	dna = "hdkbijiceol"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 8
+	intrigue = 4
+	learning = 5
+	trait = "thrifty_clerk"
+	956.1.1 = {birth = yes}
+	996.9.25 = {death = yes}
+}
+
+7220 = {
+	name = "Haron"
+	dynasty = 7220
+	dna = "nileomfccpg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 5
+	learning = 4
+	trait = "tough_soldier"
+	trait = "maimed"
+	977.1.1 = {birth = yes}
+	1023.4.30 = {death = yes}
+}
+
+7221 = {
+	name = "Mariah"
+	female = yes
+	dynasty = 7221
+	dna = "abmagbfphge"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 4
+	learning = 5
+	trait = "naive_appeaser"
+	trait = "mystic"
+	963.1.1 = {birth = yes}
+	1009.7.28 = {death = yes}
+}
+
+7222 = {
+	name = "Jeumpa"
+	dynasty = 7222
+	dna = "ibnjmdhfjip"
+	culture = northholder
+	religion = seven
+	martial = 7
+	diplomacy = 6
+	stewardship = 7
+	intrigue = 3
+	learning = 7
+	trait = "underhanded_rogue"
+	trait = "depressed"
+	963.1.1 = {birth = yes}
+	1000.4.23 = {death = yes}
+}
+
+7223 = {
+	name = "Yati"
+	female = yes
+	dynasty = 7223
+	dna = "ckaoknmafgm"
+	culture = northholder
+	religion = seven
+	martial = 8
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 6
+	learning = 6
+	trait = "brilliant_strategist"
+	983.1.1 = {birth = yes}
+	1038.6.29 = {death = yes}
+}
+
+7224 = {
+	name = "Dayang"
+	female = yes
+	dynasty = 7224
+	dna = "mkpaclaimil"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 2
+	learning = 8
+	trait = "misguided_warrior"
+	trait = "depressed"
+	977.1.1 = {birth = yes}
+	1017.2.20 = {death = yes}
+}
+
+7225 = {
+	name = "Minah"
+	female = yes
+	dynasty = 7225
+	dna = "diikdgabiao"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 6
+	intrigue = 7
+	learning = 5
+	trait = "indulgent_wastrel"
+	trait = "ill"
+	942.1.1 = {birth = yes}
+	1013.6.8 = {death = yes}
+}
+
+7226 = {
+	name = "Cahya"
+	female = yes
+	dynasty = 7226
+	dna = "nkaamcidnbb"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 6
+	stewardship = 7
+	intrigue = 6
+	learning = 5
+	trait = "elusive_shadow"
+	986.1.1 = {birth = yes}
+	1042.4.2 = {death = yes}
+}
+
+7227 = {
+	name = "Agam-Na-Rahmat"
+	dynasty = 7227
+	dna = "obepadncljc"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 6
+	intrigue = 5
+	learning = 2
+	trait = "fortune_builder"
+	946.1.1 = {birth = yes}
+	990.2.10 = {death = yes}
+}
+
+7228 = {
+	name = "Yunos"
+	dynasty = 7228
+	dna = "kedgooomgje"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 0
+	intrigue = 3
+	learning = 7
+	trait = "thrifty_clerk"
+	trait = "chaste"
+	951.1.1 = {birth = yes}
+	1004.11.6 = {death = yes}
+}
+
+7229 = {
+	name = "Yahaya"
+	dynasty = 7229
+	dna = "dinkndgkdka"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 6
+	stewardship = 4
+	intrigue = 2
+	learning = 7
+	trait = "underhanded_rogue"
+	trait = "slothful"
+	964.1.1 = {birth = yes}
+	1006.4.9 = {death = yes}
+}
+
+7230 = {
+	name = "Seri"
+	female = yes
+	dynasty = 7230
+	dna = "dkdanmgbeag"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 1
+	stewardship = 7
+	intrigue = 4
+	learning = 2
+	trait = "grey_eminence"
+	960.1.1 = {birth = yes}
+	1023.10.11 = {death = yes}
+}
+
+7231 = {
+	name = "Delima"
+	female = yes
+	dynasty = 7231
+	dna = "nofcpoebdmm"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 3
+	learning = 4
+	trait = "flamboyant_schemer"
+	941.1.1 = {birth = yes}
+	997.5.8 = {death = yes}
+}
+
+7232 = {
+	name = "Sepiah"
+	female = yes
+	dynasty = 7232
+	dna = "pmpamijbgll"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 2
+	stewardship = 5
+	intrigue = 4
+	learning = 6
+	trait = "flamboyant_schemer"
+	962.1.1 = {birth = yes}
+	1027.4.8 = {death = yes}
+}
+
+7233 = {
+	name = "Jumaat"
+	dynasty = 7233
+	dna = "ipkhllnikfg"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 0
+	intrigue = 2
+	learning = 1
+	trait = "thrifty_clerk"
+	945.1.1 = {birth = yes}
+	981.12.12 = {death = yes}
+}
+
+7234 = {
+	name = "Mahura"
+	female = yes
+	dynasty = 7234
+	dna = "fhecehlmglf"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 4
+	learning = 4
+	trait = "flamboyant_schemer"
+	956.1.1 = {birth = yes}
+	998.5.14 = {death = yes}
+}
+
+7235 = {
+	name = "Usop"
+	dynasty = 7235
+	dna = "gbnminldeaj"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 2
+	learning = 2
+	trait = "tough_soldier"
+	943.1.1 = {birth = yes}
+	990.6.25 = {death = yes}
+}
+
+7236 = {
+	name = "Anuar"
+	dynasty = 7236
+	dna = "cbahgfacbal"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 7
+	learning = 3
+	trait = "thrifty_clerk"
+	995.1.1 = {birth = yes}
+	1041.5.11 = {death = yes}
+}
+
+7237 = {
+	name = "Dara-Phon-Na"
+	female = yes
+	dynasty = 7237
+	dna = "bappaoieoaj"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 7
+	intrigue = 5
+	learning = 1
+	trait = "skilled_tactician"
+	969.1.1 = {birth = yes}
+	1028.11.2 = {death = yes}
+}
+
+7238 = {
+	name = "Sari"
+	female = yes
+	dynasty = 7238
+	dna = "pbokhndlfeb"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 5
+	stewardship = 2
+	intrigue = 5
+	learning = 5
+	trait = "fortune_builder"
+	trait = "ill"
+	940.1.1 = {birth = yes}
+	997.8.9 = {death = yes}
+}
+
+7239 = {
+	name = "Tipah"
+	female = yes
+	dynasty = 7239
+	dna = "jgkaneoafbi"
+	culture = northholder
+	religion = seven
+	martial = 0
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 4
+	learning = 3
+	trait = "flamboyant_schemer"
+	946.1.1 = {birth = yes}
+	988.7.15 = {death = yes}
+}
+
+7240 = {
+	name = "Adiputri"
+	female = yes
+	dynasty = 7240
+	dna = "achnnpnpagk"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 3
+	learning = 5
+	trait = "underhanded_rogue"
+	trait = "depressed"
+	946.1.1 = {birth = yes}
+	997.4.6 = {death = yes}
+}
+
+7241 = {
+	name = "Danial"
+	dynasty = 7241
+	dna = "ofalpccodba"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 5
+	stewardship = 6
+	intrigue = 5
+	learning = 5
+	trait = "charismatic_negotiator"
+	958.1.1 = {birth = yes}
+	1016.10.12 = {death = yes}
+}
+
+7242 = {
+	name = "Indah"
+	female = yes
+	dynasty = 7242
+	dna = "fmlangiaghg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 6
+	stewardship = 1
+	intrigue = 8
+	learning = 5
+	trait = "brilliant_strategist"
+	949.1.1 = {birth = yes}
+	999.12.18 = {death = yes}
+}
+
+7243 = {
+	name = "Bagus"
+	dynasty = 7243
+	dna = "ndgenhpjapk"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 4
+	learning = 2
+	trait = "misguided_warrior"
+	trait = "depressed"
+	970.1.1 = {birth = yes}
+	1013.10.3 = {death = yes}
+}
+
+7244 = {
+	name = "Jenab"
+	female = yes
+	dynasty = 7244
+	dna = "hlpjjkmpmde"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 4
+	intrigue = 1
+	learning = 7
+	trait = "flamboyant_schemer"
+	trait = "mystic"
+	953.1.1 = {birth = yes}
+	1006.1.14 = {death = yes}
+}
+
+7245 = {
+	name = "Blet"
+	female = yes
+	dynasty = 7245
+	dna = "ooeojcancda"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 5
+	intrigue = 0
+	learning = 6
+	trait = "detached_priest"
+	trait = "cynical"
+	938.1.1 = {birth = yes}
+	989.12.10 = {death = yes}
+}
+
+7246 = {
+	name = "Saadong"
+	female = yes
+	dynasty = 7246
+	dna = "addlaogddhb"
+	culture = northholder
+	religion = seven
+	martial = 0
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 4
+	learning = 5
+	trait = "indulgent_wastrel"
+	953.1.1 = {birth = yes}
+	1001.2.19 = {death = yes}
+}
+
+7247 = {
+	name = "Aishah"
+	female = yes
+	dynasty = 7247
+	dna = "odlmongnocf"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 3
+	stewardship = 6
+	intrigue = 7
+	learning = 5
+	trait = "indulgent_wastrel"
+	972.1.1 = {birth = yes}
+	1023.10.28 = {death = yes}
+}
+
+7248 = {
+	name = "Mad"
+	dynasty = 7248
+	dna = "ocodeocdjcf"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 7
+	stewardship = 5
+	intrigue = 6
+	learning = 6
+	trait = "fortune_builder"
+	995.1.1 = {birth = yes}
+	1055.1.20 = {death = yes}
+}
+
+7249 = {
+	name = "Malim"
+	dynasty = 7249
+	dna = "nijhifgmjfk"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 2
+	intrigue = 2
+	learning = 3
+	trait = "fortune_builder"
+	trait = "shy"
+	950.1.1 = {birth = yes}
+	981.3.27 = {death = yes}
+}
+
+7250 = {
+	name = "Cahya"
+	female = yes
+	dynasty = 7250
+	dna = "ppgplpkjbmc"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 3
+	stewardship = 0
+	intrigue = 6
+	learning = 2
+	trait = "grey_eminence"
+	trait = "brave"
+	945.1.1 = {birth = yes}
+	998.9.19 = {death = yes}
+}
+
+7251 = {
+	name = "Tipah"
+	female = yes
+	dynasty = 7251
+	dna = "dkeejmjpiio"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 8
+	intrigue = 7
+	learning = 3
+	trait = "tough_soldier"
+	992.1.1 = {birth = yes}
+	1051.11.15 = {death = yes}
+}
+
+7252 = {
+	name = "Yaakob"
+	dynasty = 7252
+	dna = "pgaahnngien"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 6
+	stewardship = 3
+	intrigue = 6
+	learning = 3
+	trait = "brilliant_strategist"
+	trait = "just"
+	trait = "ill"
+	962.1.1 = {birth = yes}
+	1023.7.29 = {death = yes}
+}
+
+7253 = {
+	name = "Adi"
+	dynasty = 7253
+	dna = "coobigbmoff"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 4
+	learning = 5
+	trait = "thrifty_clerk"
+	trait = "gardener"
+	999.1.1 = {birth = yes}
+	1052.10.12 = {death = yes}
+}
+
+7254 = {
+	name = "Harum"
+	female = yes
+	dynasty = 7254
+	dna = "jhnianaemfg"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 6
+	learning = 7
+	trait = "skilled_tactician"
+	trait = "drunkard"
+	990.1.1 = {birth = yes}
+	1042.6.13 = {death = yes}
+}
+
+7255 = {
+	name = "Indah"
+	female = yes
+	dynasty = 7255
+	dna = "lmombjmdkhc"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 2
+	learning = 2
+	trait = "flamboyant_schemer"
+	trait = "wounded"
+	972.1.1 = {birth = yes}
+	1028.3.2 = {death = yes}
+}
+
+7256 = {
+	name = "Kuntum"
+	female = yes
+	dynasty = 7256
+	dna = "khfhgmmpbbf"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 4
+	learning = 4
+	trait = "flamboyant_schemer"
+	944.1.1 = {birth = yes}
+	992.3.30 = {death = yes}
+}
+
+7257 = {
+	name = "Puteh"
+	dynasty = 7257
+	dna = "ofdlnkbephh"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 5
+	stewardship = 7
+	intrigue = 4
+	learning = 8
+	trait = "intricate_webweaver"
+	973.1.1 = {birth = yes}
+	1034.8.19 = {death = yes}
+}
+
+7258 = {
+	name = "Tempawan"
+	female = yes
+	dynasty = 7258
+	dna = "nofofogmgcc"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 4
+	intrigue = 4
+	learning = 7
+	trait = "fortune_builder"
+	953.1.1 = {birth = yes}
+	1025.12.17 = {death = yes}
+}
+
+7259 = {
+	name = "Hitam"
+	dynasty = 7259
+	dna = "klbmanicnca"
+	culture = northholder
+	religion = seven
+	martial = 0
+	diplomacy = 5
+	stewardship = 5
+	intrigue = 3
+	learning = 6
+	trait = "thrifty_clerk"
+	trait = "celibate"
+	984.1.1 = {birth = yes}
+	1034.5.21 = {death = yes}
+}
+
+7260 = {
+	name = "Puspawati"
+	female = yes
+	dynasty = 7260
+	dna = "edjblelhdfh"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 8
+	stewardship = 7
+	intrigue = 5
+	learning = 5
+	trait = "indulgent_wastrel"
+	trait = "celibate"
+	945.1.1 = {birth = yes}
+	997.1.13 = {death = yes}
+}
+
+7261 = {
+	name = "Murni"
+	female = yes
+	dynasty = 7261
+	dna = "jmpomkoolhh"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 1
+	stewardship = 2
+	intrigue = 3
+	learning = 3
+	trait = "fortune_builder"
+	trait = "scholar"
+	938.1.1 = {birth = yes}
+	1005.2.9 = {death = yes}
+}
+
+7262 = {
+	name = "Kembang"
+	female = yes
+	dynasty = 7262
+	dna = "kjcjenekgep"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 4
+	learning = 3
+	trait = "midas_touched"
+	997.1.1 = {birth = yes}
+	1066.9.4 = {death = yes}
+}
+
+7263 = {
+	name = "Kembang"
+	female = yes
+	dynasty = 7263
+	dna = "lgggojpjdfg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 4
+	learning = 4
+	trait = "thrifty_clerk"
+	trait = "celibate"
+	947.1.1 = {birth = yes}
+	998.2.3 = {death = yes}
+}
+
+7264 = {
+	name = "Agam"
+	dynasty = 7264
+	dna = "pejenifjmpn"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 7
+	learning = 8
+	trait = "misguided_warrior"
+	983.1.1 = {birth = yes}
+	1039.1.4 = {death = yes}
+}
+
+7265 = {
+	name = "Puspa"
+	female = yes
+	dynasty = 7265
+	dna = "ojplnkjnfij"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 1
+	trait = "intricate_webweaver"
+	947.1.1 = {birth = yes}
+	1017.5.5 = {death = yes}
+}
+
+7266 = {
+	name = "Wati"
+	female = yes
+	dynasty = 7266
+	dna = "efjcijabgmh"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 5
+	stewardship = 3
+	intrigue = 5
+	learning = 7
+	trait = "fortune_builder"
+	trait = "humble"
+	965.1.1 = {birth = yes}
+	1006.12.14 = {death = yes}
+}
+
+7267 = {
+	name = "Jiwa"
+	dynasty = 7267
+	dna = "fbjmmbhhamb"
+	culture = northholder
+	religion = seven
+	martial = 8
+	diplomacy = 4
+	stewardship = 3
+	intrigue = 6
+	learning = 5
+	trait = "midas_touched"
+	964.1.1 = {birth = yes}
+	1013.3.26 = {death = yes}
+}
+
+7268 = {
+	name = "Embun"
+	female = yes
+	dynasty = 7268
+	dna = "liaciobkmdp"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 2
+	intrigue = 3
+	learning = 6
+	trait = "thrifty_clerk"
+	962.1.1 = {birth = yes}
+	1002.8.10 = {death = yes}
+}
+
+7269 = {
+	name = "Perang"
+	dynasty = 7269
+	dna = "lnndhgolnld"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 6
+	intrigue = 4
+	learning = 2
+	trait = "intricate_webweaver"
+	trait = "humble"
+	trait = "possessed"
+	962.1.1 = {birth = yes}
+	1021.1.20 = {death = yes}
+}
+
+7270 = {
+	name = "Minah"
+	female = yes
+	dynasty = 7270
+	dna = "gmjinocnmhg"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 4
+	stewardship = 4
+	intrigue = 3
+	learning = 4
+	trait = "fortune_builder"
+	trait = "ill"
+	963.1.1 = {birth = yes}
+	1025.2.19 = {death = yes}
+}
+
+7271 = {
+	name = "Puteh"
+	dynasty = 7271
+	dna = "mbcogiemejn"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 4
+	stewardship = 0
+	intrigue = 4
+	learning = 7
+	trait = "grey_eminence"
+	953.1.1 = {birth = yes}
+	1013.11.6 = {death = yes}
+}
+
+7272 = {
+	name = "Bentara"
+	dynasty = 7272
+	dna = "hgdeafpggcd"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 4
+	stewardship = 5
+	intrigue = 3
+	learning = 0
+	trait = "intricate_webweaver"
+	960.1.1 = {birth = yes}
+	1008.6.21 = {death = yes}
+}
+
+7273 = {
+	name = "Sayang"
+	female = yes
+	dynasty = 7273
+	dna = "cnoafjpjkmi"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 3
+	stewardship = 7
+	intrigue = 3
+	learning = 1
+	trait = "thrifty_clerk"
+	trait = "impaler"
+	trait = "trusting"
+	967.1.1 = {birth = yes}
+	1027.6.27 = {death = yes}
+}
+
+7274 = {
+	name = "Seri"
+	female = yes
+	dynasty = 7274
+	dna = "lhbonjgbghj"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 3
+	learning = 4
+	trait = "charismatic_negotiator"
+	989.1.1 = {birth = yes}
+	1041.12.26 = {death = yes}
+}
+
+7275 = {
+	name = "Cempaka"
+	female = yes
+	dynasty = 7275
+	dna = "fpidemkomhm"
+	culture = northholder
+	religion = seven
+	martial = 8
+	diplomacy = 5
+	stewardship = 1
+	intrigue = 7
+	learning = 4
+	trait = "charismatic_negotiator"
+	997.1.1 = {birth = yes}
+	1057.3.14 = {death = yes}
+}
+
+7276 = {
+	name = "Luncai"
+	dynasty = 7276
+	dna = "nbknialgbdm"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 4
+	learning = 8
+	trait = "underhanded_rogue"
+	998.1.1 = {birth = yes}
+	1065.12.11 = {death = yes}
+}
+
+7277 = {
+	name = "Bintang"
+	dynasty = 7277
+	dna = "aphjfhkojen"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 3
+	stewardship = 6
+	intrigue = 7
+	learning = 4
+	trait = "tough_soldier"
+	998.1.1 = {birth = yes}
+	1060.3.18 = {death = yes}
+}
+
+7278 = {
+	name = "Andika"
+	dynasty = 7278
+	dna = "jjohgmdpkce"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 1
+	stewardship = 5
+	intrigue = 3
+	learning = 4
+	trait = "intricate_webweaver"
+	trait = "depressed"
+	986.1.1 = {birth = yes}
+	1037.1.2 = {death = yes}
+}
+
+7279 = {
+	name = "Buleuen"
+	female = yes
+	dynasty = 7279
+	dna = "ononefdfkpm"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 3
+	stewardship = 4
+	intrigue = 7
+	learning = 1
+	trait = "tough_soldier"
+	trait = "celibate"
+	987.1.1 = {birth = yes}
+	1059.5.17 = {death = yes}
+}
+
+7280 = {
+	name = "Intan"
+	female = yes
+	dynasty = 7280
+	dna = "imhggpfcegd"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 5
+	stewardship = 1
+	intrigue = 5
+	learning = 1
+	trait = "thrifty_clerk"
+	trait = "honest"
+	951.1.1 = {birth = yes}
+	1008.2.5 = {death = yes}
+}
+
+7281 = {
+	name = "Gapeueh"
+	dynasty = 7281
+	dna = "pbggdcnjjdh"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 1
+	learning = 2
+	trait = "skilled_tactician"
+	999.1.1 = {birth = yes}
+	1058.1.30 = {death = yes}
+}
+
+7282 = {
+	name = "Malim"
+	dynasty = 7282
+	dna = "jnpbonbpfmg"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 7
+	stewardship = 6
+	intrigue = 2
+	learning = 4
+	trait = "skilled_tactician"
+	982.1.1 = {birth = yes}
+	1047.7.27 = {death = yes}
+}
+
+7283 = {
+	name = "Budi"
+	dynasty = 7283
+	dna = "pahldgfbiki"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 7
+	stewardship = 4
+	intrigue = 2
+	learning = 8
+	trait = "thrifty_clerk"
+	995.1.1 = {birth = yes}
+	1048.6.4 = {death = yes}
+}
+
+7284 = {
+	name = "Demak"
+	dynasty = 7284
+	dna = "njojifnhglk"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 0
+	stewardship = 3
+	intrigue = 1
+	learning = 5
+	trait = "tough_soldier"
+	953.1.1 = {birth = yes}
+	991.11.25 = {death = yes}
+}
+
+7285 = {
+	name = "Melati"
+	female = yes
+	dynasty = 7285
+	dna = "gofefmfmkoa"
+	culture = northholder
+	religion = seven
+	martial = 3
+	diplomacy = 1
+	stewardship = 4
+	intrigue = 4
+	learning = 6
+	trait = "grey_eminence"
+	942.1.1 = {birth = yes}
+	985.12.18 = {death = yes}
+}
+
+7286 = {
+	name = "Harum"
+	female = yes
+	dynasty = 7286
+	dna = "fjgoipclpod"
+	culture = northholder
+	religion = seven
+	martial = 8
+	diplomacy = 5
+	stewardship = 0
+	intrigue = 5
+	learning = 3
+	trait = "tough_soldier"
+	936.1.1 = {birth = yes}
+	978.12.28 = {death = yes}
+}
+
+7287 = {
+	name = "Geumpa"
+	dynasty = 7287
+	dna = "dcfgjijoinj"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 4
+	learning = 7
+	trait = "grey_eminence"
+	936.1.1 = {birth = yes}
+	980.3.14 = {death = yes}
+}
+
+7288 = {
+	name = "Jiwa"
+	dynasty = 7288
+	dna = "hcembknafnf"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 6
+	stewardship = 5
+	intrigue = 2
+	learning = 5
+	trait = "grey_eminence"
+	978.1.1 = {birth = yes}
+	1040.1.12 = {death = yes}
+}
+
+7289 = {
+	name = "Surintan"
+	female = yes
+	dynasty = 7289
+	dna = "ohngbndkhll"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 4
+	learning = 4
+	trait = "thrifty_clerk"
+	976.1.1 = {birth = yes}
+	1029.10.25 = {death = yes}
+}
+
+7290 = {
+	name = "Bambang"
+	dynasty = 7290
+	dna = "eedcpdidkib"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 6
+	stewardship = 4
+	intrigue = 5
+	learning = 4
+	trait = "thrifty_clerk"
+	trait = "honest"
+	940.1.1 = {birth = yes}
+	978.10.5 = {death = yes}
+}
+
+7291 = {
+	name = "Adi"
+	dynasty = 7291
+	dna = "egjnonedodg"
+	culture = northholder
+	religion = seven
+	martial = 5
+	diplomacy = 7
+	stewardship = 3
+	intrigue = 4
+	learning = 4
+	trait = "underhanded_rogue"
+	trait = "poet"
+	975.1.1 = {birth = yes}
+	1052.6.28 = {death = yes}
+}
+
+7292 = {
+	name = "Sayang"
+	female = yes
+	dynasty = 7292
+	dna = "lkgljokchhk"
+	culture = northholder
+	religion = seven
+	martial = 6
+	diplomacy = 2
+	stewardship = 4
+	intrigue = 4
+	learning = 2
+	trait = "detached_priest"
+	997.1.1 = {birth = yes}
+	1051.12.4 = {death = yes}
+}
+
+7293 = {
+	name = "Keumala"
+	female = yes
+	dynasty = 7293
+	dna = "fopbgjaedlb"
+	culture = northholder
+	religion = seven
+	martial = 2
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 6
+	learning = 5
+	trait = "midas_touched"
+	951.1.1 = {birth = yes}
+	986.5.7 = {death = yes}
+}
+
+7294 = {
+	name = "Mirah"
+	female = yes
+	dynasty = 7294
+	dna = "apokbadople"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 3
+	stewardship = 2
+	intrigue = 2
+	learning = 5
+	trait = "thrifty_clerk"
+	987.1.1 = {birth = yes}
+	1051.9.13 = {death = yes}
+}
+
+7295 = {
+	name = "Hamengku"
+	dynasty = 7295
+	dna = "mcmdhnafbjh"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 7
+	stewardship = 1
+	intrigue = 6
+	learning = 4
+	trait = "detached_priest"
+	trait = "impaler"
+	996.1.1 = {birth = yes}
+	1026.11.8 = {death = yes}
+}
+
+7296 = {
+	name = "Teguh-Agam-Meutuwah"
+	dynasty = 7296
+	dna = "mefomlmafbc"
+	culture = northholder
+	religion = seven
+	martial = 1
+	diplomacy = 2
+	stewardship = 3
+	intrigue = 6
+	learning = 7
+	trait = "detached_priest"
+	987.1.1 = {birth = yes}
+	1041.7.16 = {death = yes}
+}
+
+7297 = {
+	name = "Nerang"
+	dynasty = 7297
+	dna = "amolbjakebh"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 6
+	stewardship = 8
+	intrigue = 4
+	learning = 4
+	trait = "naive_appeaser"
+	961.1.1 = {birth = yes}
+	1007.10.2 = {death = yes}
+}
+
+7298 = {
+	name = "Indera"
+	dynasty = 7298
+	dna = "enomknejbeg"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 4
+	stewardship = 6
+	intrigue = 4
+	learning = 4
+	trait = "thrifty_clerk"
+	trait = "impaler"
+	trait = "just"
+	974.1.1 = {birth = yes}
+	1019.11.10 = {death = yes}
+}
+
+7299 = {
+	name = "Maya"
+	female = yes
+	dynasty = 7299
+	dna = "aglpfkacohd"
+	culture = northholder
+	religion = seven
+	martial = 4
+	diplomacy = 1
+	stewardship = 1
+	intrigue = 5
+	learning = 3
+	trait = "charismatic_negotiator"
+	trait = "hunter"
+	946.1.1 = {birth = yes}
+	996.6.3 = {death = yes}
+}
