@@ -773,8 +773,8 @@ e_freelands;7451
 			c_kenisma;0
 	k_clearlake;0
 		d_kirayor;0
-			c_bideva;0
-			c_tideva;0
+			c_bideva;7665		d_free_forts
+			c_tideva;7665		d_free_forts
 			c_keleva;0
 		d_karard;0
 			c_orslunis;7695
@@ -788,8 +788,8 @@ e_freelands;7451
 			c_aggarra;7683
 		d_nehio;0
 			c_zion;7653
-			c_barina;7665		d_free_forts
-			c_rina;7668			d_free_forts
+			c_barina;7653
+			c_rina;7647
 			c_atheia;7647
 		d_clearlake;7612
 			c_clearlake;7612
@@ -798,7 +798,7 @@ e_freelands;7451
 			c_kyaratta;7656		d_clearlake
 		d_titansrest;0
 			c_nelenku;0
-			c_nekat;0
+			c_nekat;7668		d_free_forts
 			c_damengar;0
 			c_kideva;0
 			c_todai;0

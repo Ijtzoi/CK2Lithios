@@ -1,4 +1,3 @@
 992.1.1 = {
-	liege = d_free_forts
-	holder = 7665
+	holder = 7653
 }
