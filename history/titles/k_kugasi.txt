@@ -1,4 +1,4 @@
 992.1.1 = {
-	holder = 4008
 	liege = e_wavolm
+	holder = 4008
 }
