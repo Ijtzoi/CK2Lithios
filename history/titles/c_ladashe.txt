@@ -1,3 +1,4 @@
 992.1.1 = {
-	holder = 7450
+	liege = k_southport
+	holder = 7499
 }

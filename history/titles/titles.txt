@@ -666,10 +666,10 @@ e_deeproots;0
 e_freelands;7451
 	k_southport;7450
 		d_rashe;7450
-			c_ladashe;7450
-			c_efadashe;7450
+			c_ladashe;7499			k_southport
+			c_efadashe;7499			k_southport
 			c_sakudah;7450
-			c_qadelet;7450
+			c_qadelet;7481			k_southport
 		d_taromo;7457				k_southport
 			c_ladudah;7457			k_southport
 			c_bamenku;7457			k_southport
@@ -699,83 +699,83 @@ e_freelands;7451
 			c_rodai;7502
 			c_tang;7502
 			c_tadomo;7502
-	k_korvalla;0
+	k_korvalla;7328
 		d_samodai;0
 		d_taruma;0
-			c_dazindik;0
-			c_karoza;0
-			c_qarenr;0
-			c_tanoza;0
+			c_dazindik;7314			d_free_forts
+			c_karoza;7310			d_free_forts
+			c_qarenr;7384			d_free_forts
+			c_tanoza;7365			d_free_forts
 		d_kutan;0
-			c_kamarka;0
-			c_wazigo;0
-			c_qarahor;0
-			c_telquin;0
-			c_ninirma;0
+			c_kamarka;7331			k_korvalla
+			c_wazigo;7401
+			c_qarahor;7328
+			c_telquin;7367
+			c_ninirma;7328
 		d_asvitigo;0
-			c_tarutan;0
-			c_nanuma;0
-			c_woanara;0
-			c_warirma;0
-			c_katusoy;0
+			c_tarutan;7433			d_free_forts
+			c_nanuma;7423			d_free_forts
+			c_woanara;7399			d_free_forts
+			c_warirma;7318			d_free_forts
+			c_katusoy;7361			d_free_forts
 		d_kinyuk;0
-			c_ezoza;0
-			c_bazindik;0
-			c_nisayor;0
-			c_myoboku;0
-			c_richvein;0
+			c_ezoza;7203			d_sanctum_isle
+			c_bazindik;7203			d_sanctum_isle
+			c_nisayor;7203			d_sanctum_isle
+			c_myoboku;7429			d_sanctum_isle
+			c_richvein;7416
 	k_psat;0
-		d_qurardaz;0
-			c_ruwikne;0
-			c_ryarikne;0
-			c_tyareke;0
-			c_simand;0
+		d_qurardaz;7012
+			c_ruwikne;7012
+			c_ryarikne;7012
+			c_tyareke;7019			d_qurardaz
+			c_simand;7012
 		d_likne;0
-			c_kanand;0
-			c_eralib;0
-			c_barirma;0
-		d_greenhill;0
-			c_tibatan;0
-			c_damemma;0
-			c_qazenr;0
-			c_raroza;0
-			c_banunes;0
-		d_freeshore;0
-			c_lyaracob;0
-			c_qyarunes;0
-			c_tyarand;0
-			c_loand;0
+			c_kanand;7175			d_sanctum_isle
+			c_eralib;7196			d_sanctum_isle
+			c_barirma;7175			d_sanctum_isle
+		d_greenhill;7023
+			c_tibatan;7033			d_greenhill
+			c_damemma;7023
+			c_qazenr;7039			d_greenhill
+			c_raroza;7196			d_sanctum_isle
+			c_banunes;7023			d_greenhill
+		d_freeshore;7045
+			c_lyaracob;7045
+			c_qyarunes;7041			d_freeshore
+			c_tyarand;7045
+			c_loand;7046			d_freeshore
 		d_datalso;0
-			c_achralla;0
-			c_southhold;0
-			c_akalard;0
-		d_tamarka;0
-			c_sanueri;0
-			c_banirma;0
-			c_atibikne;0
-			c_renand;0
-			c_tarikne;0
-		d_sanctum_isle;0
-			c_etimida;0
-			c_raysu;0
+			c_achralla;7054
+			c_southhold;7015
+			c_akalard;7002			d_greenhill
+		d_tamarka;7021
+			c_sanueri;7021
+			c_banirma;7003			d_tamarka
+			c_atibikne;7021
+			c_renand;7025			d_tamarka
+			c_tarikne;7048			d_tamarka
+		d_sanctum_isle;7172
+			c_etimida;7172
+			c_raysu;7172
 		d_timita;0
-			c_tanunes;0
-			c_raracob;0
-			c_buralib;0
-			c_ryarand;0
+			c_tanunes;7036		d_sanctum_isle
+			c_raracob;7159		d_sanctum_isle
+			c_buralib;7036		d_sanctum_isle
+			c_ryarand;7159		d_sanctum_isle
 		d_runta;0
 			c_plenstruu;7005
-			c_psatsedge;0
-			c_schkliv;0
-		d_totosi;0
-			c_ribirma;0
-			c_greenbanks;0
-			c_kenisma;0
+			c_psatsedge;7050
+			c_schkliv;7043
+		d_totosi;7053
+			c_ribirma;7038		d_totosi
+			c_greenbanks;7053
+			c_kenisma;7038		d_totosi
 	k_clearlake;0
 		d_kirayor;0
 			c_bideva;7665		d_free_forts
 			c_tideva;7665		d_free_forts
-			c_keleva;0
+			c_keleva;7624		d_free_forts
 		d_karard;0
 			c_orslunis;7695
 			c_slorisun;7701
@@ -796,41 +796,41 @@ e_freelands;7451
 			c_luhina;7630		d_clearlake
 			c_wimaul;7654		d_clearlake
 			c_kyaratta;7656		d_clearlake
-		d_titansrest;0
-			c_nelenku;0
+		d_titansrest;7613
+			c_nelenku;7613
 			c_nekat;7668		d_free_forts
-			c_damengar;0
-			c_kideva;0
-			c_todai;0
-	k_watrun;0
-		d_westguard;0
-			c_ejarorad;0
-			c_rerolke;0
-			c_yalgire;0
+			c_damengar;7613
+			c_kideva;7613
+			c_todai;7668		d_free_forts
+	k_watrun;7878
+		d_westguard;7810
+			c_ejarorad;7810
+			c_rerolke;7810
+			c_yalgire;7799
 		d_rakaud;0
-			c_elovarid;0
-			c_omora;0
-			c_surina;0
-			c_westport;0
-		d_genesca;0
-			c_listrik;0
-			c_noleph;0
-			c_narid;0
+			c_elovarid;7851
+			c_omora;7867
+			c_surina;7867
+			c_westport;7851
+		d_genesca;7824
+			c_listrik;7816
+			c_noleph;7824
+			c_narid;7824
 		d_nareph;0
-			c_ablastcha;0
-			c_simula;0
-			c_cranlask;0
-			c_sayun;0
-			c_daratta;0
-			c_wariya;0
-		d_swiftstream;0
-			c_waraul;0
-			c_nuramnai;0
-			c_jiit;0
-		d_ixabor;0
-			c_qorarka;0
-			c_tashe;0
-			c_kakin;0
+			c_ablastcha;7854
+			c_simula;7854
+			c_cranlask;7827
+			c_sayun;7886		k_watrun
+			c_daratta;7865		k_watrun
+			c_wariya;7878
+		d_swiftstream;7899
+			c_waraul;7899
+			c_nuramnai;7899
+			c_jiit;7883
+		d_ixabor;7842
+			c_qorarka;7834		d_ixabor
+			c_tashe;7834		d_ixabor
+			c_kakin;7842
 e_nonka;0
 	k_kanigh;0
 		d_rotosi;0
@@ -1518,7 +1518,7 @@ e_hell;0
 			c_amang;0
 			c_aidelet;0
 		d_wenipe;0
-			c_bashe;0
+			c_bashe;7520			d_free_forts
 			c_qaxudah;0
 			c_lore;0
 			c_wetath;0

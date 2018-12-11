@@ -128,6 +128,7 @@
 }
 7033 = {
 	name = Nattar
+	culture = psatese
 }
 7034 = {
 	name = Pallavaraayar
@@ -594,6 +595,7 @@
 }
 7150 = {
 	name = Chiguluri
+	culture = northholder
 }
 7151 = {
 	name = Chinthamalla Munnangi
@@ -1233,6 +1235,7 @@
 }
 7311 = {
 	name = Fujii
+	culture = korvallan
 }
 7312 = {
 	name = Fujimoto
@@ -1312,6 +1315,7 @@
 }
 7331 = {
 	name = Hosokawa
+	culture = korvallan
 }
 7332 = {
 	name = Ikeda
@@ -2310,6 +2314,7 @@
 }
 7582 = {
 	name = Berti
+	culture = southporter
 }
 7583 = {
 	name = Bianco
@@ -2469,6 +2474,7 @@
 }
 7623 = {
 	name = Causer
+	culture = clearlakian
 }
 7624 = {
 	name = Chambers
@@ -3433,6 +3439,7 @@
 }
 7865 = {
 	name = Patenaude
+	culture = watren
 }
 7866 = {
 	name = Pelletier
