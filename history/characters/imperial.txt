@@ -1,5 +1,6 @@
 8000={
-name="Amadeus"
+name="Arastina"
+female=yes
 dynasty=8000
 dna="fngkbafjbkb"
 culture=imperial
