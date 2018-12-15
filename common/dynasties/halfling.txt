@@ -1,0 +1,2247 @@
+5000={
+	name="af Island"
+	culture="lightfoot"
+}
+
+5001={
+	name="Brusastad"
+	culture="lightfoot"
+}
+
+5002={
+	name="Porse"
+	culture="lightfoot"
+}
+
+5003={
+	name="Grip"
+	culture="lightfoot"
+}
+
+5004={
+	name="Bolt"
+	culture="lightfoot"
+}
+
+5005={
+	name="Svarte"
+	culture="lightfoot"
+}
+
+5006={
+	name="Skancke"
+	culture="lightfoot"
+}
+
+5007={
+	name="Thornberg"
+	culture="lightfoot"
+}
+
+5008={
+	name="Giske"
+	culture="lightfoot"
+}
+
+5009={
+	name="Ribbing"
+	culture="lightfoot"
+}
+
+5010={
+	name="Bååt"
+	culture="lightfoot"
+}
+
+5011={
+	name="Raud"
+	culture="lightfoot"
+}
+
+5012={
+	name="Gullbjelke"
+	culture="lightfoot"
+}
+
+5013={
+	name="Hesby"
+	culture="lightfoot"
+}
+
+5014={
+	name="Ulv"
+	culture="lightfoot"
+}
+
+5015={
+	name="Sparre"
+	culture="lightfoot"
+}
+
+5016={
+	name="Färla"
+	culture="lightfoot"
+}
+
+5017={
+	name="Brahe"
+	culture="lightfoot"}
+
+5018={
+	name="af Rumby"
+	culture="lightfoot"
+}
+
+5019={
+	name="af Brunnsholm"
+	culture="lightfoot"
+}
+
+5020={
+	name="af Ulvåsa"
+	culture="lightfoot"
+}
+
+5021={
+	name="Sjöblad"
+	culture="lightfoot"
+}
+
+5022={
+	name="av Sudreim"
+	culture="lightfoot"
+}
+
+5023={
+	name="Skarsholm"
+	culture="lightfoot"}
+
+5024={
+	name="Blå"
+	culture="lightfoot"
+}
+
+5025={
+	name="Natt och Dag"
+	culture="lightfoot"
+}
+
+5026={
+	name="Griphuvud"
+	culture="lightfoot"
+}
+
+5027={
+	name="Lejon"
+	culture="lightfoot"
+}
+
+5028={
+	name="Glysing"
+	culture="lightfoot"
+}
+
+5029={
+	name="Bielke"
+	culture="lightfoot"
+}
+
+5030={
+	name="af Bjälbo"
+	culture="lightfoot"
+}
+
+5031={
+	name="av Norge"
+	culture="lightfoot"}
+
+5032={
+	name="af Danmark"
+	culture="lightfoot"
+}
+
+5033={
+	name="Ulfhilde"
+	culture="lightfoot"
+}
+
+5034={
+	name="Erik"
+	culture="lightfoot"
+}
+
+5035={
+	name="av Freysey"
+	culture="lightfoot"
+}
+
+5036={
+	name="av Sudrey"
+	culture="lightfoot"
+}
+
+5037={
+	name="av Sola"
+	culture="lightfoot"
+}
+
+5038={
+	name="av Aurland"
+	culture="lightfoot"
+}
+
+5039={
+	name="Briem"
+	culture="lightfoot"
+}
+
+5040={
+	name="Kormákur"
+	culture="lightfoot"}
+
+5041={
+	name="Gautur"
+	culture="lightfoot"}
+
+5042={
+	name="av Gimse"
+	culture="lightfoot"
+}
+
+5043={
+	name="Laxness"
+	culture="lightfoot"
+}
+
+5044={
+	name="Gisking"
+	culture="lightfoot"
+}
+
+5045={
+	name="Kvaran"
+	culture="lightfoot"}
+
+5046={
+	name="Hagalín"
+	culture="lightfoot"
+}
+
+5047={
+	name="Eldjárn"
+	culture="lightfoot"}
+
+5048={
+	name="Mjøll"
+	culture="lightfoot"}
+
+5049={
+	name="Nótt"
+	culture="lightfoot"}
+
+5050={
+	name="Huld"
+	culture="lightfoot"
+}
+
+5051={
+	name="Hafstein"
+	culture="lightfoot"
+}
+
+5052={
+	name="af Orkneyjar"
+	culture="lightfoot"
+}
+
+5053={
+	name="Bløndal"
+	culture="lightfoot"}
+
+5054={
+	name="Finne"
+	culture="lightfoot"}
+
+5055={
+	name="Orri"
+	culture="lightfoot"}
+
+5056={
+	name="Grønske"
+	culture="lightfoot"}
+
+5057={
+	name="Ómar"
+	culture="lightfoot"
+}
+
+5058={
+	name="Nordal"
+	culture="lightfoot"}
+
+5059={
+	name="Trætte"
+	culture="lightfoot"
+}
+
+5060={
+	name="Kjærnested"
+	culture="lightfoot"}
+
+5061={
+	name="Icey"
+	culture="lightfoot"
+}
+
+5062={
+	name="Mule"
+	culture="lightfoot"
+}
+
+5063={
+	name="Bjørk"
+	culture="lightfoot"}
+
+5064={
+	name="Dosenrode"
+	culture="lightfoot"}
+
+5065={
+	name="Haarde"
+	culture="lightfoot"}
+
+5066={
+	name="Alfing"
+	culture="lightfoot"
+}
+
+5067={
+	name="Ósk"
+	culture="lightfoot"
+}
+
+5068={
+	name="af Bornholm"
+	culture="lightfoot"
+}
+
+5069={
+	name="Ásbrning"
+	culture="lightfoot"}
+
+5070={
+	name="Haukdaelir"
+	culture="lightfoot"
+}
+
+5071={
+	name="Oddaverjar"
+	culture="lightfoot"}
+
+5072={
+	name="af Viborg"
+	culture="lightfoot"}
+
+5073={
+	name="Hvide"
+	culture="lightfoot"
+}
+
+5074={
+	name="Sprakalegg"
+	culture="lightfoot"}
+
+5075={
+	name="Sturlung"
+	culture="lightfoot"}
+
+5076={
+	name="Svínfelling"
+	culture="lightfoot"}
+
+5077={
+	name="Vatnsfirðing"
+	culture="lightfoot"}
+
+5078={
+	name="Estrid"
+	culture="lightfoot"
+}
+
+5079={
+	name="Ormslev"
+	culture="lightfoot"}
+
+5080={
+	name="Gnarr"
+	culture="lightfoot"}
+
+5081={
+	name="Knytling"
+	culture="lightfoot"
+}
+
+5082={
+	name="af Roden"
+	culture="lightfoot"
+}
+
+5083={
+	name="af Tofta"
+	culture="lightfoot"
+}
+
+5084={
+	name="af Hamra"
+	culture="lightfoot"
+}
+
+5085={
+	name="af Akebäck"
+	culture="lightfoot"
+}
+
+5086={
+	name="Stenkyrka"
+	culture="lightfoot"
+}
+
+5087={
+	name="Sverker"
+	culture="lightfoot"
+}
+
+5088={
+	name="Horn"
+	culture="lightfoot"
+}
+
+5089={
+	name="Stenkiling"
+	culture="lightfoot"
+}
+
+5090={
+	name="Yngling"
+	culture="lightfoot"
+}
+
+5091={
+	name="af Skogla"
+	culture="lightfoot"
+}
+
+5092={
+	name="af Munsö"
+	culture="lightfoot"
+}
+
+5093={
+	name="Bjering"
+	culture="lightfoot"}
+
+5094={
+	name="Rothén"
+	culture="lightfoot"}
+
+5095={
+	name="Galen"
+	culture="lightfoot"
+}
+
+5096={
+	name="Läma"
+	culture="lightfoot"
+}
+
+5097={
+	name="Rumby"
+	culture="lightfoot"}
+
+5098={
+	name="Djäkn"
+	culture="lightfoot"}
+
+5099={
+	name="Svärd"
+	culture="lightfoot"}
+
+5100={
+	name="Bagge"
+	culture="lightfoot"}
+
+5101={
+	name="Jute"
+	culture="lightfoot"
+}
+
+5102={
+	name="Ulfing"
+	culture="lightfoot"
+}
+
+5103={
+	name="Gautske"
+	culture="lightfoot"
+}
+
+5104={
+	name="Väse"
+	culture="lightfoot"
+}
+
+5105={
+	name="Njudunge"
+	culture="lightfoot"
+}
+
+5106={
+	name="Gute"
+	culture="lightfoot"
+}
+
+5107={
+	name="Stórr"
+	culture="lightfoot"}
+
+5108={
+	name="Värending"
+	culture="lightfoot"
+}
+
+5109={
+	name="Holming"
+	culture="lightfoot"
+}
+
+5110={
+	name="Borg"
+	culture="lightfoot"
+}
+
+5111={
+	name="Nerking"
+	culture="lightfoot"
+}
+
+5112={
+	name="Auster"
+	culture="lightfoot"
+}
+
+5113={
+	name="Hammer"
+	culture="lightfoot"
+}
+
+5114={
+	name="Bleik"
+	culture="lightfoot"
+}
+
+5115={
+	name="Falk"
+	culture="lightfoot"
+}
+
+5116={
+	name="Hede"
+	culture="lightfoot"
+}
+
+5117={
+	name="Kauping"
+	culture="lightfoot"
+}
+
+5118={
+	name="Styr"
+	culture="lightfoot"
+}
+
+5119={
+	name="Anward"
+	culture="lightfoot"
+}
+
+5120={
+	name="Palmqvist"
+	culture="lightfoot"
+}
+
+5121={
+	name="Vogelius"
+	culture="lightfoot"
+}
+
+5122={
+	name="Bodlund"
+	culture="lightfoot"
+}
+
+5123={
+	name="Lugmaïr"
+	culture="lightfoot"
+}
+
+5124={
+	name="Harnesk"
+	culture="lightfoot"
+}
+
+5125={
+	name="Bermann"
+	culture="lightfoot"
+}
+
+5126={
+	name="Sparrhult"
+	culture="lightfoot"
+}
+
+5127={
+	name="Sålder"
+	culture="lightfoot"
+}
+
+5128={
+	name="Oltner"
+	culture="lightfoot"
+}
+
+5129={
+	name="Skager"
+	culture="lightfoot"
+}
+
+5130={
+	name="Sjöberg"
+	culture="lightfoot"
+}
+
+5131={
+	name="Brock"
+	culture="lightfoot"
+}
+
+5132={
+	name="Norberg"
+	culture=swedish
+}
+
+5133={
+	name="Hallberg"
+	culture="lightfoot"
+}
+
+5134={
+	name="Borg"
+	culture="lightfoot"
+}
+
+5135={
+	name="Holmsen"
+	culture="lightfoot"
+}
+
+5136={
+	name="Tiger"
+	culture="lightfoot"
+}
+
+5137={
+	name="av Egilstaðir"
+	culture="lightfoot"
+}
+
+5138={
+	name="Fjeld"
+	culture="lightfoot"
+}
+
+5139={
+	name="Bornebusch"
+	culture="lightfoot"
+}
+
+5140={
+	name="af Pynn"
+	culture="lightfoot"
+}
+
+5141={
+	name="Kolbotn"
+	culture="lightfoot"
+}
+
+5142={
+	name="Johansson"
+	culture="lightfoot"
+}
+
+5143={
+	name="Odinson"
+	culture="lightfoot"
+}
+
+5144={
+	name="Huyderman"
+	culture="lightfoot"
+}
+
+5145={
+	name="Björkman"
+	culture="lightfoot"
+}
+
+5146={
+	name="Berg"
+	culture="lightfoot"
+}
+
+5147={
+	name="Lindeus"
+	culture="lightfoot"
+}
+
+5148={
+	name="Carlberg"
+	culture="lightfoot"
+}
+
+5149={
+	name="Witzén"
+	culture="lightfoot"
+}
+
+5150={
+	name="Hofverberg"
+	culture="lightfoot"
+}
+
+5151={
+	name="Banner"
+	culture="lightfoot"}
+
+5152={
+	name="Bese"
+	culture="lightfoot"}
+
+5153={
+	name="Boberg"
+	culture="lightfoot"}
+
+5154={
+	name="Bragde"
+	culture="lightfoot"}
+
+5155={
+	name="Bure"
+	culture="lightfoot"}
+
+5156={
+	name="Eka"
+	culture="lightfoot"}
+
+5157={
+	name="Fargalt"
+	culture="lightfoot"}
+
+5158={
+	name="af Fånö"
+	culture="lightfoot"}
+
+5159={
+	name="Forsa"
+	culture="lightfoot"}
+
+5160={
+	name="Get"
+	culture="lightfoot"}
+
+5161={
+	name="Gedda"
+	culture="lightfoot"}
+
+5162={
+	name="af Hafrid"
+	culture="lightfoot"}
+
+5163={
+	name="Hatt"
+	culture="lightfoot"}
+
+5164={
+	name="af Hålbonäs"
+	culture="lightfoot"}
+
+5165={
+	name="Hästhuvud"
+	culture="lightfoot"}
+
+5166={
+	name="Knoppe"
+	culture="lightfoot"}
+
+5167={
+	name="Kraam"
+	culture="lightfoot"}
+
+5168={
+	name="Lake"
+	culture="lightfoot"}
+
+5169={
+	name="Lejonansikte"
+	culture="lightfoot"}
+
+5170={
+	name="Lejonbalk"
+	culture="lightfoot"}
+
+5171={
+	name="Marsvin"
+	culture="lightfoot"}
+
+5172={
+	name="Oxhufvud"
+	culture="lightfoot"}
+
+5173={
+	name="Oxpanna"
+	culture="lightfoot"}
+
+5174={
+	name="Pik"
+	culture="lightfoot"}
+
+5175={
+	name="Skytte"
+	culture="lightfoot"
+}
+
+5176={
+	name="Stake"
+	culture="lightfoot"
+}
+
+5177={
+	name="Stenbock"
+	culture="lightfoot"
+}
+
+5178={
+	name="Sture"
+	culture="lightfoot"
+}
+
+5179={
+	name="Svan"
+	culture="lightfoot"}
+
+5180={
+	name="Svinhufvud"
+	culture="lightfoot"}
+
+5181={
+	name="Thott"
+	culture="lightfoot"}
+
+5182={
+	name="Tott"
+	culture="lightfoot"}
+
+5183={
+	name="Tre Rosor"
+	culture="lightfoot"
+}
+
+5184={
+	name="Tre Rutor"
+	culture="lightfoot"}
+
+5185={
+	name="Trolle"
+	culture="lightfoot"
+}
+
+5186={
+	name="Vasa"
+	culture="lightfoot"}
+
+5187={
+	name="Vinstorpa"
+	culture="lightfoot"}
+
+5188={
+	name="Virske"
+	culture="lightfoot"}
+
+5189={
+	name="Vingad Pil"
+	culture="lightfoot"}
+
+5190={
+	name="Vingad Lilja"
+	culture="lightfoot"}
+
+5191={
+	name="Hästesko"
+	culture="lightfoot"}
+
+5192={
+	name="Örnsparre"
+	culture="lightfoot"}
+
+5193={
+	name="Snedbielke"
+	culture="lightfoot"}
+
+5194={
+	name="Läma"
+	culture="lightfoot"}
+
+5195={
+	name="Fluga"
+	culture="lightfoot"}
+
+5196={
+	name="Karmanjaka"
+	culture="lightfoot"
+}
+
+5197={
+	name="Guldtupp"
+	culture="lightfoot"}
+
+5198={
+	name="Ulfsax"
+	culture="lightfoot"}
+
+5199={
+	name="Hæsteining"
+	culture="lightfoot"
+}
+
+5200={
+	name="Tre Sjöblad"
+	culture="lightfoot"}
+
+5201={
+	name="Stjerne"
+	culture="lightfoot"}
+
+5202={
+	name="Kráka"
+	culture="lightfoot"}
+
+5203={
+	name="Mikli"
+	culture="lightfoot"}
+
+5204={
+	name="Smiðr"
+	culture="lightfoot"}
+
+5205={
+	name="Möring"
+	culture="lightfoot"}
+
+5206={
+	name="Gárdske"
+	culture="lightfoot"}
+
+5207={
+	name="Trolli"
+	culture="lightfoot"}
+
+5208={
+	name="Kven"
+	culture="lightfoot"}
+
+5209={
+	name="Toki"
+	culture="lightfoot"}
+
+5210={
+	name="Hárde"
+	culture="lightfoot"}
+
+5211={
+	name="Eyjing"
+	culture="lightfoot"}
+
+5212={
+	name="Orming"
+	culture="lightfoot"
+}
+
+5213={
+	name="Hrafn"
+	culture="lightfoot"
+}
+
+5214={
+	name="Goði"
+	culture="lightfoot"}
+
+5215={
+	name="Austmaðr"
+	culture="lightfoot"}
+
+5216={
+	name="Hávi"
+	culture="lightfoot"}
+
+5217={
+	name="Rakki"
+	culture="lightfoot"}
+
+5218={
+	name="Refr"
+	culture="lightfoot"
+}
+
+5219={
+	name="Skrauti"
+	culture="lightfoot"}
+
+5220={
+	name="Snarfari"
+	culture="lightfoot"}
+
+5221={
+	name="Stafr"
+	culture="lightfoot"
+}
+
+5222={
+	name="Strangi"
+	culture="lightfoot"}
+
+5223={
+	name="Snjalli"
+	culture="lightfoot"}
+
+5224={
+	name="Súrr"
+	culture="lightfoot"}
+
+5225={
+	name="Skáld"
+	culture="lightfoot"}
+
+5226={
+	name="Viss"
+	culture="lightfoot"}
+
+5227={
+	name="Þrymr"
+	culture="lightfoot"}
+
+5228={
+	name="Þvari"
+	culture="lightfoot"}
+
+5229={
+	name="Ölfúss"
+	culture="lightfoot"}
+
+5230={
+	name="Örn"
+	culture="lightfoot"}
+
+5231={
+	name="Hvíti"
+	culture="lightfoot"
+}
+
+5232={
+	name="Sterki"
+	culture="lightfoot"}
+
+5233={
+	name="Auðgi"
+	culture="lightfoot"}
+
+5234={
+	name="Rauði"
+	culture="lightfoot"
+}
+
+5235={
+	name="Spaki"
+	culture="lightfoot"}
+
+5236={
+	name="Svarti"
+	culture="lightfoot"
+}
+
+5237={
+	name="Rammi"
+	culture="lightfoot"}
+
+5238={
+	name="Mjóvi"
+	culture="lightfoot"}
+
+5239={
+	name="Ríki"
+	culture="lightfoot"}
+
+5240={
+	name="Lambi"
+	culture="lightfoot"}
+
+5241={
+	name="Skarfr"
+	culture="lightfoot"}
+
+5242={
+	name="Skál"
+	culture="lightfoot"}
+
+5243={
+	name="Sleggja"
+	culture="lightfoot"}
+
+5244={
+	name="Smjör"
+	culture="lightfoot"}
+
+5245={
+	name="Stjarna"
+	culture="lightfoot"}
+
+5246={
+	name="Strúgr"
+	culture="lightfoot"}
+
+5247={
+	name="Sælendingr"
+	culture="lightfoot"}
+
+5248={
+	name="Súrr"
+	culture="lightfoot"}
+
+5249={
+	name="Sælingr"
+	culture="lightfoot"}
+
+5250={
+	name="Trausti"
+	culture="lightfoot"}
+
+5251={
+	name="Veðr"
+	culture="lightfoot"}
+
+5252={
+	name="Vámúli"
+	culture="lightfoot"}
+
+5253={
+	name="Væni"
+	culture="lightfoot"}
+
+5254={
+	name="Þistill"
+	culture="lightfoot"}
+
+5255={
+	name="Þjófi"
+	culture="lightfoot"}
+
+5256={
+	name="Þynning"
+	culture="lightfoot"}
+
+5257={
+	name="Benkestokk"
+	culture="lightfoot"}
+
+5258={
+	name="Handingmann"
+	culture="lightfoot"}
+
+5259={
+	name="Aspa"
+	culture="lightfoot"}
+
+5260={
+	name="Aurland"
+	culture="lightfoot"}
+
+5261={
+	name="Bjarkøy"
+	culture="lightfoot"}
+
+5262={
+	name="Andenes"
+	culture="lightfoot"}
+
+5263={
+	name="Blakar"
+	culture="lightfoot"}
+
+5264={
+	name="Blindheim"
+	culture="lightfoot"}
+
+5265={
+	name="Botner"
+	culture="lightfoot"}
+
+5266={
+	name="Bratt"
+	culture="lightfoot"}
+
+5267={
+	name="Darre"
+	culture="lightfoot"}
+
+5268={
+	name="Egge"
+	culture="lightfoot"}
+
+5269={
+	name="Asdal"
+	culture="lightfoot"}
+
+5270={
+	name="Hudfat"
+	culture="lightfoot"}
+
+5271={
+	name="Hård"
+	culture="lightfoot"}
+
+5272={
+	name="Kane"
+	culture="lightfoot"}
+
+5273={
+	name="Kusse"
+	culture="lightfoot"}
+
+5274={
+	name="Losna"
+	culture="lightfoot"}
+
+5275={
+	name="Munk"
+	culture="lightfoot"}
+
+5276={
+	name="Ringnes"
+	culture="lightfoot"}
+
+5277={
+	name="Semeleng"
+	culture="lightfoot"}
+
+5278={
+	name="Spånheim"
+	culture="lightfoot"}
+
+5279={
+	name="Gjesling"
+	culture="lightfoot"}
+
+5280={
+	name="Sudrheim"
+	culture="lightfoot"}
+
+5281={
+	name="Talgje"
+	culture="lightfoot"}
+
+5282={
+	name="Teiste"
+	culture="lightfoot"}
+
+5283={
+	name="Østby"
+	culture="lightfoot"}
+
+5284={
+	name="Østråt"
+	culture="lightfoot"}
+
+5285={
+	name="Rein"
+	culture="lightfoot"
+}
+
+5286={
+	name="Giske"
+	culture="lightfoot"}
+
+5287={
+	name="Kamp"
+	culture="lightfoot"}
+
+5288={
+	name="Nordhagen"
+	culture="lightfoot"}
+
+5289={
+	name="Bjelke"
+	culture="lightfoot"}
+
+5290={
+	name="Bolt"
+	culture="lightfoot"}
+
+5291={
+	name="Galle"
+	culture="lightfoot"}
+
+5292={
+	name="Galtung"
+	culture="lightfoot"}
+
+5293={
+	name="Hjerne"
+	culture="lightfoot"}
+
+5294={
+	name="Kamp"
+	culture="lightfoot"}
+
+5295={
+	name="Rømer"
+	culture="lightfoot"}
+
+5296={
+	name="Skanke"
+	culture="lightfoot"}
+
+5297={
+	name="Smør"
+	culture="lightfoot"}
+
+5298={
+	name="Staur"
+	culture="lightfoot"}
+
+5299={
+	name="Skjegge"
+	culture="lightfoot"}
+
+5300={
+	name="Gunn"
+	culture="lightfoot"}
+
+5301={
+	name="Bonde"
+	culture="lightfoot"
+}
+
+5302={
+	name="Wester"
+	culture="lightfoot"
+}
+
+5303={
+	name="Helmehytte"
+	culture="lightfoot"}
+
+5304={
+	name="Pilhufvud"
+	culture="lightfoot"
+}
+
+5305={
+	name="Grand"
+	culture="lightfoot"
+}
+
+5306={
+	name="af Frondholm"
+	culture="lightfoot"
+}
+
+5307={
+	name="Hvitserk"
+	culture="lightfoot"
+}
+
+5308={
+	name="Ubbing"
+	culture="lightfoot"
+}
+
+5309={
+	name="Oskyldr"
+	culture="lightfoot"
+}
+
+5310={
+	name="av Dyflinn"
+	culture="lightfoot"
+}
+
+5311={
+	name="av Vedrafjord"
+	culture="lightfoot"
+}
+
+5312={
+	name="Ivaring"
+	culture="lightfoot"
+}
+
+5313={
+	name="Haraldsson"
+	culture="lightfoot"}
+
+5314={
+	name="Akeleye"
+	culture="lightfoot"
+}
+
+5315={
+	name="Brockenhuus"
+	culture="lightfoot"}
+
+5316={
+	name="Posse"
+	culture="lightfoot"
+}
+
+5317={
+	name="Kamban"
+	culture="lightfoot"
+}
+
+5318={
+	name="af Shetland"
+	culture="lightfoot"
+}
+
+5319={
+	name="Somerled"
+	culture="lightfoot"}
+
+5320={
+	name="Møre"
+	culture="lightfoot"}
+
+5321={
+	name="Gøye"
+	culture="lightfoot"}
+
+5322={
+	name="Grøn"
+	culture="lightfoot"}
+
+5323={
+	name="Friis"
+	culture="lightfoot"}
+
+5324={
+	name="Daa"
+	culture="lightfoot"}
+
+5325={
+	name="Ryning"
+	culture="lightfoot"
+}
+
+5326={
+	name="Bille"
+	culture="lightfoot"
+}
+
+5327={
+	name="Krabbe"
+	culture="lightfoot"
+}
+
+5328={
+	name="Blixen"
+	culture="lightfoot"
+}
+
+5329={
+	name="Lodehat"
+	culture="lightfoot"
+}
+
+5330={
+	name="Pagh"
+	culture="lightfoot"
+}
+
+5331={
+	name="Stibolt"
+	culture="lightfoot"
+}
+
+5332={
+	name="Vedel"
+	culture="lightfoot"}
+
+5333={
+	name="Rosenkrantz"
+	culture="lightfoot"
+}
+
+5334={
+	name="Kaas"
+	culture="lightfoot"
+}
+
+5335={
+	name="Juel"
+	culture="lightfoot"}
+
+5336={
+	name="Bildt"
+	culture="lightfoot"
+}
+
+5337={
+	name="Frille"
+	culture="lightfoot"
+}
+
+5338={
+	name="Eketrä"
+	culture="lightfoot"
+}
+
+5339={
+	name="Galte"
+	culture="lightfoot"
+}
+
+5340={
+	name="Ekeblad"
+	culture="lightfoot"
+}
+
+5341={
+	name="And"
+	culture="lightfoot"
+}
+
+5342={
+	name="Gera"
+	culture="lightfoot"
+}
+
+5343={
+	name="Soop"
+	culture="lightfoot"
+}
+
+5344={
+	name="Hiort"
+	culture="lightfoot"
+}
+
+5345={
+	name="Gylta"
+	culture="lightfoot"
+}
+
+5346={
+	name="Kärling"
+	culture="lightfoot"
+}
+
+5347={
+	name="af Finsta"
+	culture="lightfoot"
+}
+
+5348={
+	name="Gren"
+	culture="lightfoot"
+}
+
+5349={
+	name="Leijonhufvud"
+	culture="lightfoot"}
+
+5350={
+	name="af Aspenäs"
+	culture="lightfoot"
+}
+
+5351={
+	name="Rosenstråle"
+	culture="lightfoot"
+}
+
+5352={
+	name="Gälta"
+	culture="lightfoot"
+}
+
+5353={
+	name="af Hammersta"
+	culture="lightfoot"}
+
+5354={
+	name="Lilliehöök"
+	culture="lightfoot"
+}
+
+5355={
+	name="af Malsta"
+	culture="lightfoot"
+}
+
+5356={
+	name="Puke"
+	culture="lightfoot"
+}
+
+5357={
+	name="Slatte"
+	culture="lightfoot"
+}
+
+5358={
+	name="Ängel"
+	culture="lightfoot"
+}
+
+5359={
+	name="Reventlow"
+	culture="lightfoot"}
+
+5360={
+	name="af Torestorp"
+	culture="lightfoot"}
+
+5361={
+	name="Ulfstand"
+	culture="lightfoot"}
+
+5362={
+	name="Danske"
+	culture="lightfoot"
+}
+
+5363={
+	name="Fleming"
+	culture="lightfoot"
+}
+
+5364={
+	name="Bidz"
+	culture="lightfoot"
+}
+
+5365={
+	name="Diekn"
+	culture="lightfoot"
+}
+
+5366={
+	name="Stiernkors"
+	culture="lightfoot"
+}
+
+5367={
+	name="Drotning"
+	culture="lightfoot"
+}
+
+5368={
+	name="Danishmend"
+	culture="lightfoot"
+}
+
+5369={
+	name="Kjarval"
+	culture="lightfoot"}
+
+5370={
+	name="Ekeh"
+	culture="lightfoot"}
+
+5371={
+	name="Löve"
+	culture="lightfoot"}
+
+5372={
+	name="Ormstunga"
+	culture="lightfoot"}
+
+5373={
+	name="Goði"
+	culture="lightfoot"}
+
+5374={
+	name="Gautur"
+	culture="lightfoot"}
+
+5375={
+	name="Eyfells"
+	culture="lightfoot"}
+
+5376={
+	name="Ásgeir"
+	culture="lightfoot"}
+
+5377={
+	name="Kamban"
+	culture="lightfoot"}
+
+5378={
+	name="Braghde"
+	culture="lightfoot"}
+
+5379={
+	name="Banér"
+	culture="lightfoot"}
+
+5380={
+	name="Wrede"
+	culture="lightfoot"}
+
+5381={
+	name="Balk"
+	culture="lightfoot"}
+
+5382={
+	name="Taube"
+	culture="lightfoot"}
+
+5383={
+	name="Creutz"
+	culture="lightfoot"}
+
+5384={
+	name="Wrangel"
+	culture="lightfoot"}
+
+5385={
+	name="Sporre"
+	culture="lightfoot"}
+
+5386={
+	name="Ehrensvärd"
+	culture="lightfoot"}
+
+5387={
+	name="Aldersparre"
+	culture="lightfoot"}
+
+5388={
+	name="Adelswärd"
+	culture="lightfoot"}
+
+5389={
+	name="af Haukadalur"
+	culture="lightfoot"
+}
+
+5390={
+	name="af Oddi"
+	culture="lightfoot"
+}
+
+5391={
+	name="Hlidarendi"
+	culture="lightfoot"
+}
+
+5392={
+	name="Villnäs"
+	culture="lightfoot"}
+
+5393={
+	name="Fincke"
+	culture="lightfoot"}
+
+5394={
+	name="Dufva"
+	culture="lightfoot"}
+
+5395={
+	name="Jägerhorn af Spurila"
+	culture="lightfoot"}
+
+5396={
+	name="Gesterby"
+	culture="lightfoot"}
+
+5397={
+	name="Skjöldung"
+	culture="lightfoot"
+}
+
+5398={
+	name="Bååt"
+	culture="lightfoot"}
+
+5399={
+	name="Cronstedt"
+	culture="lightfoot"}
+
+5400={
+	name="Thrugot"
+	culture="lightfoot"
+}
+
+5401={
+	name="Hack"
+	culture="lightfoot"
+}
+
+5402={
+	name="Juul"
+	culture="lightfoot"
+}
+
+5403={
+	name="Ulfeldt"
+	culture="lightfoot"
+}
+
+5404={
+	name="Bang"
+	culture="lightfoot"
+}
+
+5405={
+	name="Uí Ímair"
+	culture="lightfoot"}
+
+5406={
+	name="Skakke"
+	culture="lightfoot"
+}
+
+5407={
+	name="Østman"
+	culture="lightfoot"
+}
+
+5408={
+	name="Berglen"
+	culture="lightfoot"
+}
+
+5409={
+	name="Andersson"
+	culture="lightfoot"
+}
+
+5410={
+	name="Kiby"
+	culture="lightfoot"
+}
+
+5411={
+	name="Wendel"
+	culture="lightfoot"
+}
+
+5412={
+	name="Toll"
+	culture="lightfoot"
+}
+
+5413={
+	name="Johansson"
+	culture="lightfoot"
+}
+
+5414={
+	name="Fåhraeus"
+	culture="lightfoot"
+}
+
+5415={
+	name="Lerström"
+	culture="lightfoot"
+}
+
+5416={
+	name="Björk"
+	culture="lightfoot"
+}
+
+5417={
+	name="Zetterman"
+	culture="lightfoot"
+}
+
+5418={
+	name="Eklund"
+	culture="lightfoot"
+}
+
+5419={
+	name="Lind"
+	culture="lightfoot"
+}
+
+5420={
+	name="Gunlycke"
+	culture="lightfoot"
+}
+
+5421={
+	name="Blomberg"
+	culture="lightfoot"
+}
+
+5422={
+	name="Rudén"
+	culture="lightfoot"
+}
+
+5423={
+	name="of Bebbanburg"
+	culture="lightfoot"
+}
+
+5424={
+	name="Byrrnesson"
+	culture="lightfoot"
+}
+
+5425={
+	name="Guldsmed"
+	culture="lightfoot"
+}
+
+5426={
+	name="Hejnum"
+	culture="lightfoot"
+}
+
+5427={
+	name="Gildehusen"
+	culture="lightfoot"
+}
+
+5428={
+	name="Stråben"
+	culture="lightfoot"
+}
+
+5429={
+	name="af Gautaland"
+	culture="lightfoot"
+}
+
+5430={
+	name="Horðalandi"
+	culture="lightfoot"
+}
+
+5431={
+	name="Írakonungr"
+	culture="lightfoot"
+}
+
+5432={
+	name="av Hålogaland"
+	culture="lightfoot"
+}
+
+5433={
+	name="Lade"
+	culture="lightfoot"
+}
+
+5434={
+	name="Trönde"
+	culture="lightfoot"
+}
+
+5435={
+	name="av Agder"
+	culture="lightfoot"
+}
+
+5436={
+	name="av Hordaland"
+	culture="lightfoot"
+}
+
+5437={
+	name="av Rogaland"
+	culture="lightfoot"
+}
+
+5438={
+	name="av Telemark"
+	culture="lightfoot"
+}
+
+5439={
+	name="av Herjedalen"
+	culture="lightfoot"
+}
+
+5440={
+	name="av Jämtland"
+	culture="lightfoot"
+}
+
+5441={
+	name="Hrolfing"
+	culture="lightfoot"
+}
+
+5442={
+	name="Herse"
+	culture="lightfoot"
+}
+
+5443={
+	name="Fróni"
+	culture="lightfoot"
+}
+
+5444={
+	name="Þyli"
+	culture="lightfoot"
+}
+
+5445={
+	name="Naddoðr"
+	culture="lightfoot"
+}
+
+5446={
+	name="Inger"
+	culture="lightfoot"
+}
+
+5447={
+	name="Akra"
+	culture="lightfoot"
+}
+
+5448={
+	name="af Torgar"
+	culture="lightfoot"
+}
+
+5449={
+	name="Svavarsson"
+	culture="lightfoot"
+}
+
+5450={
+	name="Flatnefr"
+	culture="lightfoot"
+}
+
+5451={
+	name="Hjort"
+	culture="lightfoot"
+}
+
+5452={
+	name="Vidfamne"
+	culture="lightfoot"
+}
+
+5453={
+	name="Drake"
+	culture="lightfoot"
+}
+
+5454={
+	name="av Hafrsfjord"
+	culture="lightfoot"
+}
+
+5455={
+	name="Ytra"
+	culture="lightfoot"
+}
+
+5456={
+	name="av Askø"
+	culture="lightfoot"
+}
+
+5457={
+	name="Koss"
+	culture="lightfoot"
+}
+
+5458={
+	name="av Røra"
+	culture="lightfoot"
+}
+
+5459={
+	name="av Nordland"
+	culture="lightfoot"
+}
+
+5460={
+	name="Hylling"
+	culture="lightfoot"
+}
+
+5461={
+	name="Alfr"
+	culture="lightfoot"
+}
+
+5462={
+	name="Herja"
+	culture="lightfoot"
+}
+
+5463={
+	name="Vansö"
+	culture="lightfoot"
+}
+
+5464={
+	name="Flod"
+	culture="lightfoot"
+}
+
+5465={
+	name="af Vendel"
+	culture="lightfoot"
+}
+
+5466={
+	name="av Alfheim"
+	culture="lightfoot"
+}
+
+5467={
+	name="af Åland"
+	culture="lightfoot"
+}
+
+5468={
+	name="af Hälsingland"
+	culture="lightfoot"
+}
+
+5469={
+	name="av Rogen"
+	culture="lightfoot"
+}
+
+5470={
+	name="av Bergen"
+	culture="lightfoot"
+}
+
+5471={
+	name="av Eidsborg"
+	culture="lightfoot"
+}
+
+5472={
+	name="av Finnmark"
+	culture="lightfoot"
+}
+
+5473={
+	name="av Røst"
+	culture="lightfoot"
+}
+
+5474={
+	name="Norrevik"
+	culture="lightfoot"
+}
+
+5475={
+	name="Olsén"
+	culture="lightfoot"
+}
+
+5476={
+	name="Vognsen"
+	culture="lightfoot"
+}
+
+5477={
+	name="Juel"
+	culture="lightfoot"
+}
+
+5478={
+	name="af Aarhus"
+	culture="lightfoot"
+}
+
+5479={
+	name="af Aalborg"
+	culture="lightfoot"
+}
+
+5480={
+	name="af Varde"
+	culture="lightfoot"
+}
+
+5481={
+	name="af Skagen"
+	culture="lightfoot"
+}
+
+5482={
+	name="af Raumariki"
+	culture="lightfoot"
+}
+
+5483={
+	name="av Romerike"
+	culture="lightfoot"
+}
+
+5484={
+	name="af Dovre"
+	culture="lightfoot"
+}
+
+5485={
+	name="Dovre"
+	culture="lightfoot"
+}
+
+5486={
+	name="Veøy"
+	culture="lightfoot"
+}
+
+5487={
+	name="af Raumsdalr"
+	culture="lightfoot"
+}
+
+5488={
+	name="Eirikson"
+	culture="lightfoot"
+}
+
+5489={
+	name="Sognsdal"
+	culture="lightfoot"
+}
+
+5490={
+	name="Gunarrson"
+	culture="lightfoot"
+}
+
+5491={
+	name="Firdi"
+	culture="lightfoot"
+}

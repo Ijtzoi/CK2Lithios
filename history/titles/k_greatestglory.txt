@@ -1,0 +1,4 @@
+992.1.1 = {
+	holder = 10516
+	set_tribute_suzerain = { who = e_deeproots type = permanent }
+}

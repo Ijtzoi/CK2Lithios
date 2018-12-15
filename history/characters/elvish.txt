@@ -1,0 +1,9343 @@
+10000={
+	name="Ceir"
+	dynasty=10000
+	dna="kjiddgfnpje"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=4
+	intrigue=6
+	learning=2
+	trait="fortune_builder"
+	943.1.1={birth=yes}
+	1514.1.27={death=yes}
+}
+
+10001={
+	name="Taranane"
+	female=yes
+	dynasty=10001
+	dna="jcbabjganki"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=5
+	intrigue=4
+	learning=3
+	trait="thrifty_clerk"
+	996.1.1={birth=yes}
+	1697.7.15={death=yes}
+}
+
+10002={
+	name="Cellay"
+	dynasty=10002
+	dna="behicifckon"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=2
+	learning=6
+	trait="skilled_tactician"
+	trait="poet"
+	987.1.1={birth=yes}
+	1548.2.5={death=yes}
+}
+
+10003={
+	name="Dorirlan"
+	dynasty=10003
+	dna="kmmdcpcmaia"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=6
+	trait="fortune_builder"
+	964.1.1={birth=yes}
+	1429.8.14={death=yes}
+}
+
+10004={
+	name="Huring"
+	dynasty=10004
+	dna="cmdenbpplkj"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=3
+	intrigue=5
+	learning=4
+	trait="underhanded_rogue"
+	trait="ill"
+	993.1.1={birth=yes}
+	1500.7.22={death=yes}
+}
+
+10005={
+	name="Jaelsene"
+	female=yes
+	dynasty=10005
+	dna="kifnnijkeme"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=0
+	stewardship=2
+	intrigue=5
+	learning=4
+	trait="flamboyant_schemer"
+	958.1.1={birth=yes}
+	1554.2.11={death=yes}
+}
+
+10006={
+	name="Muirien"
+	female=yes
+	dynasty=10006
+	dna="cgedihbopog"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=6
+	stewardship=3
+	intrigue=1
+	learning=5
+	trait="tough_soldier"
+	956.1.1={birth=yes}
+	1478.6.9={death=yes}
+}
+
+10007={
+	name="Mitiaeost"
+	female=yes
+	dynasty=10007
+	dna="ofacmmdabdj"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=3
+	stewardship=5
+	intrigue=3
+	learning=4
+	trait="midas_touched"
+	950.1.1={birth=yes}
+	1565.10.27={death=yes}
+}
+
+10008={
+	name="Felien"
+	dynasty=10008
+	dna="menacdbgdkh"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=6
+	stewardship=7
+	intrigue=2
+	learning=7
+	trait="charismatic_negotiator"
+	980.1.1={birth=yes}
+	1383.8.13={death=yes}
+}
+
+10009={
+	name="Blaeden"
+	female=yes
+	dynasty=10009
+	dna="chgipcbbchh"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=3
+	trait="underhanded_rogue"
+	947.1.1={birth=yes}
+	1543.1.24={death=yes}
+}
+
+10010={
+	name="Araflane"
+	dynasty=10010
+	dna="nhdlocmlgoj"
+	culture=high_elf
+	religion=tree
+	martial=8
+	diplomacy=2
+	stewardship=7
+	intrigue=0
+	learning=2
+	trait="indulgent_wastrel"
+	trait="impaler"
+	979.1.1={birth=yes}
+	1572.5.27={death=yes}
+}
+
+10011={
+	name="Gwilnid"
+	dynasty=10011
+	dna="fkgfbkkkclk"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=2
+	stewardship=3
+	intrigue=8
+	learning=8
+	trait="indulgent_wastrel"
+	974.1.1={birth=yes}
+	1497.11.18={death=yes}
+}
+
+10012={
+	name="Anel"
+	female=yes
+	dynasty=10012
+	dna="jplmdhaojaf"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=3
+	intrigue=2
+	learning=2
+	trait="fortune_builder"
+	947.1.1={birth=yes}
+	1264.9.16={death=yes}
+}
+
+10013={
+	name="Ashan"
+	dynasty=10013
+	dna="nieooojohkg"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=5
+	intrigue=0
+	learning=2
+	trait="elusive_shadow"
+	966.1.1={birth=yes}
+	1541.4.13={death=yes}
+}
+
+10014={
+	name="Mannus"
+	dynasty=10014
+	dna="ckbpndhmngg"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=3
+	intrigue=4
+	learning=3
+	trait="intricate_webweaver"
+	trait="diligent"
+	969.1.1={birth=yes}
+	1449.1.28={death=yes}
+}
+
+10015={
+	name="Rhydyhu"
+	dynasty=10015
+	dna="bdobidapabh"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=3
+	intrigue=6
+	learning=2
+	trait="skilled_tactician"
+	934.1.1={birth=yes}
+	1398.5.3={death=yes}
+}
+
+10016={
+	name="Tyste"
+	female=yes
+	dynasty=10016
+	dna="hbnjfhdllhd"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=1
+	intrigue=4
+	learning=8
+	trait="underhanded_rogue"
+	980.1.1={birth=yes}
+	1616.4.23={death=yes}
+}
+
+10017={
+	name="Talaun"
+	female=yes
+	dynasty=10017
+	dna="mnmkmpmmedi"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=6
+	intrigue=3
+	learning=3
+	trait="thrifty_clerk"
+	trait="celibate"
+	925.1.1={birth=yes}
+	1438.12.1={death=yes}
+}
+
+10018={
+	name="Endlin"
+	dynasty=10018
+	dna="galinpiiobj"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=7
+	intrigue=4
+	learning=3
+	trait="skilled_tactician"
+	trait="chaste"
+	trait="stressed"
+	930.1.1={birth=yes}
+	1235.12.18={death=yes}
+}
+
+10019={
+	name="Khial"
+	female=yes
+	dynasty=10019
+	dna="egomaobdjkn"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=6
+	intrigue=5
+	learning=3
+	trait="tough_soldier"
+	trait="mystic"
+	trait="drunkard"
+	934.1.1={birth=yes}
+	1535.5.23={death=yes}
+}
+
+10020={
+	name="Skaryn"
+	dynasty=10020
+	dna="fmkjbkmillk"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=5
+	intrigue=5
+	learning=3
+	trait="underhanded_rogue"
+	938.1.1={birth=yes}
+	1586.12.21={death=yes}
+}
+
+10021={
+	name="Trysten"
+	dynasty=10021
+	dna="obndhnoppid"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=3
+	stewardship=3
+	intrigue=5
+	learning=5
+	trait="elusive_shadow"
+	985.1.1={birth=yes}
+	1592.6.24={death=yes}
+}
+
+10022={
+	name="Naga-Auryaur"
+	dynasty=10022
+	dna="ihmfedkklhm"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=2
+	intrigue=8
+	learning=2
+	trait="intricate_webweaver"
+	976.1.1={birth=yes}
+	1646.4.19={death=yes}
+}
+
+10023={
+	name="Aneeran"
+	dynasty=10023
+	dna="meekpeheimp"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=7
+	trait="charismatic_negotiator"
+	938.1.1={birth=yes}
+	1513.1.3={death=yes}
+}
+
+10024={
+	name="Talia"
+	female=yes
+	dynasty=10024
+	dna="feemhpcboom"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=5
+	intrigue=4
+	learning=4
+	trait="skilled_tactician"
+	981.1.1={birth=yes}
+	1525.9.23={death=yes}
+}
+
+10025={
+	name="Aelwyn"
+	dynasty=10025
+	dna="bhagpblfoak"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=1
+	stewardship=0
+	intrigue=2
+	learning=5
+	trait="thrifty_clerk"
+	trait="poet"
+	955.1.1={birth=yes}
+	1538.1.25={death=yes}
+}
+
+10026={
+	name="Atharian"
+	dynasty=10026
+	dna="opffkdlonnm"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=4
+	intrigue=2
+	learning=7
+	trait="naive_appeaser"
+	trait="proud"
+	963.1.1={birth=yes}
+	1575.11.2={death=yes}
+}
+
+10027={
+	name="Yennica"
+	female=yes
+	dynasty=10027
+	dna="acbiinefjob"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=2
+	stewardship=1
+	intrigue=6
+	learning=7
+	trait="skilled_tactician"
+1001.1.1={birth=yes}
+	1511.6.14={death=yes}
+}
+
+10028={
+	name="Uhlsidil"
+	dynasty=10028
+	dna="coebcikmhlh"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=0
+	intrigue=3
+	learning=0
+	trait="thrifty_clerk"
+	927.1.1={birth=yes}
+	1330.3.24={death=yes}
+}
+
+10029={
+	name="Einrar"
+	dynasty=10029
+	dna="lmhgnapgddd"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=8
+	stewardship=3
+	intrigue=1
+	learning=1
+	trait="naive_appeaser"
+	trait="blinded"
+1000.1.1={birth=yes}
+	1802.9.5={death=yes}
+}
+
+10030={
+	name="Norian"
+	dynasty=10030
+	dna="gkihojnbdci"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=2
+	stewardship=3
+	intrigue=2
+	learning=5
+	trait="flamboyant_schemer"
+	993.1.1={birth=yes}
+	1468.1.28={death=yes}
+}
+
+10031={
+	name="Boadec"
+	female=yes
+	dynasty=10031
+	dna="dcencppmhbk"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=8
+	intrigue=5
+	learning=7
+	trait="tough_soldier"
+1002.1.1={birth=yes}
+	1435.4.1={death=yes}
+}
+
+10032={
+	name="Gwilnid"
+	dynasty=10032
+	dna="fgdebipnihl"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=4
+	intrigue=0
+	learning=0
+	trait="tough_soldier"
+	trait="hunter"
+	935.1.1={birth=yes}
+	1678.2.2={death=yes}
+}
+
+10033={
+	name="Feloth"
+	dynasty=10033
+	dna="ncihmaicafp"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=7
+	stewardship=4
+	intrigue=7
+	learning=4
+	trait="fortune_builder"
+	982.1.1={birth=yes}
+	1554.3.10={death=yes}
+}
+
+10034={
+	name="Genovia"
+	female=yes
+	dynasty=10034
+	dna="gajckfkjbab"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=7
+	stewardship=5
+	intrigue=2
+	learning=3
+	trait="thrifty_clerk"
+	trait="gardener"
+	991.1.1={birth=yes}
+	1576.7.5={death=yes}
+}
+
+10035={
+	name="Born"
+	dynasty=10035
+	dna="jekaegngjki"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=1
+	stewardship=2
+	intrigue=0
+	learning=6
+	trait="fortune_builder"
+	trait="ill"
+	960.1.1={birth=yes}
+	1519.1.2={death=yes}
+}
+
+10036={
+	name="Elin"
+	female=yes
+	dynasty=10036
+	dna="dnbabinlnbo"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=7
+	stewardship=8
+	intrigue=3
+	learning=6
+	trait="midas_touched"
+	955.1.1={birth=yes}
+	1445.8.21={death=yes}
+}
+
+10037={
+	name="Caedel"
+	dynasty=10037
+	dna="dokbiflodii"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=5
+	intrigue=4
+	learning=3
+	trait="detached_priest"
+	trait="duelist"
+	trait="wounded"
+	973.1.1={birth=yes}
+	1559.6.9={death=yes}
+}
+
+10038={
+	name="Braith"
+	dynasty=10038
+	dna="egeenpiffgg"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=7
+	stewardship=2
+	intrigue=4
+	learning=1
+	trait="naive_appeaser"
+	935.1.1={birth=yes}
+	1549.8.26={death=yes}
+}
+
+10039={
+	name="Corradan"
+	dynasty=10039
+	dna="bglhbmclkie"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=7
+	intrigue=5
+	learning=5
+	trait="skilled_tactician"
+	932.1.1={birth=yes}
+	1579.10.12={death=yes}
+}
+
+10040={
+	name="Arica"
+	female=yes
+	dynasty=10040
+	dna="dnfdnogcndn"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=3
+	intrigue=8
+	learning=7
+	trait="intricate_webweaver"
+	963.1.1={birth=yes}
+	1346.12.27={death=yes}
+}
+
+10041={
+	name="Cernhelm"
+	dynasty=10041
+	dna="cgemhpflomb"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=7
+	intrigue=2
+	learning=3
+	trait="flamboyant_schemer"
+	966.1.1={birth=yes}
+	1438.11.30={death=yes}
+}
+
+10042={
+	name="Oria"
+	female=yes
+	dynasty=10042
+	dna="fcoonlonkbo"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=2
+	intrigue=3
+	learning=3
+	trait="elusive_shadow"
+	973.1.1={birth=yes}
+	1546.9.14={death=yes}
+}
+
+10043={
+	name="Marasara"
+	female=yes
+	dynasty=10043
+	dna="mipedaoblhh"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=7
+	stewardship=6
+	intrigue=4
+	learning=5
+	trait="grey_eminence"
+	979.1.1={birth=yes}
+	1398.4.9={death=yes}
+}
+
+10044={
+	name="Telsara"
+	female=yes
+	dynasty=10044
+	dna="gdabjmgfcnn"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=8
+	stewardship=2
+	intrigue=1
+	learning=2
+	trait="fortune_builder"
+	trait="honest"
+	947.1.1={birth=yes}
+	1741.8.12={death=yes}
+}
+
+10045={
+	name="Brenna"
+	female=yes
+	dynasty=10045
+	dna="jojlanompie"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=2
+	stewardship=3
+	intrigue=2
+	learning=4
+	trait="charismatic_negotiator"
+	trait="celibate"
+	943.1.1={birth=yes}
+	1464.9.10={death=yes}
+}
+
+10046={
+	name="Neris"
+	female=yes
+	dynasty=10046
+	dna="omongkimmfe"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=1
+	stewardship=4
+	intrigue=3
+	learning=3
+	trait="elusive_shadow"
+	943.1.1={birth=yes}
+	1421.12.5={death=yes}
+}
+
+10047={
+	name="Chrain"
+	female=yes
+	dynasty=10047
+	dna="lijamdpfjne"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=3
+	intrigue=7
+	learning=1
+	trait="thrifty_clerk"
+	trait="blinded"
+	965.1.1={birth=yes}
+	1517.4.20={death=yes}
+}
+
+10048={
+	name="Mitiaeost"
+	female=yes
+	dynasty=10048
+	dna="nehbfjhkajd"
+	culture=high_elf
+	religion=tree
+	martial=8
+	diplomacy=3
+	stewardship=8
+	intrigue=3
+	learning=3
+	trait="charismatic_negotiator"
+	957.1.1={birth=yes}
+	1542.6.1={death=yes}
+}
+
+10049={
+	name="Elwin"
+	female=yes
+	dynasty=10049
+	dna="cpbneoignjg"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=7
+	stewardship=2
+	intrigue=3
+	learning=7
+	trait="underhanded_rogue"
+	986.1.1={birth=yes}
+	1709.7.30={death=yes}
+}
+
+10050={
+	name="Lalana"
+	female=yes
+	dynasty=10050
+	dna="hgmlcbkoejd"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=1
+	stewardship=3
+	intrigue=2
+	learning=2
+	trait="fortune_builder"
+	996.1.1={birth=yes}
+	1404.3.5={death=yes}
+}
+
+10051={
+	name="Alhena"
+	female=yes
+	dynasty=10051
+	dna="ccilhpdebon"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=6
+	stewardship=1
+	intrigue=2
+	learning=6
+	trait="flamboyant_schemer"
+	976.1.1={birth=yes}
+	1532.2.17={death=yes}
+}
+
+10052={
+	name="Barwyn"
+	dynasty=10052
+	dna="mongcmknfll"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=2
+	intrigue=2
+	learning=3
+	trait="skilled_tactician"
+	trait="lustful"
+	936.1.1={birth=yes}
+	1485.8.7={death=yes}
+}
+
+10053={
+	name="Morain"
+	dynasty=10053
+	dna="cbcpgbjifgf"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=7
+	stewardship=1
+	intrigue=8
+	learning=2
+	trait="grey_eminence"
+	992.1.1={birth=yes}
+	1592.2.28={death=yes}
+}
+
+10054={
+	name="Zarmor"
+	dynasty=10054
+	dna="ihcllndoccb"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=5
+	intrigue=2
+	learning=3
+	trait="elusive_shadow"
+	995.1.1={birth=yes}
+	1395.1.3={death=yes}
+}
+
+10055={
+	name="Moriste"
+	female=yes
+	dynasty=10055
+	dna="mmbemckbldd"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=1
+	stewardship=4
+	intrigue=3
+	learning=1
+	trait="charismatic_negotiator"
+	trait="scholar"
+	trait="stressed"
+	968.1.1={birth=yes}
+	1462.3.12={death=yes}
+}
+
+10056={
+	name="Ysal"
+	female=yes
+	dynasty=10056
+	dna="efinjhflhmc"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=1
+	stewardship=3
+	intrigue=3
+	learning=8
+	trait="fortune_builder"
+	trait="drunkard"
+1002.1.1={birth=yes}
+	1485.8.28={death=yes}
+}
+
+10057={
+	name="Ysandra"
+	female=yes
+	dynasty=10057
+	dna="mfgclccbleo"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=3
+	intrigue=3
+	learning=5
+	trait="intricate_webweaver"
+	trait="greedy"
+	929.1.1={birth=yes}
+	1509.7.30={death=yes}
+}
+
+10058={
+	name="Selathoi"
+	dynasty=10058
+	dna="mjbmabpifce"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=4
+	stewardship=2
+	intrigue=4
+	learning=3
+	trait="flamboyant_schemer"
+	995.1.1={birth=yes}
+	1804.11.25={death=yes}
+}
+
+10059={
+	name="Ashan"
+	dynasty=10059
+	dna="amblbehgchc"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=2
+	stewardship=6
+	intrigue=2
+	learning=6
+	trait="tough_soldier"
+	trait="wounded"
+1002.1.1={birth=yes}
+	1689.5.17={death=yes}
+}
+
+10060={
+	name="Naestra"
+	female=yes
+	dynasty=10060
+	dna="ockmkfocjeg"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=6
+	stewardship=1
+	intrigue=6
+	learning=6
+	trait="skilled_tactician"
+	984.1.1={birth=yes}
+	1480.9.11={death=yes}
+}
+
+10061={
+	name="Teluen"
+	dynasty=10061
+	dna="ljmbmhdimak"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=3
+	stewardship=6
+	intrigue=4
+	learning=3
+	trait="thrifty_clerk"
+	961.1.1={birth=yes}
+	1398.8.3={death=yes}
+}
+
+10062={
+	name="Landroval"
+	dynasty=10062
+	dna="bdehdjddhii"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=7
+	intrigue=4
+	learning=6
+	trait="underhanded_rogue"
+	trait="drunkard"
+	969.1.1={birth=yes}
+	1562.3.15={death=yes}
+}
+
+10063={
+	name="Twyngor"
+	dynasty=10063
+	dna="enbgakicohn"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=7
+	intrigue=5
+	learning=4
+	trait="intricate_webweaver"
+	957.1.1={birth=yes}
+	1517.4.30={death=yes}
+}
+
+10064={
+	name="Rosene"
+	female=yes
+	dynasty=10064
+	dna="mgepjgejgmc"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=3
+	stewardship=2
+	intrigue=6
+	learning=6
+	trait="skilled_tactician"
+	trait="duelist"
+	trait="cynical"
+	991.1.1={birth=yes}
+	1482.9.28={death=yes}
+}
+
+10065={
+	name="Elatior"
+	dynasty=10065
+	dna="fgoaclfmfkl"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=6
+	intrigue=4
+	learning=4
+	trait="grey_eminence"
+	928.1.1={birth=yes}
+	1306.1.20={death=yes}
+}
+
+10066={
+	name="Ohtacar'loren"
+	female=yes
+	dynasty=10066
+	dna="bgcogomgdga"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=4
+	intrigue=5
+	learning=5
+	trait="thrifty_clerk"
+	996.1.1={birth=yes}
+	1550.3.31={death=yes}
+}
+
+10067={
+	name="Singas"
+	dynasty=10067
+	dna="lfldcccdlhg"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=2
+	intrigue=6
+	learning=4
+	trait="naive_appeaser"
+	trait="wroth"
+	960.1.1={birth=yes}
+	1638.12.26={death=yes}
+}
+
+10068={
+	name="Hurian"
+	dynasty=10068
+	dna="gplgaojmjnm"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=2
+	intrigue=8
+	learning=5
+	trait="brilliant_strategist"
+	972.1.1={birth=yes}
+	1448.11.3={death=yes}
+}
+
+10069={
+	name="Arastone"
+	female=yes
+	dynasty=10069
+	dna="ckaajnlejnk"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=4
+	intrigue=4
+	learning=2
+	trait="midas_touched"
+	996.1.1={birth=yes}
+	1543.10.1={death=yes}
+}
+
+10070={
+	name="Alissa"
+	female=yes
+	dynasty=10070
+	dna="ajgllmejpep"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=0
+	learning=2
+	trait="skilled_tactician"
+	963.1.1={birth=yes}
+	1437.3.15={death=yes}
+}
+
+10071={
+	name="Mereda"
+	female=yes
+	dynasty=10071
+	dna="poennlangec"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=2
+	stewardship=5
+	intrigue=2
+	learning=4
+	trait="fortune_builder"
+	trait="hedonist"
+	trait="ill"
+	1000.1.1={birth=yes}
+	1519.10.2={death=yes}
+}
+
+10072={
+	name="Dorost"
+	dynasty=10072
+	dna="mbokffmlcbl"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=2
+	intrigue=1
+	learning=7
+	trait="tough_soldier"
+	trait="blinded"
+	937.1.1={birth=yes}
+	1548.10.27={death=yes}
+}
+
+10073={
+	name="Suibhon"
+	dynasty=10073
+	dna="fahejnlddpj"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=7
+	stewardship=5
+	intrigue=2
+	learning=5
+	trait="skilled_tactician"
+	trait="possessed"
+	973.1.1={birth=yes}
+	1485.4.4={death=yes}
+}
+
+10074={
+	name="Gwythear"
+	female=yes
+	dynasty=10074
+	dna="cmaiaiomkdf"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=8
+	intrigue=2
+	learning=6
+	trait="flamboyant_schemer"
+	979.1.1={birth=yes}
+	1533.9.23={death=yes}
+}
+
+10075={
+	name="Graine"
+	female=yes
+	dynasty=10075
+	dna="infobjighhg"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=1
+	stewardship=4
+	intrigue=6
+	learning=7
+	trait="brilliant_strategist"
+	943.1.1={birth=yes}
+	1603.7.15={death=yes}
+}
+
+10076={
+	name="Urvas"
+	dynasty=10076
+	dna="cnipkglknme"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=3
+	stewardship=2
+	intrigue=8
+	learning=7
+	trait="grey_eminence"
+	966.1.1={birth=yes}
+	1548.8.11={death=yes}
+}
+
+10077={
+	name="Salicis"
+	dynasty=10077
+	dna="ibfehbhmadk"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=5
+	intrigue=3
+	learning=3
+	trait="naive_appeaser"
+	981.1.1={birth=yes}
+	1523.1.19={death=yes}
+}
+
+10078={
+	name="Naileth"
+	female=yes
+	dynasty=10078
+	dna="gjkclbohphl"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=6
+	intrigue=1
+	learning=5
+	trait="tough_soldier"
+	974.1.1={birth=yes}
+	1469.1.10={death=yes}
+}
+
+10079={
+	name="Pasara"
+	female=yes
+	dynasty=10079
+	dna="fpiblhiamed"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=1
+	stewardship=7
+	intrigue=3
+	learning=5
+	trait="thrifty_clerk"
+	trait="patient"
+	981.1.1={birth=yes}
+	1413.10.9={death=yes}
+}
+
+10080={
+	name="Yllonys"
+	female=yes
+	dynasty=10080
+	dna="mkccnaojfgh"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=4
+	stewardship=5
+	intrigue=3
+	learning=3
+	trait="naive_appeaser"
+	trait="gregarious"
+	994.1.1={birth=yes}
+	1755.2.27={death=yes}
+}
+
+10081={
+	name="Aneirian"
+	dynasty=10081
+	dna="godjmcohoei"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=0
+	intrigue=4
+	learning=8
+	trait="misguided_warrior"
+	983.1.1={birth=yes}
+	1527.10.25={death=yes}
+}
+
+10082={
+	name="Harath"
+	dynasty=10082
+	dna="lblikiilcnp"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=0
+	stewardship=2
+	intrigue=2
+	learning=6
+	trait="underhanded_rogue"
+	trait="wroth"
+	999.1.1={birth=yes}
+	1697.10.31={death=yes}
+}
+
+10083={
+	name="Khial"
+	female=yes
+	dynasty=10083
+	dna="cjcpamlafgd"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=1
+	intrigue=0
+	learning=6
+	trait="thrifty_clerk"
+	trait="scholar"
+	997.1.1={birth=yes}
+	1716.11.16={death=yes}
+}
+
+10084={
+	name="Merrain"
+	female=yes
+	dynasty=10084
+	dna="dggjbafcnae"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=1
+	stewardship=3
+	intrigue=6
+	learning=6
+	trait="flamboyant_schemer"
+	trait="greedy"
+	967.1.1={birth=yes}
+	1592.4.4={death=yes}
+}
+
+10085={
+	name="Kilarn"
+	dynasty=10085
+	dna="gebkbfghbma"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=6
+	stewardship=4
+	intrigue=8
+	learning=4
+	trait="tough_soldier"
+	trait="celibate"
+	987.1.1={birth=yes}
+	1414.6.8={death=yes}
+}
+
+10086={
+	name="Isola"
+	female=yes
+	dynasty=10086
+	dna="ogldbkakofa"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=6
+	intrigue=6
+	learning=0
+	trait="elusive_shadow"
+	trait="chaste"
+	955.1.1={birth=yes}
+	1515.1.14={death=yes}
+}
+
+10087={
+	name="Ceithin"
+	dynasty=10087
+	dna="cnalmedemhp"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=7
+	intrigue=2
+	learning=6
+	trait="tough_soldier"
+	968.1.1={birth=yes}
+	1497.6.18={death=yes}
+}
+
+10088={
+	name="Ivoreth"
+	dynasty=10088
+	dna="dhefjganaej"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=2
+	intrigue=1
+	learning=3
+	trait="charismatic_negotiator"
+	trait="kind"
+	953.1.1={birth=yes}
+	1576.10.26={death=yes}
+}
+
+10089={
+	name="Charsara"
+	female=yes
+	dynasty=10089
+	dna="nakbbpejbop"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=6
+	intrigue=4
+	learning=3
+	trait="fortune_builder"
+	997.1.1={birth=yes}
+	1495.10.6={death=yes}
+}
+
+10090={
+	name="Syansara"
+	female=yes
+	dynasty=10090
+	dna="oogmniocloa"
+	culture=wood_elf
+	religion=tree
+	martial=1
+	diplomacy=2
+	stewardship=6
+	intrigue=1
+	learning=3
+	trait="midas_touched"
+	958.1.1={birth=yes}
+	1644.5.17={death=yes}
+}
+
+10091={
+	name="Dorost"
+	dynasty=10091
+	dna="gigkbghmphc"
+	culture=wood_elf
+	religion=tree
+	martial=8
+	diplomacy=6
+	stewardship=4
+	intrigue=3
+	learning=0
+	trait="misguided_warrior"
+	trait="poet"
+	947.1.1={birth=yes}
+	1484.2.13={death=yes}
+}
+
+10092={
+	name="Rhodian"
+	dynasty=10092
+	dna="hlimppokhgm"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=8
+	stewardship=4
+	intrigue=6
+	learning=6
+	trait="charismatic_negotiator"
+	936.1.1={birth=yes}
+	1354.1.31={death=yes}
+}
+
+10093={
+	name="Morain"
+	female=yes
+	dynasty=10093
+	dna="knmknppoolb"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=8
+	stewardship=1
+	intrigue=0
+	learning=5
+	trait="naive_appeaser"
+	934.1.1={birth=yes}
+	1526.2.14={death=yes}
+}
+
+10094={
+	name="Ponleec"
+	dynasty=10094
+	dna="ohfhgbmcogb"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=3
+	intrigue=6
+	learning=5
+	trait="tough_soldier"
+	trait="celibate"
+	936.1.1={birth=yes}
+	1379.4.12={death=yes}
+}
+
+10095={
+	name="Gwythear"
+	female=yes
+	dynasty=10095
+	dna="pocklaemppj"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=6
+	intrigue=2
+	learning=5
+	trait="elusive_shadow"
+	966.1.1={birth=yes}
+	1529.1.10={death=yes}
+}
+
+10096={
+	name="Telrond"
+	dynasty=10096
+	dna="ckapbahbmpb"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=7
+	intrigue=3
+	learning=2
+	trait="underhanded_rogue"
+	988.1.1={birth=yes}
+	1451.4.29={death=yes}
+}
+
+10097={
+	name="Athanfel"
+	dynasty=10097
+	dna="hhfjooniagb"
+	culture=wood_elf
+	religion=tree
+	martial=1
+	diplomacy=7
+	stewardship=2
+	intrigue=4
+	learning=3
+	trait="misguided_warrior"
+	960.1.1={birth=yes}
+	1586.5.2={death=yes}
+}
+
+10098={
+	name="Mere"
+	female=yes
+	dynasty=10098
+	dna="peafihbocog"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=0
+	stewardship=2
+	intrigue=5
+	learning=5
+	trait="charismatic_negotiator"
+	987.1.1={birth=yes}
+	1787.3.19={death=yes}
+}
+
+10099={
+	name="Arwen"
+	female=yes
+	dynasty=10099
+	dna="gbnajhhkojm"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=6
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="flamboyant_schemer"
+	945.1.1={birth=yes}
+	1392.8.20={death=yes}
+}
+
+10100={
+	name="Born"
+	dynasty=10100
+	dna="hmbfpkpdekk"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=2
+	stewardship=2
+	intrigue=7
+	learning=1
+	trait="misguided_warrior"
+	trait="slothful"
+	966.1.1={birth=yes}
+	1441.7.22={death=yes}
+}
+
+10101={
+	name="Islen"
+	dynasty=10101
+	dna="aemedmcibjl"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	trait="grey_eminence"
+	trait="ill"
+	963.1.1={birth=yes}
+	1495.5.21={death=yes}
+}
+
+10102={
+	name="Morgalla"
+	female=yes
+	dynasty=10102
+	dna="ifmnekojipd"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=6
+	intrigue=4
+	learning=7
+	trait="elusive_shadow"
+	995.1.1={birth=yes}
+	1522.6.13={death=yes}
+}
+
+10103={
+	name="Naieth"
+	female=yes
+	dynasty=10103
+	dna="cffgpmombpb"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=7
+	stewardship=7
+	intrigue=5
+	learning=6
+	trait="tough_soldier"
+	1000.1.1={birth=yes}
+	1362.11.17={death=yes}
+}
+
+10104={
+	name="Slasia"
+	female=yes
+	dynasty=10104
+	dna="bjbgoiihiao"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=3
+	intrigue=6
+	learning=1
+	trait="underhanded_rogue"
+	986.1.1={birth=yes}
+	1674.12.31={death=yes}
+}
+
+10105={
+	name="Evrag"
+	dynasty=10105
+	dna="ppfgpkaddjg"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=1
+	stewardship=4
+	intrigue=5
+	learning=4
+	trait="flamboyant_schemer"
+	999.1.1={birth=yes}
+	1406.6.15={death=yes}
+}
+
+10106={
+	name="Ilaruss"
+	dynasty=10106
+	dna="ckkfgdhblpf"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=7
+	intrigue=6
+	learning=2
+	trait="skilled_tactician"
+	trait="gardener"
+	990.1.1={birth=yes}
+	1347.4.15={death=yes}
+}
+
+10107={
+	name="Selathoi"
+	dynasty=10107
+	dna="cmfgkhpkhbp"
+	culture=wood_elf
+	religion=tree
+	martial=1
+	diplomacy=6
+	stewardship=7
+	intrigue=3
+	learning=6
+	trait="intricate_webweaver"
+	trait="poet"
+	trait="humble"
+	981.1.1={birth=yes}
+	1586.1.27={death=yes}
+}
+
+10108={
+	name="Epona"
+	female=yes
+	dynasty=10108
+	dna="nhffcgeeaki"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=3
+	intrigue=3
+	learning=7
+	trait="charismatic_negotiator"
+	998.1.1={birth=yes}
+	1624.1.7={death=yes}
+}
+
+10109={
+	name="Atharian"
+	dynasty=10109
+	dna="cifidjpakoh"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=4
+	intrigue=6
+	learning=5
+	trait="brilliant_strategist"
+	954.1.1={birth=yes}
+	1438.12.6={death=yes}
+}
+
+10110={
+	name="Skaryn"
+	dynasty=10110
+	dna="kmoneimnfah"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=0
+	stewardship=3
+	intrigue=8
+	learning=4
+	trait="skilled_tactician"
+	trait="hedonist"
+	trait="gregarious"
+	932.1.1={birth=yes}
+	1367.3.21={death=yes}
+}
+
+10111={
+	name="Ceinwyn"
+	female=yes
+	dynasty=10111
+	dna="cogopkbamhe"
+	culture=wood_elf
+	religion=tree
+	martial=1
+	diplomacy=7
+	stewardship=6
+	intrigue=5
+	learning=5
+	trait="flamboyant_schemer"
+	944.1.1={birth=yes}
+	1552.2.27={death=yes}
+}
+
+10112={
+	name="Lyra"
+	female=yes
+	dynasty=10112
+	dna="nnobeaegihg"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=5
+	intrigue=2
+	learning=4
+	trait="thrifty_clerk"
+	trait="arbitrary"
+	975.1.1={birth=yes}
+	1534.3.26={death=yes}
+}
+
+10113={
+	name="Dilirel"
+	dynasty=10113
+	dna="ogbmabchijd"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=6
+	intrigue=3
+	learning=6
+	trait="misguided_warrior"
+	949.1.1={birth=yes}
+	1474.5.28={death=yes}
+}
+
+10114={
+	name="Kalara"
+	female=yes
+	dynasty=10114
+	dna="kffokogbdnn"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=4
+	intrigue=4
+	learning=5
+	trait="flamboyant_schemer"
+	trait="wounded"
+	965.1.1={birth=yes}
+	1512.8.4={death=yes}
+}
+
+10115={
+	name="Tesia"
+	female=yes
+	dynasty=10115
+	dna="gckhhpnboeo"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=2
+	stewardship=7
+	intrigue=5
+	learning=5
+	trait="elusive_shadow"
+	965.1.1={birth=yes}
+	1485.12.6={death=yes}
+}
+
+10116={
+	name="Myna"
+	female=yes
+	dynasty=10116
+	dna="mlopcjbmhjp"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=0
+	intrigue=7
+	learning=5
+	trait="tough_soldier"
+	961.1.1={birth=yes}
+	1506.8.23={death=yes}
+}
+
+10117={
+	name="Varsarene"
+	female=yes
+	dynasty=10117
+	dna="ooeogipjalh"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=0
+	stewardship=4
+	intrigue=6
+	learning=1
+	trait="elusive_shadow"
+	993.1.1={birth=yes}
+	1456.5.15={death=yes}
+}
+
+10118={
+	name="Teun"
+	dynasty=10118
+	dna="jggjinnldli"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=7
+	stewardship=1
+	intrigue=5
+	learning=5
+	trait="charismatic_negotiator"
+	927.1.1={birth=yes}
+	1508.6.1={death=yes}
+}
+
+10119={
+	name="Calgor"
+	dynasty=10119
+	dna="depcnkgifap"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=5
+	intrigue=3
+	learning=4
+	trait="flamboyant_schemer"
+	trait="scholar"
+	988.1.1={birth=yes}
+	1405.1.7={death=yes}
+}
+
+10120={
+	name="Haefi"
+	female=yes
+	dynasty=10120
+	dna="lfhieoefokd"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=5
+	intrigue=3
+	learning=5
+	trait="fortune_builder"
+	936.1.1={birth=yes}
+	1354.9.20={death=yes}
+}
+
+10121={
+	name="Durall"
+	dynasty=10121
+	dna="jbljbeacoih"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=8
+	stewardship=6
+	intrigue=3
+	learning=5
+	trait="grey_eminence"
+	938.1.1={birth=yes}
+	1287.3.22={death=yes}
+}
+
+10122={
+	name="Sayenar"
+	dynasty=10122
+	dna="lgaohlgddfa"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=2
+	stewardship=2
+	intrigue=7
+	learning=4
+	trait="detached_priest"
+	928.1.1={birth=yes}
+	1434.7.11={death=yes}
+}
+
+10123={
+	name="Lothnor"
+	dynasty=10123
+	dna="mcmbknanibm"
+	culture=wood_elf
+	religion=tree
+	martial=8
+	diplomacy=4
+	stewardship=7
+	intrigue=3
+	learning=2
+	trait="intricate_webweaver"
+	trait="wounded"
+	988.1.1={birth=yes}
+	1514.6.17={death=yes}
+}
+
+10124={
+	name="Eluna"
+	female=yes
+	dynasty=10124
+	dna="lfiafhbgfff"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=1
+	intrigue=3
+	learning=6
+	trait="charismatic_negotiator"
+	942.1.1={birth=yes}
+	1510.7.20={death=yes}
+}
+
+10125={
+	name="Varsarene"
+	female=yes
+	dynasty=10125
+	dna="jggckefpbnd"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=0
+	stewardship=2
+	intrigue=7
+	learning=5
+	trait="intricate_webweaver"
+	927.1.1={birth=yes}
+	1422.6.7={death=yes}
+}
+
+10126={
+	name="Caroun"
+	female=yes
+	dynasty=10126
+	dna="lamgaikoebo"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=2
+	intrigue=3
+	learning=7
+	trait="naive_appeaser"
+	930.1.1={birth=yes}
+	1303.9.7={death=yes}
+}
+
+10127={
+	name="Nadaeth"
+	female=yes
+	dynasty=10127
+	dna="fflgggaccoo"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=4
+	intrigue=4
+	learning=4
+	trait="intricate_webweaver"
+	trait="gardener"
+	951.1.1={birth=yes}
+	1496.10.21={death=yes}
+}
+
+10128={
+	name="Cardog"
+	dynasty=10128
+	dna="pilegekbanf"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=3
+	intrigue=2
+	learning=3
+	trait="detached_priest"
+	trait="poet"
+	936.1.1={birth=yes}
+	1417.11.23={death=yes}
+}
+
+10129={
+	name="Catrassa"
+	female=yes
+	dynasty=10129
+	dna="gjikdamcmac"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=3
+	intrigue=2
+	learning=2
+	trait="tough_soldier"
+	trait="poet"
+	946.1.1={birth=yes}
+	1531.2.28={death=yes}
+}
+
+10130={
+	name="Calaingor"
+	dynasty=10130
+	dna="memohnfnaec"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=0
+	intrigue=2
+	learning=6
+	trait="skilled_tactician"
+	932.1.1={birth=yes}
+	1503.3.18={death=yes}
+}
+
+10131={
+	name="Oran"
+	dynasty=10131
+	dna="ifnoegkpadf"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=7
+	intrigue=3
+	learning=0
+	trait="indulgent_wastrel"
+	936.1.1={birth=yes}
+	1465.4.8={death=yes}
+}
+
+10132={
+	name="Trysten"
+	dynasty=10132
+	dna="iekinmhobea"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=3
+	intrigue=4
+	learning=4
+	trait="tough_soldier"
+	924.1.1={birth=yes}
+	1416.7.26={death=yes}
+}
+
+10133={
+	name="Flane"
+	female=yes
+	dynasty=10133
+	dna="oohojcaopeb"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=4
+	intrigue=3
+	learning=2
+	trait="charismatic_negotiator"
+	trait="drunkard"
+	trait="maimed"
+	932.1.1={birth=yes}
+	1197.6.21={death=yes}
+}
+
+10134={
+	name="Kaia"
+	female=yes
+	dynasty=10134
+	dna="gfgbdmaddab"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=4
+	stewardship=4
+	intrigue=8
+	learning=6
+	trait="brilliant_strategist"
+	944.1.1={birth=yes}
+	1530.8.29={death=yes}
+}
+
+10135={
+	name="Garnait"
+	female=yes
+	dynasty=10135
+	dna="fggfcknkecl"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=7
+	stewardship=5
+	intrigue=3
+	learning=6
+	trait="tough_soldier"
+	944.1.1={birth=yes}
+	1489.7.9={death=yes}
+}
+
+10136={
+	name="Kyra"
+	female=yes
+	dynasty=10136
+	dna="icjdodggjnm"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=0
+	stewardship=3
+	intrigue=2
+	learning=8
+	trait="thrifty_clerk"
+	trait="craven"
+	942.1.1={birth=yes}
+	1294.12.17={death=yes}
+}
+
+10137={
+	name="Cadoc"
+	dynasty=10137
+	dna="pekpipcfoke"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=4
+	intrigue=4
+	learning=3
+	trait="elusive_shadow"
+	965.1.1={birth=yes}
+	1431.6.30={death=yes}
+}
+
+10138={
+	name="Toiress"
+	female=yes
+	dynasty=10138
+	dna="bcbhdniicfo"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=1
+	intrigue=4
+	learning=6
+	trait="thrifty_clerk"
+	945.1.1={birth=yes}
+	1526.12.17={death=yes}
+}
+
+10139={
+	name="Atona"
+	female=yes
+	dynasty=10139
+	dna="ocicpnenbgo"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=6
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="skilled_tactician"
+	939.1.1={birth=yes}
+	1626.10.30={death=yes}
+}
+
+10140={
+	name="Bran"
+	dynasty=10140
+	dna="ckjhohednoc"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=1
+	intrigue=2
+	learning=4
+	trait="brilliant_strategist"
+	trait="duelist"
+	trait="wounded"
+	974.1.1={birth=yes}
+	1530.1.27={death=yes}
+}
+
+10141={
+	name="Lalana"
+	female=yes
+	dynasty=10141
+	dna="ckpbimbhcnm"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=8
+	intrigue=6
+	learning=3
+	trait="flamboyant_schemer"
+	984.1.1={birth=yes}
+	1654.2.23={death=yes}
+}
+
+10142={
+	name="Alastra"
+	female=yes
+	dynasty=10142
+	dna="pbjjaaiegbg"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=5
+	intrigue=4
+	learning=7
+	trait="naive_appeaser"
+	984.1.1={birth=yes}
+	1608.11.10={death=yes}
+}
+
+10143={
+	name="Ohtacar'loren"
+	female=yes
+	dynasty=10143
+	dna="ckhhngokjod"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=7
+	intrigue=6
+	learning=3
+	trait="midas_touched"
+	trait="wounded"
+	939.1.1={birth=yes}
+	1566.12.3={death=yes}
+}
+
+10144={
+	name="Tellane"
+	female=yes
+	dynasty=10144
+	dna="fhimebcgibg"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=7
+	stewardship=0
+	intrigue=7
+	learning=4
+	trait="skilled_tactician"
+	954.1.1={birth=yes}
+	1491.2.9={death=yes}
+}
+
+10145={
+	name="Pelennor"
+	female=yes
+	dynasty=10145
+	dna="goeajpaapcg"
+	culture=shadow_elf
+	religion=tree
+	martial=8
+	diplomacy=0
+	stewardship=6
+	intrigue=1
+	learning=7
+	trait="midas_touched"
+	983.1.1={birth=yes}
+	1684.3.8={death=yes}
+}
+
+10146={
+	name="Sarene"
+	female=yes
+	dynasty=10146
+	dna="jlfdhpbdjlj"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=1
+	intrigue=5
+	learning=8
+	trait="underhanded_rogue"
+	931.1.1={birth=yes}
+	1543.9.27={death=yes}
+}
+
+10147={
+	name="Wulderith"
+	dynasty=10147
+	dna="jmgdpggboed"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=6
+	intrigue=7
+	learning=3
+	trait="flamboyant_schemer"
+	trait="cruel"
+	958.1.1={birth=yes}
+	1590.11.15={death=yes}
+}
+
+10148={
+	name="Olandis"
+	dynasty=10148
+	dna="pbnnnbhgbca"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=4
+	intrigue=2
+	learning=3
+	trait="flamboyant_schemer"
+	956.1.1={birth=yes}
+	1530.1.24={death=yes}
+}
+
+10149={
+	name="Singas"
+	dynasty=10149
+	dna="aigohoocnpn"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=6
+	intrigue=4
+	learning=1
+	trait="underhanded_rogue"
+	927.1.1={birth=yes}
+	1574.9.15={death=yes}
+}
+
+10150={
+	name="Galena"
+	female=yes
+	dynasty=10150
+	dna="ocfemdcokei"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=4
+	intrigue=5
+	learning=6
+	trait="midas_touched"
+	998.1.1={birth=yes}
+	1841.5.10={death=yes}
+}
+
+10151={
+	name="Laeria"
+	female=yes
+	dynasty=10151
+	dna="mjedocahgoi"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=1
+	intrigue=6
+	learning=1
+	trait="charismatic_negotiator"
+	1001.1.1={birth=yes}
+	1251.2.2={death=yes}
+}
+
+10152={
+	name="Tethea"
+	female=yes
+	dynasty=10152
+	dna="gabindgaipj"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=3
+	intrigue=3
+	learning=2
+	trait="thrifty_clerk"
+	948.1.1={birth=yes}
+	1598.9.23={death=yes}
+}
+
+10153={
+	name="Briceris"
+	dynasty=10153
+	dna="hlefemcnbop"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=6
+	intrigue=3
+	learning=3
+	trait="intricate_webweaver"
+	trait="greedy"
+	955.1.1={birth=yes}
+	1474.8.25={death=yes}
+}
+
+10154={
+	name="Jaelsene"
+	female=yes
+	dynasty=10154
+	dna="mkgehhbkcfj"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=6
+	intrigue=1
+	learning=7
+	trait="elusive_shadow"
+	949.1.1={birth=yes}
+	1572.8.14={death=yes}
+}
+
+10155={
+	name="Durall"
+	dynasty=10155
+	dna="bgjojhiheho"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=3
+	intrigue=3
+	learning=5
+	trait="intricate_webweaver"
+	954.1.1={birth=yes}
+	1515.7.17={death=yes}
+}
+
+10156={
+	name="Tevaril"
+	female=yes
+	dynasty=10156
+	dna="dcdcgnjgiof"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=3
+	intrigue=3
+	learning=4
+	trait="tough_soldier"
+	932.1.1={birth=yes}
+	1469.6.26={death=yes}
+}
+
+10157={
+	name="Norian"
+	dynasty=10157
+	dna="ablgfbcllaa"
+	culture=shadow_elf
+	religion=tree
+	martial=8
+	diplomacy=8
+	stewardship=8
+	intrigue=5
+	learning=2
+	trait="fortune_builder"
+	960.1.1={birth=yes}
+	1348.7.20={death=yes}
+}
+
+10158={
+	name="Traevanoth"
+	dynasty=10158
+	dna="daldogkegkh"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=0
+	stewardship=4
+	intrigue=8
+	learning=6
+	trait="midas_touched"
+	946.1.1={birth=yes}
+	1646.7.28={death=yes}
+}
+
+10159={
+	name="Naisus"
+	dynasty=10159
+	dna="mjeokboibed"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=5
+	stewardship=4
+	intrigue=4
+	learning=5
+	trait="flamboyant_schemer"
+	1001.1.1={birth=yes}
+	1364.11.4={death=yes}
+}
+
+10160={
+	name="Araline"
+	female=yes
+	dynasty=10160
+	dna="iohjkdigaak"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=4
+	intrigue=6
+	learning=1
+	trait="brilliant_strategist"
+	trait="kind"
+	939.1.1={birth=yes}
+	1392.8.15={death=yes}
+}
+
+10161={
+	name="Betrias"
+	female=yes
+	dynasty=10161
+	dna="ncdkaijpkam"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=1
+	intrigue=0
+	learning=4
+	trait="flamboyant_schemer"
+	946.1.1={birth=yes}
+	1373.3.22={death=yes}
+}
+
+10162={
+	name="Ulana"
+	female=yes
+	dynasty=10162
+	dna="hfaloogpban"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=3
+	intrigue=6
+	learning=2
+	trait="underhanded_rogue"
+	trait="ill"
+	960.1.1={birth=yes}
+	1281.5.30={death=yes}
+}
+
+10163={
+	name="Morwain"
+	female=yes
+	dynasty=10163
+	dna="mfeiemlohjp"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=6
+	intrigue=1
+	learning=5
+	trait="flamboyant_schemer"
+	961.1.1={birth=yes}
+	1562.9.20={death=yes}
+}
+
+10164={
+	name="Elatior"
+	dynasty=10164
+	dna="hlieijnngmj"
+	culture=shadow_elf
+	religion=tree
+	martial=0
+	diplomacy=6
+	stewardship=2
+	intrigue=5
+	learning=2
+	trait="tough_soldier"
+	973.1.1={birth=yes}
+	1480.5.19={death=yes}
+}
+
+10165={
+	name="Jorianna"
+	female=yes
+	dynasty=10165
+	dna="jacbbbkkhpk"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=0
+	stewardship=4
+	intrigue=8
+	learning=7
+	trait="misguided_warrior"
+	952.1.1={birth=yes}
+	1330.7.10={death=yes}
+}
+
+10166={
+	name="Talaun"
+	female=yes
+	dynasty=10166
+	dna="jmghgjacfnl"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=7
+	intrigue=1
+	learning=2
+	trait="fortune_builder"
+	981.1.1={birth=yes}
+	1476.11.3={death=yes}
+}
+
+10167={
+	name="Morion"
+	dynasty=10167
+	dna="dnlgcghamfj"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=5
+	intrigue=0
+	learning=4
+	trait="charismatic_negotiator"
+	991.1.1={birth=yes}
+	1473.8.20={death=yes}
+}
+
+10168={
+	name="Anwen"
+	female=yes
+	dynasty=10168
+	dna="honlobpflkj"
+	culture=shadow_elf
+	religion=tree
+	martial=0
+	diplomacy=5
+	stewardship=7
+	intrigue=7
+	learning=3
+	trait="naive_appeaser"
+	999.1.1={birth=yes}
+	1665.1.1={death=yes}
+}
+
+10169={
+	name="Sephian"
+	dynasty=10169
+	dna="jnlahikcgje"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=6
+	intrigue=3
+	learning=5
+	trait="skilled_tactician"
+	trait="duelist"
+	988.1.1={birth=yes}
+	1734.7.13={death=yes}
+}
+
+10170={
+	name="Ourane"
+	female=yes
+	dynasty=10170
+	dna="fbgdedlkidm"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=1
+	intrigue=4
+	learning=4
+	trait="midas_touched"
+	972.1.1={birth=yes}
+	1561.6.15={death=yes}
+}
+
+10171={
+	name="Huring"
+	dynasty=10171
+	dna="fphghbmjdcn"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=3
+	intrigue=6
+	learning=4
+	trait="thrifty_clerk"
+	trait="cynical"
+	937.1.1={birth=yes}
+	1500.6.6={death=yes}
+}
+
+10172={
+	name="Eluine"
+	female=yes
+	dynasty=10172
+	dna="mnlmhngioha"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=6
+	stewardship=2
+	intrigue=1
+	learning=4
+	trait="thrifty_clerk"
+	trait="impaler"
+	941.1.1={birth=yes}
+	1685.5.26={death=yes}
+}
+
+10173={
+	name="Mormo"
+	dynasty=10173
+	dna="lajimjnbgma"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=7
+	stewardship=0
+	intrigue=3
+	learning=2
+	trait="thrifty_clerk"
+	trait="wounded"
+	950.1.1={birth=yes}
+	1545.1.6={death=yes}
+}
+
+10174={
+	name="Sturneel"
+	dynasty=10174
+	dna="fnpdofbokch"
+	culture=shadow_elf
+	religion=tree
+	martial=0
+	diplomacy=2
+	stewardship=2
+	intrigue=3
+	learning=4
+	trait="thrifty_clerk"
+	951.1.1={birth=yes}
+	1564.6.21={death=yes}
+}
+
+10175={
+	name="Valeera"
+	female=yes
+	dynasty=10175
+	dna="kaiafjemapj"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=8
+	trait="tough_soldier"
+	948.1.1={birth=yes}
+	1521.6.15={death=yes}
+}
+
+10176={
+	name="Ledwarn"
+	dynasty=10176
+	dna="gghhepbgpfg"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=3
+	intrigue=3
+	learning=3
+	trait="thrifty_clerk"
+	986.1.1={birth=yes}
+	1475.6.12={death=yes}
+}
+
+10177={
+	name="Thalandor"
+	dynasty=10177
+	dna="cofmllegcnh"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=0
+	stewardship=4
+	intrigue=4
+	learning=1
+	trait="fortune_builder"
+	trait="hunter"
+	953.1.1={birth=yes}
+	1606.1.12={death=yes}
+}
+
+10178={
+	name="Fedela"
+	female=yes
+	dynasty=10178
+	dna="dnhjogmjaph"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=1
+	intrigue=2
+	learning=5
+	trait="tough_soldier"
+	924.1.1={birth=yes}
+	1536.9.5={death=yes}
+}
+
+10179={
+	name="Cardog"
+	dynasty=10179
+	dna="fejijpklged"
+	culture=shadow_elf
+	religion=tree
+	martial=1
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=3
+	trait="intricate_webweaver"
+	948.1.1={birth=yes}
+	1288.7.7={death=yes}
+}
+
+10180={
+	name="Arielle"
+	female=yes
+	dynasty=10180
+	dna="ilpdcmjjkkp"
+	culture=shadow_elf
+	religion=tree
+	martial=1
+	diplomacy=7
+	stewardship=6
+	intrigue=5
+	learning=6
+	trait="midas_touched"
+	980.1.1={birth=yes}
+	1427.5.3={death=yes}
+}
+
+10181={
+	name="Aneora"
+	female=yes
+	dynasty=10181
+	dna="feolibdfkmf"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=5
+	intrigue=0
+	learning=5
+	trait="thrifty_clerk"
+	943.1.1={birth=yes}
+	1454.5.29={death=yes}
+}
+
+10182={
+	name="Urielme"
+	female=yes
+	dynasty=10182
+	dna="bmhocdalbpi"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=3
+	stewardship=3
+	intrigue=5
+	learning=7
+	trait="intricate_webweaver"
+	1000.1.1={birth=yes}
+	1618.9.16={death=yes}
+}
+
+10183={
+	name="Gurian"
+	dynasty=10183
+	dna="jjgdehamnpj"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=3
+	intrigue=4
+	learning=4
+	trait="brilliant_strategist"
+	trait="lunatic"
+	931.1.1={birth=yes}
+	1413.1.21={death=yes}
+}
+
+10184={
+	name="Garanoth"
+	dynasty=10184
+	dna="fhnnmepkneb"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=4
+	intrigue=7
+	learning=2
+	trait="charismatic_negotiator"
+	970.1.1={birth=yes}
+	1483.3.15={death=yes}
+}
+
+10185={
+	name="Sylvanus"
+	female=yes
+	dynasty=10185
+	dna="papahhpojbn"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=3
+	stewardship=3
+	intrigue=3
+	learning=8
+	trait="grey_eminence"
+	trait="wounded"
+	972.1.1={birth=yes}
+	1683.9.18={death=yes}
+}
+
+10186={
+	name="Allelda"
+	female=yes
+	dynasty=10186
+	dna="fpipkefcegm"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=6
+	intrigue=1
+	learning=5
+	trait="elusive_shadow"
+	987.1.1={birth=yes}
+	1458.11.1={death=yes}
+}
+
+10187={
+	name="Garnoc"
+	dynasty=10187
+	dna="ipgikhnilme"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=3
+	stewardship=4
+	intrigue=6
+	learning=2
+	trait="charismatic_negotiator"
+	947.1.1={birth=yes}
+	1531.9.7={death=yes}
+}
+
+10188={
+	name="Catharess"
+	female=yes
+	dynasty=10188
+	dna="hlahlgmpboc"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=3
+	intrigue=4
+	learning=4
+	trait="flamboyant_schemer"
+	993.1.1={birth=yes}
+	1647.5.9={death=yes}
+}
+
+10189={
+	name="Calgor"
+	dynasty=10189
+	dna="ogojlgpdofh"
+	culture=shadow_elf
+	religion=tree
+	martial=8
+	diplomacy=4
+	stewardship=2
+	intrigue=2
+	learning=6
+	trait="tough_soldier"
+	trait="just"
+	trait="stressed"
+	988.1.1={birth=yes}
+	1542.9.3={death=yes}
+}
+
+10190={
+	name="Durall"
+	dynasty=10190
+	dna="hibkoknhoeo"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=8
+	intrigue=5
+	learning=4
+	trait="charismatic_negotiator"
+	trait="maimed"
+	947.1.1={birth=yes}
+	1447.11.4={death=yes}
+}
+
+10191={
+	name="Nolar"
+	dynasty=10191
+	dna="hdidnpkepfm"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=3
+	intrigue=2
+	learning=3
+	trait="tough_soldier"
+	966.1.1={birth=yes}
+	1545.12.10={death=yes}
+}
+
+10192={
+	name="Brim-Auryaur"
+	dynasty=10192
+	dna="bkchcmcfknf"
+	culture=shadow_elf
+	religion=tree
+	martial=8
+	diplomacy=5
+	stewardship=4
+	intrigue=5
+	learning=6
+	trait="indulgent_wastrel"
+	945.1.1={birth=yes}
+	1367.9.16={death=yes}
+}
+
+10193={
+	name="Morion"
+	dynasty=10193
+	dna="ekhfmkdpdfi"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=6
+	trait="fortune_builder"
+	995.1.1={birth=yes}
+	1515.7.4={death=yes}
+}
+
+10194={
+	name="Immolde"
+	female=yes
+	dynasty=10194
+	dna="neaimejgpbd"
+	culture=shadow_elf
+	religion=tree
+	martial=1
+	diplomacy=8
+	stewardship=7
+	intrigue=4
+	learning=1
+	trait="tough_soldier"
+	trait="maimed"
+	977.1.1={birth=yes}
+	1488.2.24={death=yes}
+}
+
+10195={
+	name="Arahan"
+	female=yes
+	dynasty=10195
+	dna="dddgndliaae"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=6
+	stewardship=3
+	intrigue=4
+	learning=4
+	trait="tough_soldier"
+	980.1.1={birth=yes}
+	1339.4.20={death=yes}
+}
+
+10196={
+	name="Cystern"
+	dynasty=10196
+	dna="odngaodpfim"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=3
+	intrigue=2
+	learning=6
+	trait="naive_appeaser"
+	trait="gardener"
+	980.1.1={birth=yes}
+	1506.4.3={death=yes}
+}
+
+10197={
+	name="Lownes"
+	female=yes
+	dynasty=10197
+	dna="bemidkkdllp"
+	culture=shadow_elf
+	religion=tree
+	martial=1
+	diplomacy=3
+	stewardship=2
+	intrigue=2
+	learning=7
+	trait="intricate_webweaver"
+	trait="hunter"
+	963.1.1={birth=yes}
+	1466.8.13={death=yes}
+}
+
+10198={
+	name="Storalla"
+	female=yes
+	dynasty=10198
+	dna="fekbainfhob"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=2
+	intrigue=6
+	learning=4
+	trait="fortune_builder"
+	949.1.1={birth=yes}
+	1657.3.31={death=yes}
+}
+
+10199={
+	name="Astaria"
+	female=yes
+	dynasty=10199
+	dna="omnhkhgfoeb"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=7
+	intrigue=2
+	learning=4
+	trait="naive_appeaser"
+	954.1.1={birth=yes}
+	1389.4.7={death=yes}
+}
+
+10200={
+	name="Leannia"
+	female=yes
+	dynasty=10200
+	dna="faeohlgncll"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=7
+	intrigue=6
+	learning=2
+	trait="thrifty_clerk"
+	926.1.1={birth=yes}
+	1523.6.19={death=yes}
+}
+
+10201={
+	name="Olandis"
+	dynasty=10201
+	dna="fjpbcphpjkm"
+	culture=shadow_elf
+	religion=tree
+	martial=1
+	diplomacy=6
+	stewardship=4
+	intrigue=3
+	learning=1
+	trait="underhanded_rogue"
+	995.1.1={birth=yes}
+	1780.1.11={death=yes}
+}
+
+10202={
+	name="Arlas"
+	dynasty=10202
+	dna="dafimhlidkm"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=7
+	intrigue=1
+	learning=4
+	trait="underhanded_rogue"
+	961.1.1={birth=yes}
+	1637.11.17={death=yes}
+}
+
+10203={
+	name="Suibhon"
+	dynasty=10203
+	dna="fbefppigcbi"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=2
+	stewardship=3
+	intrigue=4
+	learning=7
+	trait="skilled_tactician"
+	trait="duelist"
+	963.1.1={birth=yes}
+	1452.8.23={death=yes}
+}
+
+10204={
+	name="Marduc"
+	dynasty=10204
+	dna="kkecffdgmkn"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=2
+	intrigue=1
+	learning=5
+	trait="misguided_warrior"
+	943.1.1={birth=yes}
+	1329.12.9={death=yes}
+}
+
+10205={
+	name="Garuneth"
+	dynasty=10205
+	dna="pnggjaokppi"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=7
+	intrigue=3
+	learning=3
+	trait="tough_soldier"
+	948.1.1={birth=yes}
+	1540.6.25={death=yes}
+}
+
+10206={
+	name="Hesteoun"
+	dynasty=10206
+	dna="ogbmcbchmhl"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=7
+	intrigue=4
+	learning=2
+	trait="naive_appeaser"
+	trait="hedonist"
+	947.1.1={birth=yes}
+	1379.6.11={death=yes}
+}
+
+10207={
+	name="Torn"
+	dynasty=10207
+	dna="pjodibaaemh"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=3
+	intrigue=4
+	learning=2
+	trait="elusive_shadow"
+	trait="charitable"
+	928.1.1={birth=yes}
+	1565.10.30={death=yes}
+}
+
+10208={
+	name="Wenleath"
+	female=yes
+	dynasty=10208
+	dna="beblnegbpjb"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=7
+	intrigue=5
+	learning=3
+	trait="intricate_webweaver"
+	994.1.1={birth=yes}
+	1545.5.7={death=yes}
+}
+
+10209={
+	name="Saetean"
+	dynasty=10209
+	dna="aaedgkohhlg"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=8
+	stewardship=4
+	intrigue=6
+	learning=6
+	trait="underhanded_rogue"
+	998.1.1={birth=yes}
+	1560.5.14={death=yes}
+}
+
+10210={
+	name="Aineca"
+	female=yes
+	dynasty=10210
+	dna="fdoihoaocca"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=3
+	stewardship=6
+	intrigue=5
+	learning=6
+	trait="charismatic_negotiator"
+	trait="trusting"
+	958.1.1={birth=yes}
+	1449.11.6={death=yes}
+}
+
+10211={
+	name="Siohaen"
+	female=yes
+	dynasty=10211
+	dna="ekpddadabfh"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=7
+	stewardship=2
+	intrigue=4
+	learning=8
+	trait="skilled_tactician"
+	946.1.1={birth=yes}
+	1356.2.3={death=yes}
+}
+
+10212={
+	name="Eimella"
+	female=yes
+	dynasty=10212
+	dna="ldbmpgnbjne"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=3
+	intrigue=2
+	learning=7
+	trait="grey_eminence"
+	trait="depressed"
+	995.1.1={birth=yes}
+	1587.6.17={death=yes}
+}
+
+10213={
+	name="Bethelan"
+	female=yes
+	dynasty=10213
+	dna="inanmfafpeo"
+	culture=mountain_elf
+	religion=tree
+	martial=1
+	diplomacy=6
+	stewardship=6
+	intrigue=8
+	learning=4
+	trait="flamboyant_schemer"
+	927.1.1={birth=yes}
+	1465.10.14={death=yes}
+}
+
+10214={
+	name="Aon"
+	dynasty=10214
+	dna="fopmaplffkl"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=4
+	intrigue=6
+	learning=2
+	trait="detached_priest"
+	961.1.1={birth=yes}
+	1560.7.7={death=yes}
+}
+
+10215={
+	name="Asphalia"
+	female=yes
+	dynasty=10215
+	dna="ponggfbcbga"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=4
+	stewardship=4
+	intrigue=3
+	learning=2
+	trait="grey_eminence"
+	937.1.1={birth=yes}
+	1374.6.17={death=yes}
+}
+
+10216={
+	name="Lothoth"
+	dynasty=10216
+	dna="dfdfankgjkn"
+	culture=mountain_elf
+	religion=tree
+	martial=1
+	diplomacy=4
+	stewardship=4
+	intrigue=2
+	learning=4
+	trait="skilled_tactician"
+	trait="mystic"
+	962.1.1={birth=yes}
+	1533.3.23={death=yes}
+}
+
+10217={
+	name="Hathdreathia"
+	female=yes
+	dynasty=10217
+	dna="ndmejbdfidm"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=6
+	intrigue=6
+	learning=5
+	trait="thrifty_clerk"
+	997.1.1={birth=yes}
+	1640.6.29={death=yes}
+}
+
+10218={
+	name="Hathdreathia"
+	female=yes
+	dynasty=10218
+	dna="ffbbjfmbnai"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=2
+	intrigue=5
+	learning=4
+	trait="midas_touched"
+	992.1.1={birth=yes}
+	1731.1.26={death=yes}
+}
+
+10219={
+	name="Bofaen"
+	female=yes
+	dynasty=10219
+	dna="modddobihik"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=8
+	intrigue=1
+	learning=0
+	trait="underhanded_rogue"
+	1001.1.1={birth=yes}
+	1657.8.2={death=yes}
+}
+
+10220={
+	name="Kastmar"
+	dynasty=10220
+	dna="eohhkfijmca"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=6
+	stewardship=3
+	intrigue=2
+	learning=4
+	trait="fortune_builder"
+	933.1.1={birth=yes}
+	1525.4.15={death=yes}
+}
+
+10221={
+	name="Elwin"
+	female=yes
+	dynasty=10221
+	dna="fbbaeebigjm"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=5
+	intrigue=1
+	learning=1
+	trait="midas_touched"
+	989.1.1={birth=yes}
+	1600.5.3={death=yes}
+}
+
+10222={
+	name="Kaia"
+	female=yes
+	dynasty=10222
+	dna="damhkekonlf"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=7
+	stewardship=5
+	intrigue=6
+	learning=2
+	trait="tough_soldier"
+	931.1.1={birth=yes}
+	1433.4.19={death=yes}
+}
+
+10223={
+	name="Alfaste"
+	female=yes
+	dynasty=10223
+	dna="aelnhbmcelh"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=7
+	intrigue=7
+	learning=2
+	trait="fortune_builder"
+	943.1.1={birth=yes}
+	1377.9.8={death=yes}
+}
+
+10224={
+	name="Allun"
+	dynasty=10224
+	dna="aifnejnkcei"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=8
+	stewardship=3
+	intrigue=7
+	learning=4
+	trait="underhanded_rogue"
+	trait="mystic"
+	969.1.1={birth=yes}
+	1599.4.5={death=yes}
+}
+
+10225={
+	name="Felfae"
+	female=yes
+	dynasty=10225
+	dna="einljbdgmap"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=6
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="charismatic_negotiator"
+	999.1.1={birth=yes}
+	1510.6.15={death=yes}
+}
+
+10226={
+	name="Varsarene"
+	female=yes
+	dynasty=10226
+	dna="bogjhgafnnf"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=6
+	intrigue=1
+	learning=6
+	trait="flamboyant_schemer"
+	946.1.1={birth=yes}
+	1580.9.6={death=yes}
+}
+
+10227={
+	name="Tornane"
+	female=yes
+	dynasty=10227
+	dna="lhndbeginpm"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=2
+	intrigue=2
+	learning=3
+	trait="naive_appeaser"
+	trait="depressed"
+	927.1.1={birth=yes}
+	1603.9.15={death=yes}
+}
+
+10228={
+	name="Meinwe"
+	female=yes
+	dynasty=10228
+	dna="bociajgbnop"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=3
+	intrigue=4
+	learning=3
+	trait="flamboyant_schemer"
+	trait="patient"
+	950.1.1={birth=yes}
+	1423.1.16={death=yes}
+}
+
+10229={
+	name="Eira"
+	female=yes
+	dynasty=10229
+	dna="noipojpekef"
+	culture=mountain_elf
+	religion=tree
+	martial=1
+	diplomacy=3
+	stewardship=4
+	intrigue=4
+	learning=0
+	trait="grey_eminence"
+	938.1.1={birth=yes}
+	1582.1.21={death=yes}
+}
+
+10230={
+	name="Torian"
+	dynasty=10230
+	dna="pccpebmekhn"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=6
+	intrigue=6
+	learning=1
+	trait="skilled_tactician"
+	trait="hedonist"
+	996.1.1={birth=yes}
+	1665.4.7={death=yes}
+}
+
+10231={
+	name="Deweid"
+	dynasty=10231
+	dna="dlifncpkdif"
+	culture=mountain_elf
+	religion=tree
+	martial=8
+	diplomacy=4
+	stewardship=7
+	intrigue=6
+	learning=6
+	trait="underhanded_rogue"
+	trait="scholar"
+	trait="wroth"
+	964.1.1={birth=yes}
+	1380.10.6={death=yes}
+}
+
+10232={
+	name="Veris"
+	female=yes
+	dynasty=10232
+	dna="kcdmeajgnac"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=0
+	stewardship=4
+	intrigue=1
+	learning=3
+	trait="tough_soldier"
+	trait="patient"
+	trait="ill"
+	982.1.1={birth=yes}
+	1533.3.20={death=yes}
+}
+
+10233={
+	name="Thanwin"
+	dynasty=10233
+	dna="pgloaedpbhj"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=1
+	stewardship=7
+	intrigue=3
+	learning=8
+	trait="skilled_tactician"
+	trait="gregarious"
+	962.1.1={birth=yes}
+	1576.4.15={death=yes}
+}
+
+10234={
+	name="Arien"
+	female=yes
+	dynasty=10234
+	dna="hjjpkopolod"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=4
+	intrigue=3
+	learning=8
+	trait="detached_priest"
+	trait="hedonist"
+	932.1.1={birth=yes}
+	1465.9.3={death=yes}
+}
+
+10235={
+	name="Begeir"
+	dynasty=10235
+	dna="kpobkcjbnng"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=6
+	stewardship=7
+	intrigue=3
+	learning=4
+	trait="brilliant_strategist"
+	954.1.1={birth=yes}
+	1358.3.10={death=yes}
+}
+
+10236={
+	name="Taen"
+	dynasty=10236
+	dna="eopccobcalg"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=1
+	stewardship=8
+	intrigue=6
+	learning=0
+	trait="tough_soldier"
+	936.1.1={birth=yes}
+	1532.9.5={death=yes}
+}
+
+10237={
+	name="Oanes"
+	female=yes
+	dynasty=10237
+	dna="fjjboffdodm"
+	culture=mountain_elf
+	religion=tree
+	martial=1
+	diplomacy=5
+	stewardship=7
+	intrigue=4
+	learning=5
+	trait="fortune_builder"
+	trait="celibate"
+	976.1.1={birth=yes}
+	1631.11.10={death=yes}
+}
+
+10238={
+	name="Feldath"
+	dynasty=10238
+	dna="ahfdfmepgkn"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=3
+	stewardship=4
+	intrigue=4
+	learning=3
+	trait="skilled_tactician"
+	954.1.1={birth=yes}
+	1308.5.18={death=yes}
+}
+
+10239={
+	name="Galed"
+	dynasty=10239
+	dna="obpkjgbbgbg"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=3
+	stewardship=3
+	intrigue=5
+	learning=3
+	trait="thrifty_clerk"
+	923.1.1={birth=yes}
+	1367.3.24={death=yes}
+}
+
+10240={
+	name="Nlaraei"
+	female=yes
+	dynasty=10240
+	dna="jnhkapokpdp"
+	culture=mountain_elf
+	religion=tree
+	martial=8
+	diplomacy=1
+	stewardship=3
+	intrigue=3
+	learning=6
+	trait="elusive_shadow"
+	trait="ill"
+	947.1.1={birth=yes}
+	1492.5.25={death=yes}
+}
+
+10241={
+	name="Erhaen"
+	female=yes
+	dynasty=10241
+	dna="naicecmambh"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=5
+	intrigue=2
+	learning=3
+	trait="brilliant_strategist"
+	trait="leper"
+	953.1.1={birth=yes}
+	1668.9.19={death=yes}
+}
+
+10242={
+	name="Arkhar"
+	dynasty=10242
+	dna="lndnceidcdc"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=0
+	intrigue=2
+	learning=7
+	trait="tough_soldier"
+	939.1.1={birth=yes}
+	1558.5.10={death=yes}
+}
+
+10243={
+	name="Lornaith"
+	dynasty=10243
+	dna="pjfolaenjec"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=2
+	stewardship=5
+	intrigue=4
+	learning=2
+	trait="thrifty_clerk"
+	928.1.1={birth=yes}
+	1534.5.11={death=yes}
+}
+
+10244={
+	name="Arnoth"
+	dynasty=10244
+	dna="fpeldoojokp"
+	culture=mountain_elf
+	religion=tree
+	martial=8
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=4
+	trait="elusive_shadow"
+	922.1.1={birth=yes}
+	1401.5.11={death=yes}
+}
+
+10245={
+	name="Araline"
+	female=yes
+	dynasty=10245
+	dna="bmgikdpopml"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=4
+	intrigue=4
+	learning=7
+	trait="skilled_tactician"
+	954.1.1={birth=yes}
+	1401.2.9={death=yes}
+}
+
+10246={
+	name="Sassira"
+	female=yes
+	dynasty=10246
+	dna="dmggnoijpfn"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=4
+	intrigue=8
+	learning=7
+	trait="skilled_tactician"
+	trait="wounded"
+	989.1.1={birth=yes}
+	1698.1.21={death=yes}
+}
+
+10247={
+	name="Arwel"
+	dynasty=10247
+	dna="jpahpmjpkpi"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=7
+	intrigue=4
+	learning=2
+	trait="thrifty_clerk"
+	992.1.1={birth=yes}
+	1701.6.30={death=yes}
+}
+
+10248={
+	name="Alys"
+	female=yes
+	dynasty=10248
+	dna="cnjkengimeo"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=1
+	intrigue=3
+	learning=5
+	trait="skilled_tactician"
+	956.1.1={birth=yes}
+	1257.6.7={death=yes}
+}
+
+10249={
+	name="Morain"
+	dynasty=10249
+	dna="akpppjiball"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=1
+	intrigue=6
+	learning=2
+	trait="charismatic_negotiator"
+	929.1.1={birth=yes}
+	1670.6.21={death=yes}
+}
+
+10250={
+	name="Folan"
+	dynasty=10250
+	dna="nlgodffgibg"
+	culture=mountain_elf
+	religion=tree
+	martial=1
+	diplomacy=0
+	stewardship=8
+	intrigue=1
+	learning=5
+	trait="thrifty_clerk"
+	930.1.1={birth=yes}
+	1371.11.30={death=yes}
+}
+
+10251={
+	name="Mywene"
+	female=yes
+	dynasty=10251
+	dna="mkglfddfhge"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=1
+	intrigue=4
+	learning=3
+	trait="underhanded_rogue"
+	trait="impaler"
+	991.1.1={birth=yes}
+	1447.11.30={death=yes}
+}
+
+10252={
+	name="Braith"
+	dynasty=10252
+	dna="oabmpjlpegi"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=8
+	stewardship=5
+	intrigue=4
+	learning=7
+	trait="underhanded_rogue"
+	993.1.1={birth=yes}
+	1563.10.22={death=yes}
+}
+
+10253={
+	name="Ivnor"
+	dynasty=10253
+	dna="phglkbpdjpl"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=6
+	intrigue=2
+	learning=4
+	trait="flamboyant_schemer"
+	948.1.1={birth=yes}
+	1415.8.8={death=yes}
+}
+
+10254={
+	name="Roparin"
+	dynasty=10254
+	dna="dkfdfoejced"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=6
+	intrigue=1
+	learning=3
+	trait="flamboyant_schemer"
+	985.1.1={birth=yes}
+	1520.9.9={death=yes}
+}
+
+10255={
+	name="Oria"
+	female=yes
+	dynasty=10255
+	dna="hjmbbnojpkb"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=5
+	intrigue=4
+	learning=4
+	trait="intricate_webweaver"
+	955.1.1={birth=yes}
+	1284.8.14={death=yes}
+}
+
+10256={
+	name="Myna"
+	female=yes
+	dynasty=10256
+	dna="hokdpheiohi"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=6
+	intrigue=4
+	learning=2
+	trait="skilled_tactician"
+	trait="gardener"
+	924.1.1={birth=yes}
+	1329.9.1={death=yes}
+}
+
+10257={
+	name="Telen"
+	female=yes
+	dynasty=10257
+	dna="kdhgoecpimh"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=3
+	intrigue=6
+	learning=1
+	trait="grey_eminence"
+	trait="mystic"
+	970.1.1={birth=yes}
+	1397.9.13={death=yes}
+}
+
+10258={
+	name="Arnoth"
+	dynasty=10258
+	dna="ochjdkiaibm"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=6
+	trait="underhanded_rogue"
+	trait="maimed"
+	983.1.1={birth=yes}
+	1697.12.17={death=yes}
+}
+
+10259={
+	name="Romas"
+	dynasty=10259
+	dna="gahenpmjcni"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=3
+	intrigue=5
+	learning=7
+	trait="midas_touched"
+	943.1.1={birth=yes}
+	1418.4.16={death=yes}
+}
+
+10260={
+	name="Syldane"
+	female=yes
+	dynasty=10260
+	dna="oodbdlmpdld"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=5
+	intrigue=4
+	learning=2
+	trait="intricate_webweaver"
+	trait="scholar"
+	1000.1.1={birth=yes}
+	1503.5.12={death=yes}
+}
+
+10261={
+	name="Stallia"
+	female=yes
+	dynasty=10261
+	dna="npmbanahbkh"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=6
+	stewardship=3
+	intrigue=3
+	learning=3
+	trait="thrifty_clerk"
+	trait="impaler"
+	trait="kind"
+	970.1.1={birth=yes}
+	1588.8.25={death=yes}
+}
+
+10262={
+	name="Nagawin"
+	dynasty=10262
+	dna="ihbfpeepoem"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=5
+	intrigue=4
+	learning=5
+	trait="thrifty_clerk"
+	trait="kind"
+	957.1.1={birth=yes}
+	1563.11.5={death=yes}
+}
+
+10263={
+	name="Rhiane"
+	female=yes
+	dynasty=10263
+	dna="gdmbaplplll"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=3
+	intrigue=6
+	learning=7
+	trait="midas_touched"
+	trait="ambitious"
+	927.1.1={birth=yes}
+	1375.6.24={death=yes}
+}
+
+10264={
+	name="Felian"
+	dynasty=10264
+	dna="fpcfgjlpomk"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=6
+	intrigue=8
+	learning=2
+	trait="tough_soldier"
+	963.1.1={birth=yes}
+	1615.2.11={death=yes}
+}
+
+10265={
+	name="Arica"
+	female=yes
+	dynasty=10265
+	dna="cpllpgbggie"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=7
+	intrigue=5
+	learning=2
+	trait="intricate_webweaver"
+	trait="poet"
+	1002.1.1={birth=yes}
+	1721.2.25={death=yes}
+}
+
+10266={
+	name="Rhosine"
+	female=yes
+	dynasty=10266
+	dna="mffmobiadpk"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=5
+	intrigue=7
+	learning=3
+	trait="charismatic_negotiator"
+	974.1.1={birth=yes}
+	1675.6.3={death=yes}
+}
+
+10267={
+	name="Morgalla"
+	female=yes
+	dynasty=10267
+	dna="bmpmiabdkmp"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=2
+	stewardship=5
+	intrigue=3
+	learning=3
+	trait="flamboyant_schemer"
+	991.1.1={birth=yes}
+	1339.6.21={death=yes}
+}
+
+10268={
+	name="Nesta"
+	female=yes
+	dynasty=10268
+	dna="nookeofamga"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=1
+	stewardship=6
+	intrigue=2
+	learning=1
+	trait="midas_touched"
+	996.1.1={birth=yes}
+	1500.12.16={death=yes}
+}
+
+10269={
+	name="Atharian"
+	dynasty=10269
+	dna="dolljlfblan"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=7
+	stewardship=3
+	intrigue=3
+	learning=6
+	trait="fortune_builder"
+	964.1.1={birth=yes}
+	1710.9.8={death=yes}
+}
+
+10270={
+	name="Cyndor"
+	dynasty=10270
+	dna="oggffdnlfpk"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=5
+	intrigue=7
+	learning=1
+	trait="charismatic_negotiator"
+	978.1.1={birth=yes}
+	1584.7.30={death=yes}
+}
+
+10271={
+	name="Hauran"
+	dynasty=10271
+	dna="nopalgolfne"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=2
+	intrigue=6
+	learning=3
+	trait="tough_soldier"
+	trait="gardener"
+	951.1.1={birth=yes}
+	1378.8.26={death=yes}
+}
+
+10272={
+	name="Heulog"
+	dynasty=10272
+	dna="lbbaljhcgpm"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=2
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="elusive_shadow"
+	trait="scholar"
+	984.1.1={birth=yes}
+	1727.9.28={death=yes}
+}
+
+10273={
+	name="Daylen"
+	dynasty=10273
+	dna="mfgefijckbb"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=5
+	intrigue=0
+	learning=3
+	trait="flamboyant_schemer"
+	956.1.1={birth=yes}
+	1552.1.17={death=yes}
+}
+
+10274={
+	name="Paelia"
+	female=yes
+	dynasty=10274
+	dna="ogaihlijoeg"
+	culture=mountain_elf
+	religion=tree
+	martial=0
+	diplomacy=5
+	stewardship=3
+	intrigue=4
+	learning=2
+	trait="skilled_tactician"
+	trait="hunter"
+	958.1.1={birth=yes}
+	1557.5.15={death=yes}
+}
+
+10275={
+	name="Hedwan"
+	dynasty=10275
+	dna="jobeiildodj"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=7
+	stewardship=1
+	intrigue=5
+	learning=6
+	trait="elusive_shadow"
+	trait="celibate"
+	991.1.1={birth=yes}
+	1508.7.21={death=yes}
+}
+
+10276={
+	name="Heggria"
+	female=yes
+	dynasty=10276
+	dna="glpnlgagfie"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=5
+	intrigue=3
+	learning=3
+	trait="detached_priest"
+	924.1.1={birth=yes}
+	1305.5.11={death=yes}
+}
+
+10277={
+	name="Olana"
+	female=yes
+	dynasty=10277
+	dna="afnmnjgkhkb"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=6
+	intrigue=6
+	learning=5
+	trait="thrifty_clerk"
+	971.1.1={birth=yes}
+	1555.5.14={death=yes}
+}
+
+10278={
+	name="Isola"
+	female=yes
+	dynasty=10278
+	dna="dofpaggpbbg"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=1
+	stewardship=4
+	intrigue=1
+	learning=4
+	trait="midas_touched"
+	trait="brave"
+	952.1.1={birth=yes}
+	1562.7.31={death=yes}
+}
+
+10279={
+	name="Olwine"
+	female=yes
+	dynasty=10279
+	dna="jcdmnpokgfb"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=8
+	intrigue=3
+	learning=7
+	trait="thrifty_clerk"
+	trait="ill"
+	994.1.1={birth=yes}
+	1521.8.10={death=yes}
+}
+
+10280={
+	name="Olymas"
+	female=yes
+	dynasty=10280
+	dna="lpileddkajc"
+	culture=mountain_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=1
+	intrigue=4
+	learning=4
+	trait="fortune_builder"
+	trait="duelist"
+	trait="arbitrary"
+	trait="drunkard"
+	956.1.1={birth=yes}
+	1706.12.22={death=yes}
+}
+
+10281={
+	name="Diloth"
+	dynasty=10281
+	dna="hfkeanfmlaf"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=2
+	intrigue=8
+	learning=6
+	trait="tough_soldier"
+	trait="hedonist"
+	978.1.1={birth=yes}
+	1464.1.11={death=yes}
+}
+
+10282={
+	name="Lalana"
+	female=yes
+	dynasty=10282
+	dna="bhjgholfhop"
+	culture=mountain_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=7
+	intrigue=3
+	learning=5
+	trait="thrifty_clerk"
+	974.1.1={birth=yes}
+	1582.7.9={death=yes}
+}
+
+10283={
+	name="Oria"
+	female=yes
+	dynasty=10283
+	dna="hnmpfdnigmf"
+	culture=mountain_elf
+	religion=tree
+	martial=0
+	diplomacy=1
+	stewardship=6
+	intrigue=1
+	learning=2
+	trait="charismatic_negotiator"
+	943.1.1={birth=yes}
+	1403.6.14={death=yes}
+}
+
+10284={
+	name="Cathal"
+	dynasty=10284
+	dna="eggicmdligd"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=3
+	intrigue=3
+	learning=2
+	trait="midas_touched"
+	955.1.1={birth=yes}
+	1472.5.17={death=yes}
+}
+
+10285={
+	name="Tellane"
+	female=yes
+	dynasty=10285
+	dna="pegnhodnehg"
+	culture=mountain_elf
+	religion=tree
+	martial=6
+	diplomacy=6
+	stewardship=0
+	intrigue=0
+	learning=5
+	trait="intricate_webweaver"
+	964.1.1={birth=yes}
+	1538.11.12={death=yes}
+}
+
+10286={
+	name="Hirlun"
+	dynasty=10286
+	dna="lojkedlfhfm"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=7
+	stewardship=2
+	intrigue=3
+	learning=5
+	trait="underhanded_rogue"
+	948.1.1={birth=yes}
+	1556.2.5={death=yes}
+}
+
+10287={
+	name="Slasia"
+	female=yes
+	dynasty=10287
+	dna="nlmnheclgdk"
+	culture=mountain_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=6
+	intrigue=6
+	learning=6
+	trait="detached_priest"
+	937.1.1={birth=yes}
+	1378.4.27={death=yes}
+}
+
+10288={
+	name="Feldor"
+	dynasty=10288
+	dna="pdmppoahibo"
+	culture=mountain_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=2
+	intrigue=3
+	learning=2
+	trait="charismatic_negotiator"
+	956.1.1={birth=yes}
+	1370.7.27={death=yes}
+}
+
+10289={
+	name="Swendbarn"
+	dynasty=10289
+	dna="oflolfhokop"
+	culture=mountain_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=6
+	intrigue=1
+	learning=6
+	trait="underhanded_rogue"
+	976.1.1={birth=yes}
+	1467.5.5={death=yes}
+}
+
+10290={
+	name="Calgor"
+	dynasty=10290
+	dna="mlaffnpmfeh"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=8
+	stewardship=8
+	intrigue=4
+	learning=4
+	trait="fortune_builder"
+	trait="scholar"
+	924.1.1={birth=yes}
+	1522.10.31={death=yes}
+}
+
+10291={
+	name="Mornaith"
+	dynasty=10291
+	dna="kbebiaodlcp"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=2
+	intrigue=3
+	learning=7
+	trait="indulgent_wastrel"
+	trait="pneumonic"
+	935.1.1={birth=yes}
+	1538.5.27={death=yes}
+}
+
+10292={
+	name="Pelennor"
+	female=yes
+	dynasty=10292
+	dna="fdaipbgppdc"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=3
+	intrigue=7
+	learning=4
+	trait="skilled_tactician"
+	trait="hedonist"
+	trait="trusting"
+	949.1.1={birth=yes}
+	1372.4.11={death=yes}
+}
+
+10293={
+	name="Mostyn"
+	dynasty=10293
+	dna="fhpepgadkoa"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=2
+	stewardship=1
+	intrigue=7
+	learning=4
+	trait="indulgent_wastrel"
+	923.1.1={birth=yes}
+	1493.6.27={death=yes}
+}
+
+10294={
+	name="Sayenar"
+	dynasty=10294
+	dna="accmdhefjbg"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=6
+	intrigue=1
+	learning=7
+	trait="tough_soldier"
+	995.1.1={birth=yes}
+	1707.11.19={death=yes}
+}
+
+10295={
+	name="Mornaith"
+	dynasty=10295
+	dna="kmmcfbmkchh"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=3
+	learning=6
+	trait="charismatic_negotiator"
+	trait="ambitious"
+	trait="wounded"
+	996.1.1={birth=yes}
+	1522.1.14={death=yes}
+}
+
+10296={
+	name="Mauro"
+	dynasty=10296
+	dna="aelgeaimfcp"
+	culture=shadow_elf
+	religion=tree
+	martial=1
+	diplomacy=2
+	stewardship=3
+	intrigue=3
+	learning=4
+	trait="midas_touched"
+	trait="scholar"
+	960.1.1={birth=yes}
+	1429.3.28={death=yes}
+}
+
+10297={
+	name="Masseth"
+	dynasty=10297
+	dna="efgjolomhkp"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=0
+	stewardship=3
+	intrigue=4
+	learning=1
+	trait="flamboyant_schemer"
+	trait="impaler"
+	942.1.1={birth=yes}
+	1710.4.2={death=yes}
+}
+
+10298={
+	name="Uasara"
+	female=yes
+	dynasty=10298
+	dna="ppibjfkpkeh"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=3
+	intrigue=4
+	learning=7
+	trait="thrifty_clerk"
+	929.1.1={birth=yes}
+	1411.1.13={death=yes}
+}
+
+10299={
+	name="Cadoc"
+	dynasty=10299
+	dna="cbjccbageeh"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=6
+	intrigue=6
+	learning=6
+	trait="misguided_warrior"
+	976.1.1={birth=yes}
+	1603.6.17={death=yes}
+}
+
+10300={
+	name="Astwin"
+	dynasty=10300
+	dna="occijflchjm"
+	culture=shadow_elf
+	religion=tree
+	martial=2
+	diplomacy=5
+	stewardship=3
+	intrigue=1
+	learning=3
+	trait="intricate_webweaver"
+	995.1.1={birth=yes}
+	1352.2.14={death=yes}
+}
+
+10301={
+	name="Alanter"
+	dynasty=10301
+	dna="kciahllochf"
+	culture=shadow_elf
+	religion=tree
+	martial=8
+	diplomacy=6
+	stewardship=6
+	intrigue=4
+	learning=4
+	trait="naive_appeaser"
+	969.1.1={birth=yes}
+	1522.7.1={death=yes}
+}
+
+10302={
+	name="Ilaruss"
+	dynasty=10302
+	dna="gkamifeepnk"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=3
+	learning=3
+	trait="fortune_builder"
+	trait="hedonist"
+	993.1.1={birth=yes}
+	1355.6.22={death=yes}
+}
+
+10303={
+	name="Aneirian"
+	dynasty=10303
+	dna="pdacmkehacl"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=8
+	stewardship=7
+	intrigue=5
+	learning=7
+	trait="intricate_webweaver"
+	982.1.1={birth=yes}
+	1503.12.2={death=yes}
+}
+
+10304={
+	name="Bellana"
+	female=yes
+	dynasty=10304
+	dna="pmeoiajfknc"
+	culture=shadow_elf
+	religion=tree
+	martial=0
+	diplomacy=6
+	stewardship=3
+	intrigue=4
+	learning=8
+	trait="skilled_tactician"
+	969.1.1={birth=yes}
+	1480.3.14={death=yes}
+}
+
+10305={
+	name="Annere"
+	female=yes
+	dynasty=10305
+	dna="flldjlkkpkc"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=4
+	intrigue=6
+	learning=4
+	trait="underhanded_rogue"
+	970.1.1={birth=yes}
+	1471.8.17={death=yes}
+}
+
+10306={
+	name="Felene"
+	female=yes
+	dynasty=10306
+	dna="dpcfcadomfg"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=6
+	intrigue=5
+	learning=3
+	trait="charismatic_negotiator"
+	924.1.1={birth=yes}
+	1395.5.11={death=yes}
+}
+
+10307={
+	name="Goronir"
+	dynasty=10307
+	dna="fpehnmlicob"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=3
+	stewardship=7
+	intrigue=1
+	learning=6
+	trait="brilliant_strategist"
+	trait="scholar"
+	932.1.1={birth=yes}
+	1500.5.17={death=yes}
+}
+
+10308={
+	name="Caedgeen"
+	dynasty=10308
+	dna="gmnmmnhhjfi"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=6
+	intrigue=5
+	learning=2
+	trait="flamboyant_schemer"
+	trait="hunter"
+	988.1.1={birth=yes}
+	1587.9.28={death=yes}
+}
+
+10309={
+	name="Tomosair"
+	dynasty=10309
+	dna="jbjojlalnon"
+	culture=shadow_elf
+	religion=tree
+	martial=0
+	diplomacy=8
+	stewardship=0
+	intrigue=5
+	learning=2
+	trait="fortune_builder"
+	942.1.1={birth=yes}
+	1544.7.23={death=yes}
+}
+
+10310={
+	name="Celana"
+	female=yes
+	dynasty=10310
+	dna="hepagkoedap"
+	culture=shadow_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=4
+	intrigue=4
+	learning=3
+	trait="skilled_tactician"
+	trait="patient"
+	933.1.1={birth=yes}
+	1645.1.19={death=yes}
+}
+
+10311={
+	name="Naestra"
+	female=yes
+	dynasty=10311
+	dna="gpbhdddlkej"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=2
+	intrigue=0
+	learning=4
+	trait="charismatic_negotiator"
+	trait="celibate"
+	979.1.1={birth=yes}
+	1602.5.10={death=yes}
+}
+
+10312={
+	name="Berach"
+	dynasty=10312
+	dna="fglkalemjnn"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=7
+	intrigue=6
+	learning=8
+	trait="brilliant_strategist"
+	943.1.1={birth=yes}
+	1425.4.12={death=yes}
+}
+
+10313={
+	name="Forsene"
+	female=yes
+	dynasty=10313
+	dna="plahllpabgk"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=8
+	stewardship=3
+	intrigue=1
+	learning=8
+	trait="flamboyant_schemer"
+	990.1.1={birth=yes}
+	1508.9.15={death=yes}
+}
+
+10314={
+	name="Slaine"
+	female=yes
+	dynasty=10314
+	dna="illgagdggpa"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=3
+	intrigue=2
+	learning=5
+	trait="brilliant_strategist"
+	970.1.1={birth=yes}
+	1531.9.1={death=yes}
+}
+
+10315={
+	name="Galed"
+	dynasty=10315
+	dna="lbfidcjaalo"
+	culture=shadow_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=4
+	intrigue=7
+	learning=3
+	trait="intricate_webweaver"
+	929.1.1={birth=yes}
+	1480.3.24={death=yes}
+}
+
+10316={
+	name="Alira"
+	female=yes
+	dynasty=10316
+	dna="lpfgcihdopb"
+	culture=shadow_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=7
+	intrigue=4
+	learning=3
+	trait="tough_soldier"
+	trait="diligent"
+	989.1.1={birth=yes}
+	1459.5.7={death=yes}
+}
+
+10317={
+	name="Macaradyn"
+	female=yes
+	dynasty=10317
+	dna="lmifheagibl"
+	culture=shadow_elf
+	religion=tree
+	martial=7
+	diplomacy=6
+	stewardship=4
+	intrigue=4
+	learning=0
+	trait="skilled_tactician"
+	trait="greedy"
+	trait="ill"
+	972.1.1={birth=yes}
+	1489.12.7={death=yes}
+}
+
+10318={
+	name="Mairyn"
+	female=yes
+	dynasty=10318
+	dna="gpibnflpnnh"
+	culture=shadow_elf
+	religion=tree
+	martial=6
+	diplomacy=3
+	stewardship=7
+	intrigue=1
+	learning=3
+	trait="underhanded_rogue"
+	trait="wounded"
+	945.1.1={birth=yes}
+	1443.1.15={death=yes}
+}
+
+10319={
+	name="Braith"
+	dynasty=10319
+	dna="dbajafjfofj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=4
+	stewardship=1
+	intrigue=1
+	learning=3
+	trait="tough_soldier"
+	976.1.1={birth=yes}
+	1736.4.15={death=yes}
+}
+
+10320={
+	name="Wyswen"
+	female=yes
+	dynasty=10320
+	dna="nfjgdcjopii"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=1
+	stewardship=2
+	intrigue=6
+	learning=2
+	trait="grey_eminence"
+	982.1.1={birth=yes}
+	1327.1.14={death=yes}
+}
+
+10321={
+	name="Tesia"
+	female=yes
+	dynasty=10321
+	dna="dbpfjcpnpai"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=5
+	stewardship=6
+	intrigue=5
+	learning=2
+	trait="skilled_tactician"
+	965.1.1={birth=yes}
+	1358.8.26={death=yes}
+}
+
+10322={
+	name="Stelynne"
+	female=yes
+	dynasty=10322
+	dna="pnnlknpjpoc"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=4
+	stewardship=2
+	intrigue=4
+	learning=8
+	trait="tough_soldier"
+	954.1.1={birth=yes}
+	1558.2.1={death=yes}
+}
+
+10323={
+	name="Naith"
+	dynasty=10323
+	dna="nlnambbnnfj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=3
+	stewardship=7
+	intrigue=4
+	learning=6
+	trait="thrifty_clerk"
+	999.1.1={birth=yes}
+	1542.3.16={death=yes}
+}
+
+10324={
+	name="Glenes"
+	female=yes
+	dynasty=10324
+	dna="fpcmkamcoco"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=3
+	stewardship=4
+	intrigue=2
+	learning=5
+	trait="fortune_builder"
+	951.1.1={birth=yes}
+	1403.11.14={death=yes}
+}
+
+10325={
+	name="Stelynne"
+	female=yes
+	dynasty=10325
+	dna="jgeiaomlabe"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=2
+	stewardship=6
+	intrigue=3
+	learning=3
+	trait="charismatic_negotiator"
+	947.1.1={birth=yes}
+	1683.12.30={death=yes}
+}
+
+10326={
+	name="Koria"
+	female=yes
+	dynasty=10326
+	dna="cdakhdkekbd"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=7
+	stewardship=5
+	intrigue=0
+	learning=1
+	trait="detached_priest"
+	927.1.1={birth=yes}
+	1421.12.23={death=yes}
+}
+
+10327={
+	name="Meryon"
+	dynasty=10327
+	dna="loapdeeoino"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=2
+	trait="elusive_shadow"
+	964.1.1={birth=yes}
+	1665.6.23={death=yes}
+}
+
+10328={
+	name="Uhlsidil"
+	dynasty=10328
+	dna="ncaelkfgeme"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=6
+	stewardship=1
+	intrigue=3
+	learning=4
+	trait="elusive_shadow"
+	trait="wroth"
+	947.1.1={birth=yes}
+	1307.3.10={death=yes}
+}
+
+10329={
+	name="Farsara"
+	female=yes
+	dynasty=10329
+	dna="mfaacfnojno"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=0
+	stewardship=1
+	intrigue=2
+	learning=2
+	trait="thrifty_clerk"
+	991.1.1={birth=yes}
+	1627.7.6={death=yes}
+}
+
+10330={
+	name="Garnait"
+	female=yes
+	dynasty=10330
+	dna="dlbbfgihjpg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=2
+	stewardship=2
+	intrigue=1
+	learning=5
+	trait="underhanded_rogue"
+	trait="wounded"
+	981.1.1={birth=yes}
+	1668.5.9={death=yes}
+}
+
+10331={
+	name="Sephian"
+	dynasty=10331
+	dna="ehcdfneaigp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=1
+	stewardship=5
+	intrigue=3
+	learning=8
+	trait="flamboyant_schemer"
+	trait="gregarious"
+	942.1.1={birth=yes}
+	1514.4.15={death=yes}
+}
+
+10332={
+	name="Traevon"
+	dynasty=10332
+	dna="emblodabebi"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=4
+	stewardship=7
+	intrigue=7
+	learning=4
+	trait="skilled_tactician"
+	945.1.1={birth=yes}
+	1612.1.16={death=yes}
+}
+
+10333={
+	name="Aneora"
+	female=yes
+	dynasty=10333
+	dna="jlfonidnckl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=2
+	stewardship=5
+	intrigue=4
+	learning=3
+	trait="midas_touched"
+	979.1.1={birth=yes}
+	1451.8.15={death=yes}
+}
+
+10334={
+	name="Blaeden"
+	female=yes
+	dynasty=10334
+	dna="oijjaljjplp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=8
+	diplomacy=1
+	stewardship=7
+	intrigue=4
+	learning=7
+	trait="naive_appeaser"
+	948.1.1={birth=yes}
+	1600.10.8={death=yes}
+}
+
+10335={
+	name="Eira"
+	female=yes
+	dynasty=10335
+	dna="khkiiepafkj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=2
+	stewardship=2
+	intrigue=6
+	learning=3
+	trait="brilliant_strategist"
+	trait="depressed"
+	1002.1.1={birth=yes}
+	1797.9.19={death=yes}
+}
+
+10336={
+	name="Isere"
+	female=yes
+	dynasty=10336
+	dna="lfmjnendbjo"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=2
+	stewardship=4
+	intrigue=4
+	learning=4
+	trait="charismatic_negotiator"
+	966.1.1={birth=yes}
+	1418.10.2={death=yes}
+}
+
+10337={
+	name="Ysal"
+	female=yes
+	dynasty=10337
+	dna="agbglmhpabl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=6
+	stewardship=3
+	intrigue=4
+	learning=7
+	trait="skilled_tactician"
+	956.1.1={birth=yes}
+	1525.8.19={death=yes}
+}
+
+10338={
+	name="Ponleec"
+	dynasty=10338
+	dna="kojhgfckgjc"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=6
+	stewardship=6
+	intrigue=4
+	learning=4
+	trait="flamboyant_schemer"
+	961.1.1={birth=yes}
+	1487.5.3={death=yes}
+}
+
+10339={
+	name="Hasdeorn"
+	dynasty=10339
+	dna="jbaaohgdfck"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=4
+	stewardship=5
+	intrigue=3
+	learning=6
+	trait="flamboyant_schemer"
+	984.1.1={birth=yes}
+	1655.9.1={death=yes}
+}
+
+10340={
+	name="Garneel"
+	dynasty=10340
+	dna="kkeklnkmkkm"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=2
+	stewardship=7
+	intrigue=3
+	learning=4
+	trait="intricate_webweaver"
+	trait="depressed"
+	967.1.1={birth=yes}
+	1501.5.10={death=yes}
+}
+
+10341={
+	name="Norian"
+	dynasty=10341
+	dna="ammnfdkclef"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=5
+	stewardship=0
+	intrigue=2
+	learning=0
+	trait="fortune_builder"
+	trait="scholar"
+	998.1.1={birth=yes}
+	1455.3.21={death=yes}
+}
+
+10342={
+	name="Athlon"
+	dynasty=10342
+	dna="fminhklgpfl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=4
+	stewardship=2
+	intrigue=0
+	learning=7
+	trait="midas_touched"
+	999.1.1={birth=yes}
+	1452.9.19={death=yes}
+}
+
+10343={
+	name="Aethund"
+	female=yes
+	dynasty=10343
+	dna="jkjecjkfhno"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=2
+	stewardship=8
+	intrigue=0
+	learning=3
+	trait="detached_priest"
+	trait="duelist"
+	924.1.1={birth=yes}
+	1376.4.24={death=yes}
+}
+
+10344={
+	name="Dilirel"
+	dynasty=10344
+	dna="ebdggpappil"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=0
+	stewardship=5
+	intrigue=5
+	learning=1
+	trait="elusive_shadow"
+	trait="scholar"
+	1002.1.1={birth=yes}
+	1640.5.3={death=yes}
+}
+
+10345={
+	name="Neris"
+	female=yes
+	dynasty=10345
+	dna="cpmjkkjeppl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=1
+	stewardship=5
+	intrigue=4
+	learning=2
+	trait="grey_eminence"
+	trait="celibate"
+	925.1.1={birth=yes}
+	1230.5.5={death=yes}
+}
+
+10346={
+	name="Uasara"
+	female=yes
+	dynasty=10346
+	dna="iepinaklokn"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=0
+	stewardship=0
+	intrigue=7
+	learning=4
+	trait="elusive_shadow"
+	trait="celibate"
+	trait="just"
+	991.1.1={birth=yes}
+	1503.8.15={death=yes}
+}
+
+10347={
+	name="Isandra"
+	female=yes
+	dynasty=10347
+	dna="lhgeebggfho"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=2
+	learning=4
+	trait="thrifty_clerk"
+	933.1.1={birth=yes}
+	1689.7.8={death=yes}
+}
+
+10348={
+	name="Immolde"
+	female=yes
+	dynasty=10348
+	dna="hfmckaoinjh"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=3
+	stewardship=5
+	intrigue=3
+	learning=3
+	trait="brilliant_strategist"
+	trait="hedonist"
+	931.1.1={birth=yes}
+	1528.9.25={death=yes}
+}
+
+10349={
+	name="Selathoi"
+	dynasty=10349
+	dna="lbbpnmcfapo"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=3
+	stewardship=2
+	intrigue=5
+	learning=4
+	trait="underhanded_rogue"
+	961.1.1={birth=yes}
+	1708.8.12={death=yes}
+}
+
+10350={
+	name="Epona"
+	female=yes
+	dynasty=10350
+	dna="efojblabljl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=5
+	stewardship=5
+	intrigue=8
+	learning=8
+	trait="grey_eminence"
+	930.1.1={birth=yes}
+	1366.9.14={death=yes}
+}
+
+10351={
+	name="Naestra"
+	female=yes
+	dynasty=10351
+	dna="dbmgphkdhpa"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=8
+	stewardship=0
+	intrigue=3
+	learning=6
+	trait="flamboyant_schemer"
+	trait="hunter"
+	956.1.1={birth=yes}
+	1603.1.3={death=yes}
+}
+
+10352={
+	name="Tel-Auryaur"
+	dynasty=10352
+	dna="hkhebklkgii"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=7
+	stewardship=0
+	intrigue=2
+	learning=3
+	trait="underhanded_rogue"
+	trait="hunter"
+	994.1.1={birth=yes}
+	1553.5.12={death=yes}
+}
+
+10353={
+	name="Aeron"
+	dynasty=10353
+	dna="lbioefbbggk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=4
+	stewardship=3
+	intrigue=0
+	learning=4
+	trait="charismatic_negotiator"
+	trait="poet"
+	trait="greedy"
+	941.1.1={birth=yes}
+	1442.10.25={death=yes}
+}
+
+10354={
+	name="Imeeria"
+	female=yes
+	dynasty=10354
+	dna="dekoaihmhmb"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=6
+	trait="flamboyant_schemer"
+	959.1.1={birth=yes}
+	1528.8.30={death=yes}
+}
+
+10355={
+	name="Fian"
+	dynasty=10355
+	dna="pmionfgiiec"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=2
+	stewardship=5
+	intrigue=4
+	learning=6
+	trait="underhanded_rogue"
+	960.1.1={birth=yes}
+	1545.12.6={death=yes}
+}
+
+10356={
+	name="Mormo"
+	dynasty=10356
+	dna="hadldheoofb"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=2
+	stewardship=4
+	intrigue=4
+	learning=4
+	trait="flamboyant_schemer"
+	trait="hedonist"
+	953.1.1={birth=yes}
+	1530.5.17={death=yes}
+}
+
+10357={
+	name="Romas"
+	dynasty=10357
+	dna="mniljlmmehi"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=8
+	stewardship=4
+	intrigue=8
+	learning=1
+	trait="grey_eminence"
+	945.1.1={birth=yes}
+	1404.11.11={death=yes}
+}
+
+10358={
+	name="Sassira"
+	female=yes
+	dynasty=10358
+	dna="aljafncdjpa"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=6
+	trait="tough_soldier"
+	trait="kind"
+	993.1.1={birth=yes}
+	1625.5.1={death=yes}
+}
+
+10359={
+	name="Hyled"
+	female=yes
+	dynasty=10359
+	dna="nhibpaenlmo"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=5
+	stewardship=4
+	intrigue=4
+	learning=8
+	trait="naive_appeaser"
+	trait="scholar"
+	986.1.1={birth=yes}
+	1652.12.14={death=yes}
+}
+
+10360={
+	name="Epona"
+	female=yes
+	dynasty=10360
+	dna="eiaenjebfjh"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=7
+	stewardship=3
+	intrigue=3
+	learning=0
+	trait="charismatic_negotiator"
+	993.1.1={birth=yes}
+	1388.9.6={death=yes}
+}
+
+10361={
+	name="Muirien"
+	female=yes
+	dynasty=10361
+	dna="lamaeofjpme"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=1
+	stewardship=1
+	intrigue=5
+	learning=5
+	trait="tough_soldier"
+	949.1.1={birth=yes}
+	1634.3.9={death=yes}
+}
+
+10362={
+	name="Fyna"
+	female=yes
+	dynasty=10362
+	dna="fnilibijagk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=7
+	stewardship=6
+	intrigue=4
+	learning=2
+	trait="elusive_shadow"
+	trait="proud"
+	958.1.1={birth=yes}
+	1478.3.17={death=yes}
+}
+
+10363={
+	name="End-Yenayla"
+	dynasty=10363
+	dna="fklkdocjlfb"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=1
+	stewardship=3
+	intrigue=2
+	learning=4
+	trait="skilled_tactician"
+	trait="slothful"
+	961.1.1={birth=yes}
+	1617.7.9={death=yes}
+}
+
+10364={
+	name="Arlas"
+	dynasty=10364
+	dna="ikjpniidflg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=5
+	stewardship=8
+	intrigue=3
+	learning=1
+	trait="flamboyant_schemer"
+	981.1.1={birth=yes}
+	1584.11.28={death=yes}
+}
+
+10365={
+	name="Ivoreth"
+	dynasty=10365
+	dna="pbfbjgjlnac"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=2
+	stewardship=7
+	intrigue=6
+	learning=6
+	trait="flamboyant_schemer"
+	977.1.1={birth=yes}
+	1520.8.13={death=yes}
+}
+
+10366={
+	name="Kareesa"
+	female=yes
+	dynasty=10366
+	dna="gnbndaffnbe"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=1
+	stewardship=1
+	intrigue=4
+	learning=5
+	trait="tough_soldier"
+	trait="celibate"
+	974.1.1={birth=yes}
+	1500.12.11={death=yes}
+}
+
+10367={
+	name="Catrassa"
+	female=yes
+	dynasty=10367
+	dna="ocffocmflch"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=3
+	stewardship=6
+	intrigue=4
+	learning=5
+	trait="skilled_tactician"
+	936.1.1={birth=yes}
+	1238.12.7={death=yes}
+}
+
+10368={
+	name="Anwen"
+	female=yes
+	dynasty=10368
+	dna="jalimmbdmag"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=5
+	stewardship=4
+	intrigue=3
+	learning=2
+	trait="skilled_tactician"
+	940.1.1={birth=yes}
+	1455.8.29={death=yes}
+}
+
+10369={
+	name="Ashan"
+	dynasty=10369
+	dna="egabkdagnab"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=1
+	stewardship=7
+	intrigue=5
+	learning=2
+	trait="fortune_builder"
+	945.1.1={birth=yes}
+	1375.7.9={death=yes}
+}
+
+10370={
+	name="Hegaliel"
+	dynasty=10370
+	dna="dnmklhlgonf"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=3
+	stewardship=4
+	intrigue=3
+	learning=6
+	trait="intricate_webweaver"
+	985.1.1={birth=yes}
+	1611.2.14={death=yes}
+}
+
+10371={
+	name="Endandril"
+	dynasty=10371
+	dna="libaiamknkg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=7
+	stewardship=5
+	intrigue=1
+	learning=5
+	trait="underhanded_rogue"
+	955.1.1={birth=yes}
+	1625.6.24={death=yes}
+}
+
+10372={
+	name="Gwenaith"
+	female=yes
+	dynasty=10372
+	dna="gldjecbipki"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=6
+	stewardship=1
+	intrigue=3
+	learning=2
+	trait="tough_soldier"
+	967.1.1={birth=yes}
+	1528.9.6={death=yes}
+}
+
+10373={
+	name="Fardel"
+	dynasty=10373
+	dna="liinfnkemjg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=5
+	stewardship=8
+	intrigue=1
+	learning=4
+	trait="intricate_webweaver"
+	trait="scholar"
+	927.1.1={birth=yes}
+	1620.12.10={death=yes}
+}
+
+10374={
+	name="Eirwain"
+	female=yes
+	dynasty=10374
+	dna="pkjhpcmefpc"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=6
+	stewardship=5
+	intrigue=7
+	learning=4
+	trait="midas_touched"
+	trait="gregarious"
+	934.1.1={birth=yes}
+	1464.10.3={death=yes}
+}
+
+10375={
+	name="Heula"
+	female=yes
+	dynasty=10375
+	dna="fakgekhglco"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=3
+	stewardship=1
+	intrigue=5
+	learning=1
+	trait="skilled_tactician"
+	971.1.1={birth=yes}
+	1463.2.15={death=yes}
+}
+
+10376={
+	name="Zarjra"
+	dynasty=10376
+	dna="cancjmkpean"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=4
+	stewardship=6
+	intrigue=0
+	learning=4
+	trait="elusive_shadow"
+	trait="depressed"
+	925.1.1={birth=yes}
+	1432.8.19={death=yes}
+}
+
+10377={
+	name="Faranfel"
+	dynasty=10377
+	dna="fpnejdidcgn"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=1
+	trait="detached_priest"
+	1001.1.1={birth=yes}
+	1356.11.3={death=yes}
+}
+
+10378={
+	name="Glawin"
+	dynasty=10378
+	dna="knajcojbmjk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=4
+	stewardship=2
+	intrigue=4
+	learning=3
+	trait="underhanded_rogue"
+	964.1.1={birth=yes}
+	1416.9.29={death=yes}
+}
+
+10379={
+	name="Seachel"
+	dynasty=10379
+	dna="jfomhbbmpkc"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=4
+	stewardship=3
+	intrigue=0
+	learning=3
+	trait="elusive_shadow"
+	977.1.1={birth=yes}
+	1674.10.29={death=yes}
+}
+
+10380={
+	name="Naileth"
+	female=yes
+	dynasty=10380
+	dna="bklfdeojeip"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=0
+	stewardship=8
+	intrigue=3
+	learning=8
+	trait="brilliant_strategist"
+	939.1.1={birth=yes}
+	1545.12.27={death=yes}
+}
+
+10381={
+	name="Dorirlan"
+	dynasty=10381
+	dna="lcifljjgbib"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=2
+	stewardship=6
+	intrigue=0
+	learning=1
+	trait="charismatic_negotiator"
+	trait="depressed"
+	922.1.1={birth=yes}
+	1408.7.11={death=yes}
+}
+
+10382={
+	name="Astaria"
+	female=yes
+	dynasty=10382
+	dna="gccnjobhamp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=0
+	stewardship=1
+	intrigue=5
+	learning=4
+	trait="fortune_builder"
+	938.1.1={birth=yes}
+	1428.4.27={death=yes}
+}
+
+10383={
+	name="Cyanos"
+	dynasty=10383
+	dna="nngcngnbllm"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=4
+	stewardship=0
+	intrigue=2
+	learning=2
+	trait="flamboyant_schemer"
+	948.1.1={birth=yes}
+	1434.11.11={death=yes}
+}
+
+10384={
+	name="Slaine"
+	female=yes
+	dynasty=10384
+	dna="mokoiaefelf"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=6
+	stewardship=4
+	intrigue=3
+	learning=4
+	trait="fortune_builder"
+	trait="deceitful"
+	991.1.1={birth=yes}
+	1650.6.15={death=yes}
+}
+
+10385={
+	name="Turnoc"
+	dynasty=10385
+	dna="clgpeifladl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=2
+	stewardship=3
+	intrigue=2
+	learning=3
+	trait="underhanded_rogue"
+	984.1.1={birth=yes}
+	1678.2.1={death=yes}
+}
+
+10386={
+	name="Skarn"
+	dynasty=10386
+	dna="aclpnlkhjll"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=4
+	stewardship=5
+	intrigue=1
+	learning=2
+	trait="naive_appeaser"
+	966.1.1={birth=yes}
+	1384.4.17={death=yes}
+}
+
+10387={
+	name="Thuralin"
+	dynasty=10387
+	dna="jkihjcjkkgg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=3
+	stewardship=5
+	intrigue=2
+	learning=0
+	trait="thrifty_clerk"
+	988.1.1={birth=yes}
+	1535.12.8={death=yes}
+}
+
+10388={
+	name="Karnaith"
+	dynasty=10388
+	dna="dplngeidgjc"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=5
+	stewardship=6
+	intrigue=6
+	learning=4
+	trait="tough_soldier"
+	trait="impaler"
+	954.1.1={birth=yes}
+	1364.2.17={death=yes}
+}
+
+10389={
+	name="Hareel"
+	dynasty=10389
+	dna="ifjnmfcbcab"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=0
+	learning=6
+	trait="indulgent_wastrel"
+	trait="ambitious"
+	969.1.1={birth=yes}
+	1393.4.16={death=yes}
+}
+
+10390={
+	name="Caedfan"
+	dynasty=10390
+	dna="ghjcohpcodp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=7
+	stewardship=5
+	intrigue=3
+	learning=4
+	trait="thrifty_clerk"
+	932.1.1={birth=yes}
+	1474.6.15={death=yes}
+}
+
+10391={
+	name="Sterein"
+	female=yes
+	dynasty=10391
+	dna="dkofobjdjki"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=8
+	diplomacy=3
+	stewardship=1
+	intrigue=3
+	learning=5
+	trait="intricate_webweaver"
+	922.1.1={birth=yes}
+	1512.2.26={death=yes}
+}
+
+10392={
+	name="Taila"
+	female=yes
+	dynasty=10392
+	dna="mppjckecmep"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=7
+	stewardship=3
+	intrigue=2
+	learning=5
+	trait="misguided_warrior"
+	952.1.1={birth=yes}
+	1668.12.13={death=yes}
+}
+
+10393={
+	name="Hilenstar"
+	female=yes
+	dynasty=10393
+	dna="modcdfehpml"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=3
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="fortune_builder"
+	trait="ill"
+	999.1.1={birth=yes}
+	1474.7.6={death=yes}
+}
+
+10394={
+	name="Lua'loren"
+	female=yes
+	dynasty=10394
+	dna="iakiobeabdo"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=4
+	stewardship=0
+	intrigue=3
+	learning=1
+	trait="tough_soldier"
+	trait="gardener"
+	trait="wroth"
+	923.1.1={birth=yes}
+	1466.11.29={death=yes}
+}
+
+10395={
+	name="Tourenal"
+	dynasty=10395
+	dna="gckkonkdflp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=3
+	stewardship=3
+	intrigue=3
+	learning=2
+	trait="fortune_builder"
+	trait="cruel"
+	926.1.1={birth=yes}
+	1402.1.17={death=yes}
+}
+
+10396={
+	name="Bairethe"
+	female=yes
+	dynasty=10396
+	dna="fhdlhikhiea"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=7
+	stewardship=3
+	intrigue=2
+	learning=3
+	trait="indulgent_wastrel"
+	958.1.1={birth=yes}
+	1393.11.22={death=yes}
+}
+
+10397={
+	name="Felhuir"
+	female=yes
+	dynasty=10397
+	dna="eoabgicggcp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=6
+	stewardship=2
+	intrigue=1
+	learning=4
+	trait="elusive_shadow"
+	trait="humble"
+	trait="ill"
+	1000.1.1={birth=yes}
+	1587.5.3={death=yes}
+}
+
+10398={
+	name="Caedgeen"
+	dynasty=10398
+	dna="nccbkakcflj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=6
+	stewardship=3
+	intrigue=7
+	learning=2
+	trait="flamboyant_schemer"
+	926.1.1={birth=yes}
+	1421.9.20={death=yes}
+}
+
+10399={
+	name="Fionise"
+	female=yes
+	dynasty=10399
+	dna="ocgmafcpgbg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=4
+	stewardship=3
+	intrigue=2
+	learning=4
+	trait="charismatic_negotiator"
+	1001.1.1={birth=yes}
+	1479.10.8={death=yes}
+}
+
+10400={
+	name="Tornane"
+	female=yes
+	dynasty=10400
+	dna="ihcnmhhonkn"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=3
+	stewardship=8
+	intrigue=3
+	learning=1
+	trait="intricate_webweaver"
+	trait="hunter"
+	964.1.1={birth=yes}
+	1585.5.19={death=yes}
+}
+
+10401={
+	name="Efaena"
+	female=yes
+	dynasty=10401
+	dna="jknnohfkjnh"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=2
+	stewardship=5
+	intrigue=5
+	learning=3
+	trait="intricate_webweaver"
+	trait="depressed"
+	933.1.1={birth=yes}
+	1469.12.11={death=yes}
+}
+
+10402={
+	name="Thanwin"
+	dynasty=10402
+	dna="eljikjfafof"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=3
+	stewardship=3
+	intrigue=4
+	learning=6
+	trait="elusive_shadow"
+	1002.1.1={birth=yes}
+	1651.7.16={death=yes}
+}
+
+10403={
+	name="Olana"
+	female=yes
+	dynasty=10403
+	dna="ahmbkfjghab"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=1
+	stewardship=4
+	intrigue=6
+	learning=1
+	trait="brilliant_strategist"
+	trait="scholar"
+	940.1.1={birth=yes}
+	1558.12.4={death=yes}
+}
+
+10404={
+	name="Losen"
+	dynasty=10404
+	dna="lneajlbfghp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=8
+	diplomacy=2
+	stewardship=2
+	intrigue=4
+	learning=2
+	trait="flamboyant_schemer"
+	925.1.1={birth=yes}
+	1286.3.18={death=yes}
+}
+
+10405={
+	name="Taen"
+	dynasty=10405
+	dna="ahpjajhdkcf"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=7
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="brilliant_strategist"
+	trait="deceitful"
+	981.1.1={birth=yes}
+	1483.8.19={death=yes}
+}
+
+10406={
+	name="Galena"
+	female=yes
+	dynasty=10406
+	dna="epjmngdlodk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=4
+	stewardship=7
+	intrigue=0
+	learning=2
+	trait="intricate_webweaver"
+	962.1.1={birth=yes}
+	1655.11.11={death=yes}
+}
+
+10407={
+	name="Sasa"
+	female=yes
+	dynasty=10407
+	dna="gfplonomejp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=4
+	stewardship=5
+	intrigue=6
+	learning=1
+	trait="flamboyant_schemer"
+	trait="hunter"
+	926.1.1={birth=yes}
+	1671.11.7={death=yes}
+}
+
+10408={
+	name="Rhosine"
+	female=yes
+	dynasty=10408
+	dna="hndeghedpco"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=5
+	stewardship=1
+	intrigue=4
+	learning=3
+	trait="fortune_builder"
+	957.1.1={birth=yes}
+	1485.8.29={death=yes}
+}
+
+10409={
+	name="Mauro"
+	dynasty=10409
+	dna="eacpolplnif"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=6
+	stewardship=2
+	intrigue=7
+	learning=5
+	trait="thrifty_clerk"
+	942.1.1={birth=yes}
+	1693.2.22={death=yes}
+}
+
+10410={
+	name="Oran"
+	dynasty=10410
+	dna="jmgmfopmkea"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=1
+	diplomacy=1
+	stewardship=0
+	intrigue=6
+	learning=0
+	trait="fortune_builder"
+	trait="celibate"
+	971.1.1={birth=yes}
+	1347.3.7={death=yes}
+}
+
+10411={
+	name="Heula"
+	female=yes
+	dynasty=10411
+	dna="dnbepnhpefg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=7
+	stewardship=7
+	intrigue=3
+	learning=2
+	trait="charismatic_negotiator"
+	922.1.1={birth=yes}
+	1257.12.19={death=yes}
+}
+
+10412={
+	name="Felene"
+	female=yes
+	dynasty=10412
+	dna="jjmlomedegk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=0
+	stewardship=4
+	intrigue=7
+	learning=5
+	trait="skilled_tactician"
+	trait="impaler"
+	991.1.1={birth=yes}
+	1708.3.18={death=yes}
+}
+
+10413={
+	name="Guarn"
+	dynasty=10413
+	dna="bbacnglaaec"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=4
+	stewardship=3
+	intrigue=5
+	learning=4
+	trait="tough_soldier"
+	997.1.1={birth=yes}
+	1638.4.25={death=yes}
+}
+
+10414={
+	name="Colmgar"
+	dynasty=10414
+	dna="padnlfpoela"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=4
+	stewardship=3
+	intrigue=3
+	learning=7
+	trait="underhanded_rogue"
+	998.1.1={birth=yes}
+	1566.4.8={death=yes}
+}
+
+10415={
+	name="Ohtacar'loren"
+	female=yes
+	dynasty=10415
+	dna="jhnpmfbhejj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=3
+	stewardship=3
+	intrigue=6
+	learning=0
+	trait="grey_eminence"
+	943.1.1={birth=yes}
+	1502.11.1={death=yes}
+}
+
+10416={
+	name="Feldath"
+	dynasty=10416
+	dna="jpkicbhnkfd"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=3
+	stewardship=5
+	intrigue=3
+	learning=5
+	trait="thrifty_clerk"
+	trait="drunkard"
+	926.1.1={birth=yes}
+	1565.11.30={death=yes}
+}
+
+10417={
+	name="Khoron"
+	dynasty=10417
+	dna="kanbooakkof"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=0
+	stewardship=0
+	intrigue=5
+	learning=6
+	trait="tough_soldier"
+	trait="kind"
+	986.1.1={birth=yes}
+	1709.5.10={death=yes}
+}
+
+10418={
+	name="Katene"
+	female=yes
+	dynasty=10418
+	dna="akcodccgdke"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=5
+	stewardship=4
+	intrigue=8
+	learning=6
+	trait="indulgent_wastrel"
+	980.1.1={birth=yes}
+	1582.12.5={death=yes}
+}
+
+10419={
+	name="Alnwaen"
+	dynasty=10419
+	dna="bglgfhodhnm"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=2
+	stewardship=3
+	intrigue=6
+	learning=8
+	trait="midas_touched"
+	922.1.1={birth=yes}
+	1377.1.3={death=yes}
+}
+
+10420={
+	name="Gaelen"
+	dynasty=10420
+	dna="mdhebbahinh"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=8
+	stewardship=2
+	intrigue=6
+	learning=6
+	trait="thrifty_clerk"
+	936.1.1={birth=yes}
+	1360.7.23={death=yes}
+}
+
+10421={
+	name="Eilia"
+	female=yes
+	dynasty=10421
+	dna="ikiedkdpolj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=1
+	stewardship=2
+	intrigue=5
+	learning=0
+	trait="skilled_tactician"
+	trait="gluttonous"
+	970.1.1={birth=yes}
+	1490.4.25={death=yes}
+}
+
+10422={
+	name="Moratoth"
+	dynasty=10422
+	dna="niffopndgag"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=2
+	stewardship=2
+	intrigue=4
+	learning=5
+	trait="charismatic_negotiator"
+	970.1.1={birth=yes}
+	1634.1.29={death=yes}
+}
+
+10423={
+	name="Katene"
+	female=yes
+	dynasty=10423
+	dna="npbmajbffnk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=6
+	stewardship=3
+	intrigue=6
+	learning=0
+	trait="thrifty_clerk"
+	trait="mystic"
+	967.1.1={birth=yes}
+	1586.5.18={death=yes}
+}
+
+10424={
+	name="Arsara"
+	female=yes
+	dynasty=10424
+	dna="bgaobhmgkmi"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=6
+	stewardship=1
+	intrigue=5
+	learning=2
+	trait="flamboyant_schemer"
+	936.1.1={birth=yes}
+	1395.8.26={death=yes}
+}
+
+10425={
+	name="Andrasta"
+	female=yes
+	dynasty=10425
+	dna="lgcplghnjlg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=4
+	stewardship=8
+	intrigue=5
+	learning=4
+	trait="tough_soldier"
+	982.1.1={birth=yes}
+	1401.1.5={death=yes}
+}
+
+10426={
+	name="Taroc"
+	dynasty=10426
+	dna="kdeboccnjom"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=1
+	stewardship=4
+	intrigue=1
+	learning=4
+	trait="brilliant_strategist"
+	997.1.1={birth=yes}
+	1544.12.21={death=yes}
+}
+
+10427={
+	name="Chelsara"
+	female=yes
+	dynasty=10427
+	dna="pojloocjjph"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=3
+	stewardship=5
+	intrigue=5
+	learning=4
+	trait="skilled_tactician"
+	974.1.1={birth=yes}
+	1506.11.21={death=yes}
+}
+
+10428={
+	name="Moriste"
+	female=yes
+	dynasty=10428
+	dna="ladkmnolnck"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=3
+	stewardship=7
+	intrigue=2
+	learning=6
+	trait="intricate_webweaver"
+	937.1.1={birth=yes}
+	1619.1.24={death=yes}
+}
+
+10429={
+	name="Falchar"
+	dynasty=10429
+	dna="cnjcigdbfpm"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=4
+	stewardship=3
+	intrigue=4
+	learning=4
+	trait="brilliant_strategist"
+	922.1.1={birth=yes}
+	1555.1.26={death=yes}
+}
+
+10430={
+	name="Morlanna"
+	female=yes
+	dynasty=10430
+	dna="mcpkpcjamfe"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=2
+	stewardship=7
+	intrigue=6
+	learning=4
+	trait="brilliant_strategist"
+	978.1.1={birth=yes}
+	1568.2.13={death=yes}
+}
+
+10431={
+	name="Andrasta"
+	female=yes
+	dynasty=10431
+	dna="jknddbgcmob"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=5
+	stewardship=5
+	intrigue=2
+	learning=2
+	trait="underhanded_rogue"
+	trait="trusting"
+	959.1.1={birth=yes}
+	1487.6.17={death=yes}
+}
+
+10432={
+	name="Felian"
+	dynasty=10432
+	dna="dbmgpkahlda"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=3
+	stewardship=3
+	intrigue=5
+	learning=3
+	trait="elusive_shadow"
+	trait="scholar"
+	933.1.1={birth=yes}
+	1469.3.26={death=yes}
+}
+
+10433={
+	name="Locleth"
+	dynasty=10433
+	dna="iipnibjbjep"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=6
+	stewardship=3
+	intrigue=3
+	learning=5
+	trait="brilliant_strategist"
+	955.1.1={birth=yes}
+	1312.4.8={death=yes}
+}
+
+10434={
+	name="Corradan"
+	dynasty=10434
+	dna="goghaffipoo"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=8
+	diplomacy=3
+	stewardship=1
+	intrigue=6
+	learning=4
+	trait="flamboyant_schemer"
+	trait="poet"
+	925.1.1={birth=yes}
+	1467.10.16={death=yes}
+}
+
+10435={
+	name="Darost"
+	dynasty=10435
+	dna="ecoonnlgmjg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=4
+	stewardship=2
+	intrigue=3
+	learning=1
+	trait="flamboyant_schemer"
+	947.1.1={birth=yes}
+	1464.4.11={death=yes}
+}
+
+10436={
+	name="Geth"
+	dynasty=10436
+	dna="fpajhchehia"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=5
+	stewardship=1
+	intrigue=6
+	learning=6
+	trait="grey_eminence"
+	trait="temperate"
+	961.1.1={birth=yes}
+	1607.4.19={death=yes}
+}
+
+10437={
+	name="Kastmar"
+	dynasty=10437
+	dna="mjpcggbmajd"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=2
+	stewardship=6
+	intrigue=5
+	learning=4
+	trait="flamboyant_schemer"
+	trait="celibate"
+	924.1.1={birth=yes}
+	1317.10.16={death=yes}
+}
+
+10438={
+	name="Teun"
+	dynasty=10438
+	dna="beiplneikhf"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=5
+	stewardship=5
+	intrigue=7
+	learning=1
+	trait="midas_touched"
+	957.1.1={birth=yes}
+	1650.6.22={death=yes}
+}
+
+10439={
+	name="Cartrin"
+	female=yes
+	dynasty=10439
+	dna="oknaebalpdi"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=7
+	diplomacy=3
+	stewardship=6
+	intrigue=2
+	learning=3
+	trait="grey_eminence"
+	959.1.1={birth=yes}
+	1591.6.27={death=yes}
+}
+
+10440={
+	name="Felian"
+	dynasty=10440
+	dna="jjhbbcbmdgf"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=3
+	stewardship=5
+	intrigue=5
+	learning=7
+	trait="underhanded_rogue"
+	947.1.1={birth=yes}
+	1474.2.24={death=yes}
+}
+
+10441={
+	name="Harweld"
+	dynasty=10441
+	dna="jlnjpecjldk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=7
+	stewardship=3
+	intrigue=6
+	learning=2
+	trait="fortune_builder"
+	trait="mystic"
+	926.1.1={birth=yes}
+	1743.4.17={death=yes}
+}
+
+10442={
+	name="Tyste"
+	female=yes
+	dynasty=10442
+	dna="bdheaidclgl"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=5
+	stewardship=2
+	intrigue=5
+	learning=4
+	trait="thrifty_clerk"
+	983.1.1={birth=yes}
+	1497.8.5={death=yes}
+}
+
+10443={
+	name="Githendil"
+	dynasty=10443
+	dna="lanipcpgkno"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=1
+	stewardship=6
+	intrigue=3
+	learning=4
+	trait="skilled_tactician"
+	trait="wounded"
+	973.1.1={birth=yes}
+	1532.12.13={death=yes}
+}
+
+10444={
+	name="Calaingor"
+	dynasty=10444
+	dna="cjgkeplekpf"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=5
+	stewardship=6
+	intrigue=8
+	learning=6
+	trait="tough_soldier"
+	trait="charitable"
+	964.1.1={birth=yes}
+	1549.5.14={death=yes}
+}
+
+10445={
+	name="Veris"
+	female=yes
+	dynasty=10445
+	dna="pdocpfaienh"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=6
+	stewardship=0
+	intrigue=4
+	learning=4
+	trait="brilliant_strategist"
+	953.1.1={birth=yes}
+	1572.10.7={death=yes}
+}
+
+10446={
+	name="Stelynne"
+	female=yes
+	dynasty=10446
+	dna="mpniaanpaol"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=6
+	stewardship=6
+	intrigue=2
+	learning=3
+	trait="tough_soldier"
+	trait="hunter"
+	trait="diligent"
+	962.1.1={birth=yes}
+	1296.5.22={death=yes}
+}
+
+10447={
+	name="Catrassa"
+	female=yes
+	dynasty=10447
+	dna="bdpekgokich"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=6
+	stewardship=4
+	intrigue=0
+	learning=3
+	trait="intricate_webweaver"
+	982.1.1={birth=yes}
+	1509.11.9={death=yes}
+}
+
+10448={
+	name="Estrala"
+	female=yes
+	dynasty=10448
+	dna="cbjjalljfle"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=4
+	stewardship=6
+	intrigue=4
+	learning=2
+	trait="thrifty_clerk"
+	926.1.1={birth=yes}
+	1419.10.24={death=yes}
+}
+
+10449={
+	name="Taroc"
+	dynasty=10449
+	dna="bebbfhpfhmp"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=6
+	stewardship=5
+	intrigue=5
+	learning=6
+	trait="thrifty_clerk"
+	trait="duelist"
+	996.1.1={birth=yes}
+	1640.1.18={death=yes}
+}
+
+10450={
+	name="Swendbarn"
+	dynasty=10450
+	dna="khipoekpmcg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=3
+	stewardship=2
+	intrigue=1
+	learning=4
+	trait="brilliant_strategist"
+	trait="gardener"
+	trait="wounded"
+	923.1.1={birth=yes}
+	1332.7.14={death=yes}
+}
+
+10451={
+	name="Ordanstar"
+	dynasty=10451
+	dna="aileeflocfj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=1
+	stewardship=1
+	intrigue=7
+	learning=4
+	trait="tough_soldier"
+	trait="scholar"
+	926.1.1={birth=yes}
+	1330.3.2={death=yes}
+}
+
+10452={
+	name="Rigane"
+	female=yes
+	dynasty=10452
+	dna="gibeaafbbmh"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=7
+	stewardship=5
+	intrigue=3
+	learning=4
+	trait="charismatic_negotiator"
+	trait="duelist"
+	938.1.1={birth=yes}
+	1479.10.31={death=yes}
+}
+
+10453={
+	name="Ledwarn"
+	dynasty=10453
+	dna="nmoapeijpab"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=1
+	stewardship=3
+	intrigue=2
+	learning=4
+	trait="thrifty_clerk"
+	962.1.1={birth=yes}
+	1450.12.18={death=yes}
+}
+
+10454={
+	name="Telrond"
+	dynasty=10454
+	dna="nmfpppnjacg"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=0
+	diplomacy=4
+	stewardship=2
+	intrigue=1
+	learning=4
+	trait="underhanded_rogue"
+	952.1.1={birth=yes}
+	1645.5.10={death=yes}
+}
+
+10455={
+	name="Garwiath"
+	dynasty=10455
+	dna="abggigholmk"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=2
+	stewardship=4
+	intrigue=5
+	learning=1
+	trait="skilled_tactician"
+	978.1.1={birth=yes}
+	1531.3.22={death=yes}
+}
+
+10456={
+	name="Catrassa"
+	female=yes
+	dynasty=10456
+	dna="ooopnodphln"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=6
+	stewardship=6
+	intrigue=5
+	learning=2
+	trait="elusive_shadow"
+	trait="celibate"
+	trait="drunkard"
+	945.1.1={birth=yes}
+	1429.12.12={death=yes}
+}
+
+10457={
+	name="Aysten"
+	dynasty=10457
+	dna="colebpcmahj"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=4
+	stewardship=4
+	intrigue=6
+	learning=8
+	trait="tough_soldier"
+	trait="drunkard"
+	955.1.1={birth=yes}
+	1388.9.26={death=yes}
+}
+
+10458={
+	name="Jerain"
+	dynasty=10458
+	dna="fpijboheoal"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=6
+	diplomacy=6
+	stewardship=6
+	intrigue=0
+	learning=7
+	trait="fortune_builder"
+	985.1.1={birth=yes}
+	1418.1.14={death=yes}
+}
+
+10459={
+	name="Naiethanel"
+	female=yes
+	dynasty=10459
+	dna="fgkbimedeao"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=2
+	diplomacy=3
+	stewardship=7
+	intrigue=1
+	learning=1
+	trait="underhanded_rogue"
+	trait="chaste"
+	1000.1.1={birth=yes}
+	1528.2.26={death=yes}
+}
+
+10460={
+	name="Garuneth"
+	dynasty=10460
+	dna="kcfpbapbhed"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=5
+	stewardship=5
+	intrigue=8
+	learning=4
+	trait="midas_touched"
+	trait="hedonist"
+	956.1.1={birth=yes}
+	1425.8.3={death=yes}
+}
+
+10461={
+	name="Athanfel"
+	dynasty=10461
+	dna="bbcaplpcikb"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=4
+	diplomacy=2
+	stewardship=4
+	intrigue=3
+	learning=3
+	trait="charismatic_negotiator"
+	985.1.1={birth=yes}
+	1589.7.14={death=yes}
+}
+
+10462={
+	name="Glenes"
+	female=yes
+	dynasty=10462
+	dna="gogkohfacna"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=5
+	diplomacy=2
+	stewardship=6
+	intrigue=3
+	learning=7
+	trait="tough_soldier"
+	937.1.1={birth=yes}
+	1542.3.11={death=yes}
+}
+
+10463={
+	name="Dildor"
+	dynasty=10463
+	dna="gpnfejopkpc"
+	culture=wandering_elf
+	religion=elder_forest
+	martial=3
+	diplomacy=8
+	stewardship=5
+	intrigue=7
+	learning=7
+	trait="skilled_tactician"
+	961.1.1={birth=yes}
+	1638.2.3={death=yes}
+}
+
+10464={
+	name="Garnait"
+	female=yes
+	dynasty=10464
+	dna="mnbpaohnpkd"
+	culture=wood_elf
+	religion=tree
+	martial=8
+	diplomacy=5
+	stewardship=4
+	intrigue=8
+	learning=5
+	trait="midas_touched"
+	996.1.1={birth=yes}
+	1555.3.23={death=yes}
+}
+
+10465={
+	name="Betrias"
+	female=yes
+	dynasty=10465
+	dna="fplodnfpaai"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=0
+	intrigue=4
+	learning=2
+	trait="detached_priest"
+	trait="hunter"
+	trait="stressed"
+	984.1.1={birth=yes}
+	1553.1.29={death=yes}
+}
+
+10466={
+	name="Norian"
+	dynasty=10466
+	dna="ollnkgklaeg"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=5
+	stewardship=3
+	intrigue=1
+	learning=8
+	trait="underhanded_rogue"
+	trait="mystic"
+	943.1.1={birth=yes}
+	1518.8.29={death=yes}
+}
+
+10467={
+	name="Eluine"
+	female=yes
+	dynasty=10467
+	dna="dfcppfmdfin"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=3
+	stewardship=6
+	intrigue=4
+	learning=2
+	trait="grey_eminence"
+	965.1.1={birth=yes}
+	1540.12.30={death=yes}
+}
+
+10468={
+	name="Mereda"
+	female=yes
+	dynasty=10468
+	dna="imglhgeongf"
+	culture=wood_elf
+	religion=tree
+	martial=8
+	diplomacy=4
+	stewardship=6
+	intrigue=3
+	learning=1
+	trait="elusive_shadow"
+	955.1.1={birth=yes}
+	1637.6.8={death=yes}
+}
+
+10469={
+	name="Olachas"
+	dynasty=10469
+	dna="ppblnegofga"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=1
+	intrigue=3
+	learning=4
+	trait="charismatic_negotiator"
+	966.1.1={birth=yes}
+	1350.5.4={death=yes}
+}
+
+10470={
+	name="Jarcul"
+	dynasty=10470
+	dna="dmfdjikhdll"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=2
+	intrigue=5
+	learning=2
+	trait="elusive_shadow"
+	995.1.1={birth=yes}
+	1610.12.29={death=yes}
+}
+
+10471={
+	name="Glaesa"
+	female=yes
+	dynasty=10471
+	dna="ldhappjedbk"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="thrifty_clerk"
+	941.1.1={birth=yes}
+	1492.6.10={death=yes}
+}
+
+10472={
+	name="Sinoth"
+	dynasty=10472
+	dna="mdknajecpic"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=3
+	stewardship=4
+	intrigue=6
+	learning=0
+	trait="skilled_tactician"
+	947.1.1={birth=yes}
+	1410.11.7={death=yes}
+}
+
+10473={
+	name="Charsara"
+	female=yes
+	dynasty=10473
+	dna="cgieahdbeol"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=3
+	intrigue=6
+	learning=4
+	trait="indulgent_wastrel"
+	970.1.1={birth=yes}
+	1719.11.16={death=yes}
+}
+
+10474={
+	name="Astarielle"
+	female=yes
+	dynasty=10474
+	dna="fkgpoppmggp"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=1
+	stewardship=7
+	intrigue=1
+	learning=7
+	trait="grey_eminence"
+	958.1.1={birth=yes}
+	1516.4.29={death=yes}
+}
+
+10475={
+	name="Astaria"
+	female=yes
+	dynasty=10475
+	dna="cmbadbbjbdh"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=4
+	intrigue=3
+	learning=7
+	trait="charismatic_negotiator"
+	968.1.1={birth=yes}
+	1507.7.26={death=yes}
+}
+
+10476={
+	name="Jestyne"
+	female=yes
+	dynasty=10476
+	dna="opemlmlmcfk"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=2
+	intrigue=6
+	learning=4
+	trait="misguided_warrior"
+	trait="patient"
+	trait="wounded"
+	976.1.1={birth=yes}
+	1460.1.5={death=yes}
+}
+
+10477={
+	name="Lucarian"
+	dynasty=10477
+	dna="pokgbohmgid"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=4
+	intrigue=4
+	learning=7
+	trait="misguided_warrior"
+	trait="syphilitic"
+	953.1.1={birth=yes}
+	1370.4.8={death=yes}
+}
+
+10478={
+	name="Hyled"
+	female=yes
+	dynasty=10478
+	dna="aodfipldafg"
+	culture=wood_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=2
+	intrigue=4
+	learning=0
+	trait="intricate_webweaver"
+	1002.1.1={birth=yes}
+	1484.8.28={death=yes}
+}
+
+10479={
+	name="Lownes"
+	female=yes
+	dynasty=10479
+	dna="eaedlhogege"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=4
+	stewardship=8
+	intrigue=4
+	learning=8
+	trait="midas_touched"
+	trait="stressed"
+	965.1.1={birth=yes}
+	1513.9.4={death=yes}
+}
+
+10480={
+	name="Astarielle"
+	female=yes
+	dynasty=10480
+	dna="cdnealkklgf"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=1
+	stewardship=1
+	intrigue=5
+	learning=5
+	trait="skilled_tactician"
+	984.1.1={birth=yes}
+	1732.6.5={death=yes}
+}
+
+10481={
+	name="Declar"
+	dynasty=10481
+	dna="kmlnndmlpem"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=6
+	intrigue=6
+	learning=8
+	trait="thrifty_clerk"
+	982.1.1={birth=yes}
+	1584.10.29={death=yes}
+}
+
+10482={
+	name="Alana"
+	female=yes
+	dynasty=10482
+	dna="ajajedlngih"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=4
+	intrigue=5
+	learning=4
+	trait="intricate_webweaver"
+	952.1.1={birth=yes}
+	1536.2.20={death=yes}
+}
+
+10483={
+	name="End-Yenayla"
+	dynasty=10483
+	dna="habmodgpbhl"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=6
+	intrigue=2
+	learning=4
+	trait="underhanded_rogue"
+	trait="drunkard"
+	925.1.1={birth=yes}
+	1381.12.21={death=yes}
+}
+
+10484={
+	name="Gith-Sehenlu"
+	dynasty=10484
+	dna="klcgjbgakdf"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=3
+	stewardship=6
+	intrigue=4
+	learning=2
+	trait="tough_soldier"
+	933.1.1={birth=yes}
+	1549.3.24={death=yes}
+}
+
+10485={
+	name="Moria"
+	female=yes
+	dynasty=10485
+	dna="bogdodgoele"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=8
+	intrigue=1
+	learning=4
+	trait="fortune_builder"
+	925.1.1={birth=yes}
+	1534.8.10={death=yes}
+}
+
+10486={
+	name="Einrar"
+	dynasty=10486
+	dna="hggibkmdhjp"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=7
+	stewardship=3
+	intrigue=1
+	learning=3
+	trait="flamboyant_schemer"
+	trait="depressed"
+	990.1.1={birth=yes}
+	1632.5.30={death=yes}
+}
+
+10487={
+	name="Andaras"
+	dynasty=10487
+	dna="kicmehkncpj"
+	culture=wood_elf
+	religion=tree
+	martial=5
+	diplomacy=4
+	stewardship=4
+	intrigue=3
+	learning=2
+	trait="thrifty_clerk"
+	1000.1.1={birth=yes}
+	1571.4.24={death=yes}
+}
+
+10488={
+	name="Rigane"
+	female=yes
+	dynasty=10488
+	dna="amocmonecca"
+	culture=wood_elf
+	religion=tree
+	martial=7
+	diplomacy=6
+	stewardship=7
+	intrigue=3
+	learning=2
+	trait="midas_touched"
+	987.1.1={birth=yes}
+	1632.3.30={death=yes}
+}
+
+10489={
+	name="Coeddil"
+	dynasty=10489
+	dna="amhbdnlgnbe"
+	culture=wood_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=2
+	intrigue=4
+	learning=6
+	trait="grey_eminence"
+	trait="wounded"
+	928.1.1={birth=yes}
+	1530.12.16={death=yes}
+}
+
+10490={
+	name="Ourane"
+	female=yes
+	dynasty=10490
+	dna="lflpbfabimp"
+	culture=wood_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=3
+	trait="indulgent_wastrel"
+	965.1.1={birth=yes}
+	1509.1.17={death=yes}
+}
+
+10491={
+	name="Kilarn"
+	dynasty=10491
+	dna="fcnihnckahm"
+	culture=wood_elf
+	religion=tree
+	martial=0
+	diplomacy=2
+	stewardship=7
+	intrigue=4
+	learning=1
+	trait="thrifty_clerk"
+	945.1.1={birth=yes}
+	1511.6.21={death=yes}
+}
+
+10492={
+	name="Sileth"
+	female=yes
+	dynasty=10492
+	dna="opdaefgafoh"
+	culture=wood_elf
+	religion=tree
+	martial=6
+	diplomacy=7
+	stewardship=5
+	intrigue=3
+	learning=2
+	trait="thrifty_clerk"
+	trait="arbitrary"
+	973.1.1={birth=yes}
+	1667.8.16={death=yes}
+}
+
+10493={
+	name="End-Yenayla"
+	dynasty=10493
+	dna="ndkjeaaffab"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=3
+	stewardship=2
+	intrigue=3
+	learning=4
+	trait="skilled_tactician"
+	trait="stressed"
+	950.1.1={birth=yes}
+	1580.5.20={death=yes}
+}
+
+10494={
+	name="Padain"
+	female=yes
+	dynasty=10494
+	dna="pacpikjdiap"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=3
+	intrigue=1
+	learning=4
+	trait="thrifty_clerk"
+	963.1.1={birth=yes}
+	1385.4.19={death=yes}
+}
+
+10495={
+	name="Twyngor"
+	dynasty=10495
+	dna="kjlijlgnclc"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=5
+	intrigue=5
+	learning=5
+	trait="tough_soldier"
+	trait="mystic"
+	970.1.1={birth=yes}
+	1650.5.3={death=yes}
+}
+
+10496={
+	name="Hasdeorn"
+	dynasty=10496
+	dna="mgopekeepfa"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=2
+	intrigue=1
+	learning=2
+	trait="flamboyant_schemer"
+	943.1.1={birth=yes}
+	1505.10.2={death=yes}
+}
+
+10497={
+	name="Gaena"
+	female=yes
+	dynasty=10497
+	dna="cjomeiidndh"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=4
+	stewardship=4
+	intrigue=4
+	learning=7
+	trait="charismatic_negotiator"
+	trait="syphilitic"
+	962.1.1={birth=yes}
+	1645.9.18={death=yes}
+}
+
+10498={
+	name="Bal-Nymraif"
+	dynasty=10498
+	dna="bddofcdmnii"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=2
+	stewardship=4
+	intrigue=5
+	learning=3
+	trait="underhanded_rogue"
+	945.1.1={birth=yes}
+	1638.1.6={death=yes}
+}
+
+10499={
+	name="Urielme"
+	female=yes
+	dynasty=10499
+	dna="hmpimikbagh"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=2
+	stewardship=0
+	intrigue=4
+	learning=7
+	trait="intricate_webweaver"
+	950.1.1={birth=yes}
+	1604.10.7={death=yes}
+}
+
+10500={
+	name="Mere"
+	female=yes
+	dynasty=10500
+	dna="hmncdiebkaa"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=4
+	stewardship=6
+	intrigue=4
+	learning=7
+	trait="underhanded_rogue"
+	946.1.1={birth=yes}
+	1569.2.16={death=yes}
+}
+
+10501={
+	name="Lownes"
+	female=yes
+	dynasty=10501
+	dna="bgabmodlfak"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=5
+	intrigue=4
+	learning=4
+	trait="charismatic_negotiator"
+	945.1.1={birth=yes}
+	1539.5.23={death=yes}
+}
+
+10502={
+	name="Rigane"
+	female=yes
+	dynasty=10502
+	dna="ioepdmkhapc"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=4
+	intrigue=1
+	learning=3
+	trait="thrifty_clerk"
+	trait="depressed"
+	974.1.1={birth=yes}
+	1706.12.14={death=yes}
+}
+
+10503={
+	name="Niama"
+	female=yes
+	dynasty=10503
+	dna="ilbicnpaeai"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=7
+	stewardship=3
+	intrigue=7
+	learning=6
+	trait="midas_touched"
+	985.1.1={birth=yes}
+	1553.12.19={death=yes}
+}
+
+10504={
+	name="Morgalla"
+	female=yes
+	dynasty=10504
+	dna="kdflbkbogjm"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=1
+	trait="thrifty_clerk"
+1002.1.1={birth=yes}
+	1712.12.28={death=yes}
+}
+
+10505={
+	name="Rysel"
+	dynasty=10505
+	dna="ojdagjjhgle"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=7
+	stewardship=3
+	intrigue=3
+	learning=4
+	trait="charismatic_negotiator"
+	trait="stressed"
+	923.1.1={birth=yes}
+	1567.3.26={death=yes}
+}
+
+10506={
+	name="Aderynn"
+	female=yes
+	dynasty=10506
+	dna="lbkhmdkhaik"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=4
+	intrigue=6
+	learning=5
+	trait="tough_soldier"
+	973.1.1={birth=yes}
+	1501.9.8={death=yes}
+}
+
+10507={
+	name="Relene"
+	female=yes
+	dynasty=10507
+	dna="gccfcmlodmn"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=6
+	intrigue=2
+	learning=3
+	trait="intricate_webweaver"
+	969.1.1={birth=yes}
+	1625.11.5={death=yes}
+}
+
+10508={
+	name="Caedgeen"
+	dynasty=10508
+	dna="eabjidkhcpn"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=1
+	intrigue=6
+	learning=3
+	trait="flamboyant_schemer"
+	trait="drunkard"
+	926.1.1={birth=yes}
+	1652.9.25={death=yes}
+}
+
+10509={
+	name="Sylvykultur"
+	dynasty=10509
+	dna="kenckkjoemk"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=5
+	stewardship=4
+	intrigue=4
+	learning=5
+	trait="underhanded_rogue"
+	982.1.1={birth=yes}
+	1572.6.10={death=yes}
+}
+
+10510={
+	name="Arielle"
+	female=yes
+	dynasty=10510
+	dna="meagbcmmbcn"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=6
+	stewardship=2
+	intrigue=3
+	learning=2
+	trait="thrifty_clerk"
+	963.1.1={birth=yes}
+	1499.12.25={death=yes}
+}
+
+10511={
+	name="Varsarene"
+	female=yes
+	dynasty=10511
+	dna="cciboaajofl"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=4
+	intrigue=0
+	learning=4
+	trait="grey_eminence"
+	962.1.1={birth=yes}
+	1400.11.3={death=yes}
+}
+
+10512={
+	name="Caorann"
+	dynasty=10512
+	dna="plmigjfbkbc"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=0
+	intrigue=7
+	learning=6
+	trait="underhanded_rogue"
+	trait="possessed"
+	944.1.1={birth=yes}
+	1483.7.20={death=yes}
+}
+
+10513={
+	name="Cerd"
+	dynasty=10513
+	dna="hlholealmnh"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=7
+	stewardship=5
+	intrigue=6
+	learning=4
+	trait="charismatic_negotiator"
+	948.1.1={birth=yes}
+	1548.4.2={death=yes}
+}
+
+10514={
+	name="Hiranwe"
+	dynasty=10514
+	dna="pfchnhhaofj"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=8
+	intrigue=4
+	learning=5
+	trait="elusive_shadow"
+	989.1.1={birth=yes}
+	1440.11.19={death=yes}
+}
+
+10515={
+	name="Tel-Auryaur"
+	dynasty=10515
+	dna="lnaeaclncip"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=1
+	stewardship=3
+	intrigue=4
+	learning=5
+	trait="thrifty_clerk"
+	989.1.1={birth=yes}
+	1482.2.14={death=yes}
+}
+
+10516={
+	name="Glyn"
+	dynasty=10516
+	dna="jobodacgofe"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=2
+	stewardship=2
+	intrigue=2
+	learning=3
+	trait="charismatic_negotiator"
+	trait="mystic"
+	949.1.1={birth=yes}
+	1483.5.20={death=yes}
+}
+
+10517={
+	name="Oweine"
+	dynasty=10517
+	dna="hfojeohdlng"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=4
+	intrigue=2
+	learning=7
+	trait="tough_soldier"
+	953.1.1={birth=yes}
+	1420.3.1={death=yes}
+}
+
+10518={
+	name="Glorulan"
+	dynasty=10518
+	dna="epneigmfapl"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=7
+	intrigue=5
+	learning=5
+	trait="intricate_webweaver"
+	978.1.1={birth=yes}
+	1707.7.17={death=yes}
+}
+
+10519={
+	name="Andrasta"
+	female=yes
+	dynasty=10519
+	dna="odongaejoii"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=1
+	intrigue=6
+	learning=7
+	trait="misguided_warrior"
+	955.1.1={birth=yes}
+	1638.5.10={death=yes}
+}
+
+10520={
+	name="Couranstar"
+	dynasty=10520
+	dna="cpcbkhfhjld"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=2
+	stewardship=7
+	intrigue=7
+	learning=3
+	trait="fortune_builder"
+	trait="cruel"
+	950.1.1={birth=yes}
+	1417.6.4={death=yes}
+}
+
+10521={
+	name="Flane"
+	female=yes
+	dynasty=10521
+	dna="oekdafgpefg"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=1
+	stewardship=5
+	intrigue=1
+	learning=4
+	trait="flamboyant_schemer"
+	trait="scholar"
+	trait="wounded"
+	983.1.1={birth=yes}
+	1726.6.21={death=yes}
+}
+
+10522={
+	name="Mywene"
+	female=yes
+	dynasty=10522
+	dna="gcjfekbdlhg"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=1
+	trait="grey_eminence"
+	trait="impaler"
+	trait="wounded"
+	992.1.1={birth=yes}
+	1454.9.30={death=yes}
+}
+
+10523={
+	name="Garneel"
+	dynasty=10523
+	dna="jgboionbcfh"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=5
+	stewardship=2
+	intrigue=1
+	learning=4
+	trait="charismatic_negotiator"
+	trait="stressed"
+	987.1.1={birth=yes}
+	1560.4.16={death=yes}
+}
+
+10524={
+	name="Felfae"
+	female=yes
+	dynasty=10524
+	dna="efjemhgflnf"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=1
+	stewardship=1
+	intrigue=6
+	learning=8
+	trait="detached_priest"
+	985.1.1={birth=yes}
+	1471.9.6={death=yes}
+}
+
+10525={
+	name="Lyme'huir"
+	female=yes
+	dynasty=10525
+	dna="igccjalkhbo"
+	culture=high_elf
+	religion=tree
+	martial=1
+	diplomacy=5
+	stewardship=5
+	intrigue=4
+	learning=2
+	trait="underhanded_rogue"
+	trait="depressed"
+	996.1.1={birth=yes}
+	1653.11.9={death=yes}
+}
+
+10526={
+	name="Cartrin"
+	female=yes
+	dynasty=10526
+	dna="mimffceecoc"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=2
+	stewardship=4
+	intrigue=2
+	learning=4
+	trait="naive_appeaser"
+	974.1.1={birth=yes}
+	1448.8.17={death=yes}
+}
+
+10527={
+	name="Dilmar"
+	dynasty=10527
+	dna="gmgfacfmcoj"
+	culture=high_elf
+	religion=tree
+	martial=8
+	diplomacy=3
+	stewardship=4
+	intrigue=4
+	learning=6
+	trait="elusive_shadow"
+	trait="poet"
+	trait="wounded"
+	922.1.1={birth=yes}
+	1485.9.21={death=yes}
+}
+
+10528={
+	name="Hamaela"
+	female=yes
+	dynasty=10528
+	dna="kjmoeiandap"
+	culture=high_elf
+	religion=tree
+	martial=8
+	diplomacy=3
+	stewardship=5
+	intrigue=1
+	learning=7
+	trait="fortune_builder"
+	trait="poet"
+	973.1.1={birth=yes}
+	1491.11.3={death=yes}
+}
+
+10529={
+	name="Marian"
+	female=yes
+	dynasty=10529
+	dna="ibglajnanhi"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=3
+	intrigue=8
+	learning=4
+	trait="grey_eminence"
+	989.1.1={birth=yes}
+	1745.5.1={death=yes}
+}
+
+10530={
+	name="Lyme'huir"
+	female=yes
+	dynasty=10530
+	dna="kgofbdmaahg"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=0
+	stewardship=4
+	intrigue=4
+	learning=4
+	trait="fortune_builder"
+	997.1.1={birth=yes}
+	1447.3.17={death=yes}
+}
+
+10531={
+	name="Sinoth"
+	dynasty=10531
+	dna="jfmaoedpgoe"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=4
+	stewardship=2
+	intrigue=4
+	learning=4
+	trait="misguided_warrior"
+	971.1.1={birth=yes}
+	1375.1.24={death=yes}
+}
+
+10532={
+	name="Imeeria"
+	female=yes
+	dynasty=10532
+	dna="hfikpfohjgo"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=3
+	stewardship=1
+	intrigue=4
+	learning=6
+	trait="brilliant_strategist"
+	951.1.1={birth=yes}
+	1586.7.9={death=yes}
+}
+
+10533={
+	name="Mahtarathel"
+	female=yes
+	dynasty=10533
+	dna="dooemkfdpoj"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=4
+	stewardship=1
+	intrigue=4
+	learning=6
+	trait="fortune_builder"
+	trait="duelist"
+	942.1.1={birth=yes}
+	1631.10.26={death=yes}
+}
+
+10534={
+	name="Imeeria"
+	female=yes
+	dynasty=10534
+	dna="ighpnjidcfc"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=2
+	stewardship=8
+	intrigue=5
+	learning=7
+	trait="skilled_tactician"
+	trait="hunter"
+	976.1.1={birth=yes}
+	1592.1.27={death=yes}
+}
+
+10535={
+	name="Dinhenlu"
+	dynasty=10535
+	dna="jfjpdgkcgnf"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=7
+	stewardship=8
+	intrigue=7
+	learning=1
+	trait="tough_soldier"
+	trait="hedonist"
+	trait="stressed"
+	992.1.1={birth=yes}
+	1653.1.11={death=yes}
+}
+
+10536={
+	name="Nervath"
+	dynasty=10536
+	dna="bfpmcnhojdf"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=2
+	stewardship=3
+	intrigue=5
+	learning=0
+	trait="midas_touched"
+	954.1.1={birth=yes}
+	1692.9.28={death=yes}
+}
+
+10537={
+	name="Daith"
+	dynasty=10537
+	dna="enmcdnjkccg"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=5
+	stewardship=7
+	intrigue=2
+	learning=1
+	trait="charismatic_negotiator"
+	trait="arbitrary"
+	922.1.1={birth=yes}
+	1322.6.15={death=yes}
+}
+
+10538={
+	name="Felene"
+	female=yes
+	dynasty=10538
+	dna="jkmlimdnlka"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=4
+	stewardship=0
+	intrigue=7
+	learning=3
+	trait="thrifty_clerk"
+	977.1.1={birth=yes}
+	1374.7.22={death=yes}
+}
+
+10539={
+	name="Toria"
+	female=yes
+	dynasty=10539
+	dna="omjkdapbdbf"
+	culture=high_elf
+	religion=tree
+	martial=5
+	diplomacy=3
+	stewardship=3
+	intrigue=6
+	learning=8
+	trait="thrifty_clerk"
+	937.1.1={birth=yes}
+	1484.9.6={death=yes}
+}
+
+10540={
+	name="Felian"
+	dynasty=10540
+	dna="ppmgpnhfljg"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=6
+	stewardship=3
+	intrigue=7
+	learning=5
+	trait="thrifty_clerk"
+	938.1.1={birth=yes}
+	1427.8.31={death=yes}
+}
+
+10541={
+	name="Astarielle"
+	female=yes
+	dynasty=10541
+	dna="bjaligoggoi"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=3
+	stewardship=2
+	intrigue=4
+	learning=2
+	trait="elusive_shadow"
+	trait="zealous"
+	945.1.1={birth=yes}
+	1471.6.8={death=yes}
+}
+
+10542={
+	name="Avera"
+	female=yes
+	dynasty=10542
+	dna="foonbinchkf"
+	culture=high_elf
+	religion=tree
+	martial=7
+	diplomacy=1
+	stewardship=4
+	intrigue=3
+	learning=8
+	trait="brilliant_strategist"
+	trait="mystic"
+	979.1.1={birth=yes}
+	1450.9.23={death=yes}
+}
+
+10543={
+	name="Estrala"
+	female=yes
+	dynasty=10543
+	dna="elhdcolcpge"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=0
+	stewardship=0
+	intrigue=6
+	learning=2
+	trait="skilled_tactician"
+	982.1.1={birth=yes}
+	1561.4.9={death=yes}
+}
+
+10544={
+	name="Laelia"
+	female=yes
+	dynasty=10544
+	dna="cabppnppnkj"
+	culture=high_elf
+	religion=tree
+	martial=2
+	diplomacy=1
+	stewardship=2
+	intrigue=2
+	learning=1
+	trait="tough_soldier"
+	trait="gardener"
+	993.1.1={birth=yes}
+	1624.12.9={death=yes}
+}
+
+10545={
+	name="Edrael"
+	dynasty=10545
+	dna="eeblljmmajp"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=6
+	stewardship=2
+	intrigue=2
+	learning=4
+	trait="thrifty_clerk"
+	980.1.1={birth=yes}
+	1628.8.1={death=yes}
+}
+
+10546={
+	name="Etelenna"
+	female=yes
+	dynasty=10546
+	dna="pikecicgfil"
+	culture=high_elf
+	religion=tree
+	martial=4
+	diplomacy=5
+	stewardship=5
+	intrigue=5
+	learning=5
+	trait="skilled_tactician"
+	trait="proud"
+	955.1.1={birth=yes}
+	1324.2.29={death=yes}
+}
+
+10547={
+	name="Paran"
+	dynasty=10547
+	dna="aelabbgcham"
+	culture=high_elf
+	religion=tree
+	martial=3
+	diplomacy=5
+	stewardship=6
+	intrigue=3
+	learning=7
+	trait="fortune_builder"
+	trait="celibate"
+	952.1.1={birth=yes}
+	1492.9.16={death=yes}
+}
+
+10548={
+	name="Muirien"
+	female=yes
+	dynasty=10548
+	dna="nbjmbbjabdd"
+	culture=high_elf
+	religion=tree
+	martial=0
+	diplomacy=1
+	stewardship=5
+	intrigue=6
+	learning=2
+	trait="misguided_warrior"
+	trait="hedonist"
+	937.1.1={birth=yes}
+	1568.3.11={death=yes}
+}
+
+10549={
+	name="Yenoc"
+	dynasty=10549
+	dna="mhgndnhgjkk"
+	culture=high_elf
+	religion=tree
+	martial=8
+	diplomacy=4
+	stewardship=4
+	intrigue=3
+	learning=3
+	trait="skilled_tactician"
+	trait="scholar"
+	trait="kind"
+	929.1.1={birth=yes}
+	1341.1.4={death=yes}
+}
+
+10550={
+	name="Imeeria"
+	female=yes
+	dynasty=10550
+	dna="bfchmdggagh"
+	culture=high_elf
+	religion=tree
+	martial=6
+	diplomacy=2
+	stewardship=3
+	intrigue=2
+	learning=4
+	trait="grey_eminence"
+	968.1.1={birth=yes}
+	1386.9.10={death=yes}
+}

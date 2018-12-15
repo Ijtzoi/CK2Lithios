@@ -1,0 +1,5 @@
+992.1.1 = {
+	liege = k_greatgrove
+	holder = 10447 #wander
+	historical_nomad = yes
+}

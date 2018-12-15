@@ -1450,6 +1450,7 @@
 }
 7365 = {
 	name = Kouda
+	culture = korvallan
 }
 7366 = {
 	name = Kouki

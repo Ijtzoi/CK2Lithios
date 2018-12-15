@@ -1,0 +1,2763 @@
+#0-86 (87) high
+#87-144 (58) wood
+#145-202 (58) shadow
+#203-289 (87) mountain
+#290-318 (29) shadow
+#319-463 (145) wandering
+#464-492 (29) wood
+#493-550 (58) high
+
+10000 = {
+	name = Moonbow
+	culture = high_elf
+}
+
+10001 = {
+	name = Moonleaf
+	culture = high_elf
+}
+
+10002 = {
+	name = Moontree
+	culture = high_elf
+}
+
+10003 = {
+	name = Moon-Arm
+	culture = high_elf
+}
+
+10004 = {
+	name = Moon-Eye
+	culture = high_elf
+}
+
+10005 = {
+	name = Moonlife
+	culture = high_elf
+}
+
+10006 = {
+	name = Moondarter
+	culture = high_elf
+}
+
+10007 = {
+	name = Moondrinker
+	culture = high_elf
+}
+
+10008 = {
+	name = Moonleaper
+	culture = high_elf
+}
+
+10009 = {
+	name = Moonwiggle
+	culture = high_elf
+}
+
+10010 = {
+	name = Moonsworth
+	culture = high_elf
+}
+
+10011 = {
+	name = Moonmuckle
+	culture = high_elf
+}
+
+10012 = {
+	name = Moonspear
+	culture = high_elf
+}
+
+10013 = {
+	name = Moonbranch
+	culture = high_elf
+}
+
+10014 = {
+	name = Mooner
+	culture = high_elf
+}
+
+10015 = {
+	name = Moonbeam
+	culture = high_elf
+}
+
+10016 = {
+	name = Moondancer
+	culture = high_elf
+}
+
+10017 = {
+	name = Moonlove
+	culture = high_elf
+}
+
+10018 = {
+	name = Moonblade
+	culture = high_elf
+}
+
+10019 = {
+	name = Moonblood
+	culture = high_elf
+}
+
+10020 = {
+	name = Moontwain
+	culture = high_elf
+}
+
+10021 = {
+	name = Moonmaster
+	culture = high_elf
+}
+
+10022 = {
+	name = Moonthrone
+	culture = high_elf
+}
+
+10023 = {
+	name = Moonbrow
+	culture = high_elf
+}
+
+10024 = {
+	name = Moonfinger
+	culture = high_elf
+}
+
+10025 = {
+	name = Moonshaft
+	culture = high_elf
+}
+
+10026 = {
+	name = Moonquiver
+	culture = high_elf
+}
+
+10027 = {
+	name = Moonhead
+	culture = high_elf
+}
+
+10028 = {
+	name = Moonling
+	culture = high_elf
+}
+
+10029 = {
+	name = Sunbow
+	culture = high_elf
+}
+
+10030 = {
+	name = Sunleaf
+	culture = high_elf
+}
+
+10031 = {
+	name = Suntree
+	culture = high_elf
+}
+
+10032 = {
+	name = Sun-Arm
+	culture = high_elf
+}
+
+10033 = {
+	name = Sun-Eye
+	culture = high_elf
+}
+
+10034 = {
+	name = Sunlife
+	culture = high_elf
+}
+
+10035 = {
+	name = Sundarter
+	culture = high_elf
+}
+
+10036 = {
+	name = Sundrinker
+	culture = high_elf
+}
+
+10037 = {
+	name = Sunleaper
+	culture = high_elf
+}
+
+10038 = {
+	name = Sunwiggle
+	culture = high_elf
+}
+
+10039 = {
+	name = Sunsworth
+	culture = high_elf
+}
+
+10040 = {
+	name = Sunmuckle
+	culture = high_elf
+}
+
+10041 = {
+	name = Sunspear
+	culture = high_elf
+}
+
+10042 = {
+	name = Sunbranch
+	culture = high_elf
+}
+
+10043 = {
+	name = Suner
+	culture = high_elf
+}
+
+10044 = {
+	name = Sunbeam
+	culture = high_elf
+}
+
+10045 = {
+	name = Sundancer
+	culture = high_elf
+}
+
+10046 = {
+	name = Sunlove
+	culture = high_elf
+}
+
+10047 = {
+	name = Sunblade
+	culture = high_elf
+}
+
+10048 = {
+	name = Sunblood
+	culture = high_elf
+}
+
+10049 = {
+	name = Suntwain
+	culture = high_elf
+}
+
+10050 = {
+	name = Sunmaster
+	culture = high_elf
+}
+
+10051 = {
+	name = Sunthrone
+	culture = high_elf
+}
+
+10052 = {
+	name = Sunbrow
+	culture = high_elf
+}
+
+10053 = {
+	name = Sunfinger
+	culture = high_elf
+}
+
+10054 = {
+	name = Sunshaft
+	culture = high_elf
+}
+
+10055 = {
+	name = Sunquiver
+	culture = high_elf
+}
+
+10056 = {
+	name = Sunhead
+	culture = high_elf
+}
+
+10057 = {
+	name = Sunling
+	culture = high_elf
+}
+
+10058 = {
+	name = Lightbow
+	culture = high_elf
+}
+
+10059 = {
+	name = Lightleaf
+	culture = high_elf
+}
+
+10060 = {
+	name = Lighttree
+	culture = high_elf
+}
+
+10061 = {
+	name = Light-Arm
+	culture = high_elf
+}
+
+10062 = {
+	name = Light-Eye
+	culture = high_elf
+}
+
+10063 = {
+	name = Lightlife
+	culture = high_elf
+}
+
+10064 = {
+	name = Lightdarter
+	culture = high_elf
+}
+
+10065 = {
+	name = Lightdrinker
+	culture = high_elf
+}
+
+10066 = {
+	name = Lightleaper
+	culture = high_elf
+}
+
+10067 = {
+	name = Lightwiggle
+	culture = high_elf
+}
+
+10068 = {
+	name = Lightsworth
+	culture = high_elf
+}
+
+10069 = {
+	name = Lightmuckle
+	culture = high_elf
+}
+
+10070 = {
+	name = Lightspear
+	culture = high_elf
+}
+
+10071 = {
+	name = Lightbranch
+	culture = high_elf
+}
+
+10072 = {
+	name = Lighter
+	culture = high_elf
+}
+
+10073 = {
+	name = Lightbeam
+	culture = high_elf
+}
+
+10074 = {
+	name = Lightdancer
+	culture = high_elf
+}
+
+10075 = {
+	name = Lightlove
+	culture = high_elf
+}
+
+10076 = {
+	name = Lightblade
+	culture = high_elf
+}
+
+10077 = {
+	name = Lightblood
+	culture = high_elf
+}
+
+10078 = {
+	name = Lighttwain
+	culture = high_elf
+}
+
+10079 = {
+	name = Lightmaster
+	culture = high_elf
+}
+
+10080 = {
+	name = Lightthrone
+	culture = high_elf
+}
+
+10081 = {
+	name = Lightbrow
+	culture = high_elf
+}
+
+10082 = {
+	name = Lightfinger
+	culture = high_elf
+}
+
+10083 = {
+	name = Lightshaft
+	culture = high_elf
+}
+
+10084 = {
+	name = Lightquiver
+	culture = high_elf
+}
+
+10085 = {
+	name = Lighthead
+	culture = high_elf
+}
+
+10086 = {
+	name = Lightling
+	culture = high_elf
+}
+
+10087 = {
+	name = Greenbow
+	culture = wood_elf
+}
+
+10088 = {
+	name = Greenleaf
+	culture = wood_elf
+}
+
+10089 = {
+	name = Greentree
+	culture = wood_elf
+}
+
+10090 = {
+	name = Green-Arm
+	culture = wood_elf
+}
+
+10091 = {
+	name = Green-Eye
+	culture = wood_elf
+}
+
+10092 = {
+	name = Greenlife
+	culture = wood_elf
+}
+
+10093 = {
+	name = Greendarter
+	culture = wood_elf
+}
+
+10094 = {
+	name = Greendrinker
+	culture = wood_elf
+}
+
+10095 = {
+	name = Greenleaper
+	culture = wood_elf
+}
+
+10096 = {
+	name = Greenwiggle
+	culture = wood_elf
+}
+
+10097 = {
+	name = Greensworth
+	culture = wood_elf
+}
+
+10098 = {
+	name = Greenmuckle
+	culture = wood_elf
+}
+
+10099 = {
+	name = Greenspear
+	culture = wood_elf
+}
+
+10100 = {
+	name = Greenbranch
+	culture = wood_elf
+}
+
+10101 = {
+	name = Greener
+	culture = wood_elf
+}
+
+10102 = {
+	name = Greenbeam
+	culture = wood_elf
+}
+
+10103 = {
+	name = Greendancer
+	culture = wood_elf
+}
+
+10104 = {
+	name = Greenlove
+	culture = wood_elf
+}
+
+10105 = {
+	name = Greenblade
+	culture = wood_elf
+}
+
+10106 = {
+	name = Greenblood
+	culture = wood_elf
+}
+
+10107 = {
+	name = Greentwain
+	culture = wood_elf
+}
+
+10108 = {
+	name = Greenmaster
+	culture = wood_elf
+}
+
+10109 = {
+	name = Greenthrone
+	culture = wood_elf
+}
+
+10110 = {
+	name = Greenbrow
+	culture = wood_elf
+}
+
+10111 = {
+	name = Greenfinger
+	culture = wood_elf
+}
+
+10112 = {
+	name = Greenshaft
+	culture = wood_elf
+}
+
+10113 = {
+	name = Greenquiver
+	culture = wood_elf
+}
+
+10114 = {
+	name = Greenhead
+	culture = wood_elf
+}
+
+10115 = {
+	name = Greenling
+	culture = wood_elf
+}
+
+10116 = {
+	name = Greatbow
+	culture = wood_elf
+}
+
+10117 = {
+	name = Greatleaf
+	culture = wood_elf
+}
+
+10118 = {
+	name = Greattree
+	culture = wood_elf
+}
+
+10119 = {
+	name = Great-Arm
+	culture = wood_elf
+}
+
+10120 = {
+	name = Great-Eye
+	culture = wood_elf
+}
+
+10121 = {
+	name = Greatlife
+	culture = wood_elf
+}
+
+10122 = {
+	name = Greatdarter
+	culture = wood_elf
+}
+
+10123 = {
+	name = Greatdrinker
+	culture = wood_elf
+}
+
+10124 = {
+	name = Greatleaper
+	culture = wood_elf
+}
+
+10125 = {
+	name = Greatwiggle
+	culture = wood_elf
+}
+
+10126 = {
+	name = Greatsworth
+	culture = wood_elf
+}
+
+10127 = {
+	name = Greatmuckle
+	culture = wood_elf
+}
+
+10128 = {
+	name = Greatspear
+	culture = wood_elf
+}
+
+10129 = {
+	name = Greatbranch
+	culture = wood_elf
+}
+
+10130 = {
+	name = Greater
+	culture = wood_elf
+}
+
+10131 = {
+	name = Greatbeam
+	culture = wood_elf
+}
+
+10132 = {
+	name = Greatdancer
+	culture = wood_elf
+}
+
+10133 = {
+	name = Greatlove
+	culture = wood_elf
+}
+
+10134 = {
+	name = Greatblade
+	culture = wood_elf
+}
+
+10135 = {
+	name = Greatblood
+	culture = wood_elf
+}
+
+10136 = {
+	name = Greattwain
+	culture = wood_elf
+}
+
+10137 = {
+	name = Greatmaster
+	culture = wood_elf
+}
+
+10138 = {
+	name = Greatthrone
+	culture = wood_elf
+}
+
+10139 = {
+	name = Greatbrow
+	culture = wood_elf
+}
+
+10140 = {
+	name = Greatfinger
+	culture = wood_elf
+}
+
+10141 = {
+	name = Greatshaft
+	culture = wood_elf
+}
+
+10142 = {
+	name = Greatquiver
+	culture = wood_elf
+}
+
+10143 = {
+	name = Greathead
+	culture = wood_elf
+}
+
+10144 = {
+	name = Greatling
+	culture = wood_elf
+}
+
+10145 = {
+	name = Oldbow
+	culture = shadow_elf
+}
+
+10146 = {
+	name = Oldleaf
+	culture = shadow_elf
+}
+
+10147 = {
+	name = Oldtree
+	culture = shadow_elf
+}
+
+10148 = {
+	name = Old-Arm
+	culture = shadow_elf
+}
+
+10149 = {
+	name = Old-Eye
+	culture = shadow_elf
+}
+
+10150 = {
+	name = Oldlife
+	culture = shadow_elf
+}
+
+10151 = {
+	name = Olddarter
+	culture = shadow_elf
+}
+
+10152 = {
+	name = Olddrinker
+	culture = shadow_elf
+}
+
+10153 = {
+	name = Oldleaper
+	culture = shadow_elf
+}
+
+10154 = {
+	name = Oldwiggle
+	culture = shadow_elf
+}
+
+10155 = {
+	name = Oldsworth
+	culture = shadow_elf
+}
+
+10156 = {
+	name = Oldmuckle
+	culture = shadow_elf
+}
+
+10157 = {
+	name = Oldspear
+	culture = shadow_elf
+}
+
+10158 = {
+	name = Oldbranch
+	culture = shadow_elf
+}
+
+10159 = {
+	name = Older
+	culture = shadow_elf
+}
+
+10160 = {
+	name = Oldbeam
+	culture = shadow_elf
+}
+
+10161 = {
+	name = Olddancer
+	culture = shadow_elf
+}
+
+10162 = {
+	name = Oldlove
+	culture = shadow_elf
+}
+
+10163 = {
+	name = Oldblade
+	culture = shadow_elf
+}
+
+10164 = {
+	name = Oldblood
+	culture = shadow_elf
+}
+
+10165 = {
+	name = Oldtwain
+	culture = shadow_elf
+}
+
+10166 = {
+	name = Oldmaster
+	culture = shadow_elf
+}
+
+10167 = {
+	name = Oldthrone
+	culture = shadow_elf
+}
+
+10168 = {
+	name = Oldbrow
+	culture = shadow_elf
+}
+
+10169 = {
+	name = Oldfinger
+	culture = shadow_elf
+}
+
+10170 = {
+	name = Oldshaft
+	culture = shadow_elf
+}
+
+10171 = {
+	name = Oldquiver
+	culture = shadow_elf
+}
+
+10172 = {
+	name = Oldhead
+	culture = shadow_elf
+}
+
+10173 = {
+	name = Oldling
+	culture = shadow_elf
+}
+
+10174 = {
+	name = Rootbow
+	culture = shadow_elf
+}
+
+10175 = {
+	name = Rootleaf
+	culture = shadow_elf
+}
+
+10176 = {
+	name = Roottree
+	culture = shadow_elf
+}
+
+10177 = {
+	name = Root-Arm
+	culture = shadow_elf
+}
+
+10178 = {
+	name = Root-Eye
+	culture = shadow_elf
+}
+
+10179 = {
+	name = Rootlife
+	culture = shadow_elf
+}
+
+10180 = {
+	name = Rootdarter
+	culture = shadow_elf
+}
+
+10181 = {
+	name = Rootdrinker
+	culture = shadow_elf
+}
+
+10182 = {
+	name = Rootleaper
+	culture = shadow_elf
+}
+
+10183 = {
+	name = Rootwiggle
+	culture = shadow_elf
+}
+
+10184 = {
+	name = Rootsworth
+	culture = shadow_elf
+}
+
+10185 = {
+	name = Rootmuckle
+	culture = shadow_elf
+}
+
+10186 = {
+	name = Rootspear
+	culture = shadow_elf
+}
+
+10187 = {
+	name = Rootbranch
+	culture = shadow_elf
+}
+
+10188 = {
+	name = Rooter
+	culture = shadow_elf
+}
+
+10189 = {
+	name = Rootbeam
+	culture = shadow_elf
+}
+
+10190 = {
+	name = Rootdancer
+	culture = shadow_elf
+}
+
+10191 = {
+	name = Rootlove
+	culture = shadow_elf
+}
+
+10192 = {
+	name = Rootblade
+	culture = shadow_elf
+}
+
+10193 = {
+	name = Rootblood
+	culture = shadow_elf
+}
+
+10194 = {
+	name = Roottwain
+	culture = shadow_elf
+}
+
+10195 = {
+	name = Rootmaster
+	culture = shadow_elf
+}
+
+10196 = {
+	name = Rootthrone
+	culture = shadow_elf
+}
+
+10197 = {
+	name = Rootbrow
+	culture = shadow_elf
+}
+
+10198 = {
+	name = Rootfinger
+	culture = shadow_elf
+}
+
+10199 = {
+	name = Rootshaft
+	culture = shadow_elf
+}
+
+10200 = {
+	name = Rootquiver
+	culture = shadow_elf
+}
+
+10201 = {
+	name = Roothead
+	culture = shadow_elf
+}
+
+10202 = {
+	name = Rootling
+	culture = shadow_elf
+}
+
+10203 = {
+	name = Goldbow
+	culture = mountain_elf
+}
+
+10204 = {
+	name = Goldleaf
+	culture = mountain_elf
+}
+
+10205 = {
+	name = Goldtree
+	culture = mountain_elf
+}
+
+10206 = {
+	name = Gold-Arm
+	culture = mountain_elf
+}
+
+10207 = {
+	name = Gold-Eye
+	culture = mountain_elf
+}
+
+10208 = {
+	name = Goldlife
+	culture = mountain_elf
+}
+
+10209 = {
+	name = Golddarter
+	culture = mountain_elf
+}
+
+10210 = {
+	name = Golddrinker
+	culture = mountain_elf
+}
+
+10211 = {
+	name = Goldleaper
+	culture = mountain_elf
+}
+
+10212 = {
+	name = Goldwiggle
+	culture = mountain_elf
+}
+
+10213 = {
+	name = Goldsworth
+	culture = mountain_elf
+}
+
+10214 = {
+	name = Goldmuckle
+	culture = mountain_elf
+}
+
+10215 = {
+	name = Goldspear
+	culture = mountain_elf
+}
+
+10216 = {
+	name = Goldbranch
+	culture = mountain_elf
+}
+
+10217 = {
+	name = Golder
+	culture = mountain_elf
+}
+
+10218 = {
+	name = Goldbeam
+	culture = mountain_elf
+}
+
+10219 = {
+	name = Golddancer
+	culture = mountain_elf
+}
+
+10220 = {
+	name = Goldlove
+	culture = mountain_elf
+}
+
+10221 = {
+	name = Goldblade
+	culture = mountain_elf
+}
+
+10222 = {
+	name = Goldblood
+	culture = mountain_elf
+}
+
+10223 = {
+	name = Goldtwain
+	culture = mountain_elf
+}
+
+10224 = {
+	name = Goldmaster
+	culture = mountain_elf
+}
+
+10225 = {
+	name = Goldthrone
+	culture = mountain_elf
+}
+
+10226 = {
+	name = Goldbrow
+	culture = mountain_elf
+}
+
+10227 = {
+	name = Goldfinger
+	culture = mountain_elf
+}
+
+10228 = {
+	name = Goldshaft
+	culture = mountain_elf
+}
+
+10229 = {
+	name = Goldquiver
+	culture = mountain_elf
+}
+
+10230 = {
+	name = Goldhead
+	culture = mountain_elf
+}
+
+10231 = {
+	name = Goldling
+	culture = mountain_elf
+}
+
+10232 = {
+	name = Grandbow
+	culture = mountain_elf
+}
+
+10233 = {
+	name = Grandleaf
+	culture = mountain_elf
+}
+
+10234 = {
+	name = Grandtree
+	culture = mountain_elf
+}
+
+10235 = {
+	name = Grand-Arm
+	culture = mountain_elf
+}
+
+10236 = {
+	name = Grand-Eye
+	culture = mountain_elf
+}
+
+10237 = {
+	name = Grandlife
+	culture = mountain_elf
+}
+
+10238 = {
+	name = Granddarter
+	culture = mountain_elf
+}
+
+10239 = {
+	name = Granddrinker
+	culture = mountain_elf
+}
+
+10240 = {
+	name = Grandleaper
+	culture = mountain_elf
+}
+
+10241 = {
+	name = Grandwiggle
+	culture = mountain_elf
+}
+
+10242 = {
+	name = Grandsworth
+	culture = mountain_elf
+}
+
+10243 = {
+	name = Grandmuckle
+	culture = mountain_elf
+}
+
+10244 = {
+	name = Grandspear
+	culture = mountain_elf
+}
+
+10245 = {
+	name = Grandbranch
+	culture = mountain_elf
+}
+
+10246 = {
+	name = Grander
+	culture = mountain_elf
+}
+
+10247 = {
+	name = Grandbeam
+	culture = mountain_elf
+}
+
+10248 = {
+	name = Granddancer
+	culture = mountain_elf
+}
+
+10249 = {
+	name = Grandlove
+	culture = mountain_elf
+}
+
+10250 = {
+	name = Grandblade
+	culture = mountain_elf
+}
+
+10251 = {
+	name = Grandblood
+	culture = mountain_elf
+}
+
+10252 = {
+	name = Grandtwain
+	culture = mountain_elf
+}
+
+10253 = {
+	name = Grandmaster
+	culture = mountain_elf
+}
+
+10254 = {
+	name = Grandthrone
+	culture = mountain_elf
+}
+
+10255 = {
+	name = Grandbrow
+	culture = mountain_elf
+}
+
+10256 = {
+	name = Grandfinger
+	culture = mountain_elf
+}
+
+10257 = {
+	name = Grandshaft
+	culture = mountain_elf
+}
+
+10258 = {
+	name = Grandquiver
+	culture = mountain_elf
+}
+
+10259 = {
+	name = Grandhead
+	culture = mountain_elf
+}
+
+10260 = {
+	name = Grandling
+	culture = mountain_elf
+}
+
+10261 = {
+	name = Highbow
+	culture = mountain_elf
+}
+
+10262 = {
+	name = Highleaf
+	culture = mountain_elf
+}
+
+10263 = {
+	name = Hightree
+	culture = mountain_elf
+}
+
+10264 = {
+	name = High-Arm
+	culture = mountain_elf
+}
+
+10265 = {
+	name = High-Eye
+	culture = mountain_elf
+}
+
+10266 = {
+	name = Highlife
+	culture = mountain_elf
+}
+
+10267 = {
+	name = Highdarter
+	culture = mountain_elf
+}
+
+10268 = {
+	name = Highdrinker
+	culture = mountain_elf
+}
+
+10269 = {
+	name = Highleaper
+	culture = mountain_elf
+}
+
+10270 = {
+	name = Highwiggle
+	culture = mountain_elf
+}
+
+10271 = {
+	name = Highsworth
+	culture = mountain_elf
+}
+
+10272 = {
+	name = Highmuckle
+	culture = mountain_elf
+}
+
+10273 = {
+	name = Highspear
+	culture = mountain_elf
+}
+
+10274 = {
+	name = Highbranch
+	culture = mountain_elf
+}
+
+10275 = {
+	name = Higher
+	culture = mountain_elf
+}
+
+10276 = {
+	name = Highbeam
+	culture = mountain_elf
+}
+
+10277 = {
+	name = Highdancer
+	culture = mountain_elf
+}
+
+10278 = {
+	name = Highlove
+	culture = mountain_elf
+}
+
+10279 = {
+	name = Highblade
+	culture = mountain_elf
+}
+
+10280 = {
+	name = Highblood
+	culture = mountain_elf
+}
+
+10281 = {
+	name = Hightwain
+	culture = mountain_elf
+}
+
+10282 = {
+	name = Highmaster
+	culture = mountain_elf
+}
+
+10283 = {
+	name = Highthrone
+	culture = mountain_elf
+}
+
+10284 = {
+	name = Highbrow
+	culture = mountain_elf
+}
+
+10285 = {
+	name = Highfinger
+	culture = mountain_elf
+}
+
+10286 = {
+	name = Highshaft
+	culture = mountain_elf
+}
+
+10287 = {
+	name = Highquiver
+	culture = mountain_elf
+}
+
+10288 = {
+	name = Highhead
+	culture = mountain_elf
+}
+
+10289 = {
+	name = Highling
+	culture = mountain_elf
+}
+
+10290 = {
+	name = Herbbow
+	culture = shadow_elf
+}
+
+10291 = {
+	name = Herbleaf
+	culture = shadow_elf
+}
+
+10292 = {
+	name = Herbtree
+	culture = shadow_elf
+}
+
+10293 = {
+	name = Herb-Arm
+	culture = shadow_elf
+}
+
+10294 = {
+	name = Herb-Eye
+	culture = shadow_elf
+}
+
+10295 = {
+	name = Herblife
+	culture = shadow_elf
+}
+
+10296 = {
+	name = Herbdarter
+	culture = shadow_elf
+}
+
+10297 = {
+	name = Herbdrinker
+	culture = shadow_elf
+}
+
+10298 = {
+	name = Herbleaper
+	culture = shadow_elf
+}
+
+10299 = {
+	name = Herbwiggle
+	culture = shadow_elf
+}
+
+10300 = {
+	name = Herbsworth
+	culture = shadow_elf
+}
+
+10301 = {
+	name = Herbmuckle
+	culture = shadow_elf
+}
+
+10302 = {
+	name = Herbspear
+	culture = shadow_elf
+}
+
+10303 = {
+	name = Herbbranch
+	culture = shadow_elf
+}
+
+10304 = {
+	name = Herber
+	culture = shadow_elf
+}
+
+10305 = {
+	name = Herbbeam
+	culture = shadow_elf
+}
+
+10306 = {
+	name = Herbdancer
+	culture = shadow_elf
+}
+
+10307 = {
+	name = Herblove
+	culture = shadow_elf
+}
+
+10308 = {
+	name = Herbblade
+	culture = shadow_elf
+}
+
+10309 = {
+	name = Herbblood
+	culture = shadow_elf
+}
+
+10310 = {
+	name = Herbtwain
+	culture = shadow_elf
+}
+
+10311 = {
+	name = Herbmaster
+	culture = shadow_elf
+}
+
+10312 = {
+	name = Herbthrone
+	culture = shadow_elf
+}
+
+10313 = {
+	name = Herbbrow
+	culture = shadow_elf
+}
+
+10314 = {
+	name = Herbfinger
+	culture = shadow_elf
+}
+
+10315 = {
+	name = Herbshaft
+	culture = shadow_elf
+}
+
+10316 = {
+	name = Herbquiver
+	culture = shadow_elf
+}
+
+10317 = {
+	name = Herbhead
+	culture = shadow_elf
+}
+
+10318 = {
+	name = Herbling
+	culture = shadow_elf
+}
+
+10319 = {
+	name = Gracebow
+	culture = wandering_elf
+}
+
+10320 = {
+	name = Graceleaf
+	culture = wandering_elf
+}
+
+10321 = {
+	name = Gracetree
+	culture = wandering_elf
+}
+
+10322 = {
+	name = Grace-Arm
+	culture = wandering_elf
+}
+
+10323 = {
+	name = Grace-Eye
+	culture = wandering_elf
+}
+
+10324 = {
+	name = Gracelife
+	culture = wandering_elf
+}
+
+10325 = {
+	name = Gracedarter
+	culture = wandering_elf
+}
+
+10326 = {
+	name = Gracedrinker
+	culture = wandering_elf
+}
+
+10327 = {
+	name = Graceleaper
+	culture = wandering_elf
+}
+
+10328 = {
+	name = Gracewiggle
+	culture = wandering_elf
+}
+
+10329 = {
+	name = Gracesworth
+	culture = wandering_elf
+}
+
+10330 = {
+	name = Gracemuckle
+	culture = wandering_elf
+}
+
+10331 = {
+	name = Gracespear
+	culture = wandering_elf
+}
+
+10332 = {
+	name = Gracebranch
+	culture = wandering_elf
+}
+
+10333 = {
+	name = Graceer
+	culture = wandering_elf
+}
+
+10334 = {
+	name = Gracebeam
+	culture = wandering_elf
+}
+
+10335 = {
+	name = Gracedancer
+	culture = wandering_elf
+}
+
+10336 = {
+	name = Gracelove
+	culture = wandering_elf
+}
+
+10337 = {
+	name = Graceblade
+	culture = wandering_elf
+}
+
+10338 = {
+	name = Graceblood
+	culture = wandering_elf
+}
+
+10339 = {
+	name = Gracetwain
+	culture = wandering_elf
+}
+
+10340 = {
+	name = Gracemaster
+	culture = wandering_elf
+}
+
+10341 = {
+	name = Gracethrone
+	culture = wandering_elf
+}
+
+10342 = {
+	name = Gracebrow
+	culture = wandering_elf
+}
+
+10343 = {
+	name = Gracefinger
+	culture = wandering_elf
+}
+
+10344 = {
+	name = Graceshaft
+	culture = wandering_elf
+}
+
+10345 = {
+	name = Gracequiver
+	culture = wandering_elf
+}
+
+10346 = {
+	name = Gracehead
+	culture = wandering_elf
+}
+
+10347 = {
+	name = Graceling
+	culture = wandering_elf
+}
+
+10348 = {
+	name = Fiddlebow
+	culture = wandering_elf
+}
+
+10349 = {
+	name = Fiddleleaf
+	culture = wandering_elf
+}
+
+10350 = {
+	name = Fiddletree
+	culture = wandering_elf
+}
+
+10351 = {
+	name = Fiddle-Arm
+	culture = wandering_elf
+}
+
+10352 = {
+	name = Fiddle-Eye
+	culture = wandering_elf
+}
+
+10353 = {
+	name = Fiddlelife
+	culture = wandering_elf
+}
+
+10354 = {
+	name = Fiddledarter
+	culture = wandering_elf
+}
+
+10355 = {
+	name = Fiddledrinker
+	culture = wandering_elf
+}
+
+10356 = {
+	name = Fiddleleaper
+	culture = wandering_elf
+}
+
+10357 = {
+	name = Fiddlewiggle
+	culture = wandering_elf
+}
+
+10358 = {
+	name = Fiddlesworth
+	culture = wandering_elf
+}
+
+10359 = {
+	name = Fiddlemuckle
+	culture = wandering_elf
+}
+
+10360 = {
+	name = Fiddlespear
+	culture = wandering_elf
+}
+
+10361 = {
+	name = Fiddlebranch
+	culture = wandering_elf
+}
+
+10362 = {
+	name = Fiddleer
+	culture = wandering_elf
+}
+
+10363 = {
+	name = Fiddlebeam
+	culture = wandering_elf
+}
+
+10364 = {
+	name = Fiddledancer
+	culture = wandering_elf
+}
+
+10365 = {
+	name = Fiddlelove
+	culture = wandering_elf
+}
+
+10366 = {
+	name = Fiddleblade
+	culture = wandering_elf
+}
+
+10367 = {
+	name = Fiddleblood
+	culture = wandering_elf
+}
+
+10368 = {
+	name = Fiddletwain
+	culture = wandering_elf
+}
+
+10369 = {
+	name = Fiddlemaster
+	culture = wandering_elf
+}
+
+10370 = {
+	name = Fiddlethrone
+	culture = wandering_elf
+}
+
+10371 = {
+	name = Fiddlebrow
+	culture = wandering_elf
+}
+
+10372 = {
+	name = Fiddlefinger
+	culture = wandering_elf
+}
+
+10373 = {
+	name = Fiddleshaft
+	culture = wandering_elf
+}
+
+10374 = {
+	name = Fiddlequiver
+	culture = wandering_elf
+}
+
+10375 = {
+	name = Fiddlehead
+	culture = wandering_elf
+}
+
+10376 = {
+	name = Fiddleling
+	culture = wandering_elf
+}
+
+10377 = {
+	name = Fussbow
+	culture = wandering_elf
+}
+
+10378 = {
+	name = Fussleaf
+	culture = wandering_elf
+}
+
+10379 = {
+	name = Fusstree
+	culture = wandering_elf
+}
+
+10380 = {
+	name = Fuss-Arm
+	culture = wandering_elf
+}
+
+10381 = {
+	name = Fuss-Eye
+	culture = wandering_elf
+}
+
+10382 = {
+	name = Fusslife
+	culture = wandering_elf
+}
+
+10383 = {
+	name = Fussdarter
+	culture = wandering_elf
+}
+
+10384 = {
+	name = Fussdrinker
+	culture = wandering_elf
+}
+
+10385 = {
+	name = Fussleaper
+	culture = wandering_elf
+}
+
+10386 = {
+	name = Fusswiggle
+	culture = wandering_elf
+}
+
+10387 = {
+	name = Fusssworth
+	culture = wandering_elf
+}
+
+10388 = {
+	name = Fussmuckle
+	culture = wandering_elf
+}
+
+10389 = {
+	name = Fussspear
+	culture = wandering_elf
+}
+
+10390 = {
+	name = Fussbranch
+	culture = wandering_elf
+}
+
+10391 = {
+	name = Fusser
+	culture = wandering_elf
+}
+
+10392 = {
+	name = Fussbeam
+	culture = wandering_elf
+}
+
+10393 = {
+	name = Fussdancer
+	culture = wandering_elf
+}
+
+10394 = {
+	name = Fusslove
+	culture = wandering_elf
+}
+
+10395 = {
+	name = Fussblade
+	culture = wandering_elf
+}
+
+10396 = {
+	name = Fussblood
+	culture = wandering_elf
+}
+
+10397 = {
+	name = Fusstwain
+	culture = wandering_elf
+}
+
+10398 = {
+	name = Fussmaster
+	culture = wandering_elf
+}
+
+10399 = {
+	name = Fussthrone
+	culture = wandering_elf
+}
+
+10400 = {
+	name = Fussbrow
+	culture = wandering_elf
+}
+
+10401 = {
+	name = Fussfinger
+	culture = wandering_elf
+}
+
+10402 = {
+	name = Fussshaft
+	culture = wandering_elf
+}
+
+10403 = {
+	name = Fussquiver
+	culture = wandering_elf
+}
+
+10404 = {
+	name = Fusshead
+	culture = wandering_elf
+}
+
+10405 = {
+	name = Fussling
+	culture = wandering_elf
+}
+
+10406 = {
+	name = Songbow
+	culture = wandering_elf
+}
+
+10407 = {
+	name = Songleaf
+	culture = wandering_elf
+}
+
+10408 = {
+	name = Songtree
+	culture = wandering_elf
+}
+
+10409 = {
+	name = Song-Arm
+	culture = wandering_elf
+}
+
+10410 = {
+	name = Song-Eye
+	culture = wandering_elf
+}
+
+10411 = {
+	name = Songlife
+	culture = wandering_elf
+}
+
+10412 = {
+	name = Songdarter
+	culture = wandering_elf
+}
+
+10413 = {
+	name = Songdrinker
+	culture = wandering_elf
+}
+
+10414 = {
+	name = Songleaper
+	culture = wandering_elf
+}
+
+10415 = {
+	name = Songwiggle
+	culture = wandering_elf
+}
+
+10416 = {
+	name = Songsworth
+	culture = wandering_elf
+}
+
+10417 = {
+	name = Songmuckle
+	culture = wandering_elf
+}
+
+10418 = {
+	name = Songspear
+	culture = wandering_elf
+}
+
+10419 = {
+	name = Songbranch
+	culture = wandering_elf
+}
+
+10420 = {
+	name = Songer
+	culture = wandering_elf
+}
+
+10421 = {
+	name = Songbeam
+	culture = wandering_elf
+}
+
+10422 = {
+	name = Songdancer
+	culture = wandering_elf
+}
+
+10423 = {
+	name = Songlove
+	culture = wandering_elf
+}
+
+10424 = {
+	name = Songblade
+	culture = wandering_elf
+}
+
+10425 = {
+	name = Songblood
+	culture = wandering_elf
+}
+
+10426 = {
+	name = Songtwain
+	culture = wandering_elf
+}
+
+10427 = {
+	name = Songmaster
+	culture = wandering_elf
+}
+
+10428 = {
+	name = Songthrone
+	culture = wandering_elf
+}
+
+10429 = {
+	name = Songbrow
+	culture = wandering_elf
+}
+
+10430 = {
+	name = Songfinger
+	culture = wandering_elf
+}
+
+10431 = {
+	name = Songshaft
+	culture = wandering_elf
+}
+
+10432 = {
+	name = Songquiver
+	culture = wandering_elf
+}
+
+10433 = {
+	name = Songhead
+	culture = wandering_elf
+}
+
+10434 = {
+	name = Songling
+	culture = wandering_elf
+}
+
+10435 = {
+	name = Strongbow
+	culture = wandering_elf
+}
+
+10436 = {
+	name = Strongleaf
+	culture = wandering_elf
+}
+
+10437 = {
+	name = Strongtree
+	culture = wandering_elf
+}
+
+10438 = {
+	name = Strong-Arm
+	culture = wandering_elf
+}
+
+10439 = {
+	name = Strong-Eye
+	culture = wandering_elf
+}
+
+10440 = {
+	name = Stronglife
+	culture = wandering_elf
+}
+
+10441 = {
+	name = Strongdarter
+	culture = wandering_elf
+}
+
+10442 = {
+	name = Strongdrinker
+	culture = wandering_elf
+}
+
+10443 = {
+	name = Strongleaper
+	culture = wandering_elf
+}
+
+10444 = {
+	name = Strongwiggle
+	culture = wandering_elf
+}
+
+10445 = {
+	name = Strongsworth
+	culture = wandering_elf
+}
+
+10446 = {
+	name = Strongmuckle
+	culture = wandering_elf
+}
+
+10447 = {
+	name = Strongspear
+	culture = wandering_elf
+}
+
+10448 = {
+	name = Strongbranch
+	culture = wandering_elf
+}
+
+10449 = {
+	name = Stronger
+	culture = wandering_elf
+}
+
+10450 = {
+	name = Strongbeam
+	culture = wandering_elf
+}
+
+10451 = {
+	name = Strongdancer
+	culture = wandering_elf
+}
+
+10452 = {
+	name = Stronglove
+	culture = wandering_elf
+}
+
+10453 = {
+	name = Strongblade
+	culture = wandering_elf
+}
+
+10454 = {
+	name = Strongblood
+	culture = wandering_elf
+}
+
+10455 = {
+	name = Strongtwain
+	culture = wandering_elf
+}
+
+10456 = {
+	name = Strongmaster
+	culture = wandering_elf
+}
+
+10457 = {
+	name = Strongthrone
+	culture = wandering_elf
+}
+
+10458 = {
+	name = Strongbrow
+	culture = wandering_elf
+}
+
+10459 = {
+	name = Strongfinger
+	culture = wandering_elf
+}
+
+10460 = {
+	name = Strongshaft
+	culture = wandering_elf
+}
+
+10461 = {
+	name = Strongquiver
+	culture = wandering_elf
+}
+
+10462 = {
+	name = Stronghead
+	culture = wandering_elf
+}
+
+10463 = {
+	name = Strongling
+	culture = wandering_elf
+}
+
+10464 = {
+	name = Oakbow
+	culture = wood_elf
+}
+
+10465 = {
+	name = Oakleaf
+	culture = wood_elf
+}
+
+10466 = {
+	name = Oaktree
+	culture = wood_elf
+}
+
+10467 = {
+	name = Oak-Arm
+	culture = wood_elf
+}
+
+10468 = {
+	name = Oak-Eye
+	culture = wood_elf
+}
+
+10469 = {
+	name = Oaklife
+	culture = wood_elf
+}
+
+10470 = {
+	name = Oakdarter
+	culture = wood_elf
+}
+
+10471 = {
+	name = Oakdrinker
+	culture = wood_elf
+}
+
+10472 = {
+	name = Oakleaper
+	culture = wood_elf
+}
+
+10473 = {
+	name = Oakwiggle
+	culture = wood_elf
+}
+
+10474 = {
+	name = Oaksworth
+	culture = wood_elf
+}
+
+10475 = {
+	name = Oakmuckle
+	culture = wood_elf
+}
+
+10476 = {
+	name = Oakspear
+	culture = wood_elf
+}
+
+10477 = {
+	name = Oakbranch
+	culture = wood_elf
+}
+
+10478 = {
+	name = Oaker
+	culture = wood_elf
+}
+
+10479 = {
+	name = Oakbeam
+	culture = wood_elf
+}
+
+10480 = {
+	name = Oakdancer
+	culture = wood_elf
+}
+
+10481 = {
+	name = Oaklove
+	culture = wood_elf
+}
+
+10482 = {
+	name = Oakblade
+	culture = wood_elf
+}
+
+10483 = {
+	name = Oakblood
+	culture = wood_elf
+}
+
+10484 = {
+	name = Oaktwain
+	culture = wood_elf
+}
+
+10485 = {
+	name = Oakmaster
+	culture = wood_elf
+}
+
+10486 = {
+	name = Oakthrone
+	culture = wood_elf
+}
+
+10487 = {
+	name = Oakbrow
+	culture = wood_elf
+}
+
+10488 = {
+	name = Oakfinger
+	culture = wood_elf
+}
+
+10489 = {
+	name = Oakshaft
+	culture = wood_elf
+}
+
+10490 = {
+	name = Oakquiver
+	culture = wood_elf
+}
+
+10491 = {
+	name = Oakhead
+	culture = wood_elf
+}
+
+10492 = {
+	name = Oakling
+	culture = wood_elf
+}
+
+10493 = {
+	name = Starbow
+	culture = high_elf
+}
+
+10494 = {
+	name = Starleaf
+	culture = high_elf
+}
+
+10495 = {
+	name = Startree
+	culture = high_elf
+}
+
+10496 = {
+	name = Star-Arm
+	culture = high_elf
+}
+
+10497 = {
+	name = Star-Eye
+	culture = high_elf
+}
+
+10498 = {
+	name = Starlife
+	culture = high_elf
+}
+
+10499 = {
+	name = Stardarter
+	culture = high_elf
+}
+
+10500 = {
+	name = Stardrinker
+	culture = high_elf
+}
+
+10501 = {
+	name = Starleaper
+	culture = high_elf
+}
+
+10502 = {
+	name = Starwiggle
+	culture = high_elf
+}
+
+10503 = {
+	name = Starsworth
+	culture = high_elf
+}
+
+10504 = {
+	name = Starmuckle
+	culture = high_elf
+}
+
+10505 = {
+	name = Starspear
+	culture = high_elf
+}
+
+10506 = {
+	name = Starbranch
+	culture = high_elf
+}
+
+10507 = {
+	name = Starer
+	culture = high_elf
+}
+
+10508 = {
+	name = Starbeam
+	culture = high_elf
+}
+
+10509 = {
+	name = Stardancer
+	culture = high_elf
+}
+
+10510 = {
+	name = Starlove
+	culture = high_elf
+}
+
+10511 = {
+	name = Starblade
+	culture = high_elf
+}
+
+10512 = {
+	name = Starblood
+	culture = high_elf
+}
+
+10513 = {
+	name = Startwain
+	culture = high_elf
+}
+
+10514 = {
+	name = Starmaster
+	culture = high_elf
+}
+
+10515 = {
+	name = Starthrone
+	culture = high_elf
+}
+
+10516 = {
+	name = Starbrow
+	culture = high_elf
+}
+
+10517 = {
+	name = Starfinger
+	culture = high_elf
+}
+
+10518 = {
+	name = Starshaft
+	culture = high_elf
+}
+
+10519 = {
+	name = Starquiver
+	culture = high_elf
+}
+
+10520 = {
+	name = Starhead
+	culture = high_elf
+}
+
+10521 = {
+	name = Starling
+	culture = high_elf
+}
+
+10522 = {
+	name = Brightbow
+	culture = high_elf
+}
+
+10523 = {
+	name = Brightleaf
+	culture = high_elf
+}
+
+10524 = {
+	name = Brighttree
+	culture = high_elf
+}
+
+10525 = {
+	name = Bright-Arm
+	culture = high_elf
+}
+
+10526 = {
+	name = Bright-Eye
+	culture = high_elf
+}
+
+10527 = {
+	name = Brightlife
+	culture = high_elf
+}
+
+10528 = {
+	name = Brightdarter
+	culture = high_elf
+}
+
+10529 = {
+	name = Brightdrinker
+	culture = high_elf
+}
+
+10530 = {
+	name = Brightleaper
+	culture = high_elf
+}
+
+10531 = {
+	name = Brightwiggle
+	culture = high_elf
+}
+
+10532 = {
+	name = Brightsworth
+	culture = high_elf
+}
+
+10533 = {
+	name = Brightmuckle
+	culture = high_elf
+}
+
+10534 = {
+	name = Brightspear
+	culture = high_elf
+}
+
+10535 = {
+	name = Brightbranch
+	culture = high_elf
+}
+
+10536 = {
+	name = Brighter
+	culture = high_elf
+}
+
+10537 = {
+	name = Brightbeam
+	culture = high_elf
+}
+
+10538 = {
+	name = Brightdancer
+	culture = high_elf
+}
+
+10539 = {
+	name = Brightlove
+	culture = high_elf
+}
+
+10540 = {
+	name = Brightblade
+	culture = high_elf
+}
+
+10541 = {
+	name = Brightblood
+	culture = high_elf
+}
+
+10542 = {
+	name = Brighttwain
+	culture = high_elf
+}
+
+10543 = {
+	name = Brightmaster
+	culture = high_elf
+}
+
+10544 = {
+	name = Brightthrone
+	culture = high_elf
+}
+
+10545 = {
+	name = Brightbrow
+	culture = high_elf
+}
+
+10546 = {
+	name = Brightfinger
+	culture = high_elf
+}
+
+10547 = {
+	name = Brightshaft
+	culture = high_elf
+}
+
+10548 = {
+	name = Brightquiver
+	culture = high_elf
+}
+
+10549 = {
+	name = Brighthead
+	culture = high_elf
+}
+
+10550 = {
+	name = Brightling
+	culture = high_elf
+}
