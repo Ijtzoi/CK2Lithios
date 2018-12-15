@@ -1,3 +1,4 @@
 992.1.1 = {
 	holder = 7401
+	name = d_new_korvalla
 }

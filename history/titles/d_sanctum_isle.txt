@@ -1,3 +1,3 @@
 992.1.1 = {
-	holder = 7172
+	holder = 7172	name = d_northhold
 }
