@@ -892,10 +892,10 @@ dwarven = {
 }
 
 greenskin = {
-	graphical_cultures = { orcgfx frankishgfx westerngfx }
+	graphical_cultures = { horsegfx }
 	
 	orc = {
-		graphical_cultures = { orcgfx frankishgfx westerngfx }
+		graphical_cultures = { horsegfx }
 		
 		color = { 0.0 0.8 0.0 }
 		male_names = {
@@ -920,7 +920,7 @@ greenskin = {
 		mother_name_chance = 10
 	}
 	horsc = {
-		graphical_cultures = { orcgfx frankishgfx westerngfx }
+		graphical_cultures = { horsegfx }
 		
 		color = { 0.3 0.8 0.0 }
 		male_names = {
@@ -989,7 +989,7 @@ immortal = {
 		mother_name_chance = 5
 	}
 	demon = {
-		graphical_cultures = { persiangfx }
+		graphical_cultures = { hedgehoggfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		dynasty_name_first = yes
