@@ -1527,210 +1527,210 @@ e_hell;0
 			c_senohn;0
 			c_kuyuath;0
 			c_kagoshua;0
-e_sedina;0
+e_sedina;9173
 	k_detodha;0
-		d_budaham;0
-			c_kuda;0
-			c_naguda;0
-			c_dagemid;0
-			c_tyaseph;0
-		d_tugodha;0
-			c_telodha;0
-			c_ebafsah;0
-			c_bayasavi;0
-			c_kyasemid;0
-		d_tijah;0
-			c_wamiek;0
-			c_dudemid;0
-	k_lapahou;0
-		d_wahou;0
-			c_esirve;0
-			c_kerella;0
-		d_byugush;0
-			c_bulia;0
-			c_rulia;0
-		d_tuda;0
-			c_rit;0
-			c_aljirve;0
-			c_ryagaar;0
-			c_arugeer;0
-			c_qudera;0
-		d_wusahpar;0
-			c_banulev;0
-			c_rukutt;0
-		d_kudei;0
-			c_tigit;0
-			c_lukutt;0
-			c_lalutt;0
-	k_qarana;0
-		d_ryugahou;0
-			c_tonalev;0
-			c_korilja;0
-			c_lit;0
-			c_tonutt;0
-		d_kuda;0
-			c_tudakub;0
-			c_sukalev;0
-			c_qorutt;0
-			c_nigalev;0
-		d_nabdahou;0
-			c_tanalev;0
-			c_wabdiho;0
-			c_kiglas;0
-			c_ragit;0
-		d_taar;0
-			c_nudeeme;0
-			c_kigeeme;0
-			c_bidush;0
-	k_tudelen;0
-		d_dinirca;0
-			c_rabona;0
-			c_runilen;0
-			c_wanudna;0
-			c_kisona;0
-		d_ditush;0
-			c_abunolk;0
-			c_daurirca;0
-			c_wanaide;0
-			c_kinomo;0
-			c_atelomo;0
-		d_tegakub;0
-			c_sagaway;0
-			c_tomaway;0
-			c_ralona;0
-			c_kauraut;0
-		d_wit;0
-			c_wedohn;0
-			c_kauragh;0
-		d_kebeer;0
-			c_lagijse;0
-			c_nanakan;0
-			c_arert;0
-			c_kabush;0
-			c_qedatzak;0
-		d_asidella;0
-			c_nudiho;0
-			c_rigakub;0
-			c_wutt;0
-		d_qanander;0
-			c_laurirca;0
-			c_tedilen;0
-			c_daraut;0
-			c_linael;0
-			c_tanudna;0
-		d_qomatko;0
-			c_qauratko;0
-			c_nisolk;0
-			c_ruam;0
-			c_bedilen;0
-			c_ruaide;0
-		d_wanaut;0
-			c_kisikne;0
-			c_kaurolk;0
-			c_tunatko;0
-			c_tedona;0
-			c_telael;0
-		d_siosigid;0
-			c_lavofan;0
-			c_kedona;0
-			c_qibaut;0
-			c_ravana;0
-			c_ratelen;0
-		d_kiwael;0
-			c_rauratko;0
-			c_tedaide;0
-			c_wanaslav;0
-			c_karecco;0
-		d_warikne;0
-			c_emarolk;0
-			c_wedael;0
-			c_qunaut;0
-		d_tavera;0
-			c_tukalev;0
-			c_tedulia;0
-			c_ranirve;0
-			c_budulia;0
-			c_begohn;0
-		d_rataclav;0
-			c_agilja;0
-			c_ragelen;0
-			c_nebush;0
-		d_ryugilja;0
-			c_susarqan;0
-			c_tukeeme;0
-			c_lera;0
-		d_roriho;0
-			c_tagars;0
-			c_tanagh;0
-			c_komilen;0
-			c_dodich;0
-			c_qomakan;0
-			c_abijse;0
-	k_sarana;0
-		d_toralev;0
-			c_sosutt;0
-			c_siglas;0
-			c_nukeeme;0
-		d_titutt;0
-			c_tuvven;0
-			c_tudilja;0
-			c_kalalev;0
-		d_tella;0
-			c_sush;0
-			c_seraar;0
-			c_diniho;0
-		d_suijei;0
-			c_reeme;0
-			c_norutt;0
-			c_qirve;0
-	k_sareer;0
-		d_tegert;0
-			c_etomakub;0
-			c_lauratun;0
-			c_sodush;0
-			c_lodagh;0
-			c_raurush;0
-		d_simars;0
-			c_wedaway;0
-			c_womush;0
-			c_qagaway;0
-			c_tedijse;0
-			c_emammad;0
-		d_qimaway;0
-			c_achacohn;0
-			c_qabdalev;0
-			c_ekanakan;0
-		d_kagijse;0
-			c_sisatko;0
-			c_niwaut;0
-			c_balaut;0
-			c_kagatun;0
-		d_qoralev;0
-			c_rayars;0
-			c_sacard;0
-		d_qanaway;0
-			c_banecco;0
-			c_atomomo;0
-			c_tomisak;0
-			c_saurudna;0
-			c_taurirca;0
-	k_rabaide;0
-		d_ejayajse;0
-			c_winaut;0
-			c_banaide;0
-			c_lagirca;0
-		d_domard;0
-			c_ranael;0
-			c_sinirca;0
-			c_womomo;0
-		d_komomo;0
-			c_qomomo;0
-			c_kanecco;0
-			c_tuarca;0
-			c_nelaide;0
-			c_tomatko;0
-		d_edatzak;0
-			c_siwaut;0
-			c_bedecco;0
-			c_delona;0
-			c_lomatko;0
+		d_budaham;9110
+			c_kuda;9110
+			c_naguda;9115		d_budaham
+			c_dagemid;9159		d_budaham
+			c_tyaseph;9170		d_budaham
+		d_tugodha;9192	
+			c_telodha;9185		d_tugodha
+			c_ebafsah;9192	
+			c_bayasavi;9185		d_tugodha
+			c_kyasemid;9185		d_tugodha
+		d_tijah;9398	
+			c_wamiek;9398	
+			c_dudemid;9398	
+	k_lapahou;9129				e_sedina
+		d_wahou;9131			k_lapahou
+			c_esirve;9131		k_lapahou
+			c_kerella;9131		k_lapahou
+		d_byugush;9144			k_lapahou
+			c_bulia;9144		k_lapahou
+			c_rulia;9144		k_lapahou
+		d_tuda;9129				k_lapahou
+			c_rit;9152			d_tuda
+			c_aljirve;9152		d_tuda
+			c_ryagaar;9129		k_lapahou
+			c_arugeer;9129		k_lapahou
+			c_qudera;9164		d_tuda
+		d_wusahpar;9158			k_lapahou
+			c_banulev;9158		k_lapahou
+			c_rukutt;9158		k_lapahou
+		d_kudei;9161			k_lapahou
+			c_tigit;9161		k_lapahou
+			c_lukutt;9161		k_lapahou
+			c_lalutt;9161		k_lapahou
+	k_qarana;9151				e_sedina
+		d_ryugahou;9153			k_qarana
+			c_tonalev;9153		k_qarana
+			c_korilja;9153		k_qarana
+			c_lit;9153			k_qarana
+			c_tonutt;9153		k_qarana
+		d_kuda;9151				e_sedina
+			c_tudakub;9151		e_sedina
+			c_sukalev;9146		k_qarana
+			c_qorutt;9151		e_sedina
+			c_nigalev;9151		e_sedina
+		d_nabdahou;9167			e_sedina
+			c_tanalev;9187		d_nabdahou
+			c_wabdiho;9184		e_sedina
+			c_kiglas;9167		d_nabdahou
+			c_ragit;9174		d_nabdahou
+		d_taar;9179				e_sedina
+			c_nudeeme;9179		e_sedina
+			c_kigeeme;9179		e_sedina
+			c_bidush;9179		e_sedina
+	k_tudelen;9421 #sendan
+		d_dinirca;9452 #sendan			k_tudelen
+			c_rabona;9452 #sendan		k_tudelen
+			c_runilen;9452 #sendan		k_tudelen
+			c_wanudna;9452 #sendan		k_tudelen
+			c_kisona;9452 #sendan		k_tudelen
+		d_ditush;9491 #sendan			k_tudelen
+			c_abunolk;9491 #sendan		k_tudelen
+			c_daurirca;9491 #sendan		k_tudelen
+			c_wanaide;9491 #sendan		k_tudelen
+			c_kinomo;9491 #sendan		k_tudelen
+			c_atelomo;9491 #sendan		k_tudelen
+		d_tegakub;9471 #sendan			k_tudelen
+			c_sagaway;9471 #sendan		k_tudelen
+			c_tomaway;9471 #sendan		k_tudelen
+			c_ralona;9471 #sendan		k_tudelen
+			c_kauraut;9471 #sendan		k_tudelen
+		d_wit;9486 #sendan				k_tudelen
+			c_wedohn;9486 #sendan		k_tudelen
+			c_kauragh;9486 #sendan		k_tudelen
+		d_kebeer;9500 #sendan			k_tudelen
+			c_lagijse;9500 #sendan		k_tudelen
+			c_nanakan;9500 #sendan		k_tudelen
+			c_arert;9500 #sendan		k_tudelen
+			c_kabush;9500 #sendan		k_tudelen
+			c_qedatzak;9500 #sendan		k_tudelen
+		d_asidella;9524 #sendan			k_tudelen
+			c_nudiho;9524 #sendan		k_tudelen
+			c_rigakub;9524 #sendan		k_tudelen
+			c_wutt;9524 #sendan			k_tudelen
+		d_qanander;9524 #sendan			k_tudelen
+			c_laurirca;9524 #sendan		k_tudelen
+			c_tedilen;9524 #sendan		k_tudelen
+			c_daraut;9524 #sendan		k_tudelen
+			c_linael;9524 #sendan		k_tudelen
+			c_tanudna;9524 #sendan		k_tudelen
+		d_qomatko;9556 #sendan			k_tudelen
+			c_qauratko;9556 #sendan		k_tudelen
+			c_nisolk;9556 #sendan		k_tudelen
+			c_ruam;9556 #sendan			k_tudelen
+			c_bedilen;9556 #sendan		k_tudelen
+			c_ruaide;9556 #sendan		k_tudelen
+		d_wanaut;9546 #sendan			k_tudelen
+			c_kisikne;9546 #sendan		k_tudelen
+			c_kaurolk;9546 #sendan		k_tudelen
+			c_tunatko;9546 #sendan		k_tudelen
+			c_tedona;9546 #sendan		k_tudelen
+			c_telael;9546 #sendan		k_tudelen
+		d_siosigid;9535 #sendan			k_tudelen
+			c_lavofan;9535 #sendan		k_tudelen
+			c_kedona;9535 #sendan		k_tudelen
+			c_qibaut;9535 #sendan		k_tudelen
+			c_ravana;9535 #sendan		k_tudelen
+			c_ratelen;9535 #sendan		k_tudelen
+		d_kiwael;9421 #sendan
+			c_rauratko;9421 #sendan
+			c_tedaide;9421 #sendan
+			c_wanaslav;9421 #sendan
+			c_karecco;9421 #sendan
+		d_warikne;9540 #sendan			k_tudelen
+			c_emarolk;9540 #sendan		k_tudelen
+			c_wedael;9540 #sendan		k_tudelen
+			c_qunaut;9540 #sendan		k_tudelen
+		d_tavera;9485 #sendan			k_tudelen
+			c_tukalev;9485 #sendan		k_tudelen
+			c_tedulia;9485 #sendan		k_tudelen
+			c_ranirve;9485 #sendan		k_tudelen
+			c_budulia;9485 #sendan		k_tudelen
+			c_begohn;9485 #sendan		k_tudelen
+		d_rataclav;9485 #sendan			k_tudelen
+			c_agilja;9485 #sendan		k_tudelen
+			c_ragelen;9485 #sendan		k_tudelen
+			c_nebush;9485 #sendan		k_tudelen
+		d_ryugilja;9474 #sendan			k_tudelen
+			c_susarqan;9474 #sendan		k_tudelen
+			c_tukeeme;9474 #sendan		k_tudelen
+			c_lera;9474 #sendan			k_tudelen
+		d_roriho;9439 #sendan			k_tudelen
+			c_tagars;9439 #sendan		k_tudelen
+			c_tanagh;9439 #sendan		k_tudelen
+			c_komilen;9439 #sendan		k_tudelen
+			c_dodich;9439 #sendan		k_tudelen
+			c_qomakan;9439 #sendan		k_tudelen
+			c_abijse;9439 #sendan		k_tudelen
+	k_sarana;9173
+		d_toralev;9173
+			c_sosutt;9173
+			c_siglas;9173
+			c_nukeeme;9173
+		d_titutt;9085			e_sedina
+			c_tuvven;9085		e_sedina
+			c_tudilja;9085		e_sedina
+			c_kalalev;9085		e_sedina
+		d_tella;9067			e_sedina
+			c_sush;9067			e_sedina
+			c_seraar;9067		e_sedina
+			c_diniho;9067		e_sedina
+		d_suijei;9173
+			c_reeme;9173
+			c_norutt;9173
+			c_qirve;9173
+	k_sareer;9091				e_sedina
+		d_tegert;9091			e_sedina
+			c_etomakub;9091		e_sedina
+			c_lauratun;9091		e_sedina
+			c_sodush;9091		e_sedina
+			c_lodagh;9091		e_sedina
+			c_raurush;9091		e_sedina
+		d_simars;9097			k_sareer
+			c_wedaway;9097		k_sareer
+			c_womush;9097		k_sareer
+			c_qagaway;9097		k_sareer
+			c_tedijse;9097		k_sareer
+			c_emammad;9097		k_sareer
+		d_qimaway;9104			k_sareer
+			c_achacohn;9104		k_sareer
+			c_qabdalev;9104		k_sareer
+			c_ekanakan;9104		k_sareer
+		d_kagijse;9108			k_sareer
+			c_sisatko;9108		k_sareer
+			c_niwaut;9108		k_sareer
+			c_balaut;9108		k_sareer
+			c_kagatun;9108		k_sareer
+		d_qoralev;9097			k_sareer
+			c_rayars;9097		k_sareer
+			c_sacard;9097		k_sareer
+		d_qanaway;9117			k_sareer
+			c_banecco;9117		k_sareer
+			c_atomomo;9117		k_sareer
+			c_tomisak;9117		k_sareer
+			c_saurudna;9117		k_sareer
+			c_taurirca;9117		k_sareer
+	k_rabaide;9111				e_sedina
+		d_ejayajse;9111			e_sedina
+			c_winaut;9111		e_sedina
+			c_banaide;9111		e_sedina
+			c_lagirca;9111		e_sedina
+		d_domard;9116			k_rabaide
+			c_ranael;9116		k_rabaide
+			c_sinirca;9116		k_rabaide
+			c_womomo;9116		k_rabaide
+		d_komomo;9135			k_rabaide
+			c_qomomo;9135		k_rabaide
+			c_kanecco;9135		k_rabaide
+			c_tuarca;9135		k_rabaide
+			c_nelaide;9135		k_rabaide
+			c_tomatko;9135		k_rabaide
+		d_edatzak;9149			k_rabaide
+			c_siwaut;9149		k_rabaide
+			c_bedecco;9149		k_rabaide
+			c_delona;9149		k_rabaide
+			c_lomatko;9149		k_rabaide

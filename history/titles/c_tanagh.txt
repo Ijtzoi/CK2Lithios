@@ -1,0 +1,5 @@
+992.1.1 = {
+	liege = k_tudelen
+	holder = 9439 #sendan
+	historical_nomad = yes
+}

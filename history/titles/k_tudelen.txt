@@ -1,0 +1,4 @@
+992.1.1 = {
+	holder = 9421 #sendan
+	historical_nomad = yes	set_tribute_suzerain = { who = e_sedina type = permanent }
+}
