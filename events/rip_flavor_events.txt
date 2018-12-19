@@ -2786,41 +2786,8 @@ character_event = {
 				trait = trusting
 			}
 			modifier = {
-				factor = 0.75
-				NOT = {
-					year = 900
-				}
-			}
-			modifier = {
-				factor = 0.25
-				OR = {
-					culture_group = baltic
-					culture_group = finno_ugric  # The most stubborn pagans
-				}
-			}
-			modifier = {
-				factor = 0.25
-				culture_group = east_slavic # Like alcohol
-				event_target:missionary_physician_target = {
-					religion_group = muslim
-				}
-			}
-			modifier = {
-				factor = 0.25
-				culture_group = north_germanic # Vikings do like their alcohol
-				event_target:missionary_physician_target = {
-					religion_group = muslim
-				}
-			}
-			modifier = {
 				factor = 0.25
 				trait = paranoid
-			}
-			modifier = {
-				factor = 0
-				NOT = {
-					religion_group = pagan_group
-				}
 			}
 		}
 		
@@ -10675,52 +10642,6 @@ character_event = {
 	immediate = {
 		set_character_flag = chess_with_death
 		
-
-		if = {
-			limit = { religion_group = christian }
-			random_list = {
-				50 = {
-					create_character = {
-						random_traits = no
-						age = 32
-						dynasty = none
-						female = yes
-						trait = mastermind_theologian
-						trait = nun
-						trait = chaste
-						trait = shrewd
-						trait = gamer
-						trait = patient
-						trait = fatigue
-						trait = on_pilgrimage 
-						attributes = {
-							martial = 5
-						}
-					}
-					new_character = { save_event_target_as = death }
-				}
-				50 = {
-					create_character = {
-						random_traits = no
-						age = 32
-						dynasty = none
-						female = no
-						trait = mastermind_theologian
-						trait = monk
-						trait = chaste
-						trait = shrewd
-						trait = gamer
-						trait = patient
-						trait = fatigue 
-						trait = on_pilgrimage
-						attributes = {
-							martial = 5
-						}
-					}
-					new_character = { save_event_target_as = death }
-				}
-			}			
-		}
 		if = {
 			limit = { NOT = { religion_group = christian } }
 			random_list = {
@@ -10730,10 +10651,6 @@ character_event = {
 						age = 32
 						dynasty = none
 						female = yes
-						name = Eugenia
-						culture = italian
-						race = italian
-						religion = catholic
 						trait = mastermind_theologian
 						trait = nun
 						trait = chaste
@@ -10754,10 +10671,6 @@ character_event = {
 						age = 32
 						dynasty = none
 						female = no
-						name = Augusto
-						culture = italian
-						race = italian
-						religion = catholic
 						trait = mastermind_theologian
 						trait = monk
 						trait = chaste
@@ -12091,10 +12004,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "Ramirez"
 				dynasty = none
-				religion = catholic
-				culture = scottish
 				female = no
 				age = 1500
 				immortal_age = 40
@@ -12122,9 +12032,8 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "Uran"
 				dynasty = culture
-				religion = pagan
+				religion = random
 				culture = random
 				female = no
 				age = 1800
@@ -12157,10 +12066,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "Arthur"
 				dynasty = none
-				religion = catholic
-				culture = breton
 				female = no
 				age = 950
 				immortal_age = 30
@@ -12190,10 +12096,7 @@ character_event = {
 			}
 			create_character = {
 				random_traits = no
-				name = "Torhild"
 				dynasty = none
-				religion = norse_pagan
-				culture = norse
 				female = yes
 				age = 1300
 				immortal_age = 18

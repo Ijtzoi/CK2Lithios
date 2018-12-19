@@ -3298,7 +3298,6 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 			    							trait = seducer
 			    							trait = seductress
 			    						}
-			    						culture_group = indo_aryan_group
 			    						NOT = {
 											any_artifact = {
 												artifact_type = kama_sutra
@@ -3308,15 +3307,7 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 			    				}
 			    				10 = {
 			    					add_artifact = the_art_of_love
-			    					if = {
-			    						limit = {
-			    							culture_group = latin
-			    						}
-			    						new_artifact = { set_name = the_art_of_love_rename_1 }
-			    					}
-			    					else = {
-			    						new_artifact = { set_name = the_art_of_love_rename_2 }	
-			    					}
+			    					new_artifact = { set_name = the_art_of_love_rename_2 }
 			    					additive_modifier = {
 										value = 10
 										trait = lustful
@@ -3882,7 +3873,10 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 			    						set_description = cookbook_3_roman_desc_rename
 			    					}
 			    					trigger = {
-			    						culture_group = latin
+										OR = {
+											culture = watren
+											culture = southporter
+										}
 			    						NOT = {
 				    						any_artifact = {
 												artifact_type = cookbook_3_roman
@@ -3893,21 +3887,13 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 			    				10 = {
 			    					add_artifact = cookbook_3_arabic
 			    					trigger = {
-			    						culture_group = arabic
+										OR = {
+											culture = sedinan
+											culture = sendan
+										}
 			    						NOT = {
 				    						any_artifact = {
 												artifact_type = cookbook_3_arabic
-											}
-										}
-			    					}
-			    				}
-			    				10 = {
-			    					add_artifact = cookbook_3_chinese_group
-			    					trigger = {
-			    						culture_group = chinese_group
-			    						NOT = {
-				    						any_artifact = {
-												artifact_type = cookbook_3_chinese_group
 											}
 										}
 			    					}
@@ -3918,7 +3904,7 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 			    						set_description = cookbook_3_central_german_desc_rename
 			    					}
 			    					trigger = {
-			    						culture_group = central_germanic
+			    						culture = imperial
 			    						NOT = {
 				    						any_artifact = {
 												artifact_type = cookbook_3_central_german
@@ -4477,7 +4463,10 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 										has_education_learning_trigger = yes
 									}
 			    					trigger = {
-			    						culture_group = arabic
+										OR = {
+											culture = sedinan
+											culture = sendan
+										}
 			    						NOT = {
 											any_artifact = {
 												artifact_type = the_book_of_healing
@@ -4793,10 +4782,6 @@ character_event = { #Outcome: Book is finished! It went Great/Good/Decent!
 			    					additive_modifier = {
 										value = 10
 										trait = proud
-									}
-									additive_modifier = {
-										value = 10
-										culture = mongol
 									}
 									trigger = {
 			    						NOT = {

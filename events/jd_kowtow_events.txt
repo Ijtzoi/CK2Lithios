@@ -263,17 +263,7 @@ character_event = { # Travel Tombola
 					 any_independent_ruler = {
 		                ai = yes
 		                mercenary = yes
-		                OR = {
-		                	culture = han
-		                	AND = {
-		                		offmap_china = { has_status = china_jurchen_invasion }
-		                		culture = jurchen
-		                	}
-		                	AND = {
-		                		offmap_china = { has_status = china_mongol_invasion }
-		                		culture = mongol
-		                	}
-		                }
+		                culture = dragon
 						primary_title = {
 							NOT = { has_raised_standing_troops = yes }
 						}
@@ -1622,17 +1612,7 @@ character_event = {
                 #is_adult = yes
                 #is_landed = yes
                 mercenary = yes
-                OR = {
-                	culture = han
-                	AND = {
-                		offmap_china = { has_status = china_jurchen_invasion }
-                		culture = jurchen
-                	}
-                	AND = {
-                		offmap_china = { has_status = china_mongol_invasion }
-                		culture = mongol
-                	}
-                }
+               	culture = dragon
 				primary_title = {
 					NOT = { has_raised_standing_troops = yes }
 				}

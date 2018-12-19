@@ -43,43 +43,6 @@ character_event = {
 		NOT = { trait = content }
 		NOT = { trait = craven }
 		NOT = { trait = decadent }
-		OR = {
-			AND = {
-				any_liege = {
-					government = nomadic_government
-				}
-				culture_group = altaic
-			}
-			religion = norse_pagan
-			religion = norse_pagan_reformed
-			AND = {
-				trait = ambitious
-				martial = 15
-				diplomacy = 12
-				health = 4
-				NOR = {
-					trait = craven
-					trait = content
-					trait = decadent
-					any_child = {
-						OR = {
-							is_heir = yes
-							is_landed = yes
-						}
-					}
-					NAND = {
-						uses_decadence = yes
-						num_of_dynasty_members = 3
-						biggest_realm_size_relative = {
-							NOT = { character = ROOT }
-							realm_size = 5
-						}
-					}
-				}
-				is_heir = no
-				is_allowed_to_loot = yes
-			}
-		}
 		
 		NOT = { # Somewhat clunky way of checking that the character does not stand to inherit any titles
 			any_heir_title = {

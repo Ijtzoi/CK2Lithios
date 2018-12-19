@@ -541,10 +541,9 @@ character_event = {
 			50 = {
 				trigger = {
 					has_dlc = "The Old Gods"
-					culture_group = north_germanic
-					OR = {
-						religion = norse_pagan
-						religion = norse_pagan_reformed
+					NOR = {
+						culture_group = elvish
+						culture_group = human
 					}
 					is_alive = yes
 					NOT = { trait = berserker }

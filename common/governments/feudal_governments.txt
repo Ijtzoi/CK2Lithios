@@ -75,7 +75,6 @@ feudal_governments = {
 				religion = tree
 				religion = elder_forest
 				has_religion_feature = religion_temporal_head
-				primary_title = { title = e_seven }
 			}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
