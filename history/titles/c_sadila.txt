@@ -1,4 +1,4 @@
-994.1.1 = {
-	holder=6006
-	historical_nomad = yes
+992.1.1 = {
+	holder = 6374 #horsc
+	historical_nomad = yes
 }

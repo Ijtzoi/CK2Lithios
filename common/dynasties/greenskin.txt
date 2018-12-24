@@ -1,0 +1,4959 @@
+6000 = {
+	name = Bigsmash
+	culture = orc
+}
+
+6001 = {
+	name = Biggruk
+	culture = orc
+}
+
+6002 = {
+	name = Bigcrush
+	culture = orc
+}
+
+6003 = {
+	name = Bigthrash
+	culture = orc
+}
+
+6004 = {
+	name = Bigtusk
+	culture = orc
+}
+
+6005 = {
+	name = Bigrend
+	culture = orc
+}
+
+6006 = {
+	name = Bigtear
+	culture = orc
+}
+
+6007 = {
+	name = Bigrip
+	culture = orc
+}
+
+6008 = {
+	name = Bigbiter
+	culture = orc
+}
+
+6009 = {
+	name = Bigklort
+	culture = orc
+}
+
+6010 = {
+	name = Bigpillage
+	culture = orc
+}
+
+6011 = {
+	name = Bigdick
+	culture = orc
+}
+
+6012 = {
+	name = Bigtrag
+	culture = orc
+}
+
+6013 = {
+	name = Bigsnarl
+	culture = orc
+}
+
+6014 = {
+	name = Bigthroat
+	culture = orc
+}
+
+6015 = {
+	name = Bigpull
+	culture = orc
+}
+
+6016 = {
+	name = Bigdoor
+	culture = orc
+}
+
+6017 = {
+	name = Bigkind
+	culture = orc
+}
+
+6018 = {
+	name = Bighair
+	culture = orc
+}
+
+6019 = {
+	name = Bigmurder
+	culture = orc
+}
+
+6020 = {
+	name = Bigmelt
+	culture = orc
+}
+
+6021 = {
+	name = Bigarm
+	culture = orc
+}
+
+6022 = {
+	name = Bigleg
+	culture = orc
+}
+
+6023 = {
+	name = Bigbreak
+	culture = orc
+}
+
+6024 = {
+	name = Bigchew
+	culture = orc
+}
+
+6025 = {
+	name = Biggone
+	culture = orc
+}
+
+6026 = {
+	name = Bigcave
+	culture = orc
+}
+
+6027 = {
+	name = Bigcart
+	culture = orc
+}
+
+6028 = {
+	name = Bighorse
+	culture = horsc
+}
+
+6029 = {
+	name = Bigcrap
+	culture = orc
+}
+
+6030 = {
+	name = Bigblast
+	culture = orc
+}
+
+6031 = {
+	name = Hugesmash
+	culture = orc
+}
+
+6032 = {
+	name = Hugegruk
+	culture = orc
+}
+
+6033 = {
+	name = Hugecrush
+	culture = orc
+}
+
+6034 = {
+	name = Hugethrash
+	culture = orc
+}
+
+6035 = {
+	name = Hugetusk
+	culture = orc
+}
+
+6036 = {
+	name = Hugerend
+	culture = orc
+}
+
+6037 = {
+	name = Hugetear
+	culture = orc
+}
+
+6038 = {
+	name = Hugerip
+	culture = orc
+}
+
+6039 = {
+	name = Hugebiter
+	culture = orc
+}
+
+6040 = {
+	name = Hugeklort
+	culture = orc
+}
+
+6041 = {
+	name = Hugepillage
+	culture = orc
+}
+
+6042 = {
+	name = Hugedick
+	culture = orc
+}
+
+6043 = {
+	name = Hugetrag
+	culture = orc
+}
+
+6044 = {
+	name = Hugesnarl
+	culture = orc
+}
+
+6045 = {
+	name = Hugethroat
+	culture = orc
+}
+
+6046 = {
+	name = Hugepull
+	culture = orc
+}
+
+6047 = {
+	name = Hugedoor
+	culture = orc
+}
+
+6048 = {
+	name = Hugekind
+	culture = orc
+}
+
+6049 = {
+	name = Hugehair
+	culture = orc
+}
+
+6050 = {
+	name = Hugemurder
+	culture = orc
+}
+
+6051 = {
+	name = Hugemelt
+	culture = orc
+}
+
+6052 = {
+	name = Hugearm
+	culture = orc
+}
+
+6053 = {
+	name = Hugeleg
+	culture = orc
+}
+
+6054 = {
+	name = Hugebreak
+	culture = orc
+}
+
+6055 = {
+	name = Hugechew
+	culture = orc
+}
+
+6056 = {
+	name = Hugegone
+	culture = orc
+}
+
+6057 = {
+	name = Hugecave
+	culture = orc
+}
+
+6058 = {
+	name = Hugecart
+	culture = orc
+}
+
+6059 = {
+	name = Hugehorse
+	culture = horsc
+}
+
+6060 = {
+	name = Hugecrap
+	culture = orc
+}
+
+6061 = {
+	name = Hugeblast
+	culture = orc
+}
+
+6062 = {
+	name = Grandsmash
+	culture = orc
+}
+
+6063 = {
+	name = Grandgruk
+	culture = orc
+}
+
+6064 = {
+	name = Grandcrush
+	culture = orc
+}
+
+6065 = {
+	name = Grandthrash
+	culture = orc
+}
+
+6066 = {
+	name = Grandtusk
+	culture = orc
+}
+
+6067 = {
+	name = Grandrend
+	culture = orc
+}
+
+6068 = {
+	name = Grandtear
+	culture = orc
+}
+
+6069 = {
+	name = Grandrip
+	culture = orc
+}
+
+6070 = {
+	name = Grandbiter
+	culture = orc
+}
+
+6071 = {
+	name = Grandklort
+	culture = orc
+}
+
+6072 = {
+	name = Grandpillage
+	culture = orc
+}
+
+6073 = {
+	name = Granddick
+	culture = orc
+}
+
+6074 = {
+	name = Grandtrag
+	culture = orc
+}
+
+6075 = {
+	name = Grandsnarl
+	culture = orc
+}
+
+6076 = {
+	name = Grandthroat
+	culture = orc
+}
+
+6077 = {
+	name = Grandpull
+	culture = orc
+}
+
+6078 = {
+	name = Granddoor
+	culture = orc
+}
+
+6079 = {
+	name = Grandkind
+	culture = orc
+}
+
+6080 = {
+	name = Grandhair
+	culture = orc
+}
+
+6081 = {
+	name = Grandmurder
+	culture = orc
+}
+
+6082 = {
+	name = Grandmelt
+	culture = orc
+}
+
+6083 = {
+	name = Grandarm
+	culture = orc
+}
+
+6084 = {
+	name = Grandleg
+	culture = orc
+}
+
+6085 = {
+	name = Grandbreak
+	culture = orc
+}
+
+6086 = {
+	name = Grandchew
+	culture = orc
+}
+
+6087 = {
+	name = Grandgone
+	culture = orc
+}
+
+6088 = {
+	name = Grandcave
+	culture = orc
+}
+
+6089 = {
+	name = Grandcart
+	culture = orc
+}
+
+6090 = {
+	name = Grandhorse
+	culture = horsc
+}
+
+6091 = {
+	name = Grandcrap
+	culture = orc
+}
+
+6092 = {
+	name = Grandblast
+	culture = orc
+}
+
+6093 = {
+	name = Toothsmash
+	culture = orc
+}
+
+6094 = {
+	name = Toothgruk
+	culture = orc
+}
+
+6095 = {
+	name = Toothcrush
+	culture = orc
+}
+
+6096 = {
+	name = Tooththrash
+	culture = orc
+}
+
+6097 = {
+	name = Toothtusk
+	culture = orc
+}
+
+6098 = {
+	name = Toothrend
+	culture = orc
+}
+
+6099 = {
+	name = Toothtear
+	culture = orc
+}
+
+6100 = {
+	name = Toothrip
+	culture = orc
+}
+
+6101 = {
+	name = Toothbiter
+	culture = orc
+}
+
+6102 = {
+	name = Toothklort
+	culture = orc
+}
+
+6103 = {
+	name = Toothpillage
+	culture = orc
+}
+
+6104 = {
+	name = Toothdick
+	culture = orc
+}
+
+6105 = {
+	name = Toothtrag
+	culture = orc
+}
+
+6106 = {
+	name = Toothsnarl
+	culture = orc
+}
+
+6107 = {
+	name = Tooththroat
+	culture = orc
+}
+
+6108 = {
+	name = Toothpull
+	culture = orc
+}
+
+6109 = {
+	name = Toothdoor
+	culture = orc
+}
+
+6110 = {
+	name = Toothkind
+	culture = orc
+}
+
+6111 = {
+	name = Toothhair
+	culture = orc
+}
+
+6112 = {
+	name = Toothmurder
+	culture = orc
+}
+
+6113 = {
+	name = Toothmelt
+	culture = orc
+}
+
+6114 = {
+	name = Tootharm
+	culture = orc
+}
+
+6115 = {
+	name = Toothleg
+	culture = orc
+}
+
+6116 = {
+	name = Toothbreak
+	culture = orc
+}
+
+6117 = {
+	name = Toothchew
+	culture = orc
+}
+
+6118 = {
+	name = Toothgone
+	culture = orc
+}
+
+6119 = {
+	name = Toothcave
+	culture = orc
+}
+
+6120 = {
+	name = Toothcart
+	culture = orc
+}
+
+6121 = {
+	name = Toothhorse
+	culture = horsc
+}
+
+6122 = {
+	name = Toothcrap
+	culture = orc
+}
+
+6123 = {
+	name = Toothblast
+	culture = orc
+}
+
+6124 = {
+	name = Greatsmash
+	culture = orc
+}
+
+6125 = {
+	name = Greatgruk
+	culture = orc
+}
+
+6126 = {
+	name = Greatcrush
+	culture = orc
+}
+
+6127 = {
+	name = Greatthrash
+	culture = orc
+}
+
+6128 = {
+	name = Greattusk
+	culture = orc
+}
+
+6129 = {
+	name = Greatrend
+	culture = orc
+}
+
+6130 = {
+	name = Greattear
+	culture = orc
+}
+
+6131 = {
+	name = Greatrip
+	culture = orc
+}
+
+6132 = {
+	name = Greatbiter
+	culture = orc
+}
+
+6133 = {
+	name = Greatklort
+	culture = orc
+}
+
+6134 = {
+	name = Greatpillage
+	culture = orc
+}
+
+6135 = {
+	name = Greatdick
+	culture = orc
+}
+
+6136 = {
+	name = Greattrag
+	culture = orc
+}
+
+6137 = {
+	name = Greatsnarl
+	culture = orc
+}
+
+6138 = {
+	name = Greatthroat
+	culture = orc
+}
+
+6139 = {
+	name = Greatpull
+	culture = orc
+}
+
+6140 = {
+	name = Greatdoor
+	culture = orc
+}
+
+6141 = {
+	name = Greatkind
+	culture = orc
+}
+
+6142 = {
+	name = Greathair
+	culture = orc
+}
+
+6143 = {
+	name = Greatmurder
+	culture = orc
+}
+
+6144 = {
+	name = Greatmelt
+	culture = orc
+}
+
+6145 = {
+	name = Greatarm
+	culture = orc
+}
+
+6146 = {
+	name = Greatleg
+	culture = orc
+}
+
+6147 = {
+	name = Greatbreak
+	culture = orc
+}
+
+6148 = {
+	name = Greatchew
+	culture = orc
+}
+
+6149 = {
+	name = Greatgone
+	culture = orc
+}
+
+6150 = {
+	name = Greatcave
+	culture = orc
+}
+
+6151 = {
+	name = Greatcart
+	culture = orc
+}
+
+6152 = {
+	name = Greathorse
+	culture = horsc
+}
+
+6153 = {
+	name = Greatcrap
+	culture = orc
+}
+
+6154 = {
+	name = Greatblast
+	culture = orc
+}
+
+6155 = {
+	name = Greensmash
+	culture = orc
+}
+
+6156 = {
+	name = Greengruk
+	culture = orc
+}
+
+6157 = {
+	name = Greencrush
+	culture = orc
+}
+
+6158 = {
+	name = Greenthrash
+	culture = orc
+}
+
+6159 = {
+	name = Greentusk
+	culture = orc
+}
+
+6160 = {
+	name = Greenrend
+	culture = orc
+}
+
+6161 = {
+	name = Greentear
+	culture = orc
+}
+
+6162 = {
+	name = Greenrip
+	culture = orc
+}
+
+6163 = {
+	name = Greenbiter
+	culture = orc
+}
+
+6164 = {
+	name = Greenklort
+	culture = orc
+}
+
+6165 = {
+	name = Greenpillage
+	culture = orc
+}
+
+6166 = {
+	name = Greendick
+	culture = orc
+}
+
+6167 = {
+	name = Greentrag
+	culture = orc
+}
+
+6168 = {
+	name = Greensnarl
+	culture = orc
+}
+
+6169 = {
+	name = Greenthroat
+	culture = orc
+}
+
+6170 = {
+	name = Greenpull
+	culture = orc
+}
+
+6171 = {
+	name = Greendoor
+	culture = orc
+}
+
+6172 = {
+	name = Greenkind
+	culture = orc
+}
+
+6173 = {
+	name = Greenhair
+	culture = orc
+}
+
+6174 = {
+	name = Greenmurder
+	culture = orc
+}
+
+6175 = {
+	name = Greenmelt
+	culture = orc
+}
+
+6176 = {
+	name = Greenarm
+	culture = orc
+}
+
+6177 = {
+	name = Greenleg
+	culture = orc
+}
+
+6178 = {
+	name = Greenbreak
+	culture = orc
+}
+
+6179 = {
+	name = Greenchew
+	culture = orc
+}
+
+6180 = {
+	name = Greengone
+	culture = orc
+}
+
+6181 = {
+	name = Greencave
+	culture = orc
+}
+
+6182 = {
+	name = Greencart
+	culture = orc
+}
+
+6183 = {
+	name = Greenhorse
+	culture = horsc
+}
+
+6184 = {
+	name = Greencrap
+	culture = orc
+}
+
+6185 = {
+	name = Greenblast
+	culture = orc
+}
+
+6186 = {
+	name = Bloodsmash
+	culture = orc
+}
+
+6187 = {
+	name = Bloodgruk
+	culture = orc
+}
+
+6188 = {
+	name = Bloodcrush
+	culture = orc
+}
+
+6189 = {
+	name = Bloodthrash
+	culture = orc
+}
+
+6190 = {
+	name = Bloodtusk
+	culture = orc
+}
+
+6191 = {
+	name = Bloodrend
+	culture = orc
+}
+
+6192 = {
+	name = Bloodtear
+	culture = orc
+}
+
+6193 = {
+	name = Bloodrip
+	culture = orc
+}
+
+6194 = {
+	name = Bloodbiter
+	culture = orc
+}
+
+6195 = {
+	name = Bloodklort
+	culture = orc
+}
+
+6196 = {
+	name = Bloodpillage
+	culture = orc
+}
+
+6197 = {
+	name = Blooddick
+	culture = orc
+}
+
+6198 = {
+	name = Bloodtrag
+	culture = orc
+}
+
+6199 = {
+	name = Bloodsnarl
+	culture = orc
+}
+
+6200 = {
+	name = Bloodthroat
+	culture = orc
+}
+
+6201 = {
+	name = Bloodpull
+	culture = orc
+}
+
+6202 = {
+	name = Blooddoor
+	culture = orc
+}
+
+6203 = {
+	name = Bloodkind
+	culture = orc
+}
+
+6204 = {
+	name = Bloodhair
+	culture = orc
+}
+
+6205 = {
+	name = Bloodmurder
+	culture = orc
+}
+
+6206 = {
+	name = Bloodmelt
+	culture = orc
+}
+
+6207 = {
+	name = Bloodarm
+	culture = orc
+}
+
+6208 = {
+	name = Bloodleg
+	culture = orc
+}
+
+6209 = {
+	name = Bloodbreak
+	culture = orc
+}
+
+6210 = {
+	name = Bloodchew
+	culture = orc
+}
+
+6211 = {
+	name = Bloodgone
+	culture = orc
+}
+
+6212 = {
+	name = Bloodcave
+	culture = orc
+}
+
+6213 = {
+	name = Bloodcart
+	culture = orc
+}
+
+6214 = {
+	name = Bloodhorse
+	culture = horsc
+}
+
+6215 = {
+	name = Bloodcrap
+	culture = orc
+}
+
+6216 = {
+	name = Bloodblast
+	culture = orc
+}
+
+6217 = {
+	name = Fucksmash
+	culture = orc
+}
+
+6218 = {
+	name = Fuckgruk
+	culture = orc
+}
+
+6219 = {
+	name = Fuckcrush
+	culture = orc
+}
+
+6220 = {
+	name = Fuckthrash
+	culture = orc
+}
+
+6221 = {
+	name = Fucktusk
+	culture = orc
+}
+
+6222 = {
+	name = Fuckrend
+	culture = orc
+}
+
+6223 = {
+	name = Fucktear
+	culture = orc
+}
+
+6224 = {
+	name = Fuckrip
+	culture = orc
+}
+
+6225 = {
+	name = Fuckbiter
+	culture = orc
+}
+
+6226 = {
+	name = Fuckklort
+	culture = orc
+}
+
+6227 = {
+	name = Fuckpillage
+	culture = orc
+}
+
+6228 = {
+	name = Fuckdick
+	culture = orc
+}
+
+6229 = {
+	name = Fucktrag
+	culture = orc
+}
+
+6230 = {
+	name = Fucksnarl
+	culture = orc
+}
+
+6231 = {
+	name = Fuckthroat
+	culture = orc
+}
+
+6232 = {
+	name = Fuckpull
+	culture = orc
+}
+
+6233 = {
+	name = Fuckdoor
+	culture = orc
+}
+
+6234 = {
+	name = Fuckkind
+	culture = orc
+}
+
+6235 = {
+	name = Fuckhair
+	culture = orc
+}
+
+6236 = {
+	name = Fuckmurder
+	culture = orc
+}
+
+6237 = {
+	name = Fuckmelt
+	culture = orc
+}
+
+6238 = {
+	name = Fuckarm
+	culture = orc
+}
+
+6239 = {
+	name = Fuckleg
+	culture = orc
+}
+
+6240 = {
+	name = Fuckbreak
+	culture = orc
+}
+
+6241 = {
+	name = Fuckchew
+	culture = orc
+}
+
+6242 = {
+	name = Fuckgone
+	culture = orc
+}
+
+6243 = {
+	name = Fuckcave
+	culture = orc
+}
+
+6244 = {
+	name = Fuckcart
+	culture = orc
+}
+
+6245 = {
+	name = Fuckhorse
+	culture = horsc
+}
+
+6246 = {
+	name = Fuckcrap
+	culture = orc
+}
+
+6247 = {
+	name = Fuckblast
+	culture = orc
+}
+
+6248 = {
+	name = Rudesmash
+	culture = orc
+}
+
+6249 = {
+	name = Rudegruk
+	culture = orc
+}
+
+6250 = {
+	name = Rudecrush
+	culture = orc
+}
+
+6251 = {
+	name = Rudethrash
+	culture = orc
+}
+
+6252 = {
+	name = Rudetusk
+	culture = orc
+}
+
+6253 = {
+	name = Ruderend
+	culture = orc
+}
+
+6254 = {
+	name = Rudetear
+	culture = orc
+}
+
+6255 = {
+	name = Ruderip
+	culture = orc
+}
+
+6256 = {
+	name = Rudebiter
+	culture = orc
+}
+
+6257 = {
+	name = Rudeklort
+	culture = orc
+}
+
+6258 = {
+	name = Rudepillage
+	culture = orc
+}
+
+6259 = {
+	name = Rudedick
+	culture = orc
+}
+
+6260 = {
+	name = Rudetrag
+	culture = orc
+}
+
+6261 = {
+	name = Rudesnarl
+	culture = orc
+}
+
+6262 = {
+	name = Rudethroat
+	culture = orc
+}
+
+6263 = {
+	name = Rudepull
+	culture = orc
+}
+
+6264 = {
+	name = Rudedoor
+	culture = orc
+}
+
+6265 = {
+	name = Rudekind
+	culture = orc
+}
+
+6266 = {
+	name = Rudehair
+	culture = orc
+}
+
+6267 = {
+	name = Rudemurder
+	culture = orc
+}
+
+6268 = {
+	name = Rudemelt
+	culture = orc
+}
+
+6269 = {
+	name = Rudearm
+	culture = orc
+}
+
+6270 = {
+	name = Rudeleg
+	culture = orc
+}
+
+6271 = {
+	name = Rudebreak
+	culture = orc
+}
+
+6272 = {
+	name = Rudechew
+	culture = orc
+}
+
+6273 = {
+	name = Rudegone
+	culture = orc
+}
+
+6274 = {
+	name = Rudecave
+	culture = orc
+}
+
+6275 = {
+	name = Rudecart
+	culture = orc
+}
+
+6276 = {
+	name = Rudehorse
+	culture = horsc
+}
+
+6277 = {
+	name = Rudecrap
+	culture = orc
+}
+
+6278 = {
+	name = Rudeblast
+	culture = orc
+}
+
+6279 = {
+	name = Shitsmash
+	culture = orc
+}
+
+6280 = {
+	name = Shitgruk
+	culture = orc
+}
+
+6281 = {
+	name = Shitcrush
+	culture = orc
+}
+
+6282 = {
+	name = Shitthrash
+	culture = orc
+}
+
+6283 = {
+	name = Shittusk
+	culture = orc
+}
+
+6284 = {
+	name = Shitrend
+	culture = orc
+}
+
+6285 = {
+	name = Shittear
+	culture = orc
+}
+
+6286 = {
+	name = Shitrip
+	culture = orc
+}
+
+6287 = {
+	name = Shitbiter
+	culture = orc
+}
+
+6288 = {
+	name = Shitklort
+	culture = orc
+}
+
+6289 = {
+	name = Shitpillage
+	culture = orc
+}
+
+6290 = {
+	name = Shitdick
+	culture = orc
+}
+
+6291 = {
+	name = Shittrag
+	culture = orc
+}
+
+6292 = {
+	name = Shitsnarl
+	culture = orc
+}
+
+6293 = {
+	name = Shitthroat
+	culture = orc
+}
+
+6294 = {
+	name = Shitpull
+	culture = orc
+}
+
+6295 = {
+	name = Shitdoor
+	culture = orc
+}
+
+6296 = {
+	name = Shitkind
+	culture = orc
+}
+
+6297 = {
+	name = Shithair
+	culture = orc
+}
+
+6298 = {
+	name = Shitmurder
+	culture = orc
+}
+
+6299 = {
+	name = Shitmelt
+	culture = orc
+}
+
+6300 = {
+	name = Shitarm
+	culture = orc
+}
+
+6301 = {
+	name = Shitleg
+	culture = orc
+}
+
+6302 = {
+	name = Shitbreak
+	culture = orc
+}
+
+6303 = {
+	name = Shitchew
+	culture = orc
+}
+
+6304 = {
+	name = Shitgone
+	culture = orc
+}
+
+6305 = {
+	name = Shitcave
+	culture = orc
+}
+
+6306 = {
+	name = Shitcart
+	culture = orc
+}
+
+6307 = {
+	name = Shithorse
+	culture = horsc
+}
+
+6308 = {
+	name = Shitcrap
+	culture = orc
+}
+
+6309 = {
+	name = Shitblast
+	culture = orc
+}
+
+6310 = {
+	name = Roamsmash
+	culture = horsc
+}
+
+6311 = {
+	name = Roamgruk
+	culture = horsc
+}
+
+6312 = {
+	name = Roamcrush
+	culture = horsc
+}
+
+6313 = {
+	name = Roamthrash
+	culture = horsc
+}
+
+6314 = {
+	name = Roamtusk
+	culture = horsc
+}
+
+6315 = {
+	name = Roamrend
+	culture = horsc
+}
+
+6316 = {
+	name = Roamtear
+	culture = horsc
+}
+
+6317 = {
+	name = Roamrip
+	culture = horsc
+}
+
+6318 = {
+	name = Roambiter
+	culture = horsc
+}
+
+6319 = {
+	name = Roamklort
+	culture = horsc
+}
+
+6320 = {
+	name = Roampillage
+	culture = horsc
+}
+
+6321 = {
+	name = Roamdick
+	culture = horsc
+}
+
+6322 = {
+	name = Roamtrag
+	culture = horsc
+}
+
+6323 = {
+	name = Roamsnarl
+	culture = horsc
+}
+
+6324 = {
+	name = Roamthroat
+	culture = horsc
+}
+
+6325 = {
+	name = Roampull
+	culture = horsc
+}
+
+6326 = {
+	name = Roamdoor
+	culture = horsc
+}
+
+6327 = {
+	name = Roamkind
+	culture = horsc
+}
+
+6328 = {
+	name = Roamhair
+	culture = horsc
+}
+
+6329 = {
+	name = Roammurder
+	culture = horsc
+}
+
+6330 = {
+	name = Roammelt
+	culture = horsc
+}
+
+6331 = {
+	name = Roamarm
+	culture = horsc
+}
+
+6332 = {
+	name = Roamleg
+	culture = horsc
+}
+
+6333 = {
+	name = Roambreak
+	culture = horsc
+}
+
+6334 = {
+	name = Roamchew
+	culture = horsc
+}
+
+6335 = {
+	name = Roamgone
+	culture = horsc
+}
+
+6336 = {
+	name = Roamcave
+	culture = horsc
+}
+
+6337 = {
+	name = Roamcart
+	culture = horsc
+}
+
+6338 = {
+	name = Roamhorse
+	culture = horsc
+}
+
+6339 = {
+	name = Roamcrap
+	culture = horsc
+}
+
+6340 = {
+	name = Roamblast
+	culture = horsc
+}
+
+6341 = {
+	name = Thewsmash
+	culture = horsc
+}
+
+6342 = {
+	name = Thewgruk
+	culture = horsc
+}
+
+6343 = {
+	name = Thewcrush
+	culture = horsc
+}
+
+6344 = {
+	name = Thewthrash
+	culture = horsc
+}
+
+6345 = {
+	name = Thewtusk
+	culture = horsc
+}
+
+6346 = {
+	name = Thewrend
+	culture = horsc
+}
+
+6347 = {
+	name = Thewtear
+	culture = horsc
+}
+
+6348 = {
+	name = Thewrip
+	culture = horsc
+}
+
+6349 = {
+	name = Thewbiter
+	culture = horsc
+}
+
+6350 = {
+	name = Thewklort
+	culture = horsc
+}
+
+6351 = {
+	name = Thewpillage
+	culture = horsc
+}
+
+6352 = {
+	name = Thewdick
+	culture = horsc
+}
+
+6353 = {
+	name = Thewtrag
+	culture = horsc
+}
+
+6354 = {
+	name = Thewsnarl
+	culture = horsc
+}
+
+6355 = {
+	name = Thewthroat
+	culture = horsc
+}
+
+6356 = {
+	name = Thewpull
+	culture = horsc
+}
+
+6357 = {
+	name = Thewdoor
+	culture = horsc
+}
+
+6358 = {
+	name = Thewkind
+	culture = horsc
+}
+
+6359 = {
+	name = Thewhair
+	culture = horsc
+}
+
+6360 = {
+	name = Thewmurder
+	culture = horsc
+}
+
+6361 = {
+	name = Thewmelt
+	culture = horsc
+}
+
+6362 = {
+	name = Thewarm
+	culture = horsc
+}
+
+6363 = {
+	name = Thewleg
+	culture = horsc
+}
+
+6364 = {
+	name = Thewbreak
+	culture = horsc
+}
+
+6365 = {
+	name = Thewchew
+	culture = horsc
+}
+
+6366 = {
+	name = Thewgone
+	culture = horsc
+}
+
+6367 = {
+	name = Thewcave
+	culture = horsc
+}
+
+6368 = {
+	name = Thewcart
+	culture = horsc
+}
+
+6369 = {
+	name = Thewhorse
+	culture = horsc
+}
+
+6370 = {
+	name = Thewcrap
+	culture = horsc
+}
+
+6371 = {
+	name = Thewblast
+	culture = horsc
+}
+
+6372 = {
+	name = Tallsmash
+	culture = horsc
+}
+
+6373 = {
+	name = Tallgruk
+	culture = horsc
+}
+
+6374 = {
+	name = Tallcrush
+	culture = horsc
+}
+
+6375 = {
+	name = Tallthrash
+	culture = horsc
+}
+
+6376 = {
+	name = Talltusk
+	culture = horsc
+}
+
+6377 = {
+	name = Tallrend
+	culture = horsc
+}
+
+6378 = {
+	name = Talltear
+	culture = horsc
+}
+
+6379 = {
+	name = Tallrip
+	culture = horsc
+}
+
+6380 = {
+	name = Tallbiter
+	culture = horsc
+}
+
+6381 = {
+	name = Tallklort
+	culture = horsc
+}
+
+6382 = {
+	name = Tallpillage
+	culture = horsc
+}
+
+6383 = {
+	name = Talldick
+	culture = horsc
+}
+
+6384 = {
+	name = Talltrag
+	culture = horsc
+}
+
+6385 = {
+	name = Tallsnarl
+	culture = horsc
+}
+
+6386 = {
+	name = Tallthroat
+	culture = horsc
+}
+
+6387 = {
+	name = Tallpull
+	culture = horsc
+}
+
+6388 = {
+	name = Talldoor
+	culture = horsc
+}
+
+6389 = {
+	name = Tallkind
+	culture = horsc
+}
+
+6390 = {
+	name = Tallhair
+	culture = horsc
+}
+
+6391 = {
+	name = Tallmurder
+	culture = horsc
+}
+
+6392 = {
+	name = Tallmelt
+	culture = horsc
+}
+
+6393 = {
+	name = Tallarm
+	culture = horsc
+}
+
+6394 = {
+	name = Tallleg
+	culture = horsc
+}
+
+6395 = {
+	name = Tallbreak
+	culture = horsc
+}
+
+6396 = {
+	name = Tallchew
+	culture = horsc
+}
+
+6397 = {
+	name = Tallgone
+	culture = horsc
+}
+
+6398 = {
+	name = Tallcave
+	culture = horsc
+}
+
+6399 = {
+	name = Tallcart
+	culture = horsc
+}
+
+6400 = {
+	name = Tallhorse
+	culture = horsc
+}
+
+6401 = {
+	name = Tallcrap
+	culture = horsc
+}
+
+6402 = {
+	name = Tallblast
+	culture = horsc
+}
+
+6403 = {
+	name = Manysmash
+	culture = orc
+}
+
+6404 = {
+	name = Manygruk
+	culture = orc
+}
+
+6405 = {
+	name = Manycrush
+	culture = orc
+}
+
+6406 = {
+	name = Manythrash
+	culture = orc
+}
+
+6407 = {
+	name = Manytusk
+	culture = orc
+}
+
+6408 = {
+	name = Manyrend
+	culture = orc
+}
+
+6409 = {
+	name = Manytear
+	culture = orc
+}
+
+6410 = {
+	name = Manyrip
+	culture = orc
+}
+
+6411 = {
+	name = Manybiter
+	culture = orc
+}
+
+6412 = {
+	name = Manyklort
+	culture = orc
+}
+
+6413 = {
+	name = Manypillage
+	culture = orc
+}
+
+6414 = {
+	name = Manydick
+	culture = orc
+}
+
+6415 = {
+	name = Manytrag
+	culture = orc
+}
+
+6416 = {
+	name = Manysnarl
+	culture = orc
+}
+
+6417 = {
+	name = Manythroat
+	culture = orc
+}
+
+6418 = {
+	name = Manypull
+	culture = orc
+}
+
+6419 = {
+	name = Manydoor
+	culture = orc
+}
+
+6420 = {
+	name = Manykind
+	culture = orc
+}
+
+6421 = {
+	name = Manyhair
+	culture = orc
+}
+
+6422 = {
+	name = Manymurder
+	culture = orc
+}
+
+6423 = {
+	name = Manymelt
+	culture = orc
+}
+
+6424 = {
+	name = Manyarm
+	culture = orc
+}
+
+6425 = {
+	name = Manyleg
+	culture = orc
+}
+
+6426 = {
+	name = Manybreak
+	culture = orc
+}
+
+6427 = {
+	name = Manychew
+	culture = orc
+}
+
+6428 = {
+	name = Manygone
+	culture = orc
+}
+
+6429 = {
+	name = Manycave
+	culture = orc
+}
+
+6430 = {
+	name = Manycart
+	culture = orc
+}
+
+6431 = {
+	name = Manyhorse
+	culture = horsc
+}
+
+6432 = {
+	name = Manycrap
+	culture = orc
+}
+
+6433 = {
+	name = Manyblast
+	culture = orc
+}
+
+6434 = {
+	name = Fearsmash
+	culture = orc
+}
+
+6435 = {
+	name = Feargruk
+	culture = orc
+}
+
+6436 = {
+	name = Fearcrush
+	culture = orc
+}
+
+6437 = {
+	name = Fearthrash
+	culture = orc
+}
+
+6438 = {
+	name = Feartusk
+	culture = orc
+}
+
+6439 = {
+	name = Fearrend
+	culture = orc
+}
+
+6440 = {
+	name = Feartear
+	culture = orc
+}
+
+6441 = {
+	name = Fearrip
+	culture = orc
+}
+
+6442 = {
+	name = Fearbiter
+	culture = orc
+}
+
+6443 = {
+	name = Fearklort
+	culture = orc
+}
+
+6444 = {
+	name = Fearpillage
+	culture = orc
+}
+
+6445 = {
+	name = Feardick
+	culture = orc
+}
+
+6446 = {
+	name = Feartrag
+	culture = orc
+}
+
+6447 = {
+	name = Fearsnarl
+	culture = orc
+}
+
+6448 = {
+	name = Fearthroat
+	culture = orc
+}
+
+6449 = {
+	name = Fearpull
+	culture = orc
+}
+
+6450 = {
+	name = Feardoor
+	culture = orc
+}
+
+6451 = {
+	name = Fearkind
+	culture = orc
+}
+
+6452 = {
+	name = Fearhair
+	culture = orc
+}
+
+6453 = {
+	name = Fearmurder
+	culture = orc
+}
+
+6454 = {
+	name = Fearmelt
+	culture = orc
+}
+
+6455 = {
+	name = Feararm
+	culture = orc
+}
+
+6456 = {
+	name = Fearleg
+	culture = orc
+}
+
+6457 = {
+	name = Fearbreak
+	culture = orc
+}
+
+6458 = {
+	name = Fearchew
+	culture = orc
+}
+
+6459 = {
+	name = Feargone
+	culture = orc
+}
+
+6460 = {
+	name = Fearcave
+	culture = orc
+}
+
+6461 = {
+	name = Fearcart
+	culture = orc
+}
+
+6462 = {
+	name = Fearhorse
+	culture = horsc
+}
+
+6463 = {
+	name = Fearcrap
+	culture = orc
+}
+
+6464 = {
+	name = Fearblast
+	culture = orc
+}
+
+6465 = {
+	name = Skullsmash
+	culture = orc
+}
+
+6466 = {
+	name = Skullgruk
+	culture = orc
+}
+
+6467 = {
+	name = Skullcrush
+	culture = orc
+}
+
+6468 = {
+	name = Skullthrash
+	culture = orc
+}
+
+6469 = {
+	name = Skulltusk
+	culture = orc
+}
+
+6470 = {
+	name = Skullrend
+	culture = orc
+}
+
+6471 = {
+	name = Skulltear
+	culture = orc
+}
+
+6472 = {
+	name = Skullrip
+	culture = orc
+}
+
+6473 = {
+	name = Skullbiter
+	culture = orc
+}
+
+6474 = {
+	name = Skullklort
+	culture = orc
+}
+
+6475 = {
+	name = Skullpillage
+	culture = orc
+}
+
+6476 = {
+	name = Skulldick
+	culture = orc
+}
+
+6477 = {
+	name = Skulltrag
+	culture = orc
+}
+
+6478 = {
+	name = Skullsnarl
+	culture = orc
+}
+
+6479 = {
+	name = Skullthroat
+	culture = orc
+}
+
+6480 = {
+	name = Skullpull
+	culture = orc
+}
+
+6481 = {
+	name = Skulldoor
+	culture = orc
+}
+
+6482 = {
+	name = Skullkind
+	culture = orc
+}
+
+6483 = {
+	name = Skullhair
+	culture = orc
+}
+
+6484 = {
+	name = Skullmurder
+	culture = orc
+}
+
+6485 = {
+	name = Skullmelt
+	culture = orc
+}
+
+6486 = {
+	name = Skullarm
+	culture = orc
+}
+
+6487 = {
+	name = Skullleg
+	culture = orc
+}
+
+6488 = {
+	name = Skullbreak
+	culture = orc
+}
+
+6489 = {
+	name = Skullchew
+	culture = orc
+}
+
+6490 = {
+	name = Skullgone
+	culture = orc
+}
+
+6491 = {
+	name = Skullcave
+	culture = orc
+}
+
+6492 = {
+	name = Skullcart
+	culture = orc
+}
+
+6493 = {
+	name = Skullhorse
+	culture = horsc
+}
+
+6494 = {
+	name = Skullcrap
+	culture = orc
+}
+
+6495 = {
+	name = Skullblast
+	culture = orc
+}
+
+6496 = {
+	name = Socketsmash
+	culture = orc
+}
+
+6497 = {
+	name = Socketgruk
+	culture = orc
+}
+
+6498 = {
+	name = Socketcrush
+	culture = orc
+}
+
+6499 = {
+	name = Socketthrash
+	culture = orc
+}
+
+6500 = {
+	name = Sockettusk
+	culture = orc
+}
+
+6501 = {
+	name = Socketrend
+	culture = orc
+}
+
+6502 = {
+	name = Sockettear
+	culture = orc
+}
+
+6503 = {
+	name = Socketrip
+	culture = orc
+}
+
+6504 = {
+	name = Socketbiter
+	culture = orc
+}
+
+6505 = {
+	name = Socketklort
+	culture = orc
+}
+
+6506 = {
+	name = Socketpillage
+	culture = orc
+}
+
+6507 = {
+	name = Socketdick
+	culture = orc
+}
+
+6508 = {
+	name = Sockettrag
+	culture = orc
+}
+
+6509 = {
+	name = Socketsnarl
+	culture = orc
+}
+
+6510 = {
+	name = Socketthroat
+	culture = orc
+}
+
+6511 = {
+	name = Socketpull
+	culture = orc
+}
+
+6512 = {
+	name = Socketdoor
+	culture = orc
+}
+
+6513 = {
+	name = Socketkind
+	culture = orc
+}
+
+6514 = {
+	name = Sockethair
+	culture = orc
+}
+
+6515 = {
+	name = Socketmurder
+	culture = orc
+}
+
+6516 = {
+	name = Socketmelt
+	culture = orc
+}
+
+6517 = {
+	name = Socketarm
+	culture = orc
+}
+
+6518 = {
+	name = Socketleg
+	culture = orc
+}
+
+6519 = {
+	name = Socketbreak
+	culture = orc
+}
+
+6520 = {
+	name = Socketchew
+	culture = orc
+}
+
+6521 = {
+	name = Socketgone
+	culture = orc
+}
+
+6522 = {
+	name = Socketcave
+	culture = orc
+}
+
+6523 = {
+	name = Socketcart
+	culture = orc
+}
+
+6524 = {
+	name = Sockethorse
+	culture = horsc
+}
+
+6525 = {
+	name = Socketcrap
+	culture = orc
+}
+
+6526 = {
+	name = Socketblast
+	culture = orc
+}
+
+6527 = {
+	name = Shocksmash
+	culture = orc
+}
+
+6528 = {
+	name = Shockgruk
+	culture = orc
+}
+
+6529 = {
+	name = Shockcrush
+	culture = orc
+}
+
+6530 = {
+	name = Shockthrash
+	culture = orc
+}
+
+6531 = {
+	name = Shocktusk
+	culture = orc
+}
+
+6532 = {
+	name = Shockrend
+	culture = orc
+}
+
+6533 = {
+	name = Shocktear
+	culture = orc
+}
+
+6534 = {
+	name = Shockrip
+	culture = orc
+}
+
+6535 = {
+	name = Shockbiter
+	culture = orc
+}
+
+6536 = {
+	name = Shockklort
+	culture = orc
+}
+
+6537 = {
+	name = Shockpillage
+	culture = orc
+}
+
+6538 = {
+	name = Shockdick
+	culture = orc
+}
+
+6539 = {
+	name = Shocktrag
+	culture = orc
+}
+
+6540 = {
+	name = Shocksnarl
+	culture = orc
+}
+
+6541 = {
+	name = Shockthroat
+	culture = orc
+}
+
+6542 = {
+	name = Shockpull
+	culture = orc
+}
+
+6543 = {
+	name = Shockdoor
+	culture = orc
+}
+
+6544 = {
+	name = Shockkind
+	culture = orc
+}
+
+6545 = {
+	name = Shockhair
+	culture = orc
+}
+
+6546 = {
+	name = Shockmurder
+	culture = orc
+}
+
+6547 = {
+	name = Shockmelt
+	culture = orc
+}
+
+6548 = {
+	name = Shockarm
+	culture = orc
+}
+
+6549 = {
+	name = Shockleg
+	culture = orc
+}
+
+6550 = {
+	name = Shockbreak
+	culture = orc
+}
+
+6551 = {
+	name = Shockchew
+	culture = orc
+}
+
+6552 = {
+	name = Shockgone
+	culture = orc
+}
+
+6553 = {
+	name = Shockcave
+	culture = orc
+}
+
+6554 = {
+	name = Shockcart
+	culture = orc
+}
+
+6555 = {
+	name = Shockhorse
+	culture = horsc
+}
+
+6556 = {
+	name = Shockcrap
+	culture = orc
+}
+
+6557 = {
+	name = Shockblast
+	culture = orc
+}
+
+6558 = {
+	name = Burnsmash
+	culture = orc
+}
+
+6559 = {
+	name = Burngruk
+	culture = orc
+}
+
+6560 = {
+	name = Burncrush
+	culture = orc
+}
+
+6561 = {
+	name = Burnthrash
+	culture = orc
+}
+
+6562 = {
+	name = Burntusk
+	culture = orc
+}
+
+6563 = {
+	name = Burnrend
+	culture = orc
+}
+
+6564 = {
+	name = Burntear
+	culture = orc
+}
+
+6565 = {
+	name = Burnrip
+	culture = orc
+}
+
+6566 = {
+	name = Burnbiter
+	culture = orc
+}
+
+6567 = {
+	name = Burnklort
+	culture = orc
+}
+
+6568 = {
+	name = Burnpillage
+	culture = orc
+}
+
+6569 = {
+	name = Burndick
+	culture = orc
+}
+
+6570 = {
+	name = Burntrag
+	culture = orc
+}
+
+6571 = {
+	name = Burnsnarl
+	culture = orc
+}
+
+6572 = {
+	name = Burnthroat
+	culture = orc
+}
+
+6573 = {
+	name = Burnpull
+	culture = orc
+}
+
+6574 = {
+	name = Burndoor
+	culture = orc
+}
+
+6575 = {
+	name = Burnkind
+	culture = orc
+}
+
+6576 = {
+	name = Burnhair
+	culture = orc
+}
+
+6577 = {
+	name = Burnmurder
+	culture = orc
+}
+
+6578 = {
+	name = Burnmelt
+	culture = orc
+}
+
+6579 = {
+	name = Burnarm
+	culture = orc
+}
+
+6580 = {
+	name = Burnleg
+	culture = orc
+}
+
+6581 = {
+	name = Burnbreak
+	culture = orc
+}
+
+6582 = {
+	name = Burnchew
+	culture = orc
+}
+
+6583 = {
+	name = Burngone
+	culture = orc
+}
+
+6584 = {
+	name = Burncave
+	culture = orc
+}
+
+6585 = {
+	name = Burncart
+	culture = orc
+}
+
+6586 = {
+	name = Burnhorse
+	culture = horsc
+}
+
+6587 = {
+	name = Burncrap
+	culture = orc
+}
+
+6588 = {
+	name = Burnblast
+	culture = orc
+}
+
+6589 = {
+	name = Bonesmash
+	culture = orc
+}
+
+6590 = {
+	name = Bonegruk
+	culture = orc
+}
+
+6591 = {
+	name = Bonecrush
+	culture = orc
+}
+
+6592 = {
+	name = Bonethrash
+	culture = orc
+}
+
+6593 = {
+	name = Bonetusk
+	culture = orc
+}
+
+6594 = {
+	name = Bonerend
+	culture = orc
+}
+
+6595 = {
+	name = Bonetear
+	culture = orc
+}
+
+6596 = {
+	name = Bonerip
+	culture = orc
+}
+
+6597 = {
+	name = Bonebiter
+	culture = orc
+}
+
+6598 = {
+	name = Boneklort
+	culture = orc
+}
+
+6599 = {
+	name = Bonepillage
+	culture = orc
+}
+
+6600 = {
+	name = Bonedick
+	culture = orc
+}
+
+6601 = {
+	name = Bonetrag
+	culture = orc
+}
+
+6602 = {
+	name = Bonesnarl
+	culture = orc
+}
+
+6603 = {
+	name = Bonethroat
+	culture = orc
+}
+
+6604 = {
+	name = Bonepull
+	culture = orc
+}
+
+6605 = {
+	name = Bonedoor
+	culture = orc
+}
+
+6606 = {
+	name = Bonekind
+	culture = orc
+}
+
+6607 = {
+	name = Bonehair
+	culture = orc
+}
+
+6608 = {
+	name = Bonemurder
+	culture = orc
+}
+
+6609 = {
+	name = Bonemelt
+	culture = orc
+}
+
+6610 = {
+	name = Bonearm
+	culture = orc
+}
+
+6611 = {
+	name = Boneleg
+	culture = orc
+}
+
+6612 = {
+	name = Bonebreak
+	culture = orc
+}
+
+6613 = {
+	name = Bonechew
+	culture = orc
+}
+
+6614 = {
+	name = Bonegone
+	culture = orc
+}
+
+6615 = {
+	name = Bonecave
+	culture = orc
+}
+
+6616 = {
+	name = Bonecart
+	culture = orc
+}
+
+6617 = {
+	name = Bonehorse
+	culture = horsc
+}
+
+6618 = {
+	name = Bonecrap
+	culture = orc
+}
+
+6619 = {
+	name = Boneblast
+	culture = orc
+}
+
+6620 = {
+	name = Spikesmash
+	culture = orc
+}
+
+6621 = {
+	name = Spikegruk
+	culture = orc
+}
+
+6622 = {
+	name = Spikecrush
+	culture = orc
+}
+
+6623 = {
+	name = Spikethrash
+	culture = orc
+}
+
+6624 = {
+	name = Spiketusk
+	culture = orc
+}
+
+6625 = {
+	name = Spikerend
+	culture = orc
+}
+
+6626 = {
+	name = Spiketear
+	culture = orc
+}
+
+6627 = {
+	name = Spikerip
+	culture = orc
+}
+
+6628 = {
+	name = Spikebiter
+	culture = orc
+}
+
+6629 = {
+	name = Spikeklort
+	culture = orc
+}
+
+6630 = {
+	name = Spikepillage
+	culture = orc
+}
+
+6631 = {
+	name = Spikedick
+	culture = orc
+}
+
+6632 = {
+	name = Spiketrag
+	culture = orc
+}
+
+6633 = {
+	name = Spikesnarl
+	culture = orc
+}
+
+6634 = {
+	name = Spikethroat
+	culture = orc
+}
+
+6635 = {
+	name = Spikepull
+	culture = orc
+}
+
+6636 = {
+	name = Spikedoor
+	culture = orc
+}
+
+6637 = {
+	name = Spikekind
+	culture = orc
+}
+
+6638 = {
+	name = Spikehair
+	culture = orc
+}
+
+6639 = {
+	name = Spikemurder
+	culture = orc
+}
+
+6640 = {
+	name = Spikemelt
+	culture = orc
+}
+
+6641 = {
+	name = Spikearm
+	culture = orc
+}
+
+6642 = {
+	name = Spikeleg
+	culture = orc
+}
+
+6643 = {
+	name = Spikebreak
+	culture = orc
+}
+
+6644 = {
+	name = Spikechew
+	culture = orc
+}
+
+6645 = {
+	name = Spikegone
+	culture = orc
+}
+
+6646 = {
+	name = Spikecave
+	culture = orc
+}
+
+6647 = {
+	name = Spikecart
+	culture = orc
+}
+
+6648 = {
+	name = Spikehorse
+	culture = horsc
+}
+
+6649 = {
+	name = Spikecrap
+	culture = orc
+}
+
+6650 = {
+	name = Spikeblast
+	culture = orc
+}
+
+6651 = {
+	name = Spearsmash
+	culture = orc
+}
+
+6652 = {
+	name = Speargruk
+	culture = orc
+}
+
+6653 = {
+	name = Spearcrush
+	culture = orc
+}
+
+6654 = {
+	name = Spearthrash
+	culture = orc
+}
+
+6655 = {
+	name = Speartusk
+	culture = orc
+}
+
+6656 = {
+	name = Spearrend
+	culture = orc
+}
+
+6657 = {
+	name = Speartear
+	culture = orc
+}
+
+6658 = {
+	name = Spearrip
+	culture = orc
+}
+
+6659 = {
+	name = Spearbiter
+	culture = orc
+}
+
+6660 = {
+	name = Spearklort
+	culture = orc
+}
+
+6661 = {
+	name = Spearpillage
+	culture = orc
+}
+
+6662 = {
+	name = Speardick
+	culture = orc
+}
+
+6663 = {
+	name = Speartrag
+	culture = orc
+}
+
+6664 = {
+	name = Spearsnarl
+	culture = orc
+}
+
+6665 = {
+	name = Spearthroat
+	culture = orc
+}
+
+6666 = {
+	name = Spearpull
+	culture = orc
+}
+
+6667 = {
+	name = Speardoor
+	culture = orc
+}
+
+6668 = {
+	name = Spearkind
+	culture = orc
+}
+
+6669 = {
+	name = Spearhair
+	culture = orc
+}
+
+6670 = {
+	name = Spearmurder
+	culture = orc
+}
+
+6671 = {
+	name = Spearmelt
+	culture = orc
+}
+
+6672 = {
+	name = Speararm
+	culture = orc
+}
+
+6673 = {
+	name = Spearleg
+	culture = orc
+}
+
+6674 = {
+	name = Spearbreak
+	culture = orc
+}
+
+6675 = {
+	name = Spearchew
+	culture = orc
+}
+
+6676 = {
+	name = Speargone
+	culture = orc
+}
+
+6677 = {
+	name = Spearcave
+	culture = orc
+}
+
+6678 = {
+	name = Spearcart
+	culture = orc
+}
+
+6679 = {
+	name = Spearhorse
+	culture = horsc
+}
+
+6680 = {
+	name = Spearcrap
+	culture = orc
+}
+
+6681 = {
+	name = Spearblast
+	culture = orc
+}
+
+6682 = {
+	name = Bowsmash
+	culture = orc
+}
+
+6683 = {
+	name = Bowgruk
+	culture = orc
+}
+
+6684 = {
+	name = Bowcrush
+	culture = horsc
+}
+
+6685 = {
+	name = Bowthrash
+	culture = horsc
+}
+
+6686 = {
+	name = Bowtusk
+	culture = horsc
+}
+
+6687 = {
+	name = Bowrend
+	culture = horsc
+}
+
+6688 = {
+	name = Bowtear
+	culture = horsc
+}
+
+6689 = {
+	name = Bowrip
+	culture = horsc
+}
+
+6690 = {
+	name = Bowbiter
+	culture = horsc
+}
+
+6691 = {
+	name = Bowklort
+	culture = horsc
+}
+
+6692 = {
+	name = Bowpillage
+	culture = horsc
+}
+
+6693 = {
+	name = Bowdick
+	culture = horsc
+}
+
+6694 = {
+	name = Bowtrag
+	culture = horsc
+}
+
+6695 = {
+	name = Bowsnarl
+	culture = horsc
+}
+
+6696 = {
+	name = Bowthroat
+	culture = horsc
+}
+
+6697 = {
+	name = Bowpull
+	culture = horsc
+}
+
+6698 = {
+	name = Bowdoor
+	culture = horsc
+}
+
+6699 = {
+	name = Bowkind
+	culture = horsc
+}
+
+6700 = {
+	name = Bowhair
+	culture = horsc
+}
+
+6701 = {
+	name = Bowmurder
+	culture = horsc
+}
+
+6702 = {
+	name = Bowmelt
+	culture = horsc
+}
+
+6703 = {
+	name = Bowarm
+	culture = horsc
+}
+
+6704 = {
+	name = Bowleg
+	culture = horsc
+}
+
+6705 = {
+	name = Bowbreak
+	culture = horsc
+}
+
+6706 = {
+	name = Bowchew
+	culture = horsc
+}
+
+6707 = {
+	name = Bowgone
+	culture = horsc
+}
+
+6708 = {
+	name = Bowcave
+	culture = horsc
+}
+
+6709 = {
+	name = Bowcart
+	culture = horsc
+}
+
+6710 = {
+	name = Bowhorse
+	culture = horsc
+}
+
+6711 = {
+	name = Bowcrap
+	culture = horsc
+}
+
+6712 = {
+	name = Bowblast
+	culture = horsc
+}
+
+6713 = {
+	name = Knifesmash
+	culture = orc
+}
+
+6714 = {
+	name = Knifegruk
+	culture = orc
+}
+
+6715 = {
+	name = Knifecrush
+	culture = orc
+}
+
+6716 = {
+	name = Knifethrash
+	culture = orc
+}
+
+6717 = {
+	name = Knifetusk
+	culture = orc
+}
+
+6718 = {
+	name = Kniferend
+	culture = orc
+}
+
+6719 = {
+	name = Knifetear
+	culture = orc
+}
+
+6720 = {
+	name = Kniferip
+	culture = orc
+}
+
+6721 = {
+	name = Knifebiter
+	culture = orc
+}
+
+6722 = {
+	name = Knifeklort
+	culture = orc
+}
+
+6723 = {
+	name = Knifepillage
+	culture = orc
+}
+
+6724 = {
+	name = Knifedick
+	culture = orc
+}
+
+6725 = {
+	name = Knifetrag
+	culture = orc
+}
+
+6726 = {
+	name = Knifesnarl
+	culture = orc
+}
+
+6727 = {
+	name = Knifethroat
+	culture = orc
+}
+
+6728 = {
+	name = Knifepull
+	culture = orc
+}
+
+6729 = {
+	name = Knifedoor
+	culture = orc
+}
+
+6730 = {
+	name = Knifekind
+	culture = orc
+}
+
+6731 = {
+	name = Knifehair
+	culture = orc
+}
+
+6732 = {
+	name = Knifemurder
+	culture = orc
+}
+
+6733 = {
+	name = Knifemelt
+	culture = orc
+}
+
+6734 = {
+	name = Knifearm
+	culture = orc
+}
+
+6735 = {
+	name = Knifeleg
+	culture = orc
+}
+
+6736 = {
+	name = Knifebreak
+	culture = orc
+}
+
+6737 = {
+	name = Knifechew
+	culture = orc
+}
+
+6738 = {
+	name = Knifegone
+	culture = orc
+}
+
+6739 = {
+	name = Knifecave
+	culture = orc
+}
+
+6740 = {
+	name = Knifecart
+	culture = orc
+}
+
+6741 = {
+	name = Knifehorse
+	culture = horsc
+}
+
+6742 = {
+	name = Knifecrap
+	culture = orc
+}
+
+6743 = {
+	name = Knifeblast
+	culture = orc
+}
+
+6744 = {
+	name = Breaksmash
+	culture = orc
+}
+
+6745 = {
+	name = Breakgruk
+	culture = orc
+}
+
+6746 = {
+	name = Breakcrush
+	culture = orc
+}
+
+6747 = {
+	name = Breakthrash
+	culture = orc
+}
+
+6748 = {
+	name = Breaktusk
+	culture = orc
+}
+
+6749 = {
+	name = Breakrend
+	culture = orc
+}
+
+6750 = {
+	name = Breaktear
+	culture = orc
+}
+
+6751 = {
+	name = Breakrip
+	culture = orc
+}
+
+6752 = {
+	name = Breakbiter
+	culture = orc
+}
+
+6753 = {
+	name = Breakklort
+	culture = orc
+}
+
+6754 = {
+	name = Breakpillage
+	culture = orc
+}
+
+6755 = {
+	name = Breakdick
+	culture = orc
+}
+
+6756 = {
+	name = Breaktrag
+	culture = orc
+}
+
+6757 = {
+	name = Breaksnarl
+	culture = orc
+}
+
+6758 = {
+	name = Breakthroat
+	culture = orc
+}
+
+6759 = {
+	name = Breakpull
+	culture = orc
+}
+
+6760 = {
+	name = Breakdoor
+	culture = orc
+}
+
+6761 = {
+	name = Breakkind
+	culture = orc
+}
+
+6762 = {
+	name = Breakhair
+	culture = orc
+}
+
+6763 = {
+	name = Breakmurder
+	culture = orc
+}
+
+6764 = {
+	name = Breakmelt
+	culture = orc
+}
+
+6765 = {
+	name = Breakarm
+	culture = orc
+}
+
+6766 = {
+	name = Breakleg
+	culture = orc
+}
+
+6767 = {
+	name = Breakbreak
+	culture = orc
+}
+
+6768 = {
+	name = Breakchew
+	culture = orc
+}
+
+6769 = {
+	name = Breakgone
+	culture = orc
+}
+
+6770 = {
+	name = Breakcave
+	culture = orc
+}
+
+6771 = {
+	name = Breakcart
+	culture = orc
+}
+
+6772 = {
+	name = Breakhorse
+	culture = horsc
+}
+
+6773 = {
+	name = Breakcrap
+	culture = orc
+}
+
+6774 = {
+	name = Breakblast
+	culture = orc
+}
+
+6775 = {
+	name = Chewsmash
+	culture = orc
+}
+
+6776 = {
+	name = Chewgruk
+	culture = orc
+}
+
+6777 = {
+	name = Chewcrush
+	culture = orc
+}
+
+6778 = {
+	name = Chewthrash
+	culture = orc
+}
+
+6779 = {
+	name = Chewtusk
+	culture = orc
+}
+
+6780 = {
+	name = Chewrend
+	culture = orc
+}
+
+6781 = {
+	name = Chewtear
+	culture = orc
+}
+
+6782 = {
+	name = Chewrip
+	culture = orc
+}
+
+6783 = {
+	name = Chewbiter
+	culture = orc
+}
+
+6784 = {
+	name = Chewklort
+	culture = orc
+}
+
+6785 = {
+	name = Chewpillage
+	culture = orc
+}
+
+6786 = {
+	name = Chewdick
+	culture = orc
+}
+
+6787 = {
+	name = Chewtrag
+	culture = orc
+}
+
+6788 = {
+	name = Chewsnarl
+	culture = orc
+}
+
+6789 = {
+	name = Chewthroat
+	culture = orc
+}
+
+6790 = {
+	name = Chewpull
+	culture = orc
+}
+
+6791 = {
+	name = Chewdoor
+	culture = orc
+}
+
+6792 = {
+	name = Chewkind
+	culture = orc
+}
+
+6793 = {
+	name = Chewhair
+	culture = orc
+}
+
+6794 = {
+	name = Chewmurder
+	culture = orc
+}
+
+6795 = {
+	name = Chewmelt
+	culture = orc
+}
+
+6796 = {
+	name = Chewarm
+	culture = orc
+}
+
+6797 = {
+	name = Chewleg
+	culture = orc
+}
+
+6798 = {
+	name = Chewbreak
+	culture = orc
+}
+
+6799 = {
+	name = Chewchew
+	culture = orc
+}
+
+6800 = {
+	name = Chewgone
+	culture = orc
+}
+
+6801 = {
+	name = Chewcave
+	culture = orc
+}
+
+6802 = {
+	name = Chewcart
+	culture = orc
+}
+
+6803 = {
+	name = Chewhorse
+	culture = horsc
+}
+
+6804 = {
+	name = Chewcrap
+	culture = orc
+}
+
+6805 = {
+	name = Chewblast
+	culture = orc
+}
+
+6806 = {
+	name = Bitesmash
+	culture = orc
+}
+
+6807 = {
+	name = Bitegruk
+	culture = orc
+}
+
+6808 = {
+	name = Bitecrush
+	culture = orc
+}
+
+6809 = {
+	name = Bitethrash
+	culture = orc
+}
+
+6810 = {
+	name = Bitetusk
+	culture = orc
+}
+
+6811 = {
+	name = Biterend
+	culture = orc
+}
+
+6812 = {
+	name = Bitetear
+	culture = orc
+}
+
+6813 = {
+	name = Biterip
+	culture = orc
+}
+
+6814 = {
+	name = Bitebiter
+	culture = orc
+}
+
+6815 = {
+	name = Biteklort
+	culture = orc
+}
+
+6816 = {
+	name = Bitepillage
+	culture = orc
+}
+
+6817 = {
+	name = Bitedick
+	culture = orc
+}
+
+6818 = {
+	name = Bitetrag
+	culture = orc
+}
+
+6819 = {
+	name = Bitesnarl
+	culture = orc
+}
+
+6820 = {
+	name = Bitethroat
+	culture = orc
+}
+
+6821 = {
+	name = Bitepull
+	culture = orc
+}
+
+6822 = {
+	name = Bitedoor
+	culture = orc
+}
+
+6823 = {
+	name = Bitekind
+	culture = orc
+}
+
+6824 = {
+	name = Bitehair
+	culture = orc
+}
+
+6825 = {
+	name = Bitemurder
+	culture = orc
+}
+
+6826 = {
+	name = Bitemelt
+	culture = orc
+}
+
+6827 = {
+	name = Bitearm
+	culture = orc
+}
+
+6828 = {
+	name = Biteleg
+	culture = orc
+}
+
+6829 = {
+	name = Bitebreak
+	culture = orc
+}
+
+6830 = {
+	name = Bitechew
+	culture = orc
+}
+
+6831 = {
+	name = Bitegone
+	culture = orc
+}
+
+6832 = {
+	name = Bitecave
+	culture = orc
+}
+
+6833 = {
+	name = Bitecart
+	culture = orc
+}
+
+6834 = {
+	name = Bitehorse
+	culture = horsc
+}
+
+6835 = {
+	name = Bitecrap
+	culture = orc
+}
+
+6836 = {
+	name = Biteblast
+	culture = orc
+}
+
+6837 = {
+	name = Lootsmash
+	culture = horsc
+}
+
+6838 = {
+	name = Lootgruk
+	culture = horsc
+}
+
+6839 = {
+	name = Lootcrush
+	culture = horsc
+}
+
+6840 = {
+	name = Lootthrash
+	culture = horsc
+}
+
+6841 = {
+	name = Loottusk
+	culture = horsc
+}
+
+6842 = {
+	name = Lootrend
+	culture = horsc
+}
+
+6843 = {
+	name = Loottear
+	culture = horsc
+}
+
+6844 = {
+	name = Lootrip
+	culture = horsc
+}
+
+6845 = {
+	name = Lootbiter
+	culture = horsc
+}
+
+6846 = {
+	name = Lootklort
+	culture = horsc
+}
+
+6847 = {
+	name = Lootpillage
+	culture = horsc
+}
+
+6848 = {
+	name = Lootdick
+	culture = horsc
+}
+
+6849 = {
+	name = Loottrag
+	culture = horsc
+}
+
+6850 = {
+	name = Lootsnarl
+	culture = horsc
+}
+
+6851 = {
+	name = Lootthroat
+	culture = horsc
+}
+
+6852 = {
+	name = Lootpull
+	culture = horsc
+}
+
+6853 = {
+	name = Lootdoor
+	culture = horsc
+}
+
+6854 = {
+	name = Lootkind
+	culture = horsc
+}
+
+6855 = {
+	name = Loothair
+	culture = horsc
+}
+
+6856 = {
+	name = Lootmurder
+	culture = horsc
+}
+
+6857 = {
+	name = Lootmelt
+	culture = horsc
+}
+
+6858 = {
+	name = Lootarm
+	culture = horsc
+}
+
+6859 = {
+	name = Lootleg
+	culture = horsc
+}
+
+6860 = {
+	name = Lootbreak
+	culture = horsc
+}
+
+6861 = {
+	name = Lootchew
+	culture = horsc
+}
+
+6862 = {
+	name = Lootgone
+	culture = horsc
+}
+
+6863 = {
+	name = Lootcave
+	culture = horsc
+}
+
+6864 = {
+	name = Lootcart
+	culture = horsc
+}
+
+6865 = {
+	name = Loothorse
+	culture = horsc
+}
+
+6866 = {
+	name = Lootcrap
+	culture = horsc
+}
+
+6867 = {
+	name = Lootblast
+	culture = horsc
+}
+
+6868 = {
+	name = Allsmash
+	culture = horsc
+}
+
+6869 = {
+	name = Allgruk
+	culture = horsc
+}
+
+6870 = {
+	name = Allcrush
+	culture = horsc
+}
+
+6871 = {
+	name = Allthrash
+	culture = horsc
+}
+
+6872 = {
+	name = Alltusk
+	culture = horsc
+}
+
+6873 = {
+	name = Allrend
+	culture = horsc
+}
+
+6874 = {
+	name = Alltear
+	culture = horsc
+}
+
+6875 = {
+	name = Allrip
+	culture = horsc
+}
+
+6876 = {
+	name = Allbiter
+	culture = horsc
+}
+
+6877 = {
+	name = Allklort
+	culture = horsc
+}
+
+6878 = {
+	name = Allpillage
+	culture = horsc
+}
+
+6879 = {
+	name = Alldick
+	culture = horsc
+}
+
+6880 = {
+	name = Alltrag
+	culture = horsc
+}
+
+6881 = {
+	name = Allsnarl
+	culture = horsc
+}
+
+6882 = {
+	name = Allthroat
+	culture = horsc
+}
+
+6883 = {
+	name = Allpull
+	culture = horsc
+}
+
+6884 = {
+	name = Alldoor
+	culture = horsc
+}
+
+6885 = {
+	name = Allkind
+	culture = horsc
+}
+
+6886 = {
+	name = Allhair
+	culture = horsc
+}
+
+6887 = {
+	name = Allmurder
+	culture = horsc
+}
+
+6888 = {
+	name = Allmelt
+	culture = horsc
+}
+
+6889 = {
+	name = Allarm
+	culture = horsc
+}
+
+6890 = {
+	name = Allleg
+	culture = horsc
+}
+
+6891 = {
+	name = Allbreak
+	culture = horsc
+}
+
+6892 = {
+	name = Allchew
+	culture = horsc
+}
+
+6893 = {
+	name = Allgone
+	culture = horsc
+}
+
+6894 = {
+	name = Allcave
+	culture = horsc
+}
+
+6895 = {
+	name = Allcart
+	culture = horsc
+}
+
+6896 = {
+	name = Allhorse
+	culture = horsc
+}
+
+6897 = {
+	name = Allcrap
+	culture = horsc
+}
+
+6898 = {
+	name = Allblast
+	culture = horsc
+}
+
+6899 = {
+	name = Whipsmash
+	culture = horsc
+}
+
+6900 = {
+	name = Whipgruk
+	culture = horsc
+}
+
+6901 = {
+	name = Whipcrush
+	culture = horsc
+}
+
+6902 = {
+	name = Whipthrash
+	culture = horsc
+}
+
+6903 = {
+	name = Whiptusk
+	culture = horsc
+}
+
+6904 = {
+	name = Whiprend
+	culture = horsc
+}
+
+6905 = {
+	name = Whiptear
+	culture = horsc
+}
+
+6906 = {
+	name = Whiprip
+	culture = horsc
+}
+
+6907 = {
+	name = Whipbiter
+	culture = horsc
+}
+
+6908 = {
+	name = Whipklort
+	culture = horsc
+}
+
+6909 = {
+	name = Whippillage
+	culture = horsc
+}
+
+6910 = {
+	name = Whipdick
+	culture = horsc
+}
+
+6911 = {
+	name = Whiptrag
+	culture = horsc
+}
+
+6912 = {
+	name = Whipsnarl
+	culture = horsc
+}
+
+6913 = {
+	name = Whipthroat
+	culture = horsc
+}
+
+6914 = {
+	name = Whippull
+	culture = horsc
+}
+
+6915 = {
+	name = Whipdoor
+	culture = horsc
+}
+
+6916 = {
+	name = Whipkind
+	culture = horsc
+}
+
+6917 = {
+	name = Whiphair
+	culture = horsc
+}
+
+6918 = {
+	name = Whipmurder
+	culture = horsc
+}
+
+6919 = {
+	name = Whipmelt
+	culture = horsc
+}
+
+6920 = {
+	name = Whiparm
+	culture = horsc
+}
+
+6921 = {
+	name = Whipleg
+	culture = horsc
+}
+
+6922 = {
+	name = Whipbreak
+	culture = horsc
+}
+
+6923 = {
+	name = Whipchew
+	culture = horsc
+}
+
+6924 = {
+	name = Whipgone
+	culture = horsc
+}
+
+6925 = {
+	name = Whipcave
+	culture = horsc
+}
+
+6926 = {
+	name = Whipcart
+	culture = horsc
+}
+
+6927 = {
+	name = Whiphorse
+	culture = horsc
+}
+
+6928 = {
+	name = Whipcrap
+	culture = horsc
+}
+
+6929 = {
+	name = Whipblast
+	culture = horsc
+}
+
+6930 = {
+	name = Worldsmash
+	culture = horsc
+}
+
+6931 = {
+	name = Worldgruk
+	culture = horsc
+}
+
+6932 = {
+	name = Worldcrush
+	culture = horsc
+}
+
+6933 = {
+	name = Worldthrash
+	culture = horsc
+}
+
+6934 = {
+	name = Worldtusk
+	culture = horsc
+}
+
+6935 = {
+	name = Worldrend
+	culture = horsc
+}
+
+6936 = {
+	name = Worldtear
+	culture = horsc
+}
+
+6937 = {
+	name = Worldrip
+	culture = horsc
+}
+
+6938 = {
+	name = Worldbiter
+	culture = horsc
+}
+
+6939 = {
+	name = Worldklort
+	culture = horsc
+}
+
+6940 = {
+	name = Worldpillage
+	culture = horsc
+}
+
+6941 = {
+	name = Worlddick
+	culture = horsc
+}
+
+6942 = {
+	name = Worldtrag
+	culture = horsc
+}
+
+6943 = {
+	name = Worldsnarl
+	culture = horsc
+}
+
+6944 = {
+	name = Worldthroat
+	culture = horsc
+}
+
+6945 = {
+	name = Worldpull
+	culture = horsc
+}
+
+6946 = {
+	name = Worlddoor
+	culture = horsc
+}
+
+6947 = {
+	name = Worldkind
+	culture = horsc
+}
+
+6948 = {
+	name = Worldhair
+	culture = horsc
+}
+
+6949 = {
+	name = Worldmurder
+	culture = horsc
+}
+
+6950 = {
+	name = Worldmelt
+	culture = horsc
+}
+
+6951 = {
+	name = Worldarm
+	culture = horsc
+}
+
+6952 = {
+	name = Worldleg
+	culture = horsc
+}
+
+6953 = {
+	name = Worldbreak
+	culture = horsc
+}
+
+6954 = {
+	name = Worldchew
+	culture = horsc
+}
+
+6955 = {
+	name = Worldgone
+	culture = horsc
+}
+
+6956 = {
+	name = Worldcave
+	culture = horsc
+}
+
+6957 = {
+	name = Worldcart
+	culture = horsc
+}
+
+6958 = {
+	name = Worldhorse
+	culture = horsc
+}
+
+6959 = {
+	name = Worldcrap
+	culture = horsc
+}
+
+6960 = {
+	name = Worldblast
+	culture = horsc
+}
+
+6961 = {
+	name = Grogsmash
+	culture = horsc
+}
+
+6962 = {
+	name = Groggruk
+	culture = horsc
+}
+
+6963 = {
+	name = Grogcrush
+	culture = horsc
+}
+
+6964 = {
+	name = Grogthrash
+	culture = horsc
+}
+
+6965 = {
+	name = Grogtusk
+	culture = horsc
+}
+
+6966 = {
+	name = Grogrend
+	culture = horsc
+}
+
+6967 = {
+	name = Grogtear
+	culture = horsc
+}
+
+6968 = {
+	name = Grogrip
+	culture = horsc
+}
+
+6969 = {
+	name = Grogbiter
+	culture = horsc
+}
+
+6970 = {
+	name = Grogklort
+	culture = horsc
+}
+
+6971 = {
+	name = Grogpillage
+	culture = horsc
+}
+
+6972 = {
+	name = Grogdick
+	culture = horsc
+}
+
+6973 = {
+	name = Grogtrag
+	culture = horsc
+}
+
+6974 = {
+	name = Grogsnarl
+	culture = horsc
+}
+
+6975 = {
+	name = Grogthroat
+	culture = horsc
+}
+
+6976 = {
+	name = Grogpull
+	culture = horsc
+}
+
+6977 = {
+	name = Grogdoor
+	culture = horsc
+}
+
+6978 = {
+	name = Grogkind
+	culture = horsc
+}
+
+6979 = {
+	name = Groghair
+	culture = horsc
+}
+
+6980 = {
+	name = Grogmurder
+	culture = horsc
+}
+
+6981 = {
+	name = Grogmelt
+	culture = horsc
+}
+
+6982 = {
+	name = Grogarm
+	culture = horsc
+}
+
+6983 = {
+	name = Grogleg
+	culture = horsc
+}
+
+6984 = {
+	name = Grogbreak
+	culture = horsc
+}
+
+6985 = {
+	name = Grogchew
+	culture = horsc
+}
+
+6986 = {
+	name = Groggone
+	culture = horsc
+}
+
+6987 = {
+	name = Grogcave
+	culture = horsc
+}
+
+6988 = {
+	name = Grogcart
+	culture = horsc
+}
+
+6989 = {
+	name = Groghorse
+	culture = horsc
+}
+
+6990 = {
+	name = Grogcrap
+	culture = horsc
+}
+
+6991 = {
+	name = Grogblast
+	culture = horsc
+}

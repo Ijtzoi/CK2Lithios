@@ -1,0 +1,4 @@
+992.1.1 = {
+	liege = k_rimoti
+	holder = 6724
+}

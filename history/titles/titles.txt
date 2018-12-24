@@ -1277,253 +1277,253 @@ e_hell;0
 			c_epatonne;0
 			c_qemojan;0
 	k_torodar;0
-		d_luyuith;0
-			c_telashe;0
-			c_renina;0
-			c_kuigang;0
-		d_senohn;0
-			c_rodith;0
-			c_denata;0
-			c_retath;0
-			c_tinir;0
-		d_amahirma;0
-			c_demila;0
-			c_atars;0
-			c_edinett;0
-			c_edeslav;0
-		d_rirahor;0
-			c_laumohn;0
-			c_kocofan;0
-			c_daxina;0
-		d_taumath;0
-			c_kashe;0
-			c_qinett;0
-			c_kaud;0
-			c_luohore;0
+		d_luyuith;6493 #horsc
+			c_telashe;6493 #horsc
+			c_renina;6493 #horsc
+			c_kuigang;6493 #horsc
+		d_senohn;6524 #horsc
+			c_rodith;6524 #horsc
+			c_denata;6524 #horsc
+			c_retath;6524 #horsc
+			c_tinir;6524 #horsc
+		d_amahirma;6696 #horsc
+			c_demila;6696 #horsc
+			c_atars;6696 #horsc
+			c_edinett;6696 #horsc
+			c_edeslav;6696 #horsc
+		d_rirahor;6276 #horsc
+			c_laumohn;6276 #horsc
+			c_kocofan;6276 #horsc
+			c_daxina;6276 #horsc
+		d_taumath;6909 #horsc
+			c_kashe;6909 #horsc
+			c_qinett;6909 #horsc
+			c_kaud;6909 #horsc
+			c_luohore;6909 #horsc
 	k_echofan;0
-		d_ketisey;0
-			c_rocada;0
-			c_terodar;0
-			c_dorisey;0
-		d_webonkan;0
-			c_qebelen;0
-			c_ticida;0
-			c_sebilvia;0
-		d_rareh;0
-			c_tyaa;0
-			c_locuda;0
-			c_sebeszek;0
-			c_ameronia;0
-		d_sicupta;0
-			c_ropluk;0
-			c_ewigisey;0
-			c_neszek;0
-		d_kozarn;0
-			c_aralick;0
-			c_ricida;0
-			c_apratigo;0
-		d_kilila;0
-			c_navila;0
-			c_nemios;0
-			c_koronia;0
-			c_rocilvia;0
-	k_toceslav;0
-		d_rouree;0
-			c_woet;0
-			c_turosi;0
-			c_qictor;0
-		d_wilonso;0
-			c_laudah;0
-			c_kawwa;0
-		d_qadolf;0
-			c_qadick;0
-			c_kemazan;0
-			c_adosi;0
-		d_rehio;0
-			c_sitree;0
-			c_kouree;0
-			c_kaudona;0
-		d_edehigo;0
-			c_wetuda;0
-			c_qurofia;0
-			c_azdofia;0
-			c_ludyoah;0
-		d_naudonso;0
-			c_kilila;0
-			c_weikada;0
-			c_raudonso;0
-			c_ligo;0
-		d_talonso;0
-			c_lodonso;0
-			c_lavaric;0
-			c_wilars;0
-			c_bick;0
-		d_asvitare;0
-			c_wetupta;0
-			c_tadeszek;0
-		d_touree;0
-			c_enorada;0
-			c_dilvia;0
-			c_deikapa;0
-			c_bocapa;0
-			c_rocapa;0
+		d_ketisey;6679 #horsc
+			c_rocada;6679 #horsc
+			c_terodar;6679 #horsc
+			c_dorisey;6679 #horsc
+		d_webonkan;6400 #horsc
+			c_qebelen;6400 #horsc
+			c_ticida;6400 #horsc
+			c_sebilvia;6400 #horsc
+		d_rareh;6333 #horsc
+			c_tyaa;6333 #horsc
+			c_locuda;6333 #horsc
+			c_sebeszek;6333 #horsc
+			c_ameronia;6333 #horsc
+		d_sicupta;6363 #horsc
+			c_ropluk;6363 #horsc
+			c_ewigisey;6363 #horsc
+			c_neszek;6363 #horsc
+		d_kozarn;6090 #horsc
+			c_aralick;6090 #horsc
+			c_ricida;6090 #horsc
+			c_apratigo;6090 #horsc
+		d_kilila;6900 #horsc
+			c_navila;6900 #horsc
+			c_nemios;6900 #horsc
+			c_koronia;6900 #horsc
+			c_rocilvia;6900 #horsc
+	k_toceslav;6899 #horsc
+		d_rouree;6899 #horsc
+			c_woet;6899 #horsc
+			c_turosi;6899 #horsc
+			c_qictor;6899 #horsc
+		d_wilonso;6899 #horsc
+			c_laudah;6899 #horsc
+			c_kawwa;6899 #horsc
+		d_qadolf;6899 #horsc
+			c_qadick;6899 #horsc
+			c_kemazan;6899 #horsc
+			c_adosi;6899 #horsc
+		d_rehio;6899 #horsc
+			c_sitree;6899 #horsc
+			c_kouree;6899 #horsc
+			c_kaudona;6899 #horsc
+		d_edehigo;6899 #horsc
+			c_wetuda;6899 #horsc
+			c_qurofia;6899 #horsc
+			c_azdofia;6899 #horsc
+			c_ludyoah;6899 #horsc
+		d_naudonso;6899 #horsc
+			c_kilila;6899 #horsc
+			c_weikada;6899 #horsc
+			c_raudonso;6899 #horsc
+			c_ligo;6899 #horsc
+		d_talonso;6899 #horsc
+			c_lodonso;6899 #horsc
+			c_lavaric;6899 #horsc
+			c_wilars;6899 #horsc
+			c_bick;6899 #horsc
+		d_asvitare;6899 #horsc
+			c_wetupta;6899 #horsc
+			c_tadeszek;6899 #horsc
+		d_touree;6899 #horsc
+			c_enorada;6899 #horsc
+			c_dilvia;6899 #horsc
+			c_deikapa;6899 #horsc
+			c_bocapa;6899 #horsc
+			c_rocapa;6899 #horsc
 	k_teikada;0
-		d_rituma;0
-			c_raudila;0
-			c_toer;0
-			c_lehonso;0
-			c_sadila;0
-			c_epratah;0
-		d_evacars;0
-			c_lemars;0
-			c_bavazan;0
-			c_socilvia;0
-		d_doudou;0
-			c_batio;0
-			c_lutoer;0
-			c_nisarte;0
-			c_ehilick;0
-		d_naneke;0
-			c_tarirma;0
-			c_ejutirma;0
-			c_titigo;0
-	k_ninalli;0
-		d_retisey;0
-			c_tabalia;0
-			c_serida;0
-			c_exapa;0
-		d_qadofan;0
-			c_ladeszek;0
-			c_adopluk;0
-			c_nadaye;0
-			c_wocuslan;0
-			c_neikida;0
-		d_rocada;0
-			c_rocofan;0
-			c_qaxolman;0
-			c_nocopluk;0
-		d_toceszek;0
-			c_nebada;0
-			c_wadisey;0
-		d_echeszek;0
-			c_sadeszek;0
-			c_kadaye;0
-			c_exida;0
-			c_qenedek;0
-			c_kodett;0
-		d_teocah;0
-			c_lyia;0
-			c_badenku;0
-			c_teruda;0
-	k_rimoti;0
-		d_nonocia;0
-			c_konocia;0
-			c_tojan;0
-			c_nelonda;0
-		d_rabojan;0
-			c_tavada;0
-			c_nyesalan;0
-			c_raboti;0
-			c_lojan;0
-		d_keiralli;0
-			c_rurict;0
-			c_wuedari;0
-			c_baditya;0
+		d_rituma;6374 #horsc
+			c_raudila;6374 #horsc
+			c_toer;6374 #horsc
+			c_lehonso;6374 #horsc
+			c_sadila;6374 #horsc
+			c_epratah;6374 #horsc
+		d_evacars;6684 #horsc
+			c_lemars;6684 #horsc
+			c_bavazan;6684 #horsc
+			c_socilvia;6684 #horsc
+		d_doudou;6704 #horsc
+			c_batio;6704 #horsc
+			c_lutoer;6704 #horsc
+			c_nisarte;6704 #horsc
+			c_ehilick;6704 #horsc
+		d_naneke;6874 #horsc
+			c_tarirma;6874 #horsc
+			c_ejutirma;6874 #horsc
+			c_titigo;6874 #horsc
+	k_ninalli;6848 #horsc
+		d_retisey;6848 #horsc
+			c_tabalia;6848 #horsc
+			c_serida;6848 #horsc
+			c_exapa;6848 #horsc
+		d_qadofan;6848 #horsc
+			c_ladeszek;6848 #horsc
+			c_adopluk;6848 #horsc
+			c_nadaye;6848 #horsc
+			c_wocuslan;6848 #horsc
+			c_neikida;6848 #horsc
+		d_rocada;6848 #horsc
+			c_rocofan;6848 #horsc
+			c_qaxolman;6848 #horsc
+			c_nocopluk;6848 #horsc
+		d_toceszek;6848 #horsc
+			c_nebada;6848 #horsc
+			c_wadisey;6848 #horsc
+		d_echeszek;6848 #horsc
+			c_sadeszek;6848 #horsc
+			c_kadaye;6848 #horsc
+			c_exida;6848 #horsc
+			c_qenedek;6848 #horsc
+			c_kodett;6848 #horsc
+		d_teocah;6848 #horsc
+			c_lyia;6848 #horsc
+			c_badenku;6848 #horsc
+			c_teruda;6848 #horsc
+	k_rimoti;6174
+		d_nonocia;6174
+			c_konocia;6174
+			c_tojan;6174
+			c_nelonda;6174
+		d_rabojan;6724			k_rimoti
+			c_tavada;6724		k_rimoti
+			c_nyesalan;6724		k_rimoti
+			c_raboti;6724		k_rimoti
+			c_lojan;6724		k_rimoti
+		d_keiralli;6124			k_rimoti
+			c_rurict;6124		k_rimoti
+			c_wuedari;6124		k_rimoti
+			c_baditya;6124		k_rimoti
 	k_wonda;0
-		d_tabijari;0
-			c_ticenku;0
-			c_ninory;0
-			c_ragine;0
-			c_ebarasi;0
-			c_wari;0
-		d_nita;0
-			c_kadari;0
-			c_wagict;0
-			c_karolir;0
-		d_tabijict;0
-			c_nadari;0
-			c_alari;0
-			c_etugun;0
-			c_ruedid;0
-			c_qunugun;0
-		d_abodasi;0
-			c_quedict;0
-			c_sagari;0
-			c_dari;0
-			c_karari;0
-			c_laxeszek;0
-		d_burari;0
-			c_esid;0
-			c_dimaine;0
-			c_dimasi;0
-			c_esict;0
-	k_reiritya;0
-		d_runict;0
-			c_rawar;0
-			c_bemari;0
-			c_avimalir;0
-			c_nurict;0
-			c_wagawar;0
-		d_wabada;0
-			c_qurugun;0
-			c_kelalli;0
-			c_wabijari;0
-			c_bada;0
+		d_tabijari;6249
+			c_ticenku;6249
+			c_ninory;6249
+			c_ragine;6249
+			c_ebarasi;6249
+			c_wari;6249
+		d_nita;6562
+			c_kadari;6562
+			c_wagict;6562
+			c_karolir;6562
+		d_tabijict;6678
+			c_nadari;6678
+			c_alari;6678
+			c_etugun;6678
+			c_ruedid;6678
+			c_qunugun;6678
+		d_abodasi;6216
+			c_quedict;6216
+			c_sagari;6216
+			c_dari;6216
+			c_karari;6216
+			c_laxeszek;6216
+		d_burari;6428
+			c_esid;6428
+			c_dimaine;6428
+			c_dimasi;6428
+			c_esict;6428
+	k_reiritya;6552
+		d_runict;6309			k_reiritya
+			c_rawar;6309		k_reiritya
+			c_bemari;6309		k_reiritya
+			c_avimalir;6309		k_reiritya
+			c_nurict;6309		k_reiritya
+			c_wagawar;6309		k_reiritya
+		d_wabada;6552
+			c_qurugun;6552
+			c_kelalli;6552
+			c_wabijari;6552
+			c_bada;6552
 	k_sakashe;0
-		d_kicaye;0
-			c_kamomo;0
-			c_kelet;0
-			c_kamaret;0
-			c_elenett;0
-		d_remugun;0
-			c_atenenku;0
-			c_toulith;0
-		d_radusoy;0
-			c_kodina;0
-			c_qaxoshua;0
-			c_deszek;0
+		d_kicaye;6001
+			c_kamomo;6001
+			c_kelet;6001
+			c_kamaret;6001
+			c_elenett;6001
+		d_remugun;6042
+			c_atenenku;6042
+			c_toulith;6042
+		d_radusoy;6099
+			c_kodina;6099
+			c_qaxoshua;6099
+			c_deszek;6099
 	k_egronda;0
-		d_qadaret;0
-			c_taduslaw;0
-			c_epetipe;0
-			c_koulith;0
-			c_ketenku;0
-		d_asoparet;0
-			c_epierohn;0
-			c_elenith;0
-			c_tinohn;0
-			c_qida;0
-		d_docapa;0
-			c_edabel;0
-			c_seszek;0
-			c_nocilvia;0
-		d_rorofan;0
-			c_atenaye;0
-			c_bicusoy;0
-			c_liconia;0
-		d_timaari;0
-			c_tieruda;0
-			c_wofuda;0
-			c_tida;0
-		d_belalan;0
-			c_kadada;0
-			c_epavita;0
-			c_binanka;0
-		d_alict;0
-			c_kurict;0
-			c_taxuslan;0
-			c_qunawar;0
+		d_qadaret;6226
+			c_taduslaw;6226
+			c_epetipe;6226
+			c_koulith;6226
+			c_ketenku;6226
+		d_asoparet;6006
+			c_epierohn;6006
+			c_elenith;6006
+			c_tinohn;6006
+			c_qida;6006
+		d_docapa;6174
+			c_edabel;6174
+			c_seszek;6174
+			c_nocilvia;6174
+		d_rorofan;6432
+			c_atenaye;6432
+			c_bicusoy;6432
+			c_liconia;6432
+		d_timaari;6194
+			c_tieruda;6194
+			c_wofuda;6194
+			c_tida;6194
+		d_belalan;6213
+			c_kadada;6213
+			c_epavita;6213
+			c_binanka;6213
+		d_alict;6464
+			c_kurict;6464
+			c_taxuslan;6464
+			c_qunawar;6464
 	k_samelet;0
-		d_enuhenku;0
-			c_amang;0
-			c_aidelet;0
+		d_enuhenku;6677
+			c_amang;6677
+			c_aidelet;6677
 		d_wenipe;0
 			c_bashe;7520			d_free_forts
-			c_qaxudah;0
-			c_lore;0
-			c_wetath;0
-		d_qabijari;0
-			c_turict;0
-			c_senohn;0
-			c_kuyuath;0
-			c_kagoshua;0
+			c_qaxudah;6543
+			c_lore;6713
+			c_wetath;6235
+		d_qabijari;6666
+			c_turict;6666
+			c_senohn;6666
+			c_kuyuath;6666
+			c_kagoshua;6666

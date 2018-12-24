@@ -1,0 +1,4 @@
+992.1.1 = {
+	holder = 6363 #horsc
+	historical_nomad = yes
+}
