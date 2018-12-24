@@ -1,0 +1,59 @@
+targetted_decisions = {
+
+	make_vampire = {
+		filter = court
+		from_potential = {
+			trait = vampire
+		}
+		potential = {
+			NOT = { trait = vampire }
+		}
+		allow = {
+			opinion = { who = FROM value = 25 }
+		}
+		effect = { #TODO: move to event chain where the recipient gets some autonomy
+			add_trait = vampire
+			dynasty = FROM
+			if = {
+				limit = {
+					FROM = {
+						is_female = yes
+					}
+				}
+				set_mother = FROM
+				set_father = 0
+			}
+			else = {
+				set_father = FROM
+				set_mother = 0
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 0.1
+			modifier = {
+				factor = 2.5
+				FROM = { opinion = { who = ROOT value = 90 } }
+			}
+			modifier = {
+				factor = 2
+				FROM = { opinion = { who = ROOT value = 75 } }
+			}
+			modifier = {
+				factor = 2
+				FROM = { opinion = { who = ROOT value = 50 } }
+			}
+			modifier = {
+				factor = 0
+				NOT = { FROM = { opinion = { who = ROOT value = 25 } } }
+			}
+			modifier = {
+				factor = 0
+				num_of_children = 3
+			}
+		}
+	}
+	
+}

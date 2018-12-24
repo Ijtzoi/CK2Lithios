@@ -1,0 +1,13 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_trait_vampire"
+		texturefile = "gfx\\traits\\vampire.tga"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_mageborn"
+		texturefile = "gfx\\traits\\fair.tga"
+	}
+	
+}
