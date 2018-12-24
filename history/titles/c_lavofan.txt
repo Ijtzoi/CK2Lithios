@@ -1,5 +1,5 @@
 992.1.1 = {
-	liege = k_tudelen
+	liege = k_old_sendan
 	holder = 9535 #sendan
 	historical_nomad = yes
 }

@@ -1708,7 +1708,7 @@ e_sedina = { #Sedina
 		title = king
 		title_female = king
 	}
-	k_tudelen = {
+	k_old_sendan = {
 		color = { 172 186 253 }
 		color2 = { 172 186 253 }
 		capital = 775
