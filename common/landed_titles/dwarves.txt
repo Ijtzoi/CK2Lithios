@@ -1094,13 +1094,8 @@ e_wavolm = { #Dwarves
 					title = baron
 					title_female = baron
 				}
-				holy_site = tirigh
-				holy_site = kyabolm
-				holy_site = dimolm
-				holy_site = watais
 				color = { 156 110 62 }
 				color2 = { 151 200 225 }
-				#culture = kigh
 				title = count
 				title_female = count
 			}
@@ -1262,17 +1257,11 @@ e_wavolm = { #Dwarves
 					title = baron
 					title_female = baron
 				}
-				holy_site = tirigh
-				holy_site = kyabolm
-				holy_site = dimolm
-				holy_site = watais
 				color = { 91 63 200 }
 				color2 = { 151 200 225 }
-				#culture = kigh
 				title = count
 				title_female = count
 			}
-			#culture = kigh
 			title = duke
 			title_female = duke
 		}
@@ -3928,14 +3917,11 @@ e_wavolm = { #Dwarves
 					title = baron
 					title_female = baron
 				}
-				holy_site = dimolm
 				color = { 146 176 26 }
 				color2 = { 131 222 135 }
-				#culture = dunach
 				title = count
 				title_female = count
 			}
-			#culture = dunach
 			title = duke
 			title_female = duke
 		}
@@ -4956,10 +4942,8 @@ e_wavolm = { #Dwarves
 					title = baron
 					title_female = baron
 				}
-				holy_site = dimolm
 				color = { 202 97 74 }
 				color2 = { 107 196 245 }
-				#culture = kaygise
 				title = count
 				title_female = count
 			}

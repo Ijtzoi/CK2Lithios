@@ -510,10 +510,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = watais
 				color = { 9 146 253 }
 				color2 = { 127 187 206 }
-				#culture = dojan
 				title = count
 				title_female = count
 			}
@@ -638,10 +636,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = watais
 				color = { 19 200 20 }
 				color2 = { 127 187 206 }
-				#culture = dojan
 				title = count
 				title_female = count
 			}
@@ -1350,10 +1346,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = kabanka
 				color = { 205 233 223 }
 				color2 = { 183 68 107 }
-				#culture = qadelen
 				title = count
 				title_female = count
 			}
@@ -1647,10 +1641,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = kocofan
 				color = { 1 145 151 }
 				color2 = { 125 214 103 }
-				#culture = docuslan
 				title = count
 				title_female = count
 			}
@@ -2441,14 +2433,11 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = kocofan
 				color = { 159 37 124 }
 				color2 = { 57 200 185 }
-				#culture = ewiebida
 				title = count
 				title_female = count
 			}
-			#culture = ewiebida
 			title = duke
 			title_female = duke
 		}
@@ -2575,10 +2564,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = seikuda
 				color = { 217 203 44 }
 				color2 = { 57 200 185 }
-				#culture = ewiebida
 				title = count
 				title_female = count
 			}
@@ -2990,10 +2977,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = seikuda
 				color = { 105 218 125 }
 				color2 = { 125 214 103 }
-				#culture = docuslan
 				title = count
 				title_female = count
 			}
@@ -4362,13 +4347,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = kabanka
-				holy_site = kocofan
-				holy_site = seikuda
-				holy_site = karodai
 				color = { 238 160 89 }
 				color2 = { 125 214 103 }
-				#culture = docuslan
 				title = count
 				title_female = count
 			}
@@ -4407,13 +4387,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = kabanka
-				holy_site = kocofan
-				holy_site = seikuda
-				holy_site = karodai
 				color = { 142 105 116 }
 				color2 = { 125 214 103 }
-				#culture = docuslan
 				title = count
 				title_female = count
 			}
@@ -4450,13 +4425,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = kabanka
-				holy_site = kocofan
-				holy_site = seikuda
-				holy_site = karodai
 				color = { 249 202 169 }
 				color2 = { 125 214 103 }
-				#culture = docuslan
 				title = count
 				title_female = count
 			}
@@ -8314,10 +8284,8 @@ e_hell = { #Demons
 					title = baron
 					title_female = baron
 				}
-				holy_site = karodai
 				color = { 55 165 118 }
 				color2 = { 204 205 229 }
-				#culture = qamemma
 				title = count
 				title_female = count
 			}

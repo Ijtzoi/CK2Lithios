@@ -868,13 +868,8 @@ e_nonka = { #Halflings
 					title = baron
 					title_female = baron
 				}
-				holy_site = tirigh
-				holy_site = kyabolm
-				holy_site = dimolm
-				holy_site = watais
 				color = { 122 146 101 }
 				color2 = { 246 64 192 }
-				#culture = birah
 				title = count
 				title_female = count
 			}
@@ -1648,14 +1643,11 @@ e_nonka = { #Halflings
 					title = baron
 					title_female = baron
 				}
-				holy_site = tirigh
 				color = { 34 68 215 }
 				color2 = { 97 111 131 }
-				#culture = rariu
 				title = count
 				title_female = count
 			}
-			#culture = rariu
 			title = duke
 			title_female = duke
 		}
@@ -2392,14 +2384,11 @@ e_nonka = { #Halflings
 					title = baron
 					title_female = baron
 				}
-				holy_site = kyabolm
 				color = { 9 79 205 }
 				color2 = { 185 89 132 }
-				#culture = kigh
 				title = count
 				title_female = count
 			}
-			#culture = kigh
 			title = duke
 			title_female = duke
 		}
@@ -2442,10 +2431,8 @@ e_nonka = { #Halflings
 					title = baron
 					title_female = baron
 				}
-				holy_site = kyabolm
 				color = { 137 221 133 }
 				color2 = { 185 89 132 }
-				#culture = kigh
 				title = count
 				title_female = count
 			}
@@ -3790,10 +3777,8 @@ e_nonka = { #Halflings
 					title = baron
 					title_female = baron
 				}
-				holy_site = tirigh
 				color = { 235 18 66 }
 				color2 = { 127 187 206 }
-				#culture = dojan
 				title = count
 				title_female = count
 			}

@@ -169,10 +169,8 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = kadeph
 				color = { 54 107 63 }
 				color2 = { 197 238 223 }
-				#culture = sudoka
 				title = count
 				title_female = count
 			}
@@ -1945,10 +1943,8 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = tutt
 				color = { 37 225 48 }
 				color2 = { 98 123 77 }
-				#culture = nutt
 				title = count
 				title_female = count
 			}
@@ -2894,10 +2890,8 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = lugana
 				color = { 96 187 170 }
 				color2 = { 146 117 137 }
-				#culture = tunudna
 				title = count
 				title_female = count
 			}
@@ -10841,17 +10835,11 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = asinaaq
-				holy_site = kadeph
-				holy_site = qyasavi
-				holy_site = tutt
 				color = { 93 159 15 }
 				color2 = { 209 205 131 }
-				#culture = narvin
 				title = count
 				title_female = count
 			}
-			#culture = narvin
 			title = duke
 			title_female = duke
 		}
@@ -10974,17 +10962,11 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = asinaaq
-				holy_site = kadeph
-				holy_site = qyasavi
-				holy_site = tutt
 				color = { 223 182 166 }
 				color2 = { 101 164 86 }
-				#culture = weroan
 				title = count
 				title_female = count
 			}
-			#culture = weroan
 			title = duke
 			title_female = duke
 		}
@@ -11187,14 +11169,11 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = kadeph
 				color = { 86 43 86 }
 				color2 = { 172 64 166 }
-				#culture = qalupta
 				title = count
 				title_female = count
 			}
-			#culture = qalupta
 			title = duke
 			title_female = duke
 		}
@@ -11356,10 +11335,8 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = asinaaq
 				color = { 247 148 161 }
 				color2 = { 101 164 86 }
-				#culture = weroan
 				title = count
 				title_female = count
 			}
@@ -11525,10 +11502,8 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = asinaaq
 				color = { 171 4 19 }
 				color2 = { 101 164 86 }
-				#culture = weroan
 				title = count
 				title_female = count
 			}
@@ -15019,10 +14994,8 @@ e_deeproots = { #Elves
 					title = baron
 					title_female = baron
 				}
-				holy_site = tutt
 				color = { 239 30 221 }
 				color2 = { 172 97 60 }
-				#culture = ecagolk
 				title = count
 				title_female = count
 			}

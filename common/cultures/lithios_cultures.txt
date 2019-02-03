@@ -62,11 +62,11 @@ human = {
 			Abianos_Abijah Abisalom Ablarion Abraam_Abraham Abu-Bakr_Abu-Bakr Adnan Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
 			Ahmad_Ahmad Akbar_Akbar Alam Ali_Ali Amr Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Asim
 			Athanasios_Athanasius Badr Bashir Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter Danyal_Daniel Dawlat Da’oud_David
-			Ezra_Ezra Farhan Firuz_Peroz Gabri’el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hakam_Hakam Hammud Hanri_Henry Haroun_Aaron Hisham
+			Ezra_Ezra Farhan Firuz_Peroz Gabri’el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hammud Hanri_Henry Haroun_Aaron Hisham
 			Hussayn_Hussein Ibrahim_Abraham Ilyas_Elijah Is'mail_Ismail Izzaddin Jalaaladdin Jawdat Jerjer_Gregory Kemaladdin Khalil_Khalil Krystafer_Christopher
 			Latif Lot Malik Matta_Matthew Mehtar Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Muammar Muhammad_Muhammad
-			Mukhtar Murad_Morad Murshid Musa_Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim_Salim Sha'ban
-			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yahya_Yahya Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
+			Mukhtar Murad_Morad Murshid Musa_Moses Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim_Salim Sha'ban
+			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
 		}
 		female_names = {
 			Aisha Aziza Duha Farida Golbahar Gulnar Gulnaz Gulpari Hafsa Hasti Huma Ibtisam Jalila Kamala Karima Khandan Khaterah Khatira Kinah Lala Madiha Mahdokht

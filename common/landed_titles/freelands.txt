@@ -827,10 +827,8 @@ e_freelands = { #Freelands
 					title = baron
 					title_female = baron
 				}
-				holy_site = karodai
 				color = { 150 233 161 }
 				color2 = { 204 205 229 }
-				#culture = qamemma
 				title = count
 				title_female = count
 			}
@@ -2108,13 +2106,8 @@ e_freelands = { #Freelands
 					title = baron
 					title_female = baron
 				}
-				holy_site = qanand
-				holy_site = senulia
-				holy_site = watlera
-				holy_site = tudana
 				color = { 235 82 167 }
 				color2 = { 181 200 172 }
-				#culture = naratan
 				title = count
 				title_female = count
 			}
@@ -2190,13 +2183,8 @@ e_freelands = { #Freelands
 					title = baron
 					title_female = baron
 				}
-				holy_site = qanand
-				holy_site = senulia
-				holy_site = watlera
-				holy_site = tudana
 				color = { 204 2 50 }
 				color2 = { 181 200 172 }
-				#culture = naratan
 				title = count
 				title_female = count
 			}
@@ -2559,13 +2547,8 @@ e_freelands = { #Freelands
 					title = baron
 					title_female = baron
 				}
-				holy_site = qanand
-				holy_site = senulia
-				holy_site = watlera
-				holy_site = tudana
 				color = { 191 53 232 }
 				color2 = { 181 200 172 }
-				#culture = naratan
 				title = count
 				title_female = count
 			}
@@ -4017,6 +4000,8 @@ e_freelands = { #Freelands
 			c_clearlake = {
 				holy_site = seven
 				holy_site = hope
+				holy_site = orphans
+				holy_site = adomites
 				b_castle_of_the_crystal_waters = {}
 				b_temple_of_the_seven = {}
 				b_library_of_clearlake = {}
@@ -4136,10 +4121,8 @@ e_freelands = { #Freelands
 					title = baron
 					title_female = baron
 				}
-				holy_site = kabanka
 				color = { 124 233 77 }
 				color2 = { 65 234 145 }
-				#culture = koraret
 				title = count
 				title_female = count
 			}

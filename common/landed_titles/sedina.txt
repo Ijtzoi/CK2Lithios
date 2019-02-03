@@ -1267,10 +1267,8 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = sapeer
 				color = { 46 203 75 }
 				color2 = { 218 240 143 }
-				#culture = werei
 				title = count
 				title_female = count
 			}
@@ -1388,17 +1386,11 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = lugana
-				holy_site = ralikne
-				holy_site = sapeer
-				holy_site = ezerilja
 				color = { 247 93 209 }
 				color2 = { 218 240 143 }
-				#culture = werei
 				title = count
 				title_female = count
 			}
-			#culture = werei
 			title = duke
 			title_female = duke
 		}
@@ -1690,21 +1682,14 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = lugana
-				holy_site = ralikne
-				holy_site = sapeer
-				holy_site = ezerilja
 				color = { 63 75 43 }
 				color2 = { 218 240 143 }
-				#culture = werei
 				title = count
 				title_female = count
 			}
-			#culture = werei
 			title = duke
 			title_female = duke
 		}
-		#culture = werei
 		title = king
 		title_female = king
 	}
@@ -1952,10 +1937,8 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = lugana
 				color = { 180 133 180 }
 				color2 = { 111 92 228 }
-				#culture = daurikne
 				title = count
 				title_female = count
 			}
@@ -2117,10 +2100,8 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = qanand
 				color = { 127 125 2 }
 				color2 = { 215 115 188 }
-				#culture = watlera
 				title = count
 				title_female = count
 			}
@@ -2852,14 +2833,11 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = ralikne
 				color = { 25 250 87 }
 				color2 = { 120 69 150 }
-				#culture = redecco
 				title = count
 				title_female = count
 			}
-			#culture = redecco
 			title = duke
 			title_female = duke
 		}
@@ -3558,6 +3536,8 @@ e_sedina = { #Sedina
 			#775
 				holy_site = seven
 				holy_site = hope
+				holy_site = orphans
+				holy_site = adomites
 				b_delael = {
 					title = baron
 					title_female = baron
@@ -4547,10 +4527,8 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = ezerilja
 				color = { 222 24 121 }
 				color2 = { 127 95 174 }
-				#culture = aruga
 				title = count
 				title_female = count
 			}
@@ -4588,14 +4566,11 @@ e_sedina = { #Sedina
 					title = baron
 					title_female = baron
 				}
-				holy_site = ezerilja
 				color = { 34 89 77 }
 				color2 = { 127 95 174 }
-				#culture = aruga
 				title = count
 				title_female = count
 			}
-			#culture = aruga
 			title = duke
 			title_female = duke
 		}

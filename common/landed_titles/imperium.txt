@@ -332,10 +332,8 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = tudana
 				color = { 112 246 45 }
 				color2 = { 145 211 172 }
-				#culture = racses
 				title = count
 				title_female = count
 			}
@@ -2048,14 +2046,11 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = qanand
 				color = { 125 104 88 }
 				color2 = { 249 148 127 }
-				#culture = davimia
 				title = count
 				title_female = count
 			}
-			#culture = davimia
 			title = duke
 			title_female = duke
 		}
@@ -2390,14 +2385,11 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = watlera
 				color = { 209 130 233 }
 				color2 = { 161 70 193 }
-				#culture = tahuimia
 				title = count
 				title_female = count
 			}
-			#culture = tahuimia
 			title = duke
 			title_female = duke
 		}
@@ -2614,6 +2606,8 @@ e_man = { #Empire
 			c_watera = {
 				holy_site = seven
 				holy_site = hope
+				holy_site = orphans
+				holy_site = adomites
 				b_tosini = {
 					title = baron
 					title_female = baron
@@ -4399,14 +4393,11 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = senulia
 				color = { 91 166 99 }
 				color2 = { 75 71 67 }
-				#culture = serei
 				title = count
 				title_female = count
 			}
-			#culture = serei
 			title = duke
 			title_female = duke
 		}
@@ -5169,10 +5160,8 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = senulia
 				color = { 216 207 217 }
 				color2 = { 89 205 221 }
-				#culture = serei
 				title = count
 				title_female = count
 			}
@@ -6725,6 +6714,8 @@ e_man = { #Empire
 			#cap imp
 				holy_site = seven
 				holy_site = hope
+				holy_site = orphans
+				holy_site = adomites
 				b_rabecco = {
 					title = baron
 					title_female = baron
@@ -6843,14 +6834,11 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = tudana
 				color = { 112 175 159 }
 				color2 = { 246 192 145 }
-				#culture = racana
 				title = count
 				title_female = count
 			}
-			#culture = racana
 			title = duke
 			title_female = duke
 		}
@@ -7891,10 +7879,8 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = watlera
 				color = { 161 245 48 }
 				color2 = { 249 148 127 }
-				#culture = davimia
 				title = count
 				title_female = count
 			}
@@ -9107,10 +9093,8 @@ e_man = { #Empire
 					title = baron
 					title_female = baron
 				}
-				holy_site = ralikne
 				color = { 86 115 122 }
 				color2 = { 146 117 137 }
-				#culture = tunudna
 				title = count
 				title_female = count
 			}
