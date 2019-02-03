@@ -1075,12 +1075,13 @@ character_event = {
 	immediate = {
 		any_playable_ruler = {  
 			limit = {
-			ai = yes
-			OR = { 
-				graphical_culture = norsegfx
-				graphical_culture = saxongfx
-				graphical_culture = celticgfx 
-				graphical_culture = cumangfx
+				ai = yes
+				OR = { 
+					graphical_culture = norsegfx
+					graphical_culture = saxongfx
+					graphical_culture = celticgfx 
+					graphical_culture = cumangfx
+				}
 			}
 			random_list = { 
 				2 = { add_trait = freckles_5 }
@@ -1092,11 +1093,11 @@ character_event = {
 			}
 			any_courtier = {
 				limit = {
-				OR = { 
-					graphical_culture = norsegfx
-					graphical_culture = saxongfx
-					graphical_culture = celticgfx 
-					graphical_culture = cumangfx
+					OR = { 
+						graphical_culture = norsegfx
+						graphical_culture = saxongfx
+						graphical_culture = celticgfx 
+						graphical_culture = cumangfx
 					}
 				}
 				random_list = { 

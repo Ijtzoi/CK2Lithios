@@ -4602,8 +4602,8 @@ narrative_event = {
 	picture = { 
 		trigger = { 
 			OR = { 
-				religion = hellenic_pagan
-				religion = hellenic_pagan_reformed
+				religion = celestial_pagan
+				religion = celestial_pagan_reformed
 			}
 		} 
 		picture = GFX_evt_hellenic_temple
@@ -4611,8 +4611,8 @@ narrative_event = {
 	picture = { 
 		trigger = { 
 			OR = { 
-				religion = west_african_pagan
-				religion = west_african_pagan_reformed
+				religion = cat_pagan
+				religion = cat_pagan_reformed
 			}
 		} 
 		picture = GFX_evt_west_african_ruler
@@ -4620,10 +4620,10 @@ narrative_event = {
 	picture = { 
 		trigger = { 
 			NOR = { 
-				religion = hellenic_pagan
-				religion = hellenic_pagan_reformed
-				religion = west_african_pagan
-				religion = west_african_pagan_reformed
+				religion = celestial_pagan
+				religion = celestial_pagan_reformed
+				religion = cat_pagan
+				religion = cat_pagan_reformed
 			}
 		} 
 		picture = GFX_evt_pagan_reformation
@@ -4640,108 +4640,6 @@ narrative_event = {
 	
 	immediate = {
 		hidden_tooltip = {
-		if = { #If hellenic reformer owns Rome, Catholic faith loses MA.
-			limit = { 
-				ROOT = { 
-					religion = hellenic_pagan_reformed 
-					completely_controls = c_roma
-				} 
-			}
-			random_playable_ruler = { 
-				limit = { religion = catholic }		
-				religion_authority = {
-					modifier = hellenic_resurgence
-					years = 100
-				}
-			}
-		}
-		if = { #If hellenic reformer owns Constantinople, Orthodox faith loses MA.
-			limit = { 
-				ROOT = { 
-					religion = hellenic_pagan_reformed 
-					completely_controls = c_byzantion
-				} 
-			}
-			random_playable_ruler = { 
-				limit = { religion = orthodox }	
-				religion_authority = {
-					modifier = hellenic_resurgence
-					years = 100
-				}
-			}
-		}
-		if = {
-			limit = { #If religion being reformed is western paganism, other western pagan are emboldened, facilitating a chain reaction of reformation.
-				ROOT = { 
-					NOR = { 
-						religion = hellenic_pagan_reformed #Not that kind of paganism.
-						religion = bon_reformed
-						religion = zun_pagan_reformed
-						religion = aztec_reformed
-					} 
-				}
-			}
-			if = { 
-				limit = { ROOT = { NOT = { religion = norse_pagan_reformed } } }
-				random_playable_ruler = { 
-					limit = { religion = norse_pagan }	
-					religion_authority = {
-						modifier = pagan_revival
-						years = 20
-					}
-				}
-			}
-			if = { 
-				limit = { ROOT = { NOT = { religion = tengri_pagan_reformed } } }
-				random_playable_ruler = { 
-					limit = { religion = tengri_pagan }	
-					religion_authority = {
-						modifier = pagan_revival
-						years = 20
-					}
-				}
-			}
-			if = { 
-				limit = { ROOT = { NOT = { religion = slavic_pagan_reformed } } }
-				random_playable_ruler = { 
-					limit = { religion = slavic_pagan }	
-					religion_authority = {
-						modifier = pagan_revival
-						years = 20
-					}
-				}
-			}
-			if = { 
-				limit = { ROOT = { NOT = { religion = baltic_pagan_reformed } } }
-				random_playable_ruler = { 
-					limit = { religion = baltic_pagan }	
-					religion_authority = {
-						modifier = pagan_revival
-						years = 20
-					}
-				}
-			}
-			if = { 
-				limit = { ROOT = { NOT = { religion = finnish_pagan_reformed } } }
-				random_playable_ruler = { 
-					limit = { religion = finnish_pagan }	
-					religion_authority = {
-						modifier = pagan_revival
-						years = 20
-					}
-				}
-			}
-			if = { 
-				limit = { ROOT = { NOT = { religion = west_african_pagan_reformed } } }
-				random_playable_ruler = { 
-					limit = { religion = west_african_pagan }	
-					religion_authority = {
-						modifier = pagan_revival
-						years = 20
-					}
-				}
-			} 
-		}
 		if = {
 			limit = { #Modifier not applied correctly by pagan reformation screen.
 				ROOT = { has_religion_feature = religion_cosmopolitan }
@@ -4853,10 +4751,7 @@ narrative_event = {
 		if = {
 			limit = { #Switch to equality.
 				ROOT = { 
-					OR = { 
-						has_religion_feature = religion_equal 
-						has_religion_feature = religion_feature_bon
-					}
+					has_religion_feature = religion_equal
 					NOR = {  
 						is_merchant_republic = yes
 						is_republic = yes
@@ -4929,8 +4824,8 @@ narrative_event = {
 				NOT = { has_dlc = "Holy Fury" } 
 				ROOT = { 
 					OR = { 
-						religion = baltic_pagan_reformed 
-						religion = slavic_pagan_reformed 
+						religion = cat_pagan_reformed 
+						religion = celestial_pagan_reformed 
 					}  
 				} 
 			}
@@ -4963,73 +4858,9 @@ narrative_event = {
 			limit = { #Apply default special features if player doesn't have dlc.
 				NOT = { has_dlc = "Holy Fury" } 
 				ROOT = { 
-					religion = finnish_pagan_reformed 
-				} 
-			}
-			ROOT = { 
-				set_unit_modifier = {		
-					garrison_size = 0.3
-					levy_size = 0.1
-					
-					key = "DEF_RELIGION"
-				}
-				set_unit_home_modifier = {
-					land_morale = 0.8
-					light_infantry_defensive = 0.8
-					heavy_infantry_defensive = 0.8
-					pikemen_defensive = 0.8
-					light_cavalry_defensive = 0.8
-					knights_defensive = 0.8
-					archers_defensive = 0.8
-					horse_archers_defensive = 0.8
-					camel_cavalry_defensive = 0.8
-					war_elephants_defensive = 0.8
-					
-					garrison_size = 0.4
-					
-					key = "DEF_RELIGION_HOME_TERRITORY"
-				}
-			} 
-		}
-		if = {
-			limit = { #Apply default special features if player doesn't have dlc.
-				NOT = { has_dlc = "Holy Fury" } 
-				ROOT = {
-					OR = { 
-						religion = bon_reformed
-						religion = west_african_pagan_reformed 
-					} 
-				} 
-			}
-			ROOT = { 
-				set_unit_modifier = {		
-					garrison_size = 0.4
-				
-					key = "DEF_RELIGION"
-				}
-				set_unit_home_modifier = {
-					land_morale = 0.8
-					light_infantry_defensive = 0.8
-					heavy_infantry_defensive = 0.8
-					pikemen_defensive = 0.8
-					light_cavalry_defensive = 0.8
-					knights_defensive = 0.8
-					archers_defensive = 0.8
-					horse_archers_defensive = 0.8
-					camel_cavalry_defensive = 0.8
-					war_elephants_defensive = 0.8
-					
-					garrison_size = 0.4
-					
-					key = "DEF_RELIGION_HOME_TERRITORY"
-				}
-			} 
-		}
-		if = {
-			limit = { #Apply default special features if player doesn't have dlc.
-				NOT = { has_dlc = "Holy Fury" } 
-				ROOT = { 
-					religion = zun_pagan_reformed 
+					religion = demon_pagan_reformed 
+					religion = orc_pagan_reformed 
+					religion = halfling_pagan_reformed 
 				} 
 			}
 			ROOT = { 
@@ -5048,13 +4879,6 @@ narrative_event = {
 		if = {
 			limit = { ai = no }
 			set_character_flag = achievement_new_ways
-		}
-		if = {
-			limit = {
-				ai = no
-				religion = hellenic_pagan_reformed
-			}
-			set_character_flag = achievement_by_jupiter
 		}
 		any_courtier = {
 			limit = {
@@ -5089,7 +4913,7 @@ narrative_event = {
 					NOT = { has_dlc = "Holy Fury" } 
 					has_religion_feature = religion_temporal_head 
 				} 
-				religion = norse_pagan_reformed 
+				religion = orc_pagan_reformed 
 
 			}
 			add_artifact = crown_fylkir
@@ -5097,7 +4921,7 @@ narrative_event = {
 		if = {
 			limit = { 
 				has_religion_feature = religion_temporal_head 
-				religion = tengri_pagan_reformed 
+				religion = halfling_pagan_reformed 
 
 			}
 			add_artifact = crown_tengri_fylkir
@@ -5105,7 +4929,7 @@ narrative_event = {
 		if = {
 			limit = { 
 				has_religion_feature = religion_temporal_head 
-				religion = finnish_pagan_reformed 
+				religion = cat_pagan_reformed 
 
 			}
 			add_artifact = crown_finnish_fylkir
@@ -5113,15 +4937,7 @@ narrative_event = {
 		if = {
 			limit = { 
 				has_religion_feature = religion_temporal_head 
-				religion = west_african_pagan_reformed 
-
-			}
-			add_artifact = crown_west_african_fylkir
-		}
-		if = {
-			limit = { 
-				has_religion_feature = religion_temporal_head 
-				religion = slavic_pagan_reformed 
+				religion = demon_pagan_reformed 
 
 			}
 			add_artifact = crown_slavic_fylkir
@@ -5129,39 +4945,7 @@ narrative_event = {
 		if = {
 			limit = { 
 				has_religion_feature = religion_temporal_head 
-				religion = baltic_pagan_reformed 
-
-			}
-			add_artifact = crown_romuva_fylkir
-		}
-		if = {
-			limit = { 
-				has_religion_feature = religion_temporal_head 
-				religion = zun_pagan_reformed 
-
-			}
-			add_artifact = crown_zun_fylkir
-		}
-		if = {
-			limit = { 
-				has_religion_feature = religion_temporal_head 
-				religion = aztec_reformed 
-
-			}
-			add_artifact = crown_aztec_fylkir
-		}
-		if = {
-			limit = { 
-				has_religion_feature = religion_temporal_head 
-				religion = bon_reformed 
-
-			}
-			add_artifact = scepter_bon_fylkir
-		}
-		if = {
-			limit = { 
-				has_religion_feature = religion_temporal_head 
-				religion = hellenic_pagan_reformed 
+				religion = celestial_pagan_reformed 
 
 			}
 			add_artifact = scepter_hellenic_fylkir
@@ -5180,47 +4964,24 @@ narrative_event = {
 			religion_head = { opinion = { who = ROOT modifier = opinion_my_reformer years = 50 } }
 		}
 		if = {
-			limit = { religion = norse_pagan_reformed }
-			d_jomsvikings = {
-				religion = norse_pagan_reformed # This Holy Order now changes religion
-			}
-			set_global_flag = norse_reformation
+			limit = { religion = orc_pagan_reformed }
+			set_global_flag = orc_reformation
 		}
 		if = {
-			limit = { religion = tengri_pagan_reformed }
-			set_global_flag = tengri_reformation
+			limit = { religion = halfling_pagan_reformed }
+			set_global_flag = halfling_reformation
 		}
 		if = {
-			limit = { religion = baltic_pagan_reformed }
-			set_global_flag = baltic_reformation
+			limit = { religion = demon_pagan_reformed }
+			set_global_flag = demon_reformation
 		}
 		if = {
-			limit = { religion = finnish_pagan_reformed }
-			set_global_flag = finnish_reformation
+			limit = { religion = cat_pagan_reformed }
+			set_global_flag = cat_reformation
 		}
 		if = {
-			limit = { religion = aztec_reformed }
-			set_global_flag = aztec_reformation
-		}
-		if = {
-			limit = { religion = slavic_pagan_reformed }
-			set_global_flag = slavic_reformation
-		}
-		if = {
-			limit = { religion = west_african_pagan_reformed }
-			set_global_flag = west_african_reformation
-		}
-		if = {
-			limit = { religion = zun_pagan_reformed }
-			set_global_flag = zun_reformation
-		}
-		if = {
-			limit = { religion = bon_reformed }
-			set_global_flag = bon_reformation
-		}
-		if = {
-			limit = { religion = hellenic_pagan_reformed }
-			set_global_flag = hellenic_reformation
+			limit = { religion = celestial_pagan_reformed }
+			set_global_flag = celstial_reformation
 		}
 	}
 	}
@@ -5510,10 +5271,6 @@ narrative_event = {
 		}
 		ai_chance = {
 			factor = 50
-			modifier = {
-				factor = 0
-				has_landed_title = d_jomsvikings
-			}
 			post_reformation_ruler_conversion_score = yes
 		}
 		tooltip = { religion = THIS }

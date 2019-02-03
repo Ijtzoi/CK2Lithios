@@ -1710,6 +1710,7 @@ warrior_lodge_orc = {
 			OR = {
 				religion = orc_pagan
 				religion = orc_pagan_reformed
+				culture_group = greenskin
 			}
 			AND = {
 				custom_tooltip = {
@@ -1721,7 +1722,6 @@ warrior_lodge_orc = {
 					text = special_join_warrior_lodge_trigger_tt
 					special_join_warrior_lodge_trigger = yes
 				}
-				NOT = { trait = zealous }
 			}
 		}
 	}
@@ -1735,8 +1735,11 @@ warrior_lodge_orc = {
 
 	potential = { #if you change religion or become zealous while NOT pagan, you are kicked out
 		OR = {
-			religion = orc_pagan
-			religion = orc_pagan_reformed
+			religion_openly_orc_or_reformed_trigger = yes
+			AND = {
+				religion_openly_orc_or_reformed_trigger = no
+				NOT = { trait = zealous }
+			}
 		}
 	}
 
@@ -2273,16 +2276,16 @@ warrior_lodge_halfling = {
 		OR = {
 			religion = halfling_pagan
 			religion = halfling_pagan_reformed
-			society_member_of = warrior_lodge_baltic
+			society_member_of = warrior_lodge_halfling
 		}
 	}
 
 
 	potential = { #if you change religion or become zealous while NOT pagan, you are kicked out
 		OR = {
-			religion_openly_baltic_or_reformed_trigger = yes
+			religion_openly_halfling_or_reformed_trigger = yes
 			AND = {
-				religion_openly_baltic_or_reformed_trigger = no
+				religion_openly_halfling_or_reformed_trigger = no
 				NOT = { trait = zealous }
 			}
 		}
@@ -2814,6 +2817,7 @@ warrior_lodge_demon = {
 		OR = {
 			religion = demon_pagan
 			religion = demon_pagan_reformed
+			culture = demon
 		}
 	}
 
@@ -2821,13 +2825,18 @@ warrior_lodge_demon = {
 		OR = {
 			religion = demon_pagan
 			religion = demon_pagan_reformed
+			culture = demon
+			society_member_of = warrior_lodge_demon
 		}
 	}
 
 	potential = { #if you change religion or become zealous while NOT pagan, you are kicked out
 		OR = {
-			religion = demon_pagan
-			religion = demon_pagan_reformed
+			religion_openly_demon_or_reformed_trigger = yes
+			AND = {
+				religion_openly_demon_or_reformed_trigger = no
+				NOT = { trait = zealous }
+			}
 		}
 	}
 

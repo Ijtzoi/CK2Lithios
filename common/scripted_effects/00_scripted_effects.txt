@@ -4912,334 +4912,62 @@ remove_all_negative_congenital_traits_effect = {
 	}
 }
 
-
-join_from_devil_worshiper_society_effect = {
-	FROM = {
-		if = {
-			limit = {
-				society_member_of = the_satanists
-			}
-			ROOT = {
-				join_society = the_satanists
-			}
-		}
-		if = {
-			limit = {
-				society_member_of = the_cold_ones
-			}
-			ROOT = {
-				join_society = the_cold_ones
-			}
-		}
-		if = {
-			limit = {
-				society_member_of = the_plaguebringers
-			}
-			ROOT = {
-				join_society = the_plaguebringers
-			}
-		}
-		if = {
-			limit = {
-				society_member_of = the_cult_of_kali
-			}
-			ROOT = {
-				join_society = the_cult_of_kali
-			}
-		}
-		if = {
-			limit = {
-				society_member_of = the_trollcrafters
-			}
-			ROOT = {
-				join_society = the_trollcrafters
-			}
-		}
-		if = {
-			limit = {
-				society_member_of = the_bacchants
-			}
-			ROOT = {
-				join_society = the_bacchants
-			}
-		}
-		if = {
-			limit = {
-				society_member_of = the_vodouns
-			}
-			ROOT = {
-				join_society = the_vodouns
-			}
-		}
-	}
-}
-
-remove_demonic_blessing_effect = {
-	if = { limit = { has_character_modifier = blessing_of_azazel }
-		remove_character_modifier = blessing_of_azazel
-	}
-	if = { limit = { has_character_modifier = blessing_of_avnas }
-		remove_character_modifier = blessing_of_avnas
-	}
-	if = { limit = { has_character_modifier = blessing_of_belial }
-		remove_character_modifier = blessing_of_belial
-	}
-	if = { limit = { has_character_modifier = blessing_of_mammon }
-		remove_character_modifier = blessing_of_mammon
-	}
-	if = { limit = { has_character_modifier = blessing_of_vetis }
-		remove_character_modifier = blessing_of_vetis
-	}
-}
-
-add_prolong_life_effect = {
-	if = {
-		limit = {
-			NOR = {
-				has_character_modifier = stolen_life_minor
-				has_character_modifier = stolen_life_medium
-				has_character_modifier = stolen_life_major
-			}
-		}
-		random_list = {
-			10 = {
-				add_character_modifier = {
-					name = stolen_life_minor
-					days = 3650
-				}			
-			}
-			10 = {
-				add_character_modifier = {
-					name = stolen_life_medium
-					days = 3650
-				}
-			}
-			10 = {
-				add_character_modifier = {
-					name = stolen_life_major
-					days = 3650
-				}
-			}
-		}
-		break = yes
-	}
-	if = {
-		limit = {
-			OR = {
-				has_character_modifier = stolen_life_minor
-				has_character_modifier = stolen_life_medium
-			}
-		}
-		hidden_effect = {
-			remove_character_modifier = stolen_life_minor
-			remove_character_modifier = stolen_life_medium
-		}
-		add_character_modifier = {
-					name = stolen_life_major
-					days = 3650
-		}
-		break = yes
-	}
-	add_character_modifier = {
-		name = stolen_life_major
-		days = 3650
-	}
-}
-
-join_prev_devil_worshiper_society_effect = {
-	if = {
-		limit = { PREV = { society_member_of = the_satanists } }
-		join_society = the_satanists
-	}
-	if = {
-		limit = { PREV = { society_member_of = the_cold_ones } }
-		join_society = the_cold_ones
-	}
-	if = {
-		limit = { PREV = { society_member_of = the_plaguebringers } }
-		join_society = the_plaguebringers
-	}
-	if = {
-		limit = { PREV = { society_member_of = the_cult_of_kali } }
-		join_society = the_cult_of_kali
-	}
-	if = {
-		limit = { PREV = { society_member_of = the_trollcrafters } }
-		join_society = the_trollcrafters
-	}
-	if = {
-		limit = { PREV = { society_member_of = the_bacchants } }
-		join_society = the_bacchants
-	}
-	if = {
-		limit = { PREV = { society_member_of = the_vodouns } }
-		join_society = the_vodouns
-	}
-}
 join_prev_warrior_lodge_society_effect = {
 	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_norse } }
-		join_society = warrior_lodge_norse
+		limit = { PREV = { society_member_of = warrior_lodge_orc } }
+		join_society = warrior_lodge_orc
 	}
 	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_tengri } }
-		join_society = warrior_lodge_tengri
+		limit = { PREV = { society_member_of = warrior_lodge_halfling } }
+		join_society = warrior_lodge_halfling
 	}
 	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_baltic } }
-		join_society = warrior_lodge_baltic
-	}
-	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_finnish } }
-		join_society = warrior_lodge_finnish
-	}
-	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_slavic } }
-		join_society = warrior_lodge_slavic
-	}
-	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_west_african } }
-		join_society = warrior_lodge_west_african
-	}
-	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_zun } }
-		join_society = warrior_lodge_zun
-	}
-	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_bon } }
-		join_society = warrior_lodge_bon
-	}
-	if = {
-		limit = { PREV = { society_member_of = warrior_lodge_hellenic } }
-		join_society = warrior_lodge_hellenic
+		limit = { PREV = { society_member_of = warrior_lodge_demon } }
+		join_society = warrior_lodge_demon
 	}
 }
 give_this_warrior_lodge_religion_effect = { #Mostly for spawned characters.
 	if = {
 		limit = { 
-			society_member_of = warrior_lodge_norse 
-			NOT = { has_global_flag = norse_reformation }
+			society_member_of = warrior_lodge_orc 
+			NOT = { has_global_flag = orc_reformation }
 		}
-		religion = norse_pagan
+		religion = orc_pagan
 	}
 	if = {
 		limit = { 
-			society_member_of = warrior_lodge_norse 
-			has_global_flag = norse_reformation
+			society_member_of = warrior_lodge_orc 
+			has_global_flag = orc_reformation
 		}
-		religion = norse_pagan_reformed
+		religion = orc_pagan_reformed
 	}
 	if = {
 		limit = { 
-			society_member_of = warrior_lodge_tengri 
-			NOT = { has_global_flag = tengri_reformation }
+			society_member_of = warrior_lodge_halfling 
+			NOT = { has_global_flag = halfling_reformation }
 		}
-		religion = tengri_pagan
+		religion = halfling_pagan
 	}
 	if = {
 		limit = { 
-			society_member_of = warrior_lodge_tengri 
-			has_global_flag = tengri_reformation
+			society_member_of = warrior_lodge_halfling 
+			has_global_flag = halfling_reformation
 		}
-		religion = tengri_pagan_reformed
+		religion = halfling_pagan_reformed
 	}
 	if = {
 		limit = { 
-			society_member_of = warrior_lodge_baltic 
-			NOT = { has_global_flag = baltic_reformation }
+			society_member_of = warrior_lodge_demon 
+			NOT = { has_global_flag = demon_reformation }
 		}
-		religion = baltic_pagan
+		religion = demon_pagan
 	}
 	if = {
 		limit = { 
-			society_member_of = warrior_lodge_baltic 
-			has_global_flag = baltic_reformation
+			society_member_of = warrior_lodge_demon 
+			has_global_flag = demon_reformation
 		}
-		religion = baltic_pagan_reformed
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_finnish 
-			NOT = { has_global_flag = finnish_reformation }
-		}
-		religion = finnish_pagan
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_finnish 
-			has_global_flag = finnish_reformation
-		}
-		religion = finnish_pagan_reformed
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_slavic 
-			NOT = { has_global_flag = slavic_reformation }
-		}
-		religion = slavic_pagan
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_slavic 
-			has_global_flag = slavic_reformation
-		}
-		religion = slavic_pagan_reformed
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_west_african 
-			NOT = { has_global_flag = west_african_reformation }
-		}
-		religion = west_african_pagan
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_west_african 
-			has_global_flag = west_african_reformation
-		}
-		religion = west_african_pagan_reformed
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_zun 
-			NOT = { has_global_flag = zun_reformation }
-		}
-		religion = zun_pagan
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_zun 
-			has_global_flag = zun_reformation
-		}
-		religion = zun_pagan_reformed
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_bon 
-			NOT = { has_global_flag = bon_reformation }
-		}
-		religion = bon
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_bon 
-			has_global_flag = bon_reformation
-		}
-		religion = bon_reformed
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_hellenic 
-			NOT = { has_global_flag = hellenic_reformation }
-		}
-		religion = hellenic_pagan
-	}
-	if = {
-		limit = { 
-			society_member_of = warrior_lodge_hellenic 
-			has_global_flag = hellenic_reformation
-		}
-		religion = hellenic_pagan_reformed
+		religion = demon_pagan_reformed
 	}
 }
 
@@ -15892,13 +15620,6 @@ spawn_good_commander_effect = {
 		hidden_tooltip = {
 			if = {
 				limit = {
-					has_dharmic_religion_trigger = yes
-				}
-				add_trait = kshatriya
-				character_event = { id = RoI.30121 }
-			}
-			if = {
-				limit = {
 					OR = {
 						religion = hellenic_pagan
 						religion = hellenic_pagan_reformed
@@ -16388,13 +16109,6 @@ spawn_fantastic_commander_effect = {
 		hidden_tooltip = {
 			if = {
 				limit = {
-					has_dharmic_religion_trigger = yes
-				}
-				add_trait = kshatriya
-				character_event = { id = RoI.30121 }
-			}
-			if = {
-				limit = {
 					has_religion_feature = religion_no_leader
 					religion_group = pagan_group
 				}
@@ -16510,13 +16224,6 @@ spawn_fantastic_diplomat_effect = {
 		hidden_tooltip = {
 			if = {
 				limit = {
-					has_dharmic_religion_trigger = yes
-				}
-				add_trait = kshatriya
-				character_event = { id = RoI.30121 }
-			}
-			if = {
-				limit = {
 					has_religion_feature = religion_no_leader
 					religion_group = pagan_group
 				}
@@ -16622,13 +16329,6 @@ spawn_fantastic_scholar_effect = {
 		}
 		
 		hidden_tooltip = {
-			if = {
-				limit = {
-					has_dharmic_religion_trigger = yes
-				}
-				add_trait = brahmin
-				character_event = { id = RoI.30121 }
-			}
 			if = {
 				limit = {
 					has_religion_feature = religion_no_leader
@@ -16795,13 +16495,6 @@ spawn_elder_effect = {
 		}
 		
 		hidden_tooltip = {
-			if = {
-				limit = {
-					has_dharmic_religion_trigger = yes
-				}
-				add_trait = brahmin
-				character_event = { id = RoI.30121 }
-			}
 			if = {
 				limit = {
 					has_religion_feature = religion_no_leader
@@ -25328,13 +25021,6 @@ spawn_debutante_effect = {
 	}
 	new_character = {	
 		hidden_tooltip = {
-			if = {
-				limit = {
-					has_dharmic_religion_trigger = yes
-				}
-				add_trait = kshatriya
-				character_event = { id = RoI.30121 }
-			}
 			if = {
 				limit = {
 					OR = {
