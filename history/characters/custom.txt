@@ -29,9 +29,12 @@ learning=1
 
 12003={
 name="Jehilde"
+female=yes
 dynasty=8436
 culture=imperial
 religion=seven
+father=12000
+mother=12001
 980.1.1={birth=yes}
 999.8.9={add_spouse=8066}
 1037.5.13={death=yes}
