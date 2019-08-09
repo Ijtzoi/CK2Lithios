@@ -1134,6 +1134,7 @@ intrigue=0
 learning=3
 trait="elusive_shadow"
 982.1.1={birth=yes}
+999.8.9={add_spouse=8066}
 1050.8.17={death=yes}
 }
 
@@ -7391,6 +7392,8 @@ intrigue=6
 learning=2
 trait="thrifty_clerk"
 trait="duelist"
+father=12000
+mother=12001
 973.1.1={birth=yes}
 1038.9.21={death=yes}
 }
